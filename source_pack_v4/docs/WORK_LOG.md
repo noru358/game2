@@ -511,3 +511,12 @@
 - 정정: `1. 숲수로`는 북방 도성 대신 숲 수로를 현재 우선 방향으로 선택한 것으로만 기록한다. 맵의 정확한 배치·카메라·미술은 최종 확정되지 않았다.
 - 제시한 캐릭터 미술: `hero_reskin_v1/direction_loop_00.png` 승인 정지8방향, `direction_loop_04.png` 최신 리스킨 걷기8방향 실제 재생 화면, `integrated_live_combat.png` 게임 크기 전투 통합 화면. 최신 이동 후보는 여전히 `RESKIN_CANDIDATE_NOT_USER_ACCEPTED`, `art_acceptance=false`다.
 - 실제 변경: 잘못 강하게 적은 맵 확정 표현을 현재 우선 선택으로 정정하고 이 기록을 추가. 게임 코드·이미지·장면·기본 boot·저장은 변경하지 않음.
+
+## 2026-09-25 — GitHub game2 현재 작업본 이관
+- 사용자 요청: 현재까지의 게임 작업을 Git 게임 저장소에 푸시해 다른 기기에서 동일하게 이어갈 수 있도록 구성.
+- 원격: `https://github.com/noru358/game2`, 공개 저장소, 기본 브랜치 `main`. 기존 원격은 `.gitkeep` 초기화 커밋만 있었고 로컬 저장소에는 원격이 연결되지 않은 상태였다.
+- 실제 변경: `origin`을 연결하고 원격 초기 커밋 위에 로컬 `main`을 생성. `.gitattributes`로 Godot/문서/Windows 런처의 줄바꿈과 바이너리 파일 취급을 명시. `.gitignore`에 Godot/Python 생성 캐시와 `deliveries/*.zip`을 추가. README에 clone·Godot 4.7.2·프로젝트 경로·문서·런처 사용법을 추가하고 물가 입구 런처도 Godot 실행 파일 드래그 방식으로 휴대 가능하게 수정.
+- 포함 범위: 코드, 장면, 원본/현행 이미지, 캐릭터 리스킨, 맵 시안, 검수 결과, 문서와 테스트를 포함해 첫 작업본 커밋 `bb6e45fcfc9201c1c485c6b2f530fa9067cb80a9` (`Import current game v2 project state`)으로 푸시. 945개 파일, 약482.73MiB의 작업 파일. 원격 트리 998항목, GitHub API `truncated=false` 확인.
+- 제외 범위: V5/V6/V7/V9 ZIP은 추적된 소스의 중복이며 V9가 GitHub 단일파일100MB 제한을 초과하므로 모두 제외. 각 verification JSON은 포함. `.godot/`, `__pycache__/`는 다른 기기에서 재생성되므로 제외. Godot 실행 파일과 실제 사용자 저장도 저장소에 포함하지 않음.
+- 검증: 공개 푸시 전 비밀값/키 패턴과 의심 파일명 검색 결과0. staged 최대 단일파일은 44.24MiB. Godot 4.7.2 headless editor 초기 스캔·스크립트 클래스 등록·신규 리스킨4시트 재임포트 exit0. 원격 `main`의 README, `project.godot`, 최신 `walk_contact.png`, 최신 WORK_LOG를 GitHub API로 직접 확인. `audit_pack.py`는 현재 Python 환경에 Pillow가 없어 실행하지 못했으며 게임/Godot 실패가 아니다.
+- 다른 기기 재개: `git clone https://github.com/noru358/game2.git`, Godot4.7.2 설치, `source_pack_v4/experiments/terrace/project.godot` 열기. 먼저 루트 README와 `source_pack_v4/docs/GAME_PROJECT_SOURCE.md`, 이 WORK_LOG 최신 항목을 읽는다.
