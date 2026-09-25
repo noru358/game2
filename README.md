@@ -33,5 +33,15 @@ cd game2
 3. 현재 상태는 `source_pack_v4/docs/GAME_PROJECT_SOURCE.md`, 누적 변경은 `source_pack_v4/docs/WORK_LOG.md`를 먼저 읽는다.
 4. Windows 검수 런처는 Godot 실행 파일을 `.cmd` 위로 드래그해 실행할 수 있다. 이 PC와 같은 형제 폴더 구조에 엔진이 있으면 기본 경로도 동작한다.
 
-`deliveries/*.zip`은 추적된 소스의 중복 스냅샷이고 GitHub 단일 파일 제한을 넘을 수 있어 Git에서는 제외한다. 각 ZIP의 검증 JSON은 기록으로 남긴다. Godot의 `.godot/` 폴더와 Python 캐시는 다른 기기에서 자동 재생성된다.
+### macOS 검수 장면 실행
 
+Godot 4.7.2 앱을 `/Applications`, `~/Applications`, `~/Downloads` 중 한 곳에 두거나 `godot`/`godot4`를 PATH에 추가한다. 저장소 루트의 `PLAY_HERO_DIRECTIONS.command`, `PLAY_HERO_PREVIEW.command`, `PLAY_FOREST_PILGRIMAGE_ART_SLICE.command`, `PLAY_FOREST_PILGRIMAGE_GRAYBOX.command`, `PLAY_WATER_ENTRY_DIRECTION.command`를 Finder에서 더블클릭하면 해당 검수 장면이 열린다. 처음 실행 시 macOS가 확인을 요구하면 파일을 오른쪽 클릭해 **열기**를 선택한다.
+
+터미널에서도 실행할 수 있다. 자동 탐지되지 않으면 첫 인자로 Godot 실행 파일이나 `.app` 경로를 준다.
+
+```sh
+./PLAY_HERO_DIRECTIONS.command
+./PLAY_HERO_DIRECTIONS.command "/Applications/Godot.app"
+```
+
+`deliveries/*.zip`은 추적된 소스의 중복 스냅샷이고 GitHub 단일 파일 제한을 넘을 수 있어 Git에서는 제외한다. 각 ZIP의 검증 JSON은 기록으로 남긴다. Godot의 `.godot/` 폴더와 Python 캐시는 다른 기기에서 자동 재생성된다.
