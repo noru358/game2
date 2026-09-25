@@ -1,0 +1,4 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+OpenGL API 3.3.0 NVIDIA 560.94 - Compatibility - Using Device: NVIDIA - NVIDIA GeForce RTX 4060 Ti
+
+{"current_game_step_world":1.7,"current_game_walk_cycle_seconds":0.453333333333333,"implemented_direction_probes":[0],"kind":"rendering cutout prototype, not accepted character motion","loop_position_seam":0.0,"max_stance_drift_source_pixels":0.000000762939464493684,"phase_pair_errors":[],"production_integrated":false,"quick_step":{"airborne_fraction":0.76,"human_accepted":false,"max_drift_source_pixels":0.00000154283311104564,"stance_distance_source_pixels":84.6826666666667,"support_fraction":0.12},"required_stride_source_pixels":352.844444444444,"target_directions":8}

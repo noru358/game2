@@ -1,0 +1,271 @@
+{
+  "checks": 24,
+  "failures": 0,
+  "scope": "release centre pixels only; pair with GPU anatomical review",
+  "rows": [
+    {
+      "direction": 1,
+      "step": 1,
+      "rgba": [
+        61,
+        61,
+        60,
+        255
+      ],
+      "opaque_glove_pixel": true
+    },
+    {
+      "direction": 1,
+      "step": 2,
+      "rgba": [
+        51,
+        50,
+        50,
+        255
+      ],
+      "opaque_glove_pixel": true
+    },
+    {
+      "direction": 1,
+      "step": 3,
+      "rgba": [
+        62,
+        60,
+        58,
+        255
+      ],
+      "opaque_glove_pixel": true
+    },
+    {
+      "direction": 0,
+      "step": 1,
+      "rgba": [
+        55,
+        53,
+        53,
+        255
+      ],
+      "opaque_glove_pixel": true
+    },
+    {
+      "direction": 0,
+      "step": 2,
+      "rgba": [
+        57,
+        55,
+        54,
+        255
+      ],
+      "opaque_glove_pixel": true
+    },
+    {
+      "direction": 0,
+      "step": 3,
+      "rgba": [
+        58,
+        57,
+        56,
+        255
+      ],
+      "opaque_glove_pixel": true
+    },
+    {
+      "direction": 2,
+      "step": 1,
+      "rgba": [
+        60,
+        59,
+        58,
+        255
+      ],
+      "opaque_glove_pixel": true
+    },
+    {
+      "direction": 2,
+      "step": 2,
+      "rgba": [
+        53,
+        53,
+        53,
+        255
+      ],
+      "opaque_glove_pixel": true
+    },
+    {
+      "direction": 2,
+      "step": 3,
+      "rgba": [
+        63,
+        62,
+        62,
+        255
+      ],
+      "opaque_glove_pixel": true
+    },
+    {
+      "direction": 4,
+      "step": 1,
+      "rgba": [
+        47,
+        46,
+        47,
+        255
+      ],
+      "opaque_glove_pixel": true
+    },
+    {
+      "direction": 4,
+      "step": 2,
+      "rgba": [
+        58,
+        55,
+        55,
+        255
+      ],
+      "opaque_glove_pixel": true
+    },
+    {
+      "direction": 4,
+      "step": 3,
+      "rgba": [
+        33,
+        33,
+        34,
+        255
+      ],
+      "opaque_glove_pixel": true
+    },
+    {
+      "direction": 5,
+      "step": 1,
+      "rgba": [
+        52,
+        49,
+        49,
+        255
+      ],
+      "opaque_glove_pixel": true
+    },
+    {
+      "direction": 5,
+      "step": 2,
+      "rgba": [
+        53,
+        53,
+        51,
+        255
+      ],
+      "opaque_glove_pixel": true
+    },
+    {
+      "direction": 5,
+      "step": 3,
+      "rgba": [
+        51,
+        53,
+        53,
+        255
+      ],
+      "opaque_glove_pixel": true
+    },
+    {
+      "direction": 6,
+      "step": 1,
+      "rgba": [
+        40,
+        40,
+        40,
+        255
+      ],
+      "opaque_glove_pixel": true
+    },
+    {
+      "direction": 6,
+      "step": 2,
+      "rgba": [
+        32,
+        32,
+        34,
+        255
+      ],
+      "opaque_glove_pixel": true
+    },
+    {
+      "direction": 6,
+      "step": 3,
+      "rgba": [
+        45,
+        45,
+        43,
+        255
+      ],
+      "opaque_glove_pixel": true
+    },
+    {
+      "direction": 7,
+      "step": 1,
+      "rgba": [
+        54,
+        53,
+        51,
+        255
+      ],
+      "opaque_glove_pixel": true
+    },
+    {
+      "direction": 7,
+      "step": 2,
+      "rgba": [
+        26,
+        30,
+        32,
+        255
+      ],
+      "opaque_glove_pixel": true
+    },
+    {
+      "direction": 7,
+      "step": 3,
+      "rgba": [
+        40,
+        40,
+        40,
+        255
+      ],
+      "opaque_glove_pixel": true
+    },
+    {
+      "direction": 3,
+      "step": 1,
+      "rgba": [
+        61,
+        61,
+        60,
+        255
+      ],
+      "opaque_glove_pixel": true
+    },
+    {
+      "direction": 3,
+      "step": 2,
+      "rgba": [
+        51,
+        50,
+        50,
+        255
+      ],
+      "opaque_glove_pixel": true
+    },
+    {
+      "direction": 3,
+      "step": 3,
+      "rgba": [
+        62,
+        60,
+        58,
+        255
+      ],
+      "opaque_glove_pixel": true
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "files": [
+    {
+      "file": "forest_props_v1.png",
+      "sha256": "057e41fb5d835d9d76adef385a75f438149ce2c503e22ffbe609c9a3d084aefc",
+      "bytes": 2380565
+    },
+    {
+      "file": "surface_materials_v1.png",
+      "sha256": "579cfefa3ba95d646214a89e9ce93d00e91c4d3b278352ad6cc6a7125a0975f0",
+      "bytes": 2566217
+    },
+    {
+      "file": "water_surface_v1.png",
+      "sha256": "e473c9ea9e8ab6a8a3a0451d6f60f06f079bb64b5e293dd2b63801f440b80690",
+      "bytes": 1871484
+    }
+  ],
+  "generator": "built-in image_gen",
+  "date": "2026-09-24",
+  "source_pixels_modified": false,
+  "reference": "docs/design_refs/environment_composition_reference.png (environment only; hero/enemies excluded)"
+}

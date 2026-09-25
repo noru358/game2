@@ -1,0 +1,55 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+PASS starts frozen with eight actual enemies
+PASS key 1 selects zero degrees
+PASS key 3 selects 45 degrees
+PASS key 2 selects 20 degrees
+PASS key F resumes actors
+PASS key T enters exploration
+PASS key N rebuilds 24 enemy encounter
+PASS N and R return to identical eight enemy reset
+PASS grounded 0
+PASS screen-right input 0
+PASS world facing 0
+PASS actual dash 0
+PASS release 0
+PASS identical enemy starting positions 0
+PASS real manual combo 0
+PASS actual auto damage 0
+PASS live AI warning 0
+PASS manual damage follows camera-relative facing 0
+PASS frozen view switch preserves combat 0
+PASS grounded 20
+PASS screen-right input 20
+PASS world facing 20
+PASS actual dash 20
+PASS release 20
+PASS identical enemy starting positions 20
+PASS real manual combo 20
+PASS actual auto damage 20
+PASS live AI warning 20
+PASS manual damage follows camera-relative facing 20
+PASS frozen view switch preserves combat 20
+PASS grounded 45
+PASS screen-right input 45
+PASS world facing 45
+PASS actual dash 45
+PASS release 45
+PASS identical enemy starting positions 45
+PASS real manual combo 45
+PASS actual auto damage 45
+PASS live AI warning 45
+PASS manual damage follows camera-relative facing 45
+PASS frozen view switch preserves combat 45
+PASS physical route (132.0, 0.0) at (131.5835, -0.024064, 0.0)
+PASS physical route (132.0, -11.0) at (131.9816, 3.04001, -10.50983)
+PASS physical route (123.0, -13.0) at (123.4751, 3.175843, -12.86799)
+PASS actual upper shelf ascent
+PASS physical route (132.0, -11.0) at (131.6152, 3.175842, -11.0843)
+PASS physical route (132.0, 0.0) at (131.9856, -0.024153, -0.415019)
+PASS physical route (122.0, 0.0) at (122.4939, -0.024157, -0.020531)
+PASS actual return to clearing
+PASS 24 enemy mode
+PASS 24 enemy live combat
+PASS Landscape mode restored on exit
+RESULT 52 PASS / 0 FAIL

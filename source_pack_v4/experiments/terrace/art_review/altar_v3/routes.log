@@ -1,0 +1,51 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+OpenGL API 3.3.0 NVIDIA 560.94 - Compatibility - Using Device: NVIDIA - NVIDIA GeForce RTX 4060 Ti
+
+PASS entry grounded
+PASS existing Player speed contract
+PASS capture 01_entry
+PASS capture 02_overview
+PASS physical route (-16.0, 6.0) at (-16.17987, 0.835283, 6.384858)
+PASS capture 03_water_bank
+PASS physical route (-20.0, -3.0) at (-19.85397, 0.969928, -2.64055)
+PASS optional discovery retained
+PASS physical route (-15.0, -5.0) at (-15.26721, 1.378625, -4.868381)
+PASS physical route (-10.0, -12.0) at (-10.26002, 3.004244, -11.64526)
+PASS capture 04_upper_bank
+PASS physical route (0.0, -15.0) at (-0.371359, 3.413625, -14.82503)
+PASS physical route (10.0, -13.0) at (9.708314, 3.078027, -13.15951)
+PASS physical route (21.0, -11.0) at (20.58537, 2.898464, -11.16579)
+PASS capture 05_forest_gate
+PASS exit reaches destination map
+PASS no automatic bounce
+PASS destination arrival grounded
+PASS capture 06_roots_arrival
+PASS physical route (-6.0, 9.0) at (-6.427772, 0.975936, 8.999993)
+PASS physical route (0.0, 8.0) at (-0.273632, 0.975838, 8.164317)
+PASS capture 06b_altar_lower
+PASS capture 06c_altar_overview
+PASS physical route (-6.0, 9.0) at (-5.636973, 0.975841, 8.835027)
+PASS physical route (0.0, 6.0) at (-0.346204, 0.975838, 6.174116)
+PASS physical route (0.0, 1.0) at (-0.176087, 3.270182, 1.361291)
+PASS physical route (0.0, -4.0) at (-0.176076, 5.175843, -3.671625)
+PASS physical route (0.0, -8.5) at (-0.176045, 5.175866, -8.122112)
+PASS walked onto second-floor altar
+PASS second map discovery
+PASS capture 07_roots_shelf
+PASS physical route (0.0, -4.0) at (-0.176034, 5.175845, -4.293753)
+PASS physical route (0.0, 1.0) at (-0.176039, 3.546574, 0.647588)
+PASS physical route (0.0, 6.0) at (-0.176039, 1.235608, 5.621617)
+PASS physical route (-6.0, 9.0) at (-5.68867, 0.975907, 8.819515)
+PASS physical route (-12.0, 9.0) at (-11.7236, 0.975838, 8.823128)
+PASS walked back to first-floor courtyard
+PASS retaining wall blocks direct ascent
+PASS physical round trip
+PASS discovery survives map return
+PASS isolated snapshot restores
+PASS both map states restored
+PASS existing dash active
+PASS release stops after dash
+PASS triangle grounding error 0.1298
+PASS water boundary blocks entry
+PASS own temporary profile removed
+RESULT 47 PASS / 0 FAIL

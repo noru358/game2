@@ -1,0 +1,35 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+OpenGL API 3.3.0 NVIDIA 560.94 - Compatibility - Using Device: NVIDIA - NVIDIA GeForce RTX 4060 Ti
+
+PASS actual displacement drives phase
+PASS blocked/stopped actor settles; phase does not march
+PASS teleport excluded
+PASS dash suppresses stepping
+PASS M disables motion
+PASS M enables motion
+PASS F enables mip filter
+PASS F restores sharp filter
+PASS direction 0 opposite gait phases visibly differ
+PASS direction 1 opposite gait phases visibly differ
+PASS direction 2 opposite gait phases visibly differ
+PASS direction 3 opposite gait phases visibly differ
+PASS direction 4 opposite gait phases visibly differ
+PASS direction 5 opposite gait phases visibly differ
+PASS direction 6 opposite gait phases visibly differ
+PASS direction 7 opposite gait phases visibly differ
+PASS 8 directions x 4 phase contact sheet
+PASS same-camera old / new mip / new linear
+PASS Z close inspection
+PASS Z restores gameplay framing
+PASS two seconds continuous motion advances
+PASS continuous motion returns to exact idle
+PASS explicit idle state
+PASS walk at 7.5
+PASS walk stride distance 1.7
+PASS run at 10 with blended transition
+PASS run stride distance 1.9
+PASS threshold hysteresis avoids flicker
+PASS deceleration returns to walk
+PASS stop clears run and gait
+PASS idle / walk / run render different poses
+PASS three state GPU comparison

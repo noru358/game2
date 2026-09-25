@@ -1,0 +1,21 @@
+Use case: stylized-concept
+Asset type: revised game environment direction keyframe for a solo-developed 2.5D action RPG
+Input images: Image 1 is the first composition draft and must be revised. Keep only its useful idea: one screen-vertical stone approach coexisting with diagonal diamond-axis branches. Image 2 controls the preferred lower, tighter playable camera, achievable asset density, palette, and simplified modular materials.
+
+Primary request: revise the concept into a believable asymmetric playable portion of a forest water-entry ruin. This is a camera-and-layout correction, not a richer illustration.
+
+Composition/framing: landscape 16:9, fixed orthographic three-quarter camera. Lower and closer than Image 1, close to Image 2: the player should feel inside the zone, while still seeing one useful destination ahead. Crop out much of the total complex. Do not show a complete symmetrical courtyard. A broad screen-vertical stone route enters from the lower edge slightly right of center and continues visually upward through the playable space toward a volumetric ancient gate in the upper-middle distance. The gate is not flat or perfectly frontal: rotate or offset it slightly so its top, opening depth, and one side plane remain visible.
+
+Eight-direction test: keep the screen-vertical main approach unmistakable. From it, one 45-degree diagonal branch goes left across one short square masonry bridge over a narrow water channel and then exits the frame toward a neighboring area. A different diagonal branch goes right and climbs one diagonal stair/ramp onto a rectangular raised terrace. The three route headings must be easy to trace: vertical main axis, upper-left/lower-right diamond axis, upper-right/lower-left diamond axis. Use square terrain modules and selective 45-degree rotations only; no hex grid.
+
+Spatial layout: clearly rectangular terraces at two or three heights, one narrow turquoise canal crossing between them, true vertical retaining walls, visible stair destinations, broad calm walkable/combat floor. The zone must continue beyond the frame and must not read as an isolated diorama.
+
+Landmark: exactly one main landmark, the ancient rooted gate. One large sacred tree root partly embraces it. Keep most of the future sanctuary off-screen or obscured beyond the gate.
+
+Style/medium: polished but production-realistic stylized game environment concept art. Warm pale sandstone, restrained moss, teal water, grouped tropical foliage. Clean readable silhouettes and slightly simplified proportions compatible with a cute stylized 2.5D player character. Reproducible with modular 3D meshes and simple painterly materials by one developer.
+
+Density/readability: significantly reduce decoration from Image 1. Remove most repeated pillar posts and all but at most one small water drop. Keep central floor open. Concentrate foliage along outer boundaries, wall bases, and height transitions. Use irregular detail distribution so left and right sides are not mirrors.
+
+Lighting/mood: bright filtered forest daylight, sacred and mysterious, soft shadows that explain height.
+
+Constraints: map/background only; no character, no enemies, no HUD, no minimap, no text, no arrows, no labels, no watermark. No circular platform, no rounded land mass, no hexagons, no honeycomb, no winding organic terrain silhouette. No high aerial overview. No perfect bilateral symmetry. No decorative bridge or stairs leading nowhere. No flat painted facade or fake building card. Do not make the image denser or more ornate than Image 2.

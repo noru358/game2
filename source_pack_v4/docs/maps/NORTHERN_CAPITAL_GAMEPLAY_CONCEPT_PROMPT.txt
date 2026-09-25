@@ -1,0 +1,30 @@
+Use case: stylized-concept
+Asset type: a polished actual gameplay-screen mockup for a fixed-camera isometric action RPG, landscape 16:9, appearing like a captured in-engine play scene rather than a cinematic painting.
+
+REFERENCE ROLES:
+- Reference image 1 is the authoritative player-character identity. Preserve the small cream desert-fox hero's enormous upright ears, fluffy tail, white/teal/gold scholar-warrior outfit, dark gloves and boots, and tiny blue-gold forehead ornament. Show the hero from an appropriate rear three-quarter gameplay view.
+- Reference image 2 is ONLY a guide for orthographic three-quarter camera angle, hero-to-screen scale, environmental readability, soft stylized 3D rendering, and composition density. Do not reuse its tropical ruins, vegetation, architecture, water color, or layout.
+
+SCENE:
+Create one playable screen inside the southern gate and first ward entrance of an original fantasy northern Chinese imperial capital inspired broadly by Sui–Tang Chang'an and Luoyang, not a literal historical reconstruction and not a copy of any existing game map.
+
+The lower third is a broad packed-earth and worn gray-stone checkpoint courtyard with calm negative space for movement and combat. Place the fox hero small, around 7–9% of image height, slightly below center, facing inward toward the city. In the middle, a narrow blue-gray working canal crosses laterally through the ward, with a low arched gray-stone bridge that clearly continues the main traversal path. Show subtle roadside drainage channels.
+
+The upper half has thick pale rammed-earth/gray-brick ward walls and a single true-depth ward gate, topped by a dark timber gate tower. Architecture uses dark wood beams, restrained vermilion structural columns, blue-gray and muted dark-green tiled roofs, modest white plaster infill, stone bases. Beyond the gate, reveal layered ward rooftops and only one distant, hazy imperial-roof silhouette to imply the inner city—not a panorama.
+
+At the left and right edges, frame the arena with modest storehouses, covered market stalls, stacked grain jars/crates, stone lantern-like waymarkers without glowing lantern-festival decoration, and sparse northern vegetation: scholar trees, willows near water, a few pines, dry grasses. Keep dense detail at the borders and a clean playable floor.
+
+To make it unmistakably gameplay, include exactly two small original enemies—weathered clay-and-bronze guardian spirits with simple polearms—spaced apart near the upper courtyard. One enemy projects a single subtle, readable rust-red circular ground attack telegraph. Add two tiny teal fox-fire wisps close to the hero as restrained ability companions. No combat explosion.
+
+COMPOSITION AND GAMEPLAY READABILITY:
+Fixed orthographic/isometric 3/4 view, approximately 35–45 degree downward angle. A connected one-to-one-and-a-half-screen encounter space. Clear route from foreground courtyard over the bridge through the ward gate. Strong but natural silhouettes for walkable boundaries, bridge edges, walls, stairs and water. Avoid clutter on the central combat floor. The hero, two enemies, bridge and gate must remain immediately legible at thumbnail size.
+
+LIGHTING AND SURFACE:
+Dry late-afternoon northern light, warm loess dust against cool blue-gray tiles and canal, long soft roof shadows, restrained atmospheric haze, consistent contact shadows. Handcrafted stylized 3D with clean forms and painted materials; detailed enough for a modern action RPG but not photorealistic and not low-poly for its own sake. Color accents: teal and gold on the hero and faint magic; muted vermilion only on key columns and gate trim.
+
+Do not include text, logos, dialogue boxes, HUD, debug overlays, labels, borders, or watermarks. Do not create a floating diorama island.
+Avoid tropical jungle, turquoise lagoon, vines covering everything, bamboo-forest cliché, red-lantern night market, festival decoration, Ming/Qing Forbidden City stereotypes, yellow glazed-roof overload, excessive red and gold, identical repeating square courtyards, giant palace filling the screen, pixel art, chibi mobile UI, RPG Maker look, old Korean MMO look, cinematic close-up, shallow depth-of-field blur, or copied recognizable assets from TUNIC or Silent Hope.
+
+Generation method: built-in ImageGen, one generation.
+Reference 1: docs/design_refs/hero_turnaround_approved.png — authoritative hero identity.
+Reference 2: experiments/terrace/art_review/water_entry_direction/10_tunic_silent_hope_style_concept.png — camera, scale, readability, and render treatment only.

@@ -1,0 +1,50 @@
+{
+  "acceptance": false,
+  "events": [
+    {
+      "direction": "(0.707107, 0.0, 0.707107)",
+      "hands": 1,
+      "pose": 1.0,
+      "step": 1
+    },
+    {
+      "direction": "(0.707107, 0.0, 0.707107)",
+      "hands": 1,
+      "pose": 1.0,
+      "step": 2
+    },
+    {
+      "direction": "(0.707107, 0.0, 0.707107)",
+      "hands": 1,
+      "pose": 1.0,
+      "step": 3
+    },
+    {
+      "direction": "(0.707107, 0.0, 0.707107)",
+      "hands": 1,
+      "pose": 1.0,
+      "step": 1
+    },
+    {
+      "direction": "(0.707107, 0.0, 0.707107)",
+      "hands": 1,
+      "pose": 1.0,
+      "step": 2
+    },
+    {
+      "direction": "(0.707107, 0.0, 0.707107)",
+      "hands": 1,
+      "pose": 1.0,
+      "step": 3
+    },
+    {
+      "direction": "(0.707107, 0.0, 0.707107)",
+      "hands": 1,
+      "pose": 1.0,
+      "step": 1
+    }
+  ],
+  "failures": 0,
+  "pose_changes": 30,
+  "scope": "right-only candidate, no enemies, real existing combo timing"
+}

@@ -1,0 +1,9 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+PASS run speed is reached within 0.75 seconds
+PASS release stops normal movement in one physics step
+PASS opposing input cannot charge run speed while stationary
+PASS full-speed reversal responds in one physics step
+PASS first tap starts a strike
+PASS early recovery tap queues exactly one combo strike
+RESULT failures=0

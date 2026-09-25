@@ -1,0 +1,68 @@
+[
+  {
+    "name": "flower_bush",
+    "region": [
+      22,
+      141,
+      478,
+      300
+    ],
+    "foot": 291,
+    "note": "alpha bounds only; source pixels unchanged"
+  },
+  {
+    "name": "fern",
+    "region": [
+      528,
+      150,
+      492,
+      310
+    ],
+    "foot": 301,
+    "note": "alpha bounds only; source pixels unchanged"
+  },
+  {
+    "name": "tall_bush",
+    "region": [
+      1044,
+      35,
+      478,
+      430
+    ],
+    "foot": 421,
+    "note": "alpha bounds only; source pixels unchanged"
+  },
+  {
+    "name": "pillar",
+    "region": [
+      40,
+      491,
+      429,
+      500
+    ],
+    "foot": 491,
+    "note": "alpha bounds only; source pixels unchanged"
+  },
+  {
+    "name": "moss_rocks",
+    "region": [
+      518,
+      667,
+      505,
+      297
+    ],
+    "foot": 288,
+    "note": "alpha bounds only; source pixels unchanged"
+  },
+  {
+    "name": "tree",
+    "region": [
+      1024,
+      480,
+      493,
+      497
+    ],
+    "foot": 488,
+    "note": "alpha bounds only; source pixels unchanged"
+  }
+]

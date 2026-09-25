@@ -1,0 +1,55 @@
+{
+  "target_directions": 8,
+  "phases_per_direction": 4,
+  "production_accepted": false,
+  "directions": [
+    {
+      "index": 0,
+      "name": "RIGHT",
+      "status": "motion_candidate",
+      "frames": 4
+    },
+    {
+      "index": 1,
+      "name": "FRONT-RIGHT",
+      "status": "not_produced",
+      "frames": 0
+    },
+    {
+      "index": 2,
+      "name": "FRONT",
+      "status": "motion_candidate",
+      "frames": 4
+    },
+    {
+      "index": 3,
+      "name": "FRONT-LEFT",
+      "status": "not_produced",
+      "frames": 0
+    },
+    {
+      "index": 4,
+      "name": "LEFT",
+      "status": "motion_candidate",
+      "frames": 4
+    },
+    {
+      "index": 5,
+      "name": "BACK-LEFT",
+      "status": "not_produced",
+      "frames": 0
+    },
+    {
+      "index": 6,
+      "name": "BACK",
+      "status": "motion_candidate",
+      "frames": 4
+    },
+    {
+      "index": 7,
+      "name": "BACK-RIGHT",
+      "status": "not_produced",
+      "frames": 0
+    }
+  ]
+}

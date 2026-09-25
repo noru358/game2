@@ -1,0 +1,1528 @@
+[
+  {
+    "file": "game/ambience.gd",
+    "lines": 41,
+    "base": [
+      "Node"
+    ],
+    "functions": [
+      "_ready",
+      "mix_at",
+      "stop",
+      "update_mix",
+      "_process"
+    ],
+    "refs": [
+      "game/landscape.gd",
+      "assets/audio/ambience_forest.wav",
+      "assets/audio/ambience_water.wav",
+      "assets/audio/ambience_reservoir.wav"
+    ]
+  },
+  {
+    "file": "game/astral_energy.gdshader",
+    "lines": 43,
+    "base": [],
+    "functions": [],
+    "refs": []
+  },
+  {
+    "file": "game/boot.gd",
+    "lines": 15,
+    "base": [
+      "Node"
+    ],
+    "functions": [
+      "_ready"
+    ],
+    "refs": [
+      "lab/journey.tscn"
+    ]
+  },
+  {
+    "file": "game/boot.tscn",
+    "lines": 4,
+    "base": [],
+    "functions": [],
+    "refs": [
+      "game/boot.gd"
+    ]
+  },
+  {
+    "file": "game/combat.gd",
+    "lines": 101,
+    "base": [
+      "RefCounted"
+    ],
+    "functions": [
+      "_init",
+      "update",
+      "strike",
+      "reset_transient"
+    ],
+    "refs": []
+  },
+  {
+    "file": "game/combat_effect.gd",
+    "lines": 260,
+    "base": [
+      "Node3D"
+    ],
+    "functions": [
+      "swing_axis",
+      "_init",
+      "advance",
+      "vertex",
+      "ribbon",
+      "glow",
+      "shade",
+      "redraw",
+      "spawn"
+    ],
+    "refs": [
+      "game/astral_energy.gdshader",
+      "game/astral_energy.gdshader",
+      "game/combat_effect.gd"
+    ]
+  },
+  {
+    "file": "game/contact.gdshader",
+    "lines": 8,
+    "base": [],
+    "functions": [],
+    "refs": []
+  },
+  {
+    "file": "game/demo_menu.gd",
+    "lines": 180,
+    "base": [
+      "Control"
+    ],
+    "functions": [
+      "slot",
+      "_ready",
+      "copy",
+      "action",
+      "show_page",
+      "apply_settings",
+      "persist",
+      "settings_error",
+      "start",
+      "back",
+      "close_overlay",
+      "to_title",
+      "_unhandled_key_input",
+      "overlay",
+      "_notification"
+    ],
+    "refs": [
+      "game/save_store.gd",
+      "assets/fonts/NanumGothic-Regular.ttf",
+      "game/world.tscn",
+      "game/demo_menu.gd"
+    ]
+  },
+  {
+    "file": "game/demo_menu.tscn",
+    "lines": 4,
+    "base": [],
+    "functions": [],
+    "refs": [
+      "game/demo_menu.gd"
+    ]
+  },
+  {
+    "file": "game/effect_surface.gd",
+    "lines": 19,
+    "base": [
+      "RefCounted"
+    ],
+    "functions": [
+      "slope",
+      "point",
+      "sample_plane",
+      "plane_point",
+      "plane_supported",
+      "supported"
+    ],
+    "refs": [
+      "game/landscape.gd"
+    ]
+  },
+  {
+    "file": "game/enemy.gd",
+    "lines": 239,
+    "base": [
+      "CharacterBody3D"
+    ],
+    "functions": [
+      "_ready",
+      "_physics_process",
+      "simulate",
+      "melee_accessible",
+      "update_charge",
+      "hit",
+      "stagger",
+      "maximum_health",
+      "auto_impact"
+    ],
+    "refs": [
+      "game/ground_warning.gd",
+      "game/visuals.gd",
+      "game/ridge_caster.gd",
+      "game/reservoir_keeper.gd",
+      "game/enemy_visual.gd",
+      "game/effect_surface.gd"
+    ]
+  },
+  {
+    "file": "game/enemy_visual.gd",
+    "lines": 55,
+    "base": [
+      "RefCounted"
+    ],
+    "functions": [
+      "_init",
+      "apply",
+      "animate"
+    ],
+    "refs": [
+      "game/hero_visual.gd",
+      "assets/enemies/ruin_guardian_v1.png",
+      "assets/enemies/ruin_guardian_v1.json",
+      "assets/enemies/forest_creatures_v1.png",
+      "assets/enemies/forest_creatures_v1.json"
+    ]
+  },
+  {
+    "file": "game/exploration.gd",
+    "lines": 190,
+    "base": [
+      "RefCounted"
+    ],
+    "functions": [
+      "_init",
+      "build",
+      "update",
+      "near_shelter",
+      "threatened",
+      "interaction_hint",
+      "interact",
+      "update_rest",
+      "refresh",
+      "restore",
+      "snapshot",
+      "safe_restored_position",
+      "crystals",
+      "attune",
+      "journal_text",
+      "respawn_point",
+      "objective"
+    ],
+    "refs": [
+      "game/visuals.gd",
+      "game/landscape.gd",
+      "assets/fonts/NanumGothic-Regular.ttf",
+      "assets/environment/canal_shelter_v1.png"
+    ]
+  },
+  {
+    "file": "game/facility.gd",
+    "lines": 172,
+    "base": [
+      "RefCounted"
+    ],
+    "functions": [
+      "_init",
+      "build",
+      "masonry",
+      "refresh",
+      "populate",
+      "update",
+      "guarded",
+      "interact",
+      "interaction_hint",
+      "objective",
+      "snapshot",
+      "restore"
+    ],
+    "refs": [
+      "game/landscape.gd",
+      "game/visuals.gd",
+      "assets/fonts/NanumGothic-Regular.ttf"
+    ]
+  },
+  {
+    "file": "game/facility_stone.gdshader",
+    "lines": 22,
+    "base": [],
+    "functions": [],
+    "refs": []
+  },
+  {
+    "file": "game/ground.gdshader",
+    "lines": 96,
+    "base": [],
+    "functions": [],
+    "refs": []
+  },
+  {
+    "file": "game/ground_warning.gd",
+    "lines": 87,
+    "base": [
+      "RefCounted"
+    ],
+    "functions": [
+      "make",
+      "draw",
+      "draw_lane",
+      "commit",
+      "unchanged"
+    ],
+    "refs": [
+      "game/landscape.gd",
+      "game/effect_surface.gd",
+      "game/visuals.gd"
+    ]
+  },
+  {
+    "file": "game/grove_gate.gd",
+    "lines": 41,
+    "base": [
+      "Node3D"
+    ],
+    "functions": [
+      "_ready",
+      "release"
+    ],
+    "refs": [
+      "game/visuals.gd"
+    ]
+  },
+  {
+    "file": "game/grove_masonry.gd",
+    "lines": 39,
+    "base": [
+      "RefCounted"
+    ],
+    "functions": [
+      "wall"
+    ],
+    "refs": [
+      "game/visuals.gd"
+    ]
+  },
+  {
+    "file": "game/hero_visual.gd",
+    "lines": 110,
+    "base": [
+      "RefCounted"
+    ],
+    "functions": [
+      "_init",
+      "build_frames",
+      "direction_index",
+      "apply",
+      "focus_offset",
+      "focus_points"
+    ],
+    "refs": [
+      "assets/hero/grove_scholar_recovery_v1.json",
+      "assets/hero/grove_scholar_recovery_v1.png",
+      "assets/hero/grove_scholar_combo_v1.json",
+      "assets/hero/grove_scholar_combo_v1.png",
+      "assets/hero/grove_scholar_eight_v1.json",
+      "assets/hero/grove_scholar_walk_eight_v2.json",
+      "assets/hero/grove_scholar_eight_v1.png",
+      "assets/hero/grove_scholar_idle_v2.json",
+      "assets/hero/grove_scholar_idle_v2.png",
+      "assets/hero/grove_scholar_walk_eight_v2.png",
+      "assets/hero/grove_scholar_run_eight_v1.json",
+      "assets/hero/grove_scholar_run_eight_v1.png",
+      "assets/hero/grove_scholar_walk_pass_v2.json",
+      "assets/hero/grove_scholar_run_pass_v1.json",
+      "assets/hero/grove_scholar_walk_pass_v2.png",
+      "assets/hero/grove_scholar_run_pass_v1.png"
+    ]
+  },
+  {
+    "file": "game/hud.gd",
+    "lines": 440,
+    "base": [
+      "CanvasLayer"
+    ],
+    "functions": [
+      "text",
+      "button",
+      "_ready",
+      "show_pause",
+      "focus_choices",
+      "style_upgrade_card",
+      "show_record",
+      "refresh_journal",
+      "journal_key",
+      "focus_journal",
+      "show_journal",
+      "update_combat_readability",
+      "_process"
+    ],
+    "refs": [
+      "assets/fonts/NanumGothic-Regular.ttf",
+      "game/demo_menu.gd",
+      "assets/fonts/NanumGothic-Bold.ttf",
+      "assets/fonts/NanumGothic-Bold.ttf",
+      "assets/fonts/NanumGothic-Bold.ttf"
+    ]
+  },
+  {
+    "file": "game/journey.gd",
+    "lines": 54,
+    "base": [
+      "RefCounted"
+    ],
+    "functions": [
+      "at",
+      "_init",
+      "begin",
+      "populate",
+      "update",
+      "restore",
+      "snapshot",
+      "location",
+      "recap"
+    ],
+    "refs": []
+  },
+  {
+    "file": "game/landscape.gd",
+    "lines": 248,
+    "base": [
+      "RefCounted"
+    ],
+    "functions": [
+      "cell_heights",
+      "raw_height",
+      "height_at",
+      "on_ground",
+      "normal_at",
+      "expand_old_waterworks",
+      "in_flood",
+      "build_water_course",
+      "water_distance",
+      "floor_material",
+      "make_terrain",
+      "add_ground_polygon",
+      "paving",
+      "masonry",
+      "build_connections",
+      "wet_at"
+    ],
+    "refs": [
+      "game/visuals.gd",
+      "game/ground.gdshader",
+      "assets/environment/forest_floor_v1.png",
+      "assets/environment/reservoir_floor_v1.png",
+      "lab/ground.gdshader",
+      "assets/environment/forest_floor_v1.png",
+      "assets/environment/reservoir_floor_v1.png",
+      "assets/environment/reservoir_floor_v1.png"
+    ]
+  },
+  {
+    "file": "game/path.gdshader",
+    "lines": 12,
+    "base": [],
+    "functions": [],
+    "refs": []
+  },
+  {
+    "file": "game/player.gd",
+    "lines": 270,
+    "base": [
+      "CharacterBody3D"
+    ],
+    "functions": [
+      "_ready",
+      "_physics_process",
+      "show_auto_cast",
+      "update_visual",
+      "auto_origin",
+      "advance_stride",
+      "hurt"
+    ],
+    "refs": [
+      "game/visuals.gd",
+      "game/landscape.gd",
+      "game/hero_visual.gd",
+      "game/combat_effect.gd",
+      "game/combat_effect.gd",
+      "game/combat_effect.gd",
+      "game/contact.gdshader",
+      "game/contact.gdshader"
+    ]
+  },
+  {
+    "file": "game/reservoir_keeper.gd",
+    "lines": 104,
+    "base": [
+      "RefCounted"
+    ],
+    "functions": [
+      "_init",
+      "update",
+      "begin_attack",
+      "make_ring",
+      "draw_ring",
+      "resolve",
+      "interrupt",
+      "clear_warnings"
+    ],
+    "refs": [
+      "game/visuals.gd",
+      "game/landscape.gd",
+      "assets/fonts/NanumGothic-Regular.ttf",
+      "game/ground_warning.gd",
+      "game/ground_warning.gd",
+      "game/effect_surface.gd"
+    ]
+  },
+  {
+    "file": "game/ridge_caster.gd",
+    "lines": 56,
+    "base": [
+      "RefCounted"
+    ],
+    "functions": [
+      "_init",
+      "clear_warnings",
+      "interrupt",
+      "update"
+    ],
+    "refs": [
+      "game/ground_warning.gd",
+      "game/landscape.gd",
+      "game/visuals.gd",
+      "game/effect_surface.gd"
+    ]
+  },
+  {
+    "file": "game/save_queue.gd",
+    "lines": 40,
+    "base": [
+      "Node"
+    ],
+    "functions": [
+      "_ready",
+      "request",
+      "_process",
+      "finish",
+      "flush",
+      "_exit_tree"
+    ],
+    "refs": [
+      "game/save_store.gd"
+    ]
+  },
+  {
+    "file": "game/save_store.gd",
+    "lines": 51,
+    "base": [
+      "RefCounted"
+    ],
+    "functions": [
+      "write",
+      "read_one",
+      "read_data",
+      "valid",
+      "vector_valid"
+    ],
+    "refs": []
+  },
+  {
+    "file": "game/sluice_hoist.gd",
+    "lines": 61,
+    "base": [
+      "Node3D"
+    ],
+    "functions": [
+      "rod",
+      "build",
+      "set_progress"
+    ],
+    "refs": [
+      "game/visuals.gd"
+    ]
+  },
+  {
+    "file": "game/sluice_masonry.gd",
+    "lines": 24,
+    "base": [
+      "RefCounted"
+    ],
+    "functions": [
+      "tower"
+    ],
+    "refs": [
+      "game/visuals.gd",
+      "game/landscape.gd"
+    ]
+  },
+  {
+    "file": "game/sound_bank.gd",
+    "lines": 46,
+    "base": [
+      "Node"
+    ],
+    "functions": [
+      "_ready",
+      "play",
+      "set_muted"
+    ],
+    "refs": [
+      "assets/audio/auto.wav",
+      "assets/audio/cast.wav",
+      "assets/audio/hit.wav",
+      "assets/audio/heavy.wav",
+      "assets/audio/dash.wav",
+      "assets/audio/hurt.wav",
+      "assets/audio/reward.wav",
+      "assets/audio/warning.wav"
+    ]
+  },
+  {
+    "file": "game/story.gd",
+    "lines": 116,
+    "base": [
+      "RefCounted"
+    ],
+    "functions": [
+      "_init",
+      "build",
+      "available",
+      "sync_evidence",
+      "safe_to_read",
+      "update",
+      "caption",
+      "lead",
+      "records",
+      "snapshot",
+      "restore"
+    ],
+    "refs": [
+      "game/visuals.gd"
+    ]
+  },
+  {
+    "file": "game/visuals.gd",
+    "lines": 113,
+    "base": [
+      "RefCounted"
+    ],
+    "functions": [
+      "carved_waystone",
+      "tropical_prop",
+      "material",
+      "stone_box",
+      "stone_material",
+      "box",
+      "sphere",
+      "ring",
+      "discovery_marker",
+      "update_discovery_marker"
+    ],
+    "refs": [
+      "assets/environment/garden_waystone_v1.png",
+      "assets/environment/monsoon_props_v1.png",
+      "assets/environment/monsoon_props_v1.json",
+      "game/facility_stone.gdshader",
+      "assets/environment/reservoir_masonry_v1.png"
+    ]
+  },
+  {
+    "file": "game/water.gdshader",
+    "lines": 12,
+    "base": [],
+    "functions": [],
+    "refs": []
+  },
+  {
+    "file": "game/waterworks.gd",
+    "lines": 305,
+    "base": [
+      "RefCounted"
+    ],
+    "functions": [
+      "_init",
+      "ground",
+      "build",
+      "populate",
+      "update",
+      "interaction_hint",
+      "interact",
+      "apply_sluice_state",
+      "update_gate_visuals",
+      "near_cache",
+      "threatened_at",
+      "note_threatened",
+      "records",
+      "refresh",
+      "restore",
+      "snapshot",
+      "safe_restored_position",
+      "journal_text",
+      "can_weave",
+      "choose_weave",
+      "auto_bonus",
+      "on_auto_hit",
+      "manual_bonus",
+      "on_manual_hit",
+      "weave_status",
+      "objective"
+    ],
+    "refs": [
+      "game/landscape.gd",
+      "game/visuals.gd",
+      "game/sluice_masonry.gd",
+      "game/sluice_hoist.gd",
+      "assets/fonts/NanumGothic-Regular.ttf"
+    ]
+  },
+  {
+    "file": "game/world.gd",
+    "lines": 514,
+    "base": [
+      "Node3D"
+    ],
+    "functions": [
+      "_ready",
+      "setup_inputs",
+      "build_world",
+      "spawn_enemy",
+      "spawn_initial",
+      "enemies",
+      "visible_target",
+      "_physics_process",
+      "update_effects",
+      "lookout_weight",
+      "sluice_view_weight",
+      "landmark_view_weight",
+      "update_camera",
+      "auto_attack",
+      "beam",
+      "enemy_defeated",
+      "open_gate",
+      "notice",
+      "objective",
+      "snapshot",
+      "restore",
+      "save_now",
+      "pause_game",
+      "resume_game",
+      "_notification",
+      "sound",
+      "toggle_sound",
+      "pending_choices",
+      "available_upgrades",
+      "growth_label",
+      "choose_upgrade",
+      "spell_strike",
+      "impact",
+      "burst_at",
+      "hit_sound",
+      "demo_title"
+    ],
+    "refs": [
+      "game/visuals.gd",
+      "game/player.gd",
+      "game/enemy.gd",
+      "game/save_store.gd",
+      "game/hud.gd",
+      "game/combat.gd",
+      "game/exploration.gd",
+      "game/landscape.gd",
+      "game/waterworks.gd",
+      "game/journey.gd",
+      "game/story.gd",
+      "game/facility.gd",
+      "game/demo_menu.gd",
+      "game/sound_bank.gd",
+      "game/ambience.gd",
+      "game/grove_masonry.gd",
+      "game/grove_gate.gd",
+      "game/demo_menu.gd",
+      "game/combat_effect.gd",
+      "game/combat_effect.gd",
+      "game/combat_effect.gd",
+      "game/combat_effect.gd",
+      "game/combat_effect.gd",
+      "game/combat_effect.gd",
+      "game/demo_menu.tscn"
+    ]
+  },
+  {
+    "file": "game/world.tscn",
+    "lines": 6,
+    "base": [],
+    "functions": [],
+    "refs": [
+      "game/world.gd"
+    ]
+  },
+  {
+    "file": "lab/compact_hud.gd",
+    "lines": 60,
+    "base": [
+      "Control"
+    ],
+    "functions": [
+      "_ready",
+      "rebuild_map",
+      "reveal",
+      "_process",
+      "map_point",
+      "_draw"
+    ],
+    "refs": [
+      "assets/fonts/NanumGothic-Regular.ttf"
+    ]
+  },
+  {
+    "file": "lab/distant_forest.gdshader",
+    "lines": 9,
+    "base": [],
+    "functions": [],
+    "refs": []
+  },
+  {
+    "file": "lab/exploration.gd",
+    "lines": 7,
+    "base": [
+      "RefCounted"
+    ],
+    "functions": [
+      "_init",
+      "respawn_point"
+    ],
+    "refs": []
+  },
+  {
+    "file": "lab/ground.gdshader",
+    "lines": 39,
+    "base": [],
+    "functions": [],
+    "refs": []
+  },
+  {
+    "file": "lab/hud.gd",
+    "lines": 5,
+    "base": [
+      "CanvasLayer"
+    ],
+    "functions": [
+      "_unhandled_input"
+    ],
+    "refs": []
+  },
+  {
+    "file": "lab/journey.gd",
+    "lines": 276,
+    "base": [
+      "\"res://lab/world.gd\""
+    ],
+    "functions": [
+      "storage_key",
+      "build_hud",
+      "_ready",
+      "build_world",
+      "build_landmark",
+      "populate_field",
+      "attack_profile",
+      "update_hud",
+      "_physics_process",
+      "interact_journey",
+      "near_threshold",
+      "enemy_defeated",
+      "local_state",
+      "snapshot",
+      "restore",
+      "settle_restored_position",
+      "travel",
+      "pause_game",
+      "confirm_restart",
+      "configure_guard",
+      "pending_choices",
+      "available_upgrades",
+      "on_growth_auto_hit",
+      "discovery_text",
+      "checkpoint",
+      "has_windstep"
+    ],
+    "refs": [
+      "lab/world.gd",
+      "lab/compact_hud.gd",
+      "lab/routes.gd",
+      "lab/thresholds.gd",
+      "assets/fonts/NanumGothic-Regular.ttf",
+      "game/combat_effect.gd",
+      "game/reservoir_keeper.gd"
+    ]
+  },
+  {
+    "file": "lab/journey.tscn",
+    "lines": 4,
+    "base": [],
+    "functions": [],
+    "refs": [
+      "lab/journey.gd"
+    ]
+  },
+  {
+    "file": "lab/jungle_shelves.gd",
+    "lines": 41,
+    "base": [
+      "RefCounted"
+    ],
+    "functions": [
+      "root_span",
+      "build"
+    ],
+    "refs": [
+      "game/visuals.gd",
+      "game/landscape.gd",
+      "assets/environment/reservoir_masonry_v1.png"
+    ]
+  },
+  {
+    "file": "lab/routes.gd",
+    "lines": 22,
+    "base": [
+      "RefCounted"
+    ],
+    "functions": [
+      "wall",
+      "build"
+    ],
+    "refs": [
+      "game/visuals.gd",
+      "game/landscape.gd",
+      "lab/jungle_shelves.gd"
+    ]
+  },
+  {
+    "file": "lab/spell_growth.gd",
+    "lines": 11,
+    "base": [
+      "RefCounted"
+    ],
+    "functions": [
+      "stage",
+      "profile"
+    ],
+    "refs": []
+  },
+  {
+    "file": "lab/surroundings.gd",
+    "lines": 25,
+    "base": [
+      "RefCounted"
+    ],
+    "functions": [
+      "build"
+    ],
+    "refs": [
+      "game/visuals.gd",
+      "game/landscape.gd"
+    ]
+  },
+  {
+    "file": "lab/thresholds.gd",
+    "lines": 72,
+    "base": [
+      "RefCounted"
+    ],
+    "functions": [
+      "rock",
+      "build"
+    ],
+    "refs": [
+      "game/visuals.gd",
+      "game/landscape.gd",
+      "assets/environment/jungle_distance_v1.png",
+      "assets/fonts/NanumGothic-Regular.ttf"
+    ]
+  },
+  {
+    "file": "lab/world.gd",
+    "lines": 344,
+    "base": [
+      "\"res://game/world.gd\""
+    ],
+    "functions": [
+      "attack_profile",
+      "on_growth_auto_hit",
+      "_ready",
+      "build_world",
+      "build_hud",
+      "update_hud",
+      "_physics_process",
+      "_unhandled_input",
+      "update_effects",
+      "update_camera",
+      "enemy_defeated",
+      "open_shortcut",
+      "apply_shortcut",
+      "pending_choices",
+      "available_upgrades",
+      "snapshot",
+      "restore",
+      "save_now",
+      "flush_save",
+      "add_button",
+      "pause_game",
+      "build_landmark",
+      "quit_if_saved",
+      "confirm_restart",
+      "resume_game",
+      "switch_mode",
+      "_notification",
+      "storage_key",
+      "allow_legacy_import",
+      "populate_field"
+    ],
+    "refs": [
+      "game/world.gd",
+      "lab/spell_growth.gd",
+      "lab/exploration.gd",
+      "game/sound_bank.gd",
+      "lab/surroundings.gd",
+      "lab/hud.gd",
+      "game/combat_effect.gd",
+      "game/save_queue.gd",
+      "assets/environment/temple_face_v1.png"
+    ]
+  },
+  {
+    "file": "lab/world.tscn",
+    "lines": 4,
+    "base": [],
+    "functions": [],
+    "refs": [
+      "lab/world.gd"
+    ]
+  },
+  {
+    "file": "tests/combat_performance.gd",
+    "lines": 71,
+    "base": [
+      "SceneTree"
+    ],
+    "functions": [
+      "_initialize",
+      "run"
+    ],
+    "refs": [
+      "lab/journey.tscn"
+    ]
+  },
+  {
+    "file": "tests/core_response.gd",
+    "lines": 88,
+    "base": [
+      "SceneTree"
+    ],
+    "functions": [
+      "_initialize",
+      "check",
+      "release_actions",
+      "tap_pulse",
+      "run"
+    ],
+    "refs": [
+      "lab/world.tscn"
+    ]
+  },
+  {
+    "file": "tests/diagonal_strike.gd",
+    "lines": 46,
+    "base": [
+      "SceneTree"
+    ],
+    "functions": [
+      "_initialize",
+      "check",
+      "run"
+    ],
+    "refs": [
+      "lab/journey.tscn"
+    ]
+  },
+  {
+    "file": "tests/exploration.gd",
+    "lines": 82,
+    "base": [
+      "SceneTree"
+    ],
+    "functions": [
+      "check",
+      "_initialize",
+      "run"
+    ],
+    "refs": [
+      "game/world.tscn"
+    ]
+  },
+  {
+    "file": "tests/gait_cycle.gd",
+    "lines": 62,
+    "base": [
+      "SceneTree"
+    ],
+    "functions": [
+      "_initialize",
+      "run"
+    ],
+    "refs": [
+      "game/hero_visual.gd",
+      "docs/validation"
+    ]
+  },
+  {
+    "file": "tests/ground_surfaces.gd",
+    "lines": 59,
+    "base": [
+      "SceneTree"
+    ],
+    "functions": [
+      "_initialize",
+      "check",
+      "run"
+    ],
+    "refs": [
+      "game/world.tscn"
+    ]
+  },
+  {
+    "file": "tests/grounded_run.gd",
+    "lines": 56,
+    "base": [
+      "SceneTree"
+    ],
+    "functions": [
+      "check",
+      "frames",
+      "_initialize",
+      "run"
+    ],
+    "refs": [
+      "game/world.tscn"
+    ]
+  },
+  {
+    "file": "tests/hand_origin.gd",
+    "lines": 37,
+    "base": [
+      "SceneTree"
+    ],
+    "functions": [
+      "_initialize",
+      "check",
+      "run"
+    ],
+    "refs": [
+      "lab/journey.tscn"
+    ]
+  },
+  {
+    "file": "tests/hud_concepts.gd",
+    "lines": 69,
+    "base": [
+      "SceneTree"
+    ],
+    "functions": [
+      "_initialize",
+      "text_at",
+      "panel",
+      "health",
+      "run"
+    ],
+    "refs": [
+      "assets/fonts/NanumGothic-Regular.ttf"
+    ]
+  },
+  {
+    "file": "tests/journey_flow.gd",
+    "lines": 81,
+    "base": [
+      "SceneTree"
+    ],
+    "functions": [
+      "_initialize",
+      "check",
+      "shot",
+      "run"
+    ],
+    "refs": [
+      "lab/journey.tscn",
+      "lab/journey.tscn"
+    ]
+  },
+  {
+    "file": "tests/journey_playthrough.gd",
+    "lines": 67,
+    "base": [
+      "SceneTree"
+    ],
+    "functions": [
+      "_initialize",
+      "release",
+      "steer",
+      "walk",
+      "fight",
+      "run"
+    ],
+    "refs": [
+      "lab/journey.tscn"
+    ]
+  },
+  {
+    "file": "tests/journey_routes.gd",
+    "lines": 82,
+    "base": [
+      "SceneTree"
+    ],
+    "functions": [
+      "_initialize",
+      "check",
+      "map_routes",
+      "walk",
+      "run"
+    ],
+    "refs": [
+      "lab/journey.tscn"
+    ]
+  },
+  {
+    "file": "tests/keyboard_choices.gd",
+    "lines": 62,
+    "base": [
+      "SceneTree"
+    ],
+    "functions": [
+      "_initialize",
+      "check",
+      "key",
+      "run"
+    ],
+    "refs": [
+      "game/world.tscn",
+      "docs/validation/controls-help-top.png",
+      "docs/validation/controls-help.png"
+    ]
+  },
+  {
+    "file": "tests/lab_combat.gd",
+    "lines": 27,
+    "base": [
+      "SceneTree"
+    ],
+    "functions": [
+      "_initialize",
+      "check",
+      "run"
+    ],
+    "refs": [
+      "lab/world.tscn"
+    ]
+  },
+  {
+    "file": "tests/lab_contract.gd",
+    "lines": 45,
+    "base": [
+      "SceneTree"
+    ],
+    "functions": [
+      "_initialize",
+      "check",
+      "run"
+    ],
+    "refs": [
+      "lab/world.tscn"
+    ]
+  },
+  {
+    "file": "tests/lab_flow.gd",
+    "lines": 130,
+    "base": [
+      "SceneTree"
+    ],
+    "functions": [
+      "_initialize",
+      "check",
+      "key",
+      "walk",
+      "run"
+    ],
+    "refs": [
+      "lab/world.tscn",
+      "lab/world.tscn"
+    ]
+  },
+  {
+    "file": "tests/lab_footing.gd",
+    "lines": 45,
+    "base": [
+      "SceneTree"
+    ],
+    "functions": [
+      "_initialize",
+      "check",
+      "run"
+    ],
+    "refs": [
+      "lab/world.tscn"
+    ]
+  },
+  {
+    "file": "tests/lab_growth.gd",
+    "lines": 100,
+    "base": [
+      "SceneTree"
+    ],
+    "functions": [
+      "_initialize",
+      "check",
+      "clear_effects",
+      "capture",
+      "run"
+    ],
+    "refs": [
+      "game/combat_effect.gd",
+      "docs/validation/d100",
+      "lab/world.tscn"
+    ]
+  },
+  {
+    "file": "tests/lab_render.gd",
+    "lines": 29,
+    "base": [
+      "SceneTree"
+    ],
+    "functions": [
+      "_initialize",
+      "run"
+    ],
+    "refs": [
+      "docs/validation/d100",
+      "lab/world.tscn"
+    ]
+  },
+  {
+    "file": "tests/live_combat_performance.gd",
+    "lines": 98,
+    "base": [
+      "SceneTree"
+    ],
+    "functions": [
+      "_initialize",
+      "stats",
+      "run"
+    ],
+    "refs": [
+      "lab/journey.tscn"
+    ]
+  },
+  {
+    "file": "tests/lookout_contract.gd",
+    "lines": 41,
+    "base": [
+      "SceneTree"
+    ],
+    "functions": [
+      "_initialize",
+      "check",
+      "run"
+    ],
+    "refs": [
+      "lab/journey.tscn",
+      "lab/journey.tscn"
+    ]
+  },
+  {
+    "file": "tests/moving_strike.gd",
+    "lines": 72,
+    "base": [
+      "SceneTree"
+    ],
+    "functions": [
+      "_initialize",
+      "check",
+      "capture",
+      "run"
+    ],
+    "refs": [
+      "docs/validation",
+      "game/world.tscn"
+    ]
+  },
+  {
+    "file": "tests/presentation_review.gd",
+    "lines": 28,
+    "base": [
+      "SceneTree"
+    ],
+    "functions": [
+      "_initialize",
+      "run"
+    ],
+    "refs": [
+      "lab/journey.tscn"
+    ]
+  },
+  {
+    "file": "tests/render_surface_motion.gd",
+    "lines": 69,
+    "base": [
+      "SceneTree"
+    ],
+    "functions": [
+      "_initialize",
+      "close_color",
+      "run"
+    ],
+    "refs": [
+      "docs/validation/d100",
+      "game/world.tscn"
+    ]
+  },
+  {
+    "file": "tests/save_queue_contract.gd",
+    "lines": 37,
+    "base": [
+      "SceneTree"
+    ],
+    "functions": [
+      "_initialize",
+      "check",
+      "run"
+    ],
+    "refs": [
+      "game/save_store.gd",
+      "game/save_queue.gd"
+    ]
+  },
+  {
+    "file": "tests/slope_cues.gd",
+    "lines": 58,
+    "base": [
+      "SceneTree"
+    ],
+    "functions": [
+      "_initialize",
+      "check",
+      "run"
+    ],
+    "refs": [
+      "game/ground_warning.gd",
+      "lab/world.tscn",
+      "game/effect_surface.gd"
+    ]
+  },
+  {
+    "file": "tests/strike_range.gd",
+    "lines": 35,
+    "base": [
+      "SceneTree"
+    ],
+    "functions": [
+      "_initialize",
+      "check",
+      "run"
+    ],
+    "refs": [
+      "lab/world.tscn"
+    ]
+  },
+  {
+    "file": "tests/terrace_review.gd",
+    "lines": 63,
+    "base": [
+      "SceneTree"
+    ],
+    "functions": [
+      "_initialize",
+      "shot",
+      "run"
+    ],
+    "refs": [
+      "lab/journey.tscn",
+      "lab/compact_hud.gd"
+    ]
+  },
+  {
+    "file": "tests/terrain_probe.gd",
+    "lines": 23,
+    "base": [
+      "SceneTree"
+    ],
+    "functions": [
+      "_initialize",
+      "run"
+    ],
+    "refs": [
+      "game/world.tscn"
+    ]
+  },
+  {
+    "file": "tests/threshold_contract.gd",
+    "lines": 37,
+    "base": [
+      "SceneTree"
+    ],
+    "functions": [
+      "_initialize",
+      "check",
+      "run"
+    ],
+    "refs": [
+      "lab/journey.tscn"
+    ]
+  },
+  {
+    "file": "tests/warning_cache_contract.gd",
+    "lines": 98,
+    "base": [
+      "SceneTree"
+    ],
+    "functions": [
+      "_initialize",
+      "check",
+      "original_height",
+      "original_normal",
+      "original_point",
+      "original_support",
+      "run"
+    ],
+    "refs": [
+      "game/landscape.gd",
+      "game/ground_warning.gd"
+    ]
+  },
+  {
+    "file": "tests/warning_damage.gd",
+    "lines": 40,
+    "base": [
+      "SceneTree"
+    ],
+    "functions": [
+      "_initialize",
+      "check",
+      "run"
+    ],
+    "refs": [
+      "game/effect_surface.gd",
+      "game/ground_warning.gd",
+      "lab/world.tscn",
+      "game/reservoir_keeper.gd"
+    ]
+  }
+]

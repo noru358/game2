@@ -1,0 +1,5 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+OpenGL API 3.3.0 NVIDIA 560.94 - Compatibility - Using Device: NVIDIA - NVIDIA GeForce RTX 4060 Ti
+
+PASS GPU sheet; rows [0.0, 1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0]; candidate only; save result 0
+PASS attack GPU sheet; 8 directions x 3 strikes x 3 poses; save result 0

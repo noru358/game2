@@ -1,0 +1,96 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+OpenGL API 3.3.0 NVIDIA 560.94 - Compatibility - Using Device: NVIDIA - NVIDIA GeForce RTX 4060 Ti
+
+PASS isolated test mode; no save queue
+PASS asset preview does not spawn combat
+PASS region 0 direct view 0
+PASS no mixed old/new sprite
+PASS input release stops
+PASS capture playground_direction_0
+PASS region 0 direct view 1
+PASS no mixed old/new sprite
+PASS input release stops
+PASS region 0 direct view 2
+PASS no mixed old/new sprite
+PASS input release stops
+PASS capture playground_direction_2
+PASS region 0 direct view 3
+PASS no mixed old/new sprite
+PASS input release stops
+PASS region 0 direct view 4
+PASS no mixed old/new sprite
+PASS input release stops
+PASS capture playground_direction_4
+PASS region 0 direct view 5
+PASS no mixed old/new sprite
+PASS input release stops
+PASS region 0 direct view 6
+PASS no mixed old/new sprite
+PASS input release stops
+PASS capture playground_direction_6
+PASS region 0 direct view 7
+PASS no mixed old/new sprite
+PASS input release stops
+PASS capture playground_region_0
+PASS region 1 direct view 0
+PASS no mixed old/new sprite
+PASS input release stops
+PASS region 1 direct view 1
+PASS no mixed old/new sprite
+PASS input release stops
+PASS region 1 direct view 2
+PASS no mixed old/new sprite
+PASS input release stops
+PASS region 1 direct view 3
+PASS no mixed old/new sprite
+PASS input release stops
+PASS region 1 direct view 4
+PASS no mixed old/new sprite
+PASS input release stops
+PASS region 1 direct view 5
+PASS no mixed old/new sprite
+PASS input release stops
+PASS region 1 direct view 6
+PASS no mixed old/new sprite
+PASS input release stops
+PASS region 1 direct view 7
+PASS no mixed old/new sprite
+PASS input release stops
+PASS capture playground_region_1
+PASS region 2 direct view 0
+PASS no mixed old/new sprite
+PASS input release stops
+PASS region 2 direct view 1
+PASS no mixed old/new sprite
+PASS input release stops
+PASS region 2 direct view 2
+PASS no mixed old/new sprite
+PASS input release stops
+PASS region 2 direct view 3
+PASS no mixed old/new sprite
+PASS input release stops
+PASS region 2 direct view 4
+PASS no mixed old/new sprite
+PASS input release stops
+PASS region 2 direct view 5
+PASS no mixed old/new sprite
+PASS input release stops
+PASS region 2 direct view 6
+PASS no mixed old/new sprite
+PASS input release stops
+PASS region 2 direct view 7
+PASS no mixed old/new sprite
+PASS input release stops
+PASS capture playground_region_2
+PASS original 0.75s run ramp retained
+PASS capture playground_old_comparison
+PASS comparison switch exclusive
+PASS capture playground_foliage_before
+PASS opaque foreground foliage is detected
+PASS capture playground_foliage_after
+PASS foliage colors restore after disabling fade
+PASS clear center path does not fade surrounding trees
+PASS leaving occlusion restores foliage
+PASS capture playground_start
+PASS real physics and distance-driven gait ran
+PASS no save queue after regions and movement

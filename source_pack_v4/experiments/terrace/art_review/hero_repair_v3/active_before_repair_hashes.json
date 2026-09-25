@@ -1,0 +1,31 @@
+{
+  "purpose": "Pre-repair actual runtime and approved-design hashes; not art acceptance",
+  "files": {
+    "experiments\\terrace\\art_review\\hero_pose_v2\\attack.png": "78ddb0ec10f42612564c6f6b4a47b06e32510454db415b945b0a6010a5778d87",
+    "experiments\\terrace\\art_review\\hero_pose_v2\\attack_back.png": "542bcf9fa1482d0f2bad85bad2c8aa80d58015cda275e513d7e4eb69bc3f4bda",
+    "experiments\\terrace\\art_review\\hero_pose_v2\\attack_back_right.png": "2d9474adafadb044a065771e78321dbc18e4490fc494c9f21f1993e314f62036",
+    "experiments\\terrace\\art_review\\hero_pose_v2\\attack_front.png": "990b2cfd9e7c82d34b04c4fd2c1de0979f9c0f2d631d8659eaedd24a24ba84ac",
+    "experiments\\terrace\\art_review\\hero_pose_v2\\attack_left.png": "148ea14a20aea6c5c733af54cc3dfe10198ca798a03de71e167604e0920145dc",
+    "experiments\\terrace\\art_review\\hero_pose_v2\\attack_right.png": "4057cb1487c681c1b8dc9f84288d5d3c35055378e5acca349c034dcbe0a7308e",
+    "experiments\\terrace\\art_review\\hero_pose_v2\\back_right_run_first.png": "d498c4c7daf6b386b5be8422334a4f292fe5548ef54615cb9356afb206f0fc39",
+    "experiments\\terrace\\art_review\\hero_pose_v2\\back_right_run_opposite.png": "6479ddaea25db8e97de7e41fd2051af8d9d6165599c2225ed44dd6166190f3ef",
+    "experiments\\terrace\\art_review\\hero_pose_v2\\back_right_walk_center_first.png": "2011105ccbd7524dcee10bc33efe09d02c75d5a1cb8d2d84dbd5e7525f56a661",
+    "experiments\\terrace\\art_review\\hero_pose_v2\\back_right_walk_opposite.png": "f0f99efe37bb4188c304bdaa2ca39b28536609798f32927aadbacd822370aa82",
+    "experiments\\terrace\\art_review\\hero_pose_v2\\back_run_center_flight.png": "735092d91469f4aafeb3a4df24df33c5ad848d2eda2abaad7deaacdc87a6456e",
+    "experiments\\terrace\\art_review\\hero_pose_v2\\back_run_center_support.png": "986a40a17ea12981ba5ac7e7faed3c34c0aa0c70edb167346b13f5db47d449a3",
+    "experiments\\terrace\\art_review\\hero_pose_v2\\back_walk_center_contacts.png": "9546172a59b77ef09f5701a519a0bbddcc0bc8638775747566e451bfdeb6c4de",
+    "experiments\\terrace\\art_review\\hero_pose_v2\\back_walk_center_passing.png": "800ea25d2c43f4e3827a22063960a2bd9f9f08939539997aa139cae01a8154da",
+    "experiments\\terrace\\art_review\\hero_pose_v2\\front_right.png": "d25b9eada1abb52b67bcbba6c475a0fd2f94a3cd417a5e7e7c00a5bb82b3dad1",
+    "experiments\\terrace\\art_review\\hero_pose_v2\\front_right_run_first.png": "8e2d91601cc587daaa65e59974dcf533bcd676065250cefd862f9acdd2ba8bbb",
+    "experiments\\terrace\\art_review\\hero_pose_v2\\front_right_run_opposite.png": "f21c64d60eb3c415392d74da1275a9ea1b86f476966a517603f00978dcc76f4e",
+    "experiments\\terrace\\art_review\\hero_pose_v2\\front_right_walk_opposite.png": "4220b5da5671a6f21c7bf5be8b5ba29fdb5817d70b853a20c4b74990e9374fde",
+    "experiments\\terrace\\art_review\\hero_pose_v2\\front_run_flight.png": "63b55b6a53d86b3389a9434b5d7ce1ea828b553b1bbbcef5c1ff5da863480683",
+    "experiments\\terrace\\art_review\\hero_pose_v2\\front_run_support.png": "05ffd2853925d505a1b68875b294e78befd8f986e16ef92f04c42456e0d92939",
+    "experiments\\terrace\\art_review\\hero_pose_v2\\front_walk_contacts.png": "e8a6d84e80087515a77a581e0b1728cf833bef9d811be70feea660bcdf9d981c",
+    "experiments\\terrace\\art_review\\hero_pose_v2\\front_walk_passing.png": "80b3b02cc485c49c9fbd78d08293cfd54fb767f7e73badbc4cba8760a17e2d63",
+    "experiments\\terrace\\art_review\\hero_pose_v2\\locomotion.png": "cdca9125d19d2fe20fa4e02ede51a7956189bca5b5cc855b36e2c564055d2cd3",
+    "experiments\\terrace\\art_review\\hero_pose_v2\\frames.json": "280313cff137e124333c01ff77fd662fa4bc73126ab01cce8014eb12f604bf8e",
+    "experiments\\terrace\\art_review\\hero_pose_v2\\pose_overrides.json": "078ccbfe3a2bf367741b0721a0d54a8000ff4ef0f0e298143e9d9e83316f67ed",
+    "docs\\design_refs\\hero_turnaround_approved.png": "0a01d4f99412b2a1eb3d51112e0d921033ef70f8a461dfc451752e03e57ffcf5"
+  }
+}

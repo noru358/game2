@@ -1,0 +1,120 @@
+{
+  "date": "2026-09-24",
+  "canonical_hero": "hero_turnaround_approved.png",
+  "source": "이번 사용자 첨부. PNG 원본 바이트 그대로 복사",
+  "note": "이전 개별8장/주인공보드 폐기. 시트의 시각방향은 기준확정, 실사용alpha/anchor/모션/엔진통합은 미완료.",
+  "directions": [
+    {
+      "label": "FRONT",
+      "row": 0,
+      "column": 0,
+      "engine_index": 2
+    },
+    {
+      "label": "FRONT-RIGHT",
+      "row": 0,
+      "column": 1,
+      "engine_index": 1
+    },
+    {
+      "label": "RIGHT",
+      "row": 0,
+      "column": 2,
+      "engine_index": 0
+    },
+    {
+      "label": "BACK-RIGHT",
+      "row": 0,
+      "column": 3,
+      "engine_index": 7
+    },
+    {
+      "label": "BACK",
+      "row": 1,
+      "column": 0,
+      "engine_index": 6
+    },
+    {
+      "label": "BACK-LEFT",
+      "row": 1,
+      "column": 1,
+      "engine_index": 5
+    },
+    {
+      "label": "LEFT",
+      "row": 1,
+      "column": 2,
+      "engine_index": 4
+    },
+    {
+      "label": "FRONT-LEFT",
+      "row": 1,
+      "column": 3,
+      "engine_index": 3
+    }
+  ],
+  "files": [
+    {
+      "file": "hero_turnaround_approved.png",
+      "sha256": "0a01d4f99412b2a1eb3d51112e0d921033ef70f8a461dfc451752e03e57ffcf5",
+      "bytes": 1972767,
+      "status": "USER_SUPPLIED_CANONICAL_VISUAL_REFERENCE",
+      "runtime_integrated": false
+    },
+    {
+      "file": "enemy_wanderer_reference.png",
+      "sha256": "d23a5ae41573c9e83f6e12151c159aa52f5e180bb85793dba5e2b9181f8770cd",
+      "bytes": 1336316,
+      "status": "APPROVED_DIRECTION_REFERENCE_NOT_RUNTIME_INTEGRATED",
+      "runtime_integrated": false
+    },
+    {
+      "file": "enemy_charger_reference.png",
+      "sha256": "eae67b9debd01900611ae10d3a3dca8c562fa2e377cc63cbd298544fcdeea1ba",
+      "bytes": 1240920,
+      "status": "APPROVED_DIRECTION_REFERENCE_NOT_RUNTIME_INTEGRATED",
+      "runtime_integrated": false
+    },
+    {
+      "file": "enemy_ranged_reference.png",
+      "sha256": "528941a46d56ed697cebe59757b2a1c7aad52b7208a384fed6bc2c840f67b67e",
+      "bytes": 1442864,
+      "status": "APPROVED_DIRECTION_REFERENCE_NOT_RUNTIME_INTEGRATED",
+      "runtime_integrated": false
+    },
+    {
+      "file": "surface_dirt_reference.png",
+      "sha256": "8c95b81b94281c96427a4ffdad5e8949ac94dcfb97baf44958e3d1622b3227dc",
+      "bytes": 1654804,
+      "status": "APPROVED_DIRECTION_REFERENCE_NOT_RUNTIME_INTEGRATED",
+      "runtime_integrated": false
+    },
+    {
+      "file": "surface_path_reference.png",
+      "sha256": "5a8d9d02c8d71ad40c5f1528819685417bd04fbf789d161e20f17784228a17c6",
+      "bytes": 1744837,
+      "status": "APPROVED_DIRECTION_REFERENCE_NOT_RUNTIME_INTEGRATED",
+      "runtime_integrated": false
+    },
+    {
+      "file": "surface_water_reference.png",
+      "sha256": "6ee0be3511bd587b64049dbcb8ecd04e80123fb1ca8bb5bfa131a0e68986858f",
+      "bytes": 1706438,
+      "status": "APPROVED_DIRECTION_REFERENCE_NOT_RUNTIME_INTEGRATED",
+      "runtime_integrated": false
+    },
+    {
+      "file": "surface_paving_reference.png",
+      "sha256": "ec8ca57795e829369ec2af19046ac1bcdb40b9adebcf4fd1563347825c1de8f5",
+      "bytes": 1854759,
+      "status": "APPROVED_DIRECTION_REFERENCE_NOT_RUNTIME_INTEGRATED",
+      "runtime_integrated": false
+    }
+  ],
+  "environment_composition_reference": {
+    "sha256": "dd790368ed84372c24be742a930df7d5a2ff91c05e25c3501d7a06f7175094a7",
+    "source": "2026-09-24 사용자 배경_참고.png",
+    "scope": "배경 공간감/재질/밀도 참고만. 캐릭터·몬스터 제외. 런타임 자산 아님.",
+    "file": "environment_composition_reference.png"
+  }
+}

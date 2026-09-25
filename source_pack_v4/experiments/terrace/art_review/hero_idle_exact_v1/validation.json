@@ -1,0 +1,117 @@
+{
+  "method": "source RGB preserved; color/ink component + enclosed hole fill",
+  "authorized": "User explicitly selected Python mask processing on 2026-09-24",
+  "source_sha256": "0a01d4f99412b2a1eb3d51112e0d921033ef70f8a461dfc451752e03e57ffcf5",
+  "directions": 8,
+  "checks": [
+    {
+      "direction": "FRONT",
+      "foreground_pixels": 82931,
+      "opaque_rgb_identical": true,
+      "local_bbox": [
+        53,
+        23,
+        347,
+        486
+      ],
+      "edge_touches": false
+    },
+    {
+      "direction": "FRONT-RIGHT",
+      "foreground_pixels": 78061,
+      "opaque_rgb_identical": true,
+      "local_bbox": [
+        15,
+        22,
+        296,
+        487
+      ],
+      "edge_touches": false
+    },
+    {
+      "direction": "RIGHT",
+      "foreground_pixels": 59468,
+      "opaque_rgb_identical": true,
+      "local_bbox": [
+        18,
+        19,
+        255,
+        487
+      ],
+      "edge_touches": false
+    },
+    {
+      "direction": "BACK-RIGHT",
+      "foreground_pixels": 77672,
+      "opaque_rgb_identical": true,
+      "local_bbox": [
+        21,
+        17,
+        288,
+        488
+      ],
+      "edge_touches": false
+    },
+    {
+      "direction": "BACK",
+      "foreground_pixels": 78447,
+      "opaque_rgb_identical": true,
+      "local_bbox": [
+        73,
+        17,
+        332,
+        477
+      ],
+      "edge_touches": false
+    },
+    {
+      "direction": "BACK-LEFT",
+      "foreground_pixels": 76832,
+      "opaque_rgb_identical": true,
+      "local_bbox": [
+        80,
+        11,
+        351,
+        478
+      ],
+      "edge_touches": false
+    },
+    {
+      "direction": "LEFT",
+      "foreground_pixels": 61782,
+      "opaque_rgb_identical": true,
+      "local_bbox": [
+        34,
+        6,
+        280,
+        479
+      ],
+      "edge_touches": false
+    },
+    {
+      "direction": "FRONT-LEFT",
+      "foreground_pixels": 82219,
+      "opaque_rgb_identical": true,
+      "local_bbox": [
+        37,
+        12,
+        321,
+        479
+      ],
+      "edge_touches": false
+    }
+  ],
+  "visual_status": "REVIEWED_8_DIRECTIONS_AT_222PX_AND_74PX",
+  "source_foreground_rgb_exact": true,
+  "alpha_values": [
+    0,
+    255
+  ],
+  "gpu": "PASS; stderr empty",
+  "runtime_integrated": false,
+  "limits": [
+    "binary matte, no reconstructed subpixel alpha",
+    "sole midpoint provisional until 3D slope/motion review",
+    "small-size jewelry remains dense"
+  ]
+}

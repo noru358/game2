@@ -1,0 +1,1382 @@
+{
+  "walk_contact.png": {
+    "path": "source_pack_v4\\experiments\\terrace\\assets\\hero_reskin_v1\\walk_contact.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "cells": [
+      {
+        "index": 0,
+        "cell": [
+          0,
+          0,
+          313,
+          313
+        ],
+        "opaque_pixels": 39191,
+        "components": [
+          {
+            "area": 39191,
+            "box": [
+              42,
+              12,
+              285,
+              310
+            ]
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "cell": [
+          313,
+          0,
+          314,
+          313
+        ],
+        "opaque_pixels": 42926,
+        "components": [
+          {
+            "area": 42926,
+            "box": [
+              13,
+              16,
+              259,
+              312
+            ]
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "cell": [
+          627,
+          0,
+          313,
+          313
+        ],
+        "opaque_pixels": 33392,
+        "components": [
+          {
+            "area": 33392,
+            "box": [
+              77,
+              23,
+              251,
+              313
+            ]
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "cell": [
+          940,
+          0,
+          314,
+          313
+        ],
+        "opaque_pixels": 41728,
+        "components": [
+          {
+            "area": 41728,
+            "box": [
+              56,
+              16,
+              299,
+              313
+            ]
+          }
+        ]
+      },
+      {
+        "index": 4,
+        "cell": [
+          0,
+          313,
+          313,
+          314
+        ],
+        "opaque_pixels": 36388,
+        "components": [
+          {
+            "area": 36388,
+            "box": [
+              68,
+              13,
+              313,
+              303
+            ]
+          }
+        ]
+      },
+      {
+        "index": 5,
+        "cell": [
+          313,
+          313,
+          314,
+          314
+        ],
+        "opaque_pixels": 41337,
+        "components": [
+          {
+            "area": 41337,
+            "box": [
+              84,
+              13,
+              314,
+              314
+            ]
+          }
+        ]
+      },
+      {
+        "index": 6,
+        "cell": [
+          627,
+          313,
+          313,
+          314
+        ],
+        "opaque_pixels": 34439,
+        "components": [
+          {
+            "area": 34439,
+            "box": [
+              75,
+              20,
+              251,
+              311
+            ]
+          }
+        ]
+      },
+      {
+        "index": 7,
+        "cell": [
+          940,
+          313,
+          314,
+          314
+        ],
+        "opaque_pixels": 40243,
+        "components": [
+          {
+            "area": 40243,
+            "box": [
+              8,
+              14,
+              236,
+              314
+            ]
+          }
+        ]
+      },
+      {
+        "index": 8,
+        "cell": [
+          0,
+          627,
+          313,
+          313
+        ],
+        "opaque_pixels": 38683,
+        "components": [
+          {
+            "area": 38683,
+            "box": [
+              38,
+              0,
+              285,
+              292
+            ]
+          }
+        ]
+      },
+      {
+        "index": 9,
+        "cell": [
+          313,
+          627,
+          314,
+          313
+        ],
+        "opaque_pixels": 40737,
+        "components": [
+          {
+            "area": 40737,
+            "box": [
+              26,
+              4,
+              262,
+              295
+            ]
+          }
+        ]
+      },
+      {
+        "index": 10,
+        "cell": [
+          627,
+          627,
+          313,
+          313
+        ],
+        "opaque_pixels": 32973,
+        "components": [
+          {
+            "area": 32973,
+            "box": [
+              78,
+              13,
+              250,
+              303
+            ]
+          }
+        ]
+      },
+      {
+        "index": 11,
+        "cell": [
+          940,
+          627,
+          314,
+          313
+        ],
+        "opaque_pixels": 41347,
+        "components": [
+          {
+            "area": 41347,
+            "box": [
+              51,
+              11,
+              304,
+              298
+            ]
+          }
+        ]
+      },
+      {
+        "index": 12,
+        "cell": [
+          0,
+          940,
+          313,
+          314
+        ],
+        "opaque_pixels": 37790,
+        "components": [
+          {
+            "area": 37790,
+            "box": [
+              60,
+              0,
+              310,
+              282
+            ]
+          }
+        ]
+      },
+      {
+        "index": 13,
+        "cell": [
+          313,
+          940,
+          314,
+          314
+        ],
+        "opaque_pixels": 40613,
+        "components": [
+          {
+            "area": 40613,
+            "box": [
+              89,
+              0,
+              314,
+              294
+            ]
+          }
+        ]
+      },
+      {
+        "index": 14,
+        "cell": [
+          627,
+          940,
+          313,
+          314
+        ],
+        "opaque_pixels": 34541,
+        "components": [
+          {
+            "area": 34541,
+            "box": [
+              73,
+              3,
+              255,
+              292
+            ]
+          }
+        ]
+      },
+      {
+        "index": 15,
+        "cell": [
+          940,
+          940,
+          314,
+          314
+        ],
+        "opaque_pixels": 40718,
+        "components": [
+          {
+            "area": 40718,
+            "box": [
+              6,
+              4,
+              242,
+              292
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "walk_pass.png": {
+    "path": "source_pack_v4\\experiments\\terrace\\assets\\hero_reskin_v1\\walk_pass.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "cells": [
+      {
+        "index": 0,
+        "cell": [
+          0,
+          0,
+          313,
+          313
+        ],
+        "opaque_pixels": 37805,
+        "components": [
+          {
+            "area": 37805,
+            "box": [
+              42,
+              13,
+              278,
+              306
+            ]
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "cell": [
+          313,
+          0,
+          314,
+          313
+        ],
+        "opaque_pixels": 40707,
+        "components": [
+          {
+            "area": 40707,
+            "box": [
+              21,
+              13,
+              262,
+              313
+            ]
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "cell": [
+          627,
+          0,
+          313,
+          313
+        ],
+        "opaque_pixels": 34301,
+        "components": [
+          {
+            "area": 34301,
+            "box": [
+              70,
+              18,
+              253,
+              313
+            ]
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "cell": [
+          940,
+          0,
+          314,
+          313
+        ],
+        "opaque_pixels": 41537,
+        "components": [
+          {
+            "area": 41537,
+            "box": [
+              67,
+              10,
+              305,
+              313
+            ]
+          }
+        ]
+      },
+      {
+        "index": 4,
+        "cell": [
+          0,
+          313,
+          313,
+          314
+        ],
+        "opaque_pixels": 35992,
+        "components": [
+          {
+            "area": 35992,
+            "box": [
+              75,
+              9,
+              313,
+              300
+            ]
+          }
+        ]
+      },
+      {
+        "index": 5,
+        "cell": [
+          313,
+          313,
+          314,
+          314
+        ],
+        "opaque_pixels": 39877,
+        "components": [
+          {
+            "area": 39877,
+            "box": [
+              86,
+              16,
+              313,
+              305
+            ]
+          }
+        ]
+      },
+      {
+        "index": 6,
+        "cell": [
+          627,
+          313,
+          313,
+          314
+        ],
+        "opaque_pixels": 33229,
+        "components": [
+          {
+            "area": 33229,
+            "box": [
+              70,
+              23,
+              258,
+              307
+            ]
+          }
+        ]
+      },
+      {
+        "index": 7,
+        "cell": [
+          940,
+          313,
+          314,
+          314
+        ],
+        "opaque_pixels": 38852,
+        "components": [
+          {
+            "area": 38852,
+            "box": [
+              16,
+              15,
+              240,
+              308
+            ]
+          }
+        ]
+      },
+      {
+        "index": 8,
+        "cell": [
+          0,
+          627,
+          313,
+          313
+        ],
+        "opaque_pixels": 37089,
+        "components": [
+          {
+            "area": 37089,
+            "box": [
+              44,
+              3,
+              280,
+              288
+            ]
+          }
+        ]
+      },
+      {
+        "index": 9,
+        "cell": [
+          313,
+          627,
+          314,
+          313
+        ],
+        "opaque_pixels": 40394,
+        "components": [
+          {
+            "area": 40394,
+            "box": [
+              22,
+              3,
+              253,
+              296
+            ]
+          }
+        ]
+      },
+      {
+        "index": 10,
+        "cell": [
+          627,
+          627,
+          313,
+          313
+        ],
+        "opaque_pixels": 35390,
+        "components": [
+          {
+            "area": 35390,
+            "box": [
+              74,
+              10,
+              258,
+              300
+            ]
+          }
+        ]
+      },
+      {
+        "index": 11,
+        "cell": [
+          940,
+          627,
+          314,
+          313
+        ],
+        "opaque_pixels": 39763,
+        "components": [
+          {
+            "area": 39763,
+            "box": [
+              74,
+              4,
+              304,
+              297
+            ]
+          }
+        ]
+      },
+      {
+        "index": 12,
+        "cell": [
+          0,
+          940,
+          313,
+          314
+        ],
+        "opaque_pixels": 35998,
+        "components": [
+          {
+            "area": 35998,
+            "box": [
+              79,
+              0,
+              308,
+              282
+            ]
+          }
+        ]
+      },
+      {
+        "index": 13,
+        "cell": [
+          313,
+          940,
+          314,
+          314
+        ],
+        "opaque_pixels": 38417,
+        "components": [
+          {
+            "area": 38417,
+            "box": [
+              83,
+              0,
+              309,
+              285
+            ]
+          }
+        ]
+      },
+      {
+        "index": 14,
+        "cell": [
+          627,
+          940,
+          313,
+          314
+        ],
+        "opaque_pixels": 34586,
+        "components": [
+          {
+            "area": 34586,
+            "box": [
+              70,
+              0,
+              263,
+              287
+            ]
+          }
+        ]
+      },
+      {
+        "index": 15,
+        "cell": [
+          940,
+          940,
+          314,
+          314
+        ],
+        "opaque_pixels": 37138,
+        "components": [
+          {
+            "area": 37138,
+            "box": [
+              19,
+              1,
+              244,
+              285
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "run_contact.png": {
+    "path": "source_pack_v4\\experiments\\terrace\\assets\\hero_reskin_v1\\run_contact.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "cells": [
+      {
+        "index": 0,
+        "cell": [
+          0,
+          0,
+          313,
+          313
+        ],
+        "opaque_pixels": 45645,
+        "components": [
+          {
+            "area": 45645,
+            "box": [
+              35,
+              9,
+              313,
+              302
+            ]
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "cell": [
+          313,
+          0,
+          314,
+          313
+        ],
+        "opaque_pixels": 43064,
+        "components": [
+          {
+            "area": 43064,
+            "box": [
+              52,
+              17,
+              303,
+              313
+            ]
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "cell": [
+          627,
+          0,
+          313,
+          313
+        ],
+        "opaque_pixels": 35986,
+        "components": [
+          {
+            "area": 35986,
+            "box": [
+              82,
+              31,
+              262,
+              313
+            ]
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "cell": [
+          940,
+          0,
+          314,
+          313
+        ],
+        "opaque_pixels": 46632,
+        "components": [
+          {
+            "area": 46632,
+            "box": [
+              19,
+              9,
+              291,
+              313
+            ]
+          }
+        ]
+      },
+      {
+        "index": 4,
+        "cell": [
+          0,
+          313,
+          313,
+          314
+        ],
+        "opaque_pixels": 42105,
+        "components": [
+          {
+            "area": 42105,
+            "box": [
+              60,
+              2,
+              313,
+              294
+            ]
+          }
+        ]
+      },
+      {
+        "index": 5,
+        "cell": [
+          313,
+          313,
+          314,
+          314
+        ],
+        "opaque_pixels": 39264,
+        "components": [
+          {
+            "area": 39264,
+            "box": [
+              82,
+              12,
+              314,
+              303
+            ]
+          }
+        ]
+      },
+      {
+        "index": 6,
+        "cell": [
+          627,
+          313,
+          313,
+          314
+        ],
+        "opaque_pixels": 34785,
+        "components": [
+          {
+            "area": 34785,
+            "box": [
+              73,
+              14,
+              258,
+              305
+            ]
+          }
+        ]
+      },
+      {
+        "index": 7,
+        "cell": [
+          940,
+          313,
+          314,
+          314
+        ],
+        "opaque_pixels": 42681,
+        "components": [
+          {
+            "area": 42681,
+            "box": [
+              0,
+              9,
+              250,
+              311
+            ]
+          }
+        ]
+      },
+      {
+        "index": 8,
+        "cell": [
+          0,
+          627,
+          313,
+          313
+        ],
+        "opaque_pixels": 48334,
+        "components": [
+          {
+            "area": 48334,
+            "box": [
+              36,
+              0,
+              313,
+              297
+            ]
+          }
+        ]
+      },
+      {
+        "index": 9,
+        "cell": [
+          313,
+          627,
+          314,
+          313
+        ],
+        "opaque_pixels": 44016,
+        "components": [
+          {
+            "area": 44016,
+            "box": [
+              54,
+              4,
+              312,
+              305
+            ]
+          }
+        ]
+      },
+      {
+        "index": 10,
+        "cell": [
+          627,
+          627,
+          313,
+          313
+        ],
+        "opaque_pixels": 35024,
+        "components": [
+          {
+            "area": 35024,
+            "box": [
+              83,
+              14,
+              262,
+              313
+            ]
+          }
+        ]
+      },
+      {
+        "index": 11,
+        "cell": [
+          940,
+          627,
+          314,
+          313
+        ],
+        "opaque_pixels": 45294,
+        "components": [
+          {
+            "area": 45294,
+            "box": [
+              24,
+              1,
+              290,
+              300
+            ]
+          }
+        ]
+      },
+      {
+        "index": 12,
+        "cell": [
+          0,
+          940,
+          313,
+          314
+        ],
+        "opaque_pixels": 39496,
+        "components": [
+          {
+            "area": 39496,
+            "box": [
+              50,
+              4,
+              313,
+              268
+            ]
+          }
+        ]
+      },
+      {
+        "index": 13,
+        "cell": [
+          313,
+          940,
+          314,
+          314
+        ],
+        "opaque_pixels": 38024,
+        "components": [
+          {
+            "area": 38024,
+            "box": [
+              82,
+              4,
+              314,
+              285
+            ]
+          }
+        ]
+      },
+      {
+        "index": 14,
+        "cell": [
+          627,
+          940,
+          313,
+          314
+        ],
+        "opaque_pixels": 33043,
+        "components": [
+          {
+            "area": 33043,
+            "box": [
+              68,
+              4,
+              255,
+              293
+            ]
+          }
+        ]
+      },
+      {
+        "index": 15,
+        "cell": [
+          940,
+          940,
+          314,
+          314
+        ],
+        "opaque_pixels": 39355,
+        "components": [
+          {
+            "area": 39355,
+            "box": [
+              0,
+              4,
+              249,
+              293
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "run_pass.png": {
+    "path": "source_pack_v4\\experiments\\terrace\\assets\\hero_reskin_v1\\run_pass.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "cells": [
+      {
+        "index": 0,
+        "cell": [
+          0,
+          0,
+          313,
+          313
+        ],
+        "opaque_pixels": 37851,
+        "components": [
+          {
+            "area": 37851,
+            "box": [
+              48,
+              22,
+              313,
+              313
+            ]
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "cell": [
+          313,
+          0,
+          314,
+          313
+        ],
+        "opaque_pixels": 36786,
+        "components": [
+          {
+            "area": 36786,
+            "box": [
+              58,
+              41,
+              289,
+              313
+            ]
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "cell": [
+          627,
+          0,
+          313,
+          313
+        ],
+        "opaque_pixels": 31531,
+        "components": [
+          {
+            "area": 31531,
+            "box": [
+              78,
+              35,
+              244,
+              313
+            ]
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "cell": [
+          940,
+          0,
+          314,
+          313
+        ],
+        "opaque_pixels": 36647,
+        "components": [
+          {
+            "area": 36647,
+            "box": [
+              37,
+              38,
+              281,
+              313
+            ]
+          }
+        ]
+      },
+      {
+        "index": 4,
+        "cell": [
+          0,
+          313,
+          313,
+          314
+        ],
+        "opaque_pixels": 35092,
+        "components": [
+          {
+            "area": 35092,
+            "box": [
+              57,
+              38,
+              313,
+              302
+            ]
+          }
+        ]
+      },
+      {
+        "index": 5,
+        "cell": [
+          313,
+          313,
+          314,
+          314
+        ],
+        "opaque_pixels": 32056,
+        "components": [
+          {
+            "area": 32056,
+            "box": [
+              89,
+              44,
+              314,
+              302
+            ]
+          }
+        ]
+      },
+      {
+        "index": 6,
+        "cell": [
+          627,
+          313,
+          313,
+          314
+        ],
+        "opaque_pixels": 30448,
+        "components": [
+          {
+            "area": 30448,
+            "box": [
+              82,
+              39,
+              244,
+              303
+            ]
+          }
+        ]
+      },
+      {
+        "index": 7,
+        "cell": [
+          940,
+          313,
+          314,
+          314
+        ],
+        "opaque_pixels": 32098,
+        "components": [
+          {
+            "area": 32098,
+            "box": [
+              12,
+              44,
+              235,
+              302
+            ]
+          }
+        ]
+      },
+      {
+        "index": 8,
+        "cell": [
+          0,
+          627,
+          313,
+          313
+        ],
+        "opaque_pixels": 35494,
+        "components": [
+          {
+            "area": 35494,
+            "box": [
+              58,
+              17,
+              313,
+              291
+            ]
+          }
+        ]
+      },
+      {
+        "index": 9,
+        "cell": [
+          313,
+          627,
+          314,
+          313
+        ],
+        "opaque_pixels": 35369,
+        "components": [
+          {
+            "area": 35369,
+            "box": [
+              63,
+              29,
+              295,
+              304
+            ]
+          }
+        ]
+      },
+      {
+        "index": 10,
+        "cell": [
+          627,
+          627,
+          313,
+          313
+        ],
+        "opaque_pixels": 30170,
+        "components": [
+          {
+            "area": 30170,
+            "box": [
+              80,
+              24,
+              237,
+              306
+            ]
+          }
+        ]
+      },
+      {
+        "index": 11,
+        "cell": [
+          940,
+          627,
+          314,
+          313
+        ],
+        "opaque_pixels": 36893,
+        "components": [
+          {
+            "area": 36893,
+            "box": [
+              40,
+              22,
+              288,
+              304
+            ]
+          }
+        ]
+      },
+      {
+        "index": 12,
+        "cell": [
+          0,
+          940,
+          313,
+          314
+        ],
+        "opaque_pixels": 33880,
+        "components": [
+          {
+            "area": 33880,
+            "box": [
+              59,
+              12,
+              313,
+              269
+            ]
+          }
+        ]
+      },
+      {
+        "index": 13,
+        "cell": [
+          313,
+          940,
+          314,
+          314
+        ],
+        "opaque_pixels": 32522,
+        "components": [
+          {
+            "area": 32522,
+            "box": [
+              88,
+              22,
+              314,
+              273
+            ]
+          }
+        ]
+      },
+      {
+        "index": 14,
+        "cell": [
+          627,
+          940,
+          313,
+          314
+        ],
+        "opaque_pixels": 28856,
+        "components": [
+          {
+            "area": 28856,
+            "box": [
+              82,
+              19,
+              240,
+              279
+            ]
+          }
+        ]
+      },
+      {
+        "index": 15,
+        "cell": [
+          940,
+          940,
+          314,
+          314
+        ],
+        "opaque_pixels": 32525,
+        "components": [
+          {
+            "area": 32525,
+            "box": [
+              7,
+              19,
+              233,
+              275
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

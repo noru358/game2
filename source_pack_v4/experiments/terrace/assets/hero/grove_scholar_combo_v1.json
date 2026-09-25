@@ -1,0 +1,282 @@
+[
+  {
+    "region": [
+      35,
+      5,
+      288,
+      305
+    ],
+    "top": 2,
+    "foot": 302,
+    "root_x": 155,
+    "source_mirrored": false,
+    "hand": [
+      264,
+      138
+    ]
+  },
+  {
+    "region": [
+      355,
+      11,
+      261,
+      299
+    ],
+    "top": 2,
+    "foot": 296,
+    "root_x": 160,
+    "source_mirrored": false,
+    "hand": [
+      235,
+      151
+    ]
+  },
+  {
+    "region": [
+      691,
+      14,
+      224,
+      296
+    ],
+    "top": 2,
+    "foot": 293,
+    "root_x": 129,
+    "source_mirrored": false,
+    "hand": [
+      174,
+      144
+    ]
+  },
+  {
+    "region": [
+      992,
+      15,
+      280,
+      297
+    ],
+    "top": 2,
+    "foot": 294,
+    "root_x": 158,
+    "source_mirrored": true,
+    "hand": [
+      257,
+      129
+    ]
+  },
+  {
+    "region": [
+      1300,
+      14,
+      281,
+      295
+    ],
+    "top": 2,
+    "foot": 292,
+    "root_x": 155,
+    "source_mirrored": false,
+    "hand": [
+      266,
+      123
+    ]
+  },
+  {
+    "region": [
+      37,
+      321,
+      266,
+      315
+    ],
+    "top": 2,
+    "foot": 312,
+    "root_x": 168,
+    "source_mirrored": false,
+    "hand": [
+      245,
+      77
+    ]
+  },
+  {
+    "region": [
+      374,
+      324,
+      259,
+      316
+    ],
+    "top": 2,
+    "foot": 313,
+    "root_x": 156,
+    "source_mirrored": false,
+    "hand": [
+      237,
+      72
+    ]
+  },
+  {
+    "region": [
+      698,
+      331,
+      240,
+      305
+    ],
+    "top": 2,
+    "foot": 302,
+    "root_x": 127,
+    "source_mirrored": false,
+    "hand": [
+      210,
+      55
+    ]
+  },
+  {
+    "region": [
+      1040,
+      332,
+      248,
+      306
+    ],
+    "top": 2,
+    "foot": 303,
+    "root_x": 95,
+    "source_mirrored": true,
+    "hand": [
+      20,
+      49
+    ]
+  },
+  {
+    "region": [
+      1320,
+      337,
+      257,
+      314
+    ],
+    "top": 2,
+    "foot": 311,
+    "root_x": 130,
+    "source_mirrored": false,
+    "hand": [
+      235,
+      52
+    ]
+  },
+  {
+    "region": [
+      35,
+      643,
+      298,
+      303
+    ],
+    "top": 2,
+    "foot": 300,
+    "root_x": 160,
+    "source_mirrored": false,
+    "hand": [
+      275,
+      145
+    ]
+  },
+  {
+    "region": [
+      369,
+      651,
+      266,
+      294
+    ],
+    "top": 2,
+    "foot": 291,
+    "root_x": 156,
+    "source_mirrored": false,
+    "hand": [
+      225,
+      148
+    ],
+    "hands": [
+      [
+        202,
+        156
+      ],
+      [
+        244,
+        145
+      ]
+    ]
+  },
+  {
+    "region": [
+      684,
+      650,
+      244,
+      292
+    ],
+    "top": 2,
+    "foot": 289,
+    "root_x": 136,
+    "source_mirrored": false,
+    "hand": [
+      134,
+      145
+    ],
+    "hands": [
+      [
+        84,
+        151
+      ],
+      [
+        192,
+        151
+      ]
+    ]
+  },
+  {
+    "region": [
+      991,
+      656,
+      306,
+      289
+    ],
+    "top": 2,
+    "foot": 286,
+    "root_x": 149,
+    "source_mirrored": true,
+    "hand": [
+      44,
+      124
+    ],
+    "hands": [
+      [
+        20,
+        136
+      ],
+      [
+        56,
+        123
+      ]
+    ]
+  },
+  {
+    "region": [
+      1319,
+      652,
+      253,
+      304
+    ],
+    "top": 2,
+    "foot": 301,
+    "root_x": 131,
+    "source_mirrored": false,
+    "hand": [
+      131,
+      127
+    ],
+    "hands": [
+      [
+        53,
+        124
+      ],
+      [
+        226,
+        123
+      ]
+    ]
+  }
+]

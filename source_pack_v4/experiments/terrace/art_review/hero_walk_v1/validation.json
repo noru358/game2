@@ -1,0 +1,15 @@
+{
+  "frame_bounds": "PASS 16",
+  "unique_direction_phases": "PASS 16",
+  "target_directions": 8,
+  "missing_directions": [
+    1,
+    3,
+    5,
+    7
+  ],
+  "alpha_0": 849577,
+  "alpha_255": 669,
+  "alpha_partial": 722264,
+  "art_quality": "NOT ACCEPTED"
+}

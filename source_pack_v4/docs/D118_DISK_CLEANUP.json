@@ -1,0 +1,47 @@
+{
+  "date": "2026-09-24",
+  "initial_free_bytes": 0,
+  "after_cleanup_free_bytes": 11723751424,
+  "categories": [
+    {
+      "category": "검수용 임시 엔진 복사본",
+      "files": 55,
+      "logical_bytes": 6009766400,
+      "details": "D118_REMOVED_QA_EXECUTABLES.json"
+    },
+    {
+      "category": "검수용 임시 게임 데이터/안내",
+      "files": 231,
+      "logical_bytes": 1705071705,
+      "details": "D118_REMOVED_QA_DATA.json"
+    },
+    {
+      "category": "문서 이미지의 Godot 변환 캐시",
+      "files": 4494,
+      "logical_bytes": 1189826581,
+      "details": "D118_REMOVED_DOC_IMPORTS.json"
+    },
+    {
+      "category": "설치 완료 Godot 다운로드 압축",
+      "files": 2,
+      "logical_bytes": 1367363568,
+      "details": "D118_REMOVED_INSTALLER_ARCHIVES.json"
+    },
+    {
+      "category": "7월 GitHub Desktop 설치 임시 파일",
+      "files": 2247,
+      "logical_bytes": 1459011345,
+      "details": "D118_REMOVED_OLD_INSTALLER_TEMP.json"
+    }
+  ],
+  "removed_logical_bytes": 11731039599,
+  "preserved_document_images_sha256_verified": 1498,
+  "preserved_design_references_before_recovery": 15,
+  "user_game_pid_preserved": 35900,
+  "scope": "Temporary QA extractions, derived documentation imports, verified downloaded installers. Source, art, QA original images, builds, installed tools, real saves preserved.",
+  "first_single_file": {
+    "path": "C:/Users/User/AppData/Local/Temp/experience-mac-qa-34c6e972f959450a9572d5e0d12deb93/ExperienceLab.exe",
+    "bytes": 109268480,
+    "sha256": "D34D36F3BE1A6C49C56525AE86469B92E4F417DDF0B43CF00DD80C385C4B0562"
+  }
+}

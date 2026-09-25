@@ -1,0 +1,7 @@
+{
+  "checks": 37,
+  "failures": 0,
+  "max_foot_error": 0.0230749123683252,
+  "scope": "terrain/input/round-trip/in-process temp snapshot; no combat or cross-launch saves",
+  "transitions": 2
+}

@@ -1,0 +1,4766 @@
+{
+  "status": "CANDIDATE_NOT_ACCEPTED",
+  "final_directions": 8,
+  "coverage": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "attack_coverage": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "frames": [
+    {
+      "sheet": "locomotion.png",
+      "state": "walk",
+      "step": 0,
+      "frame": 0,
+      "direction": 0,
+      "region": [
+        0,
+        0,
+        576,
+        576
+      ],
+      "top": 8,
+      "foot": 491,
+      "visible_sole_y": 491,
+      "source_sole_y": 500.0,
+      "root_x": 218.0,
+      "source_origin": [
+        44,
+        17
+      ],
+      "source_grid_origin": [
+        0.0,
+        0.0
+      ],
+      "padding": 8,
+      "height_reference": 481.28,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true
+    },
+    {
+      "sheet": "locomotion.png",
+      "state": "walk",
+      "step": 0,
+      "frame": 1,
+      "direction": 0,
+      "region": [
+        576,
+        0,
+        576,
+        576
+      ],
+      "top": 8,
+      "foot": 487,
+      "visible_sole_y": 487,
+      "source_sole_y": 496.0,
+      "root_x": 205.0,
+      "source_origin": [
+        429,
+        17
+      ],
+      "source_grid_origin": [
+        384.0,
+        0.0
+      ],
+      "padding": 8,
+      "height_reference": 481.28,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true
+    },
+    {
+      "sheet": "locomotion.png",
+      "state": "walk",
+      "step": 0,
+      "frame": 2,
+      "direction": 0,
+      "region": [
+        1152,
+        0,
+        576,
+        576
+      ],
+      "top": 8,
+      "foot": 495,
+      "visible_sole_y": 495,
+      "source_sole_y": 502.0,
+      "root_x": 209.0,
+      "source_origin": [
+        803,
+        15
+      ],
+      "source_grid_origin": [
+        768.0,
+        0.0
+      ],
+      "padding": 8,
+      "height_reference": 481.28,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true
+    },
+    {
+      "sheet": "locomotion.png",
+      "state": "walk",
+      "step": 0,
+      "frame": 3,
+      "direction": 0,
+      "region": [
+        1728,
+        0,
+        576,
+        576
+      ],
+      "top": 8,
+      "foot": 497,
+      "visible_sole_y": 497,
+      "source_sole_y": 504.0,
+      "root_x": 205.0,
+      "source_origin": [
+        1195,
+        15
+      ],
+      "source_grid_origin": [
+        1152.0,
+        0.0
+      ],
+      "padding": 8,
+      "height_reference": 481.28,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true
+    },
+    {
+      "sheet": "locomotion.png",
+      "state": "run",
+      "step": 0,
+      "frame": 0,
+      "direction": 0,
+      "region": [
+        0,
+        576,
+        576,
+        576
+      ],
+      "top": 8,
+      "foot": 491.4704,
+      "visible_sole_y": 465,
+      "source_sole_y": 462.0,
+      "root_x": 216.2,
+      "source_origin": [
+        24,
+        517
+      ],
+      "source_grid_origin": [
+        0.0,
+        512.0
+      ],
+      "padding": 8,
+      "height_reference": 481.28,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "gait_role": "flight"
+    },
+    {
+      "sheet": "locomotion.png",
+      "state": "run",
+      "step": 0,
+      "frame": 1,
+      "direction": 0,
+      "region": [
+        576,
+        576,
+        576,
+        576
+      ],
+      "top": 8,
+      "foot": 468,
+      "visible_sole_y": 468,
+      "source_sole_y": 462.0,
+      "root_x": 185.9,
+      "source_origin": [
+        415,
+        514
+      ],
+      "source_grid_origin": [
+        384.0,
+        512.0
+      ],
+      "padding": 8,
+      "height_reference": 481.28,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "gait_role": "support"
+    },
+    {
+      "sheet": "locomotion.png",
+      "state": "run",
+      "step": 0,
+      "frame": 2,
+      "direction": 0,
+      "region": [
+        1152,
+        576,
+        576,
+        576
+      ],
+      "top": 8,
+      "foot": 493.4704,
+      "visible_sole_y": 467,
+      "source_sole_y": 464.0,
+      "root_x": 201.0,
+      "source_origin": [
+        803,
+        517
+      ],
+      "source_grid_origin": [
+        768.0,
+        512.0
+      ],
+      "padding": 8,
+      "height_reference": 481.28,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "gait_role": "flight"
+    },
+    {
+      "sheet": "locomotion.png",
+      "state": "run",
+      "step": 0,
+      "frame": 3,
+      "direction": 0,
+      "region": [
+        1728,
+        576,
+        576,
+        576
+      ],
+      "top": 8,
+      "foot": 480,
+      "visible_sole_y": 480,
+      "source_sole_y": 478.0,
+      "root_x": 187.7,
+      "source_origin": [
+        1183,
+        518
+      ],
+      "source_grid_origin": [
+        1152.0,
+        512.0
+      ],
+      "padding": 8,
+      "height_reference": 481.28,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "gait_role": "support"
+    },
+    {
+      "sheet": "front_right.png",
+      "state": "walk",
+      "step": 0,
+      "frame": 0,
+      "direction": 1,
+      "region": [
+        0,
+        0,
+        576,
+        576
+      ],
+      "top": 8,
+      "foot": 485,
+      "visible_sole_y": 485,
+      "source_sole_y": 500.0,
+      "root_x": 211.0,
+      "source_origin": [
+        60,
+        23
+      ],
+      "source_grid_origin": [
+        0.0,
+        0.0
+      ],
+      "padding": 8,
+      "height_reference": 481.28,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true
+    },
+    {
+      "sheet": "front_right.png",
+      "state": "walk",
+      "step": 0,
+      "frame": 1,
+      "direction": 1,
+      "region": [
+        576,
+        0,
+        576,
+        576
+      ],
+      "top": 8,
+      "foot": 483,
+      "visible_sole_y": 483,
+      "source_sole_y": 498.0,
+      "root_x": 164.0,
+      "source_origin": [
+        442,
+        23
+      ],
+      "source_grid_origin": [
+        384.0,
+        0.0
+      ],
+      "padding": 8,
+      "height_reference": 481.28,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true
+    },
+    {
+      "sheet": "attack.png",
+      "state": "attack",
+      "step": 1,
+      "frame": 0,
+      "direction": 1,
+      "region": [
+        0,
+        0,
+        576,
+        576
+      ],
+      "top": 8,
+      "foot": 402,
+      "visible_sole_y": 402,
+      "source_sole_y": 413.0,
+      "root_x": 197.0,
+      "source_origin": [
+        63,
+        19
+      ],
+      "source_grid_origin": [
+        0.0,
+        0.0
+      ],
+      "padding": 8,
+      "height_reference": 392.91999999999996,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "hands": [
+        [
+          220.04400000000004,
+          226.84199999999998
+        ]
+      ],
+      "hand_status": "unused_nonrelease_anchor"
+    },
+    {
+      "sheet": "attack.png",
+      "state": "attack",
+      "step": 1,
+      "frame": 1,
+      "direction": 1,
+      "region": [
+        576,
+        0,
+        576,
+        576
+      ],
+      "top": 8,
+      "foot": 396,
+      "visible_sole_y": 396,
+      "source_sole_y": 413.0,
+      "root_x": 183.0,
+      "source_origin": [
+        475,
+        25
+      ],
+      "source_grid_origin": [
+        418.0,
+        0.0
+      ],
+      "padding": 8,
+      "height_reference": 392.91999999999996,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "hands": [
+        [
+          226.0440000000001,
+          220.84199999999998
+        ]
+      ],
+      "hand_status": "GPU_reviewed_release_anchor"
+    },
+    {
+      "sheet": "attack.png",
+      "state": "attack",
+      "step": 1,
+      "frame": 2,
+      "direction": 1,
+      "region": [
+        1152,
+        0,
+        576,
+        576
+      ],
+      "top": 8,
+      "foot": 403,
+      "visible_sole_y": 403,
+      "source_sole_y": 413.0,
+      "root_x": 174.0,
+      "source_origin": [
+        892,
+        18
+      ],
+      "source_grid_origin": [
+        836.0,
+        0.0
+      ],
+      "padding": 8,
+      "height_reference": 392.91999999999996,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "hands": [
+        [
+          227.0440000000001,
+          227.84199999999998
+        ]
+      ],
+      "hand_status": "unused_nonrelease_anchor"
+    },
+    {
+      "sheet": "attack.png",
+      "state": "attack",
+      "step": 2,
+      "frame": 0,
+      "direction": 1,
+      "region": [
+        0,
+        576,
+        576,
+        576
+      ],
+      "top": 8,
+      "foot": 392,
+      "visible_sole_y": 392,
+      "source_sole_y": 393.0,
+      "root_x": 190.0,
+      "source_origin": [
+        70,
+        427
+      ],
+      "source_grid_origin": [
+        0.0,
+        418.0
+      ],
+      "padding": 8,
+      "height_reference": 392.91999999999996,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "hands": [
+        [
+          60.05599999999998,
+          208.836
+        ]
+      ],
+      "hand_status": "unused_nonrelease_anchor"
+    },
+    {
+      "sheet": "attack.png",
+      "state": "attack",
+      "step": 2,
+      "frame": 1,
+      "direction": 1,
+      "region": [
+        576,
+        576,
+        576,
+        576
+      ],
+      "top": 8,
+      "foot": 382,
+      "visible_sole_y": 382,
+      "source_sole_y": 392.0,
+      "root_x": 198.0,
+      "source_origin": [
+        479,
+        436
+      ],
+      "source_grid_origin": [
+        418.0,
+        418.0
+      ],
+      "padding": 8,
+      "height_reference": 392.91999999999996,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "hands": [
+        [
+          69.05600000000004,
+          199.836
+        ]
+      ],
+      "hand_status": "GPU_reviewed_release_anchor"
+    },
+    {
+      "sheet": "attack.png",
+      "state": "attack",
+      "step": 2,
+      "frame": 2,
+      "direction": 1,
+      "region": [
+        1152,
+        576,
+        576,
+        576
+      ],
+      "top": 8,
+      "foot": 376,
+      "visible_sole_y": 376,
+      "source_sole_y": 393.0,
+      "root_x": 186.0,
+      "source_origin": [
+        882,
+        443
+      ],
+      "source_grid_origin": [
+        836.0,
+        418.0
+      ],
+      "padding": 8,
+      "height_reference": 392.91999999999996,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "hands": [
+        [
+          84.05600000000004,
+          192.836
+        ]
+      ],
+      "hand_status": "unused_nonrelease_anchor"
+    },
+    {
+      "sheet": "attack.png",
+      "state": "attack",
+      "step": 3,
+      "frame": 0,
+      "direction": 1,
+      "region": [
+        0,
+        1152,
+        576,
+        576
+      ],
+      "top": 8,
+      "foot": 388,
+      "visible_sole_y": 388,
+      "source_sole_y": 372.0,
+      "root_x": 188.0,
+      "source_origin": [
+        83,
+        828
+      ],
+      "source_grid_origin": [
+        0.0,
+        836.0
+      ],
+      "padding": 8,
+      "height_reference": 392.91999999999996,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "hands": [
+        [
+          248.95,
+          268.0540000000001
+        ]
+      ],
+      "hand_status": "unused_nonrelease_anchor"
+    },
+    {
+      "sheet": "attack.png",
+      "state": "attack",
+      "step": 3,
+      "frame": 1,
+      "direction": 1,
+      "region": [
+        576,
+        1152,
+        576,
+        576
+      ],
+      "top": 8,
+      "foot": 373,
+      "visible_sole_y": 373,
+      "source_sole_y": 372.0,
+      "root_x": 211.0,
+      "source_origin": [
+        477,
+        843
+      ],
+      "source_grid_origin": [
+        418.0,
+        836.0
+      ],
+      "padding": 8,
+      "height_reference": 392.91999999999996,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "hands": [
+        [
+          272.95000000000005,
+          253.0540000000001
+        ]
+      ],
+      "hand_status": "GPU_reviewed_release_anchor"
+    },
+    {
+      "sheet": "attack.png",
+      "state": "attack",
+      "step": 3,
+      "frame": 2,
+      "direction": 1,
+      "region": [
+        1152,
+        1152,
+        576,
+        576
+      ],
+      "top": 8,
+      "foot": 361,
+      "visible_sole_y": 361,
+      "source_sole_y": 370.0,
+      "root_x": 234.0,
+      "source_origin": [
+        880,
+        853
+      ],
+      "source_grid_origin": [
+        836.0,
+        836.0
+      ],
+      "padding": 8,
+      "height_reference": 392.91999999999996,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "hands": [
+        [
+          287.95000000000005,
+          243.0540000000001
+        ]
+      ],
+      "hand_status": "unused_nonrelease_anchor"
+    },
+    {
+      "sheet": "attack_right.png",
+      "state": "attack",
+      "step": 1,
+      "frame": 0,
+      "direction": 0,
+      "region": [
+        0,
+        0,
+        576,
+        576
+      ],
+      "top": 8,
+      "foot": 413,
+      "visible_sole_y": 413,
+      "source_sole_y": 417.0,
+      "root_x": 208.0,
+      "source_origin": [
+        50,
+        12
+      ],
+      "source_grid_origin": [
+        0.0,
+        0.0
+      ],
+      "padding": 8,
+      "height_reference": 392.91999999999996,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "hands": [
+        [
+          273.59,
+          232.16999999999996
+        ]
+      ],
+      "hand_status": "unused_nonrelease_anchor"
+    },
+    {
+      "sheet": "attack_right.png",
+      "state": "attack",
+      "step": 1,
+      "frame": 1,
+      "direction": 0,
+      "region": [
+        576,
+        0,
+        576,
+        576
+      ],
+      "top": 8,
+      "foot": 412,
+      "visible_sole_y": 412,
+      "source_sole_y": 417.0,
+      "root_x": 191.0,
+      "source_origin": [
+        468,
+        13
+      ],
+      "source_grid_origin": [
+        418.0,
+        0.0
+      ],
+      "padding": 8,
+      "height_reference": 392.91999999999996,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "hands": [
+        [
+          273.5899999999999,
+          231.16999999999996
+        ]
+      ],
+      "hand_status": "GPU_reviewed_release_anchor"
+    },
+    {
+      "sheet": "attack_right.png",
+      "state": "attack",
+      "step": 1,
+      "frame": 2,
+      "direction": 0,
+      "region": [
+        1152,
+        0,
+        576,
+        576
+      ],
+      "top": 8,
+      "foot": 410,
+      "visible_sole_y": 410,
+      "source_sole_y": 417.0,
+      "root_x": 210.0,
+      "source_origin": [
+        867,
+        15
+      ],
+      "source_grid_origin": [
+        836.0,
+        0.0
+      ],
+      "padding": 8,
+      "height_reference": 392.91999999999996,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "hands": [
+        [
+          292.5899999999999,
+          229.16999999999996
+        ]
+      ],
+      "hand_status": "unused_nonrelease_anchor"
+    },
+    {
+      "sheet": "attack_right.png",
+      "state": "attack",
+      "step": 2,
+      "frame": 0,
+      "direction": 0,
+      "region": [
+        0,
+        576,
+        576,
+        576
+      ],
+      "top": 8,
+      "foot": 407,
+      "visible_sole_y": 407,
+      "source_sole_y": 406.0,
+      "root_x": 210.0,
+      "source_origin": [
+        50,
+        425
+      ],
+      "source_grid_origin": [
+        0.0,
+        418.0
+      ],
+      "padding": 8,
+      "height_reference": 392.91999999999996,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "hands": [
+        [
+          108.47999999999999,
+          193.27999999999997
+        ]
+      ],
+      "hand_status": "unused_nonrelease_anchor"
+    },
+    {
+      "sheet": "attack_right.png",
+      "state": "attack",
+      "step": 2,
+      "frame": 1,
+      "direction": 0,
+      "region": [
+        576,
+        576,
+        576,
+        576
+      ],
+      "top": 8,
+      "foot": 399,
+      "visible_sole_y": 399,
+      "source_sole_y": 406.0,
+      "root_x": 208.0,
+      "source_origin": [
+        472,
+        433
+      ],
+      "source_grid_origin": [
+        418.0,
+        418.0
+      ],
+      "padding": 8,
+      "height_reference": 392.91999999999996,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "hands": [
+        [
+          104.48000000000002,
+          185.27999999999997
+        ]
+      ],
+      "hand_status": "GPU_reviewed_release_anchor"
+    },
+    {
+      "sheet": "attack_right.png",
+      "state": "attack",
+      "step": 2,
+      "frame": 2,
+      "direction": 0,
+      "region": [
+        1152,
+        576,
+        576,
+        576
+      ],
+      "top": 8,
+      "foot": 407,
+      "visible_sole_y": 407,
+      "source_sole_y": 406.0,
+      "root_x": 199.0,
+      "source_origin": [
+        894,
+        425
+      ],
+      "source_grid_origin": [
+        836.0,
+        418.0
+      ],
+      "padding": 8,
+      "height_reference": 392.91999999999996,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "hands": [
+        [
+          100.48000000000002,
+          193.27999999999997
+        ]
+      ],
+      "hand_status": "unused_nonrelease_anchor"
+    },
+    {
+      "sheet": "attack_right.png",
+      "state": "attack",
+      "step": 3,
+      "frame": 0,
+      "direction": 0,
+      "region": [
+        0,
+        1152,
+        576,
+        576
+      ],
+      "top": 8,
+      "foot": 397,
+      "visible_sole_y": 397,
+      "source_sole_y": 380.0,
+      "root_x": 221.0,
+      "source_origin": [
+        59,
+        827
+      ],
+      "source_grid_origin": [
+        0.0,
+        836.0
+      ],
+      "padding": 8,
+      "height_reference": 392.91999999999996,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "hands": [
+        [
+          291.76,
+          286.6100000000001
+        ]
+      ],
+      "hand_status": "unused_nonrelease_anchor"
+    },
+    {
+      "sheet": "attack_right.png",
+      "state": "attack",
+      "step": 3,
+      "frame": 1,
+      "direction": 0,
+      "region": [
+        576,
+        1152,
+        576,
+        576
+      ],
+      "top": 8,
+      "foot": 392,
+      "visible_sole_y": 392,
+      "source_sole_y": 380.0,
+      "root_x": 230.0,
+      "source_origin": [
+        456,
+        832
+      ],
+      "source_grid_origin": [
+        418.0,
+        836.0
+      ],
+      "padding": 8,
+      "height_reference": 392.91999999999996,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "hands": [
+        [
+          312.76,
+          281.6100000000001
+        ]
+      ],
+      "hand_status": "GPU_reviewed_release_anchor"
+    },
+    {
+      "sheet": "attack_right.png",
+      "state": "attack",
+      "step": 3,
+      "frame": 2,
+      "direction": 0,
+      "region": [
+        1152,
+        1152,
+        576,
+        576
+      ],
+      "top": 8,
+      "foot": 383,
+      "visible_sole_y": 383,
+      "source_sole_y": 380.0,
+      "root_x": 247.0,
+      "source_origin": [
+        892,
+        841
+      ],
+      "source_grid_origin": [
+        836.0,
+        836.0
+      ],
+      "padding": 8,
+      "height_reference": 392.91999999999996,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "hands": [
+        [
+          294.76,
+          272.6100000000001
+        ]
+      ],
+      "hand_status": "unused_nonrelease_anchor"
+    },
+    {
+      "sheet": "attack_front.png",
+      "state": "attack",
+      "step": 1,
+      "frame": 0,
+      "direction": 2,
+      "region": [
+        0,
+        0,
+        576,
+        576
+      ],
+      "top": 8,
+      "foot": 409,
+      "visible_sole_y": 409,
+      "source_sole_y": 414.0,
+      "root_x": 179.0,
+      "source_origin": [
+        71,
+        13
+      ],
+      "source_grid_origin": [
+        0.0,
+        0.0
+      ],
+      "padding": 8,
+      "height_reference": 392.91999999999996,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "hands": [
+        [
+          200.33999999999997,
+          224.9
+        ]
+      ],
+      "hand_status": "unused_nonrelease_anchor"
+    },
+    {
+      "sheet": "attack_front.png",
+      "state": "attack",
+      "step": 1,
+      "frame": 1,
+      "direction": 2,
+      "region": [
+        576,
+        0,
+        576,
+        576
+      ],
+      "top": 8,
+      "foot": 406,
+      "visible_sole_y": 406,
+      "source_sole_y": 413.0,
+      "root_x": 152.0,
+      "source_origin": [
+        479,
+        15
+      ],
+      "source_grid_origin": [
+        418.0,
+        0.0
+      ],
+      "padding": 8,
+      "height_reference": 392.91999999999996,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "hands": [
+        [
+          210.33999999999992,
+          222.9
+        ]
+      ],
+      "hand_status": "GPU_reviewed_release_anchor"
+    },
+    {
+      "sheet": "attack_front.png",
+      "state": "attack",
+      "step": 1,
+      "frame": 2,
+      "direction": 2,
+      "region": [
+        1152,
+        0,
+        576,
+        576
+      ],
+      "top": 8,
+      "foot": 407,
+      "visible_sole_y": 407,
+      "source_sole_y": 414.0,
+      "root_x": 159.0,
+      "source_origin": [
+        853,
+        15
+      ],
+      "source_grid_origin": [
+        836.0,
+        0.0
+      ],
+      "padding": 8,
+      "height_reference": 392.91999999999996,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "hands": [
+        [
+          254.33999999999992,
+          222.9
+        ]
+      ],
+      "hand_status": "unused_nonrelease_anchor"
+    },
+    {
+      "sheet": "attack_front.png",
+      "state": "attack",
+      "step": 2,
+      "frame": 0,
+      "direction": 2,
+      "region": [
+        0,
+        576,
+        576,
+        576
+      ],
+      "top": 8,
+      "foot": 401,
+      "visible_sole_y": 401,
+      "source_sole_y": 400.0,
+      "root_x": 180.0,
+      "source_origin": [
+        73,
+        425
+      ],
+      "source_grid_origin": [
+        0.0,
+        418.0
+      ],
+      "padding": 8,
+      "height_reference": 392.91999999999996,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "hands": [
+        [
+          89.66,
+          210.0
+        ]
+      ],
+      "hand_status": "unused_nonrelease_anchor"
+    },
+    {
+      "sheet": "attack_front.png",
+      "state": "attack",
+      "step": 2,
+      "frame": 1,
+      "direction": 2,
+      "region": [
+        576,
+        576,
+        576,
+        576
+      ],
+      "top": 8,
+      "foot": 401,
+      "visible_sole_y": 401,
+      "source_sole_y": 400.0,
+      "root_x": 164.0,
+      "source_origin": [
+        483,
+        425
+      ],
+      "source_grid_origin": [
+        418.0,
+        418.0
+      ],
+      "padding": 8,
+      "height_reference": 392.91999999999996,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "hands": [
+        [
+          97.65999999999997,
+          210.0
+        ]
+      ],
+      "hand_status": "GPU_reviewed_release_anchor"
+    },
+    {
+      "sheet": "attack_front.png",
+      "state": "attack",
+      "step": 2,
+      "frame": 2,
+      "direction": 2,
+      "region": [
+        1152,
+        576,
+        576,
+        576
+      ],
+      "top": 8,
+      "foot": 402,
+      "visible_sole_y": 402,
+      "source_sole_y": 400.0,
+      "root_x": 181.0,
+      "source_origin": [
+        874,
+        424
+      ],
+      "source_grid_origin": [
+        836.0,
+        418.0
+      ],
+      "padding": 8,
+      "height_reference": 392.91999999999996,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "hands": [
+        [
+          124.65999999999997,
+          211.0
+        ]
+      ],
+      "hand_status": "unused_nonrelease_anchor"
+    },
+    {
+      "sheet": "attack_front.png",
+      "state": "attack",
+      "step": 3,
+      "frame": 0,
+      "direction": 2,
+      "region": [
+        0,
+        1152,
+        576,
+        576
+      ],
+      "top": 8,
+      "foot": 404,
+      "visible_sole_y": 404,
+      "source_sole_y": 387.0,
+      "root_x": 187.0,
+      "source_origin": [
+        70,
+        827
+      ],
+      "source_grid_origin": [
+        0.0,
+        836.0
+      ],
+      "padding": 8,
+      "height_reference": 392.91999999999996,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "hands": [
+        [
+          192.98,
+          322.1399999999999
+        ]
+      ],
+      "hand_status": "unused_nonrelease_anchor"
+    },
+    {
+      "sheet": "attack_front.png",
+      "state": "attack",
+      "step": 3,
+      "frame": 1,
+      "direction": 2,
+      "region": [
+        576,
+        1152,
+        576,
+        576
+      ],
+      "top": 8,
+      "foot": 400,
+      "visible_sole_y": 400,
+      "source_sole_y": 387.0,
+      "root_x": 176.0,
+      "source_origin": [
+        476,
+        831
+      ],
+      "source_grid_origin": [
+        418.0,
+        836.0
+      ],
+      "padding": 8,
+      "height_reference": 392.91999999999996,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "hands": [
+        [
+          204.98000000000002,
+          318.1399999999999
+        ]
+      ],
+      "hand_status": "GPU_reviewed_release_anchor"
+    },
+    {
+      "sheet": "attack_front.png",
+      "state": "attack",
+      "step": 3,
+      "frame": 2,
+      "direction": 2,
+      "region": [
+        1152,
+        1152,
+        576,
+        576
+      ],
+      "top": 8,
+      "foot": 392,
+      "visible_sole_y": 392,
+      "source_sole_y": 387.0,
+      "root_x": 193.0,
+      "source_origin": [
+        872,
+        839
+      ],
+      "source_grid_origin": [
+        836.0,
+        836.0
+      ],
+      "padding": 8,
+      "height_reference": 392.91999999999996,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "hands": [
+        [
+          226.98000000000002,
+          310.1399999999999
+        ]
+      ],
+      "hand_status": "unused_nonrelease_anchor"
+    },
+    {
+      "sheet": "attack_left.png",
+      "state": "attack",
+      "step": 1,
+      "frame": 0,
+      "direction": 4,
+      "region": [
+        0,
+        0,
+        576,
+        576
+      ],
+      "top": 8,
+      "foot": 415,
+      "visible_sole_y": 415,
+      "source_sole_y": 414.0,
+      "root_x": 128.0,
+      "source_origin": [
+        87,
+        7
+      ],
+      "source_grid_origin": [
+        0.0,
+        0.0
+      ],
+      "padding": 8,
+      "height_reference": 392.91999999999996,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "hands": [
+        [
+          21.319999999999993,
+          243.43999999999997
+        ]
+      ],
+      "hand_status": "unused_nonrelease_anchor"
+    },
+    {
+      "sheet": "attack_left.png",
+      "state": "attack",
+      "step": 1,
+      "frame": 1,
+      "direction": 4,
+      "region": [
+        576,
+        0,
+        576,
+        576
+      ],
+      "top": 8,
+      "foot": 412,
+      "visible_sole_y": 412,
+      "source_sole_y": 414.0,
+      "root_x": 108.0,
+      "source_origin": [
+        486,
+        10
+      ],
+      "source_grid_origin": [
+        418.0,
+        0.0
+      ],
+      "padding": 8,
+      "height_reference": 392.91999999999996,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "hands": [
+        [
+          40.319999999999936,
+          240.43999999999997
+        ]
+      ],
+      "hand_status": "GPU_reviewed_release_anchor"
+    },
+    {
+      "sheet": "attack_left.png",
+      "state": "attack",
+      "step": 1,
+      "frame": 2,
+      "direction": 4,
+      "region": [
+        1152,
+        0,
+        576,
+        576
+      ],
+      "top": 8,
+      "foot": 414,
+      "visible_sole_y": 414,
+      "source_sole_y": 414.0,
+      "root_x": 123.0,
+      "source_origin": [
+        896,
+        8
+      ],
+      "source_grid_origin": [
+        836.0,
+        0.0
+      ],
+      "padding": 8,
+      "height_reference": 392.91999999999996,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "hands": [
+        [
+          48.319999999999936,
+          242.43999999999997
+        ]
+      ],
+      "hand_status": "unused_nonrelease_anchor"
+    },
+    {
+      "sheet": "attack_left.png",
+      "state": "attack",
+      "step": 2,
+      "frame": 0,
+      "direction": 4,
+      "region": [
+        0,
+        576,
+        576,
+        576
+      ],
+      "top": 8,
+      "foot": 410,
+      "visible_sole_y": 410,
+      "source_sole_y": 403.0,
+      "root_x": 141.0,
+      "source_origin": [
+        78,
+        419
+      ],
+      "source_grid_origin": [
+        0.0,
+        418.0
+      ],
+      "padding": 8,
+      "height_reference": 392.91999999999996,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "hands": [
+        [
+          226.77999999999997,
+          207.64
+        ]
+      ],
+      "hand_status": "unused_nonrelease_anchor"
+    },
+    {
+      "sheet": "attack_left.png",
+      "state": "attack",
+      "step": 2,
+      "frame": 1,
+      "direction": 4,
+      "region": [
+        576,
+        576,
+        576,
+        576
+      ],
+      "top": 8,
+      "foot": 414,
+      "visible_sole_y": 414,
+      "source_sole_y": 403.0,
+      "root_x": 127.0,
+      "source_origin": [
+        487,
+        415
+      ],
+      "source_grid_origin": [
+        418.0,
+        418.0
+      ],
+      "padding": 8,
+      "height_reference": 392.91999999999996,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "hands": [
+        [
+          235.77999999999997,
+          211.64
+        ]
+      ],
+      "hand_status": "GPU_reviewed_release_anchor"
+    },
+    {
+      "sheet": "attack_left.png",
+      "state": "attack",
+      "step": 2,
+      "frame": 2,
+      "direction": 4,
+      "region": [
+        1152,
+        576,
+        576,
+        576
+      ],
+      "top": 8,
+      "foot": 416,
+      "visible_sole_y": 416,
+      "source_sole_y": 403.0,
+      "root_x": 140.0,
+      "source_origin": [
+        910,
+        413
+      ],
+      "source_grid_origin": [
+        836.0,
+        418.0
+      ],
+      "padding": 8,
+      "height_reference": 392.91999999999996,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "hands": [
+        [
+          230.77999999999997,
+          213.64
+        ]
+      ],
+      "hand_status": "unused_nonrelease_anchor"
+    },
+    {
+      "sheet": "attack_left.png",
+      "state": "attack",
+      "step": 3,
+      "frame": 0,
+      "direction": 4,
+      "region": [
+        0,
+        1152,
+        576,
+        576
+      ],
+      "top": 8,
+      "foot": 404,
+      "visible_sole_y": 404,
+      "source_sole_y": 385.0,
+      "root_x": 132.0,
+      "source_origin": [
+        74,
+        825
+      ],
+      "source_grid_origin": [
+        0.0,
+        836.0
+      ],
+      "padding": 8,
+      "height_reference": 392.91999999999996,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "hands": [
+        [
+          163.9,
+          253.07999999999993
+        ]
+      ],
+      "hand_status": "unused_nonrelease_anchor"
+    },
+    {
+      "sheet": "attack_left.png",
+      "state": "attack",
+      "step": 3,
+      "frame": 1,
+      "direction": 4,
+      "region": [
+        576,
+        1152,
+        576,
+        576
+      ],
+      "top": 8,
+      "foot": 383,
+      "visible_sole_y": 383,
+      "source_sole_y": 385.0,
+      "root_x": 109.0,
+      "source_origin": [
+        478,
+        846
+      ],
+      "source_grid_origin": [
+        418.0,
+        836.0
+      ],
+      "padding": 8,
+      "height_reference": 392.91999999999996,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "hands": [
+        [
+          177.89999999999998,
+          232.07999999999993
+        ]
+      ],
+      "hand_status": "GPU_reviewed_release_anchor"
+    },
+    {
+      "sheet": "attack_left.png",
+      "state": "attack",
+      "step": 3,
+      "frame": 2,
+      "direction": 4,
+      "region": [
+        1152,
+        1152,
+        576,
+        576
+      ],
+      "top": 8,
+      "foot": 380,
+      "visible_sole_y": 380,
+      "source_sole_y": 384.0,
+      "root_x": 128.0,
+      "source_origin": [
+        906,
+        848
+      ],
+      "source_grid_origin": [
+        836.0,
+        836.0
+      ],
+      "padding": 8,
+      "height_reference": 392.91999999999996,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "hands": [
+        [
+          167.9000000000001,
+          230.07999999999993
+        ]
+      ],
+      "hand_status": "unused_nonrelease_anchor"
+    },
+    {
+      "sheet": "attack_back.png",
+      "state": "attack",
+      "step": 1,
+      "frame": 0,
+      "direction": 6,
+      "region": [
+        0,
+        0,
+        576,
+        576
+      ],
+      "top": 8,
+      "foot": 407,
+      "visible_sole_y": 407,
+      "source_sole_y": 410.0,
+      "root_x": 173.0,
+      "source_origin": [
+        72,
+        11
+      ],
+      "source_grid_origin": [
+        0.0,
+        0.0
+      ],
+      "padding": 8,
+      "height_reference": 392.91999999999996,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "hands": [
+        [
+          220.24,
+          256.16
+        ]
+      ],
+      "hand_status": "unused_nonrelease_anchor"
+    },
+    {
+      "sheet": "attack_back.png",
+      "state": "attack",
+      "step": 1,
+      "frame": 1,
+      "direction": 6,
+      "region": [
+        576,
+        0,
+        576,
+        576
+      ],
+      "top": 8,
+      "foot": 403,
+      "visible_sole_y": 403,
+      "source_sole_y": 410.0,
+      "root_x": 156.0,
+      "source_origin": [
+        488,
+        15
+      ],
+      "source_grid_origin": [
+        418.0,
+        0.0
+      ],
+      "padding": 8,
+      "height_reference": 392.91999999999996,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "hands": [
+        [
+          222.24,
+          252.16000000000003
+        ]
+      ],
+      "hand_status": "GPU_reviewed_release_anchor"
+    },
+    {
+      "sheet": "attack_back.png",
+      "state": "attack",
+      "step": 1,
+      "frame": 2,
+      "direction": 6,
+      "region": [
+        1152,
+        0,
+        576,
+        576
+      ],
+      "top": 8,
+      "foot": 404,
+      "visible_sole_y": 404,
+      "source_sole_y": 410.0,
+      "root_x": 160.0,
+      "source_origin": [
+        903,
+        14
+      ],
+      "source_grid_origin": [
+        836.0,
+        0.0
+      ],
+      "padding": 8,
+      "height_reference": 392.91999999999996,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "hands": [
+        [
+          225.24,
+          253.16000000000003
+        ]
+      ],
+      "hand_status": "unused_nonrelease_anchor"
+    },
+    {
+      "sheet": "attack_back.png",
+      "state": "attack",
+      "step": 2,
+      "frame": 0,
+      "direction": 6,
+      "region": [
+        0,
+        576,
+        576,
+        576
+      ],
+      "top": 8,
+      "foot": 394,
+      "visible_sole_y": 394,
+      "source_sole_y": 404.0,
+      "root_x": 174.0,
+      "source_origin": [
+        73,
+        436
+      ],
+      "source_grid_origin": [
+        0.0,
+        418.0
+      ],
+      "padding": 8,
+      "height_reference": 392.91999999999996,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "hands": [
+        [
+          210.88,
+          238.71000000000004
+        ]
+      ],
+      "hand_status": "unused_nonrelease_anchor"
+    },
+    {
+      "sheet": "attack_back.png",
+      "state": "attack",
+      "step": 2,
+      "frame": 1,
+      "direction": 6,
+      "region": [
+        576,
+        576,
+        576,
+        576
+      ],
+      "top": 8,
+      "foot": 396,
+      "visible_sole_y": 396,
+      "source_sole_y": 404.0,
+      "root_x": 156.0,
+      "source_origin": [
+        488,
+        434
+      ],
+      "source_grid_origin": [
+        418.0,
+        418.0
+      ],
+      "padding": 8,
+      "height_reference": 392.91999999999996,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "hands": [
+        [
+          213.88,
+          240.71000000000004
+        ]
+      ],
+      "hand_status": "GPU_reviewed_release_anchor"
+    },
+    {
+      "sheet": "attack_back.png",
+      "state": "attack",
+      "step": 2,
+      "frame": 2,
+      "direction": 6,
+      "region": [
+        1152,
+        576,
+        576,
+        576
+      ],
+      "top": 8,
+      "foot": 403,
+      "visible_sole_y": 403,
+      "source_sole_y": 404.0,
+      "root_x": 173.0,
+      "source_origin": [
+        908,
+        427
+      ],
+      "source_grid_origin": [
+        836.0,
+        418.0
+      ],
+      "padding": 8,
+      "height_reference": 392.91999999999996,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "hands": [
+        [
+          211.8800000000001,
+          247.71000000000004
+        ]
+      ],
+      "hand_status": "unused_nonrelease_anchor"
+    },
+    {
+      "sheet": "attack_back.png",
+      "state": "attack",
+      "step": 3,
+      "frame": 0,
+      "direction": 6,
+      "region": [
+        0,
+        1152,
+        576,
+        576
+      ],
+      "top": 8,
+      "foot": 394,
+      "visible_sole_y": 394,
+      "source_sole_y": 386.0,
+      "root_x": 170.5,
+      "source_origin": [
+        76,
+        836
+      ],
+      "source_grid_origin": [
+        0.0,
+        836.0
+      ],
+      "padding": 8,
+      "height_reference": 392.91999999999996,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "hands": [
+        [
+          258.04,
+          292.24
+        ]
+      ],
+      "hand_status": "unused_nonrelease_anchor"
+    },
+    {
+      "sheet": "attack_back.png",
+      "state": "attack",
+      "step": 3,
+      "frame": 1,
+      "direction": 6,
+      "region": [
+        576,
+        1152,
+        576,
+        576
+      ],
+      "top": 8,
+      "foot": 384,
+      "visible_sole_y": 384,
+      "source_sole_y": 386.0,
+      "root_x": 163.0,
+      "source_origin": [
+        488,
+        846
+      ],
+      "source_grid_origin": [
+        418.0,
+        836.0
+      ],
+      "padding": 8,
+      "height_reference": 392.91999999999996,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "hands": [
+        [
+          264.03999999999996,
+          282.24
+        ]
+      ],
+      "hand_status": "GPU_reviewed_release_anchor"
+    },
+    {
+      "sheet": "attack_back.png",
+      "state": "attack",
+      "step": 3,
+      "frame": 2,
+      "direction": 6,
+      "region": [
+        1152,
+        1152,
+        576,
+        576
+      ],
+      "top": 8,
+      "foot": 380,
+      "visible_sole_y": 380,
+      "source_sole_y": 386.0,
+      "root_x": 161.0,
+      "source_origin": [
+        909,
+        850
+      ],
+      "source_grid_origin": [
+        836.0,
+        836.0
+      ],
+      "padding": 8,
+      "height_reference": 392.91999999999996,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "hands": [
+        [
+          261.03999999999996,
+          278.24
+        ]
+      ],
+      "hand_status": "unused_nonrelease_anchor"
+    },
+    {
+      "sheet": "attack_back_right.png",
+      "state": "attack",
+      "step": 1,
+      "frame": 0,
+      "direction": 7,
+      "region": [
+        0,
+        0,
+        576,
+        576
+      ],
+      "top": 8,
+      "foot": 404,
+      "visible_sole_y": 404,
+      "source_sole_y": 416.0,
+      "root_x": 176.0,
+      "source_origin": [
+        70,
+        20
+      ],
+      "source_grid_origin": [
+        0.0,
+        0.0
+      ],
+      "padding": 8,
+      "height_reference": 392.91999999999996,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "hands": [
+        [
+          272.40000000000003,
+          226.26
+        ]
+      ],
+      "hand_status": "unused_nonrelease_anchor"
+    },
+    {
+      "sheet": "attack_back_right.png",
+      "state": "attack",
+      "step": 1,
+      "frame": 1,
+      "direction": 7,
+      "region": [
+        576,
+        0,
+        576,
+        576
+      ],
+      "top": 8,
+      "foot": 406,
+      "visible_sole_y": 406,
+      "source_sole_y": 416.0,
+      "root_x": 166.0,
+      "source_origin": [
+        477,
+        18
+      ],
+      "source_grid_origin": [
+        418.0,
+        0.0
+      ],
+      "padding": 8,
+      "height_reference": 392.91999999999996,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "hands": [
+        [
+          283.4000000000001,
+          228.26
+        ]
+      ],
+      "hand_status": "GPU_reviewed_release_anchor"
+    },
+    {
+      "sheet": "attack_back_right.png",
+      "state": "attack",
+      "step": 1,
+      "frame": 2,
+      "direction": 7,
+      "region": [
+        1152,
+        0,
+        576,
+        576
+      ],
+      "top": 8,
+      "foot": 405,
+      "visible_sole_y": 405,
+      "source_sole_y": 417.0,
+      "root_x": 167.0,
+      "source_origin": [
+        890,
+        20
+      ],
+      "source_grid_origin": [
+        836.0,
+        0.0
+      ],
+      "padding": 8,
+      "height_reference": 392.91999999999996,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "hands": [
+        [
+          288.4000000000001,
+          226.26
+        ]
+      ],
+      "hand_status": "unused_nonrelease_anchor"
+    },
+    {
+      "sheet": "attack_back_right.png",
+      "state": "attack",
+      "step": 2,
+      "frame": 0,
+      "direction": 7,
+      "region": [
+        0,
+        576,
+        576,
+        576
+      ],
+      "top": 8,
+      "foot": 404,
+      "visible_sole_y": 404,
+      "source_sole_y": 414.0,
+      "root_x": 191.0,
+      "source_origin": [
+        64,
+        436
+      ],
+      "source_grid_origin": [
+        0.0,
+        418.0
+      ],
+      "padding": 8,
+      "height_reference": 392.91999999999996,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "hands": [
+        [
+          228.24,
+          194.82000000000005
+        ]
+      ],
+      "hand_status": "unused_nonrelease_anchor"
+    },
+    {
+      "sheet": "attack_back_right.png",
+      "state": "attack",
+      "step": 2,
+      "frame": 1,
+      "direction": 7,
+      "region": [
+        576,
+        576,
+        576,
+        576
+      ],
+      "top": 8,
+      "foot": 399,
+      "visible_sole_y": 399,
+      "source_sole_y": 414.0,
+      "root_x": 157.0,
+      "source_origin": [
+        480,
+        441
+      ],
+      "source_grid_origin": [
+        418.0,
+        418.0
+      ],
+      "padding": 8,
+      "height_reference": 392.91999999999996,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "hands": [
+        [
+          230.24,
+          189.82000000000005
+        ]
+      ],
+      "hand_status": "GPU_reviewed_release_anchor"
+    },
+    {
+      "sheet": "attack_back_right.png",
+      "state": "attack",
+      "step": 2,
+      "frame": 2,
+      "direction": 7,
+      "region": [
+        1152,
+        576,
+        576,
+        576
+      ],
+      "top": 8,
+      "foot": 396,
+      "visible_sole_y": 396,
+      "source_sole_y": 414.0,
+      "root_x": 164.0,
+      "source_origin": [
+        914,
+        444
+      ],
+      "source_grid_origin": [
+        836.0,
+        418.0
+      ],
+      "padding": 8,
+      "height_reference": 392.91999999999996,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "hands": [
+        [
+          214.24,
+          186.82000000000005
+        ]
+      ],
+      "hand_status": "unused_nonrelease_anchor"
+    },
+    {
+      "sheet": "attack_back_right.png",
+      "state": "attack",
+      "step": 3,
+      "frame": 0,
+      "direction": 7,
+      "region": [
+        0,
+        1152,
+        576,
+        576
+      ],
+      "top": 8,
+      "foot": 390,
+      "visible_sole_y": 390,
+      "source_sole_y": 392.0,
+      "root_x": 183.0,
+      "source_origin": [
+        76,
+        846
+      ],
+      "source_grid_origin": [
+        0.0,
+        836.0
+      ],
+      "padding": 8,
+      "height_reference": 392.91999999999996,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "hands": [
+        [
+          245.5,
+          273.8800000000001
+        ]
+      ],
+      "hand_status": "unused_nonrelease_anchor"
+    },
+    {
+      "sheet": "attack_back_right.png",
+      "state": "attack",
+      "step": 3,
+      "frame": 1,
+      "direction": 7,
+      "region": [
+        576,
+        1152,
+        576,
+        576
+      ],
+      "top": 8,
+      "foot": 375,
+      "visible_sole_y": 375,
+      "source_sole_y": 391.0,
+      "root_x": 207.0,
+      "source_origin": [
+        468,
+        860
+      ],
+      "source_grid_origin": [
+        418.0,
+        836.0
+      ],
+      "padding": 8,
+      "height_reference": 392.91999999999996,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "hands": [
+        [
+          271.5,
+          259.8800000000001
+        ]
+      ],
+      "hand_status": "GPU_reviewed_release_anchor"
+    },
+    {
+      "sheet": "attack_back_right.png",
+      "state": "attack",
+      "step": 3,
+      "frame": 2,
+      "direction": 7,
+      "region": [
+        1152,
+        1152,
+        576,
+        576
+      ],
+      "top": 8,
+      "foot": 379,
+      "visible_sole_y": 379,
+      "source_sole_y": 391.0,
+      "root_x": 203.0,
+      "source_origin": [
+        888,
+        856
+      ],
+      "source_grid_origin": [
+        836.0,
+        836.0
+      ],
+      "padding": 8,
+      "height_reference": 392.91999999999996,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "hands": [
+        [
+          269.5,
+          263.8800000000001
+        ]
+      ],
+      "hand_status": "unused_nonrelease_anchor"
+    },
+    {
+      "sheet": "front_right_run_first.png",
+      "state": "run",
+      "step": 0,
+      "frame": 0,
+      "direction": 1,
+      "region": [
+        0,
+        0,
+        1024,
+        1024
+      ],
+      "top": 8,
+      "foot": 859.3515932203389,
+      "visible_sole_y": 810,
+      "source_sole_y": 816,
+      "root_x": 445.79,
+      "source_origin": [
+        82,
+        14
+      ],
+      "source_grid_origin": [
+        0.0,
+        0
+      ],
+      "padding": 8,
+      "height_reference": 897.3016949152541,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "gait_role": "flight",
+      "direction_source": "focused pose-pair redraw"
+    },
+    {
+      "sheet": "front_right_run_first.png",
+      "state": "run",
+      "step": 0,
+      "frame": 1,
+      "direction": 1,
+      "region": [
+        1024,
+        0,
+        1024,
+        1024
+      ],
+      "top": 8,
+      "foot": 856,
+      "visible_sole_y": 856,
+      "source_sole_y": 859,
+      "root_x": 406.57,
+      "source_origin": [
+        978,
+        11
+      ],
+      "source_grid_origin": [
+        887.0,
+        0
+      ],
+      "padding": 8,
+      "height_reference": 897.3016949152541,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "gait_role": "support",
+      "direction_source": "focused pose-pair redraw"
+    },
+    {
+      "sheet": "front_right_run_opposite.png",
+      "state": "run",
+      "step": 0,
+      "frame": 2,
+      "direction": 1,
+      "region": [
+        0,
+        0,
+        1024,
+        1024
+      ],
+      "top": 8,
+      "foot": 862.1848648648648,
+      "visible_sole_y": 813,
+      "source_sole_y": 818,
+      "root_x": 482.58,
+      "source_origin": [
+        68,
+        13
+      ],
+      "source_grid_origin": [
+        0.0,
+        0
+      ],
+      "padding": 8,
+      "height_reference": 894.2702702702703,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "gait_role": "flight",
+      "direction_source": "focused pose-pair redraw"
+    },
+    {
+      "sheet": "front_right_run_opposite.png",
+      "state": "run",
+      "step": 0,
+      "frame": 3,
+      "direction": 1,
+      "region": [
+        1024,
+        0,
+        1024,
+        1024
+      ],
+      "top": 8,
+      "foot": 853,
+      "visible_sole_y": 853,
+      "source_sole_y": 857,
+      "root_x": 443.78,
+      "source_origin": [
+        988,
+        12
+      ],
+      "source_grid_origin": [
+        887.0,
+        0
+      ],
+      "padding": 8,
+      "height_reference": 894.2702702702703,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "gait_role": "support",
+      "direction_source": "focused pose-pair redraw"
+    },
+    {
+      "sheet": "back_right_run_first.png",
+      "state": "run",
+      "step": 0,
+      "frame": 0,
+      "direction": 7,
+      "region": [
+        0,
+        0,
+        1024,
+        1024
+      ],
+      "top": 8,
+      "foot": 861.9118188679245,
+      "visible_sole_y": 811,
+      "source_sole_y": 817,
+      "root_x": 246.72,
+      "source_origin": [
+        282,
+        14
+      ],
+      "source_grid_origin": [
+        0.0,
+        0
+      ],
+      "padding": 8,
+      "height_reference": 925.669433962264,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "gait_role": "flight",
+      "direction_source": "focused pose-pair redraw"
+    },
+    {
+      "sheet": "back_right_run_first.png",
+      "state": "run",
+      "step": 0,
+      "frame": 1,
+      "direction": 7,
+      "region": [
+        1024,
+        0,
+        1024,
+        1024
+      ],
+      "top": 8,
+      "foot": 836,
+      "visible_sole_y": 836,
+      "source_sole_y": 843,
+      "root_x": 235.97,
+      "source_origin": [
+        1162,
+        15
+      ],
+      "source_grid_origin": [
+        887.0,
+        0
+      ],
+      "padding": 8,
+      "height_reference": 925.669433962264,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "gait_role": "support",
+      "direction_source": "focused pose-pair redraw"
+    },
+    {
+      "sheet": "back_right_run_opposite.png",
+      "state": "run",
+      "step": 0,
+      "frame": 2,
+      "direction": 7,
+      "region": [
+        0,
+        0,
+        1024,
+        1024
+      ],
+      "top": 8,
+      "foot": 876.5624793465578,
+      "visible_sole_y": 826,
+      "source_sole_y": 832,
+      "root_x": 236.67000000000002,
+      "source_origin": [
+        297,
+        14
+      ],
+      "source_grid_origin": [
+        0.0,
+        0
+      ],
+      "padding": 8,
+      "height_reference": 919.3178063010502,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "gait_role": "flight",
+      "direction_source": "focused pose-pair redraw"
+    },
+    {
+      "sheet": "back_right_run_opposite.png",
+      "state": "run",
+      "step": 0,
+      "frame": 3,
+      "direction": 7,
+      "region": [
+        1024,
+        0,
+        1024,
+        1024
+      ],
+      "top": 8,
+      "foot": 827,
+      "visible_sole_y": 827,
+      "source_sole_y": 832,
+      "root_x": 225.6,
+      "source_origin": [
+        1191,
+        13
+      ],
+      "source_grid_origin": [
+        887.0,
+        0
+      ],
+      "padding": 8,
+      "height_reference": 919.3178063010502,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "gait_role": "support",
+      "direction_source": "focused pose-pair redraw"
+    },
+    {
+      "sheet": "front_walk_contacts.png",
+      "state": "walk",
+      "step": 0,
+      "frame": 0,
+      "direction": 2,
+      "region": [
+        0,
+        0,
+        1024,
+        1024
+      ],
+      "top": 8,
+      "foot": 964,
+      "visible_sole_y": 964,
+      "source_sole_y": 982,
+      "root_x": 335.0,
+      "source_origin": [
+        137,
+        26
+      ],
+      "source_grid_origin": [
+        0.0,
+        0
+      ],
+      "padding": 8,
+      "height_reference": 952.1082109617373,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "direction_source": "focused pose-pair redraw"
+    },
+    {
+      "sheet": "front_walk_contacts.png",
+      "state": "walk",
+      "step": 0,
+      "frame": 2,
+      "direction": 2,
+      "region": [
+        1024,
+        0,
+        1024,
+        1024
+      ],
+      "top": 8,
+      "foot": 965,
+      "visible_sole_y": 965,
+      "source_sole_y": 983,
+      "root_x": 316.0,
+      "source_origin": [
+        817,
+        26
+      ],
+      "source_grid_origin": [
+        768.0,
+        0
+      ],
+      "padding": 8,
+      "height_reference": 952.1082109617373,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "direction_source": "focused pose-pair redraw"
+    },
+    {
+      "sheet": "front_walk_passing.png",
+      "state": "walk",
+      "step": 0,
+      "frame": 1,
+      "direction": 2,
+      "region": [
+        0,
+        0,
+        1024,
+        1024
+      ],
+      "top": 8,
+      "foot": 947,
+      "visible_sole_y": 947,
+      "source_sole_y": 955,
+      "root_x": 322.0,
+      "source_origin": [
+        148,
+        16
+      ],
+      "source_grid_origin": [
+        0.0,
+        0
+      ],
+      "padding": 8,
+      "height_reference": 952.4171127502634,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "direction_source": "focused pose-pair redraw"
+    },
+    {
+      "sheet": "front_walk_passing.png",
+      "state": "walk",
+      "step": 0,
+      "frame": 3,
+      "direction": 2,
+      "region": [
+        1024,
+        0,
+        1024,
+        1024
+      ],
+      "top": 8,
+      "foot": 947,
+      "visible_sole_y": 947,
+      "source_sole_y": 955,
+      "root_x": 319.0,
+      "source_origin": [
+        808,
+        16
+      ],
+      "source_grid_origin": [
+        768.0,
+        0
+      ],
+      "padding": 8,
+      "height_reference": 952.4171127502634,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "direction_source": "focused pose-pair redraw"
+    },
+    {
+      "sheet": "front_run_flight.png",
+      "state": "run",
+      "step": 0,
+      "frame": 0,
+      "direction": 2,
+      "region": [
+        0,
+        0,
+        1024,
+        1024
+      ],
+      "top": 8,
+      "foot": 992.8029234567902,
+      "visible_sole_y": 936,
+      "source_sole_y": 940,
+      "root_x": 360.0,
+      "source_origin": [
+        90,
+        12
+      ],
+      "source_grid_origin": [
+        0.0,
+        0
+      ],
+      "padding": 8,
+      "height_reference": 1032.780426487093,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "gait_role": "flight",
+      "direction_source": "focused pose-pair redraw"
+    },
+    {
+      "sheet": "front_run_flight.png",
+      "state": "run",
+      "step": 0,
+      "frame": 2,
+      "direction": 2,
+      "region": [
+        1024,
+        0,
+        1024,
+        1024
+      ],
+      "top": 8,
+      "foot": 1048.80292345679,
+      "visible_sole_y": 992,
+      "source_sole_y": 998,
+      "root_x": 361.0,
+      "source_origin": [
+        800,
+        14
+      ],
+      "source_grid_origin": [
+        768.0,
+        0
+      ],
+      "padding": 8,
+      "height_reference": 1032.780426487093,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "gait_role": "flight",
+      "direction_source": "focused pose-pair redraw"
+    },
+    {
+      "sheet": "front_run_support.png",
+      "state": "run",
+      "step": 0,
+      "frame": 1,
+      "direction": 2,
+      "region": [
+        0,
+        0,
+        1024,
+        1024
+      ],
+      "top": 8,
+      "foot": 956,
+      "visible_sole_y": 956,
+      "source_sole_y": 964,
+      "root_x": 356.0,
+      "source_origin": [
+        90,
+        16
+      ],
+      "source_grid_origin": [
+        0.0,
+        0
+      ],
+      "padding": 8,
+      "height_reference": 973.3349253731343,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "gait_role": "support",
+      "direction_source": "focused pose-pair redraw"
+    },
+    {
+      "sheet": "front_run_support.png",
+      "state": "run",
+      "step": 0,
+      "frame": 3,
+      "direction": 2,
+      "region": [
+        1024,
+        0,
+        1024,
+        1024
+      ],
+      "top": 8,
+      "foot": 957,
+      "visible_sole_y": 957,
+      "source_sole_y": 965,
+      "root_x": 316.0,
+      "source_origin": [
+        789,
+        16
+      ],
+      "source_grid_origin": [
+        768.0,
+        0
+      ],
+      "padding": 8,
+      "height_reference": 973.3349253731343,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "gait_role": "support",
+      "direction_source": "focused pose-pair redraw"
+    },
+    {
+      "sheet": "front_right_walk_opposite.png",
+      "state": "walk",
+      "step": 0,
+      "frame": 2,
+      "direction": 1,
+      "region": [
+        0,
+        0,
+        1024,
+        1024
+      ],
+      "top": 8,
+      "foot": 957,
+      "visible_sole_y": 957,
+      "source_sole_y": 972,
+      "root_x": 429.0,
+      "source_origin": [
+        80,
+        23
+      ],
+      "source_grid_origin": [
+        0.0,
+        0
+      ],
+      "padding": 8,
+      "height_reference": 955.0243006263048,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "direction_source": "focused pose-pair redraw"
+    },
+    {
+      "sheet": "front_right_walk_opposite.png",
+      "state": "walk",
+      "step": 0,
+      "frame": 3,
+      "direction": 1,
+      "region": [
+        1024,
+        0,
+        1024,
+        1024
+      ],
+      "top": 8,
+      "foot": 960,
+      "visible_sole_y": 960,
+      "source_sole_y": 979,
+      "root_x": 390.0,
+      "source_origin": [
+        839,
+        27
+      ],
+      "source_grid_origin": [
+        768.0,
+        0
+      ],
+      "padding": 8,
+      "height_reference": 955.0243006263048,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "direction_source": "focused pose-pair redraw"
+    },
+    {
+      "sheet": "back_right_walk_opposite.png",
+      "state": "walk",
+      "step": 0,
+      "frame": 2,
+      "direction": 7,
+      "region": [
+        0,
+        0,
+        1024,
+        1024
+      ],
+      "top": 8,
+      "foot": 965,
+      "visible_sole_y": 965,
+      "source_sole_y": 971,
+      "root_x": 259.0,
+      "source_origin": [
+        197,
+        14
+      ],
+      "source_grid_origin": [
+        0.0,
+        0
+      ],
+      "padding": 8,
+      "height_reference": 983.6417094017094,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "direction_source": "focused pose-pair redraw"
+    },
+    {
+      "sheet": "back_right_walk_opposite.png",
+      "state": "walk",
+      "step": 0,
+      "frame": 3,
+      "direction": 7,
+      "region": [
+        1024,
+        0,
+        1024,
+        1024
+      ],
+      "top": 8,
+      "foot": 964,
+      "visible_sole_y": 964,
+      "source_sole_y": 971,
+      "root_x": 259.0,
+      "source_origin": [
+        965,
+        15
+      ],
+      "source_grid_origin": [
+        768.0,
+        0
+      ],
+      "padding": 8,
+      "height_reference": 983.6417094017094,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "direction_source": "focused pose-pair redraw"
+    },
+    {
+      "sheet": "back_run_center_flight.png",
+      "state": "run",
+      "step": 0,
+      "frame": 0,
+      "direction": 6,
+      "region": [
+        0,
+        0,
+        1024,
+        1024
+      ],
+      "top": 8,
+      "foot": 1003.5240192881745,
+      "visible_sole_y": 948,
+      "source_sole_y": 954,
+      "root_x": 284.0,
+      "source_origin": [
+        171,
+        14
+      ],
+      "source_grid_origin": [
+        0.0,
+        0
+      ],
+      "padding": 8,
+      "height_reference": 1009.5276234213547,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "gait_role": "flight",
+      "direction_source": "focused pose-pair redraw"
+    },
+    {
+      "sheet": "back_run_center_flight.png",
+      "state": "run",
+      "step": 0,
+      "frame": 2,
+      "direction": 6,
+      "region": [
+        1024,
+        0,
+        1024,
+        1024
+      ],
+      "top": 8,
+      "foot": 950.5240192881745,
+      "visible_sole_y": 895,
+      "source_sole_y": 901,
+      "root_x": 250.0,
+      "source_origin": [
+        846,
+        14
+      ],
+      "source_grid_origin": [
+        768.0,
+        0
+      ],
+      "padding": 8,
+      "height_reference": 1009.5276234213547,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "gait_role": "flight",
+      "direction_source": "focused pose-pair redraw"
+    },
+    {
+      "sheet": "back_run_center_support.png",
+      "state": "run",
+      "step": 0,
+      "frame": 1,
+      "direction": 6,
+      "region": [
+        0,
+        0,
+        1024,
+        1024
+      ],
+      "top": 8,
+      "foot": 951,
+      "visible_sole_y": 951,
+      "source_sole_y": 956,
+      "root_x": 285.0,
+      "source_origin": [
+        175,
+        13
+      ],
+      "source_grid_origin": [
+        0.0,
+        0
+      ],
+      "padding": 8,
+      "height_reference": 1045.7305069124423,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "gait_role": "support",
+      "direction_source": "focused pose-pair redraw"
+    },
+    {
+      "sheet": "back_run_center_support.png",
+      "state": "run",
+      "step": 0,
+      "frame": 3,
+      "direction": 6,
+      "region": [
+        1024,
+        0,
+        1024,
+        1024
+      ],
+      "top": 8,
+      "foot": 951,
+      "visible_sole_y": 951,
+      "source_sole_y": 956,
+      "root_x": 241.0,
+      "source_origin": [
+        849,
+        13
+      ],
+      "source_grid_origin": [
+        768.0,
+        0
+      ],
+      "padding": 8,
+      "height_reference": 1045.7305069124423,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "gait_role": "support",
+      "direction_source": "focused pose-pair redraw"
+    },
+    {
+      "sheet": "back_walk_center_contacts.png",
+      "state": "walk",
+      "step": 0,
+      "frame": 0,
+      "direction": 6,
+      "region": [
+        0,
+        0,
+        1024,
+        1024
+      ],
+      "top": 8,
+      "foot": 975,
+      "visible_sole_y": 975,
+      "source_sole_y": 979,
+      "root_x": 249.0,
+      "source_origin": [
+        214,
+        12
+      ],
+      "source_grid_origin": [
+        0.0,
+        0
+      ],
+      "padding": 8,
+      "height_reference": 975.1589528795811,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "direction_source": "focused pose-pair redraw"
+    },
+    {
+      "sheet": "back_walk_center_contacts.png",
+      "state": "walk",
+      "step": 0,
+      "frame": 2,
+      "direction": 6,
+      "region": [
+        1024,
+        0,
+        1024,
+        1024
+      ],
+      "top": 8,
+      "foot": 976,
+      "visible_sole_y": 976,
+      "source_sole_y": 979,
+      "root_x": 244.0,
+      "source_origin": [
+        843,
+        11
+      ],
+      "source_grid_origin": [
+        768.0,
+        0
+      ],
+      "padding": 8,
+      "height_reference": 975.1589528795811,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "direction_source": "focused pose-pair redraw"
+    },
+    {
+      "sheet": "back_walk_center_passing.png",
+      "state": "walk",
+      "step": 0,
+      "frame": 1,
+      "direction": 6,
+      "region": [
+        0,
+        0,
+        1024,
+        1024
+      ],
+      "top": 8,
+      "foot": 950,
+      "visible_sole_y": 950,
+      "source_sole_y": 955,
+      "root_x": 249.0,
+      "source_origin": [
+        212,
+        13
+      ],
+      "source_grid_origin": [
+        0.0,
+        0
+      ],
+      "padding": 8,
+      "height_reference": 950.4523270440251,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "direction_source": "focused pose-pair redraw"
+    },
+    {
+      "sheet": "back_walk_center_passing.png",
+      "state": "walk",
+      "step": 0,
+      "frame": 3,
+      "direction": 6,
+      "region": [
+        1024,
+        0,
+        1024,
+        1024
+      ],
+      "top": 8,
+      "foot": 950,
+      "visible_sole_y": 950,
+      "source_sole_y": 955,
+      "root_x": 240.0,
+      "source_origin": [
+        850,
+        13
+      ],
+      "source_grid_origin": [
+        768.0,
+        0
+      ],
+      "padding": 8,
+      "height_reference": 950.4523270440251,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "direction_source": "focused pose-pair redraw"
+    },
+    {
+      "sheet": "back_right_walk_center_first.png",
+      "state": "walk",
+      "step": 0,
+      "frame": 0,
+      "direction": 7,
+      "region": [
+        0,
+        0,
+        1024,
+        1024
+      ],
+      "top": 8,
+      "foot": 944,
+      "visible_sole_y": 944,
+      "source_sole_y": 958,
+      "root_x": 265.0,
+      "source_origin": [
+        184,
+        22
+      ],
+      "source_grid_origin": [
+        0.0,
+        0
+      ],
+      "padding": 8,
+      "height_reference": 979.6929449838186,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "direction_source": "focused pose-pair redraw"
+    },
+    {
+      "sheet": "back_right_walk_center_first.png",
+      "state": "walk",
+      "step": 0,
+      "frame": 1,
+      "direction": 7,
+      "region": [
+        1024,
+        0,
+        1024,
+        1024
+      ],
+      "top": 8,
+      "foot": 959,
+      "visible_sole_y": 959,
+      "source_sole_y": 973,
+      "root_x": 299.0,
+      "source_origin": [
+        843,
+        22
+      ],
+      "source_grid_origin": [
+        768.0,
+        0
+      ],
+      "padding": 8,
+      "height_reference": 979.6929449838186,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "direction_source": "focused pose-pair redraw"
+    },
+    {
+      "sheet": "locomotion.png",
+      "state": "walk",
+      "step": 0,
+      "frame": 0,
+      "direction": 4,
+      "region": [
+        0,
+        0,
+        576,
+        576
+      ],
+      "top": 8,
+      "foot": 491,
+      "visible_sole_y": 491,
+      "source_sole_y": 500.0,
+      "root_x": 358.0,
+      "source_origin": [
+        44,
+        17
+      ],
+      "source_grid_origin": [
+        0.0,
+        0.0
+      ],
+      "padding": 8,
+      "height_reference": 481.28,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "mirror_h": true,
+      "direction_source": "runtime reflection of matching right-side locomotion"
+    },
+    {
+      "sheet": "locomotion.png",
+      "state": "walk",
+      "step": 0,
+      "frame": 1,
+      "direction": 4,
+      "region": [
+        576,
+        0,
+        576,
+        576
+      ],
+      "top": 8,
+      "foot": 487,
+      "visible_sole_y": 487,
+      "source_sole_y": 496.0,
+      "root_x": 371.0,
+      "source_origin": [
+        429,
+        17
+      ],
+      "source_grid_origin": [
+        384.0,
+        0.0
+      ],
+      "padding": 8,
+      "height_reference": 481.28,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "mirror_h": true,
+      "direction_source": "runtime reflection of matching right-side locomotion"
+    },
+    {
+      "sheet": "locomotion.png",
+      "state": "walk",
+      "step": 0,
+      "frame": 2,
+      "direction": 4,
+      "region": [
+        1152,
+        0,
+        576,
+        576
+      ],
+      "top": 8,
+      "foot": 495,
+      "visible_sole_y": 495,
+      "source_sole_y": 502.0,
+      "root_x": 367.0,
+      "source_origin": [
+        803,
+        15
+      ],
+      "source_grid_origin": [
+        768.0,
+        0.0
+      ],
+      "padding": 8,
+      "height_reference": 481.28,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "mirror_h": true,
+      "direction_source": "runtime reflection of matching right-side locomotion"
+    },
+    {
+      "sheet": "locomotion.png",
+      "state": "walk",
+      "step": 0,
+      "frame": 3,
+      "direction": 4,
+      "region": [
+        1728,
+        0,
+        576,
+        576
+      ],
+      "top": 8,
+      "foot": 497,
+      "visible_sole_y": 497,
+      "source_sole_y": 504.0,
+      "root_x": 371.0,
+      "source_origin": [
+        1195,
+        15
+      ],
+      "source_grid_origin": [
+        1152.0,
+        0.0
+      ],
+      "padding": 8,
+      "height_reference": 481.28,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "mirror_h": true,
+      "direction_source": "runtime reflection of matching right-side locomotion"
+    },
+    {
+      "sheet": "locomotion.png",
+      "state": "run",
+      "step": 0,
+      "frame": 0,
+      "direction": 4,
+      "region": [
+        0,
+        576,
+        576,
+        576
+      ],
+      "top": 8,
+      "foot": 491.4704,
+      "visible_sole_y": 465,
+      "source_sole_y": 462.0,
+      "root_x": 359.8,
+      "source_origin": [
+        24,
+        517
+      ],
+      "source_grid_origin": [
+        0.0,
+        512.0
+      ],
+      "padding": 8,
+      "height_reference": 481.28,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "gait_role": "flight",
+      "mirror_h": true,
+      "direction_source": "runtime reflection of matching right-side locomotion"
+    },
+    {
+      "sheet": "locomotion.png",
+      "state": "run",
+      "step": 0,
+      "frame": 1,
+      "direction": 4,
+      "region": [
+        576,
+        576,
+        576,
+        576
+      ],
+      "top": 8,
+      "foot": 468,
+      "visible_sole_y": 468,
+      "source_sole_y": 462.0,
+      "root_x": 390.1,
+      "source_origin": [
+        415,
+        514
+      ],
+      "source_grid_origin": [
+        384.0,
+        512.0
+      ],
+      "padding": 8,
+      "height_reference": 481.28,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "gait_role": "support",
+      "mirror_h": true,
+      "direction_source": "runtime reflection of matching right-side locomotion"
+    },
+    {
+      "sheet": "locomotion.png",
+      "state": "run",
+      "step": 0,
+      "frame": 2,
+      "direction": 4,
+      "region": [
+        1152,
+        576,
+        576,
+        576
+      ],
+      "top": 8,
+      "foot": 493.4704,
+      "visible_sole_y": 467,
+      "source_sole_y": 464.0,
+      "root_x": 375.0,
+      "source_origin": [
+        803,
+        517
+      ],
+      "source_grid_origin": [
+        768.0,
+        512.0
+      ],
+      "padding": 8,
+      "height_reference": 481.28,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "gait_role": "flight",
+      "mirror_h": true,
+      "direction_source": "runtime reflection of matching right-side locomotion"
+    },
+    {
+      "sheet": "locomotion.png",
+      "state": "run",
+      "step": 0,
+      "frame": 3,
+      "direction": 4,
+      "region": [
+        1728,
+        576,
+        576,
+        576
+      ],
+      "top": 8,
+      "foot": 480,
+      "visible_sole_y": 480,
+      "source_sole_y": 478.0,
+      "root_x": 388.3,
+      "source_origin": [
+        1183,
+        518
+      ],
+      "source_grid_origin": [
+        1152.0,
+        512.0
+      ],
+      "padding": 8,
+      "height_reference": 481.28,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "gait_role": "support",
+      "mirror_h": true,
+      "direction_source": "runtime reflection of matching right-side locomotion"
+    },
+    {
+      "sheet": "front_right.png",
+      "state": "walk",
+      "step": 0,
+      "frame": 0,
+      "direction": 3,
+      "region": [
+        0,
+        0,
+        576,
+        576
+      ],
+      "top": 8,
+      "foot": 485,
+      "visible_sole_y": 485,
+      "source_sole_y": 500.0,
+      "root_x": 365.0,
+      "source_origin": [
+        60,
+        23
+      ],
+      "source_grid_origin": [
+        0.0,
+        0.0
+      ],
+      "padding": 8,
+      "height_reference": 481.28,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "mirror_h": true,
+      "direction_source": "runtime reflection of matching right-side locomotion"
+    },
+    {
+      "sheet": "front_right.png",
+      "state": "walk",
+      "step": 0,
+      "frame": 1,
+      "direction": 3,
+      "region": [
+        576,
+        0,
+        576,
+        576
+      ],
+      "top": 8,
+      "foot": 483,
+      "visible_sole_y": 483,
+      "source_sole_y": 498.0,
+      "root_x": 412.0,
+      "source_origin": [
+        442,
+        23
+      ],
+      "source_grid_origin": [
+        384.0,
+        0.0
+      ],
+      "padding": 8,
+      "height_reference": 481.28,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "mirror_h": true,
+      "direction_source": "runtime reflection of matching right-side locomotion"
+    },
+    {
+      "sheet": "attack.png",
+      "state": "attack",
+      "step": 1,
+      "frame": 0,
+      "direction": 3,
+      "region": [
+        0,
+        0,
+        576,
+        576
+      ],
+      "top": 8,
+      "foot": 402,
+      "visible_sole_y": 402,
+      "source_sole_y": 413.0,
+      "root_x": 379.0,
+      "source_origin": [
+        63,
+        19
+      ],
+      "source_grid_origin": [
+        0.0,
+        0.0
+      ],
+      "padding": 8,
+      "height_reference": 392.91999999999996,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "hands": [
+        [
+          355.95599999999996,
+          226.84199999999998
+        ]
+      ],
+      "hand_status": "unused_nonrelease_anchor",
+      "mirror_h": true,
+      "direction_source": "runtime reflection of matching right diagonal; wrong-facing generated sheet rejected"
+    },
+    {
+      "sheet": "attack.png",
+      "state": "attack",
+      "step": 1,
+      "frame": 1,
+      "direction": 3,
+      "region": [
+        576,
+        0,
+        576,
+        576
+      ],
+      "top": 8,
+      "foot": 396,
+      "visible_sole_y": 396,
+      "source_sole_y": 413.0,
+      "root_x": 393.0,
+      "source_origin": [
+        475,
+        25
+      ],
+      "source_grid_origin": [
+        418.0,
+        0.0
+      ],
+      "padding": 8,
+      "height_reference": 392.91999999999996,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "hands": [
+        [
+          349.9559999999999,
+          220.84199999999998
+        ]
+      ],
+      "hand_status": "GPU_reviewed_release_anchor",
+      "mirror_h": true,
+      "direction_source": "runtime reflection of matching right diagonal; wrong-facing generated sheet rejected"
+    },
+    {
+      "sheet": "attack.png",
+      "state": "attack",
+      "step": 1,
+      "frame": 2,
+      "direction": 3,
+      "region": [
+        1152,
+        0,
+        576,
+        576
+      ],
+      "top": 8,
+      "foot": 403,
+      "visible_sole_y": 403,
+      "source_sole_y": 413.0,
+      "root_x": 402.0,
+      "source_origin": [
+        892,
+        18
+      ],
+      "source_grid_origin": [
+        836.0,
+        0.0
+      ],
+      "padding": 8,
+      "height_reference": 392.91999999999996,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "hands": [
+        [
+          348.9559999999999,
+          227.84199999999998
+        ]
+      ],
+      "hand_status": "unused_nonrelease_anchor",
+      "mirror_h": true,
+      "direction_source": "runtime reflection of matching right diagonal; wrong-facing generated sheet rejected"
+    },
+    {
+      "sheet": "attack.png",
+      "state": "attack",
+      "step": 2,
+      "frame": 0,
+      "direction": 3,
+      "region": [
+        0,
+        576,
+        576,
+        576
+      ],
+      "top": 8,
+      "foot": 392,
+      "visible_sole_y": 392,
+      "source_sole_y": 393.0,
+      "root_x": 386.0,
+      "source_origin": [
+        70,
+        427
+      ],
+      "source_grid_origin": [
+        0.0,
+        418.0
+      ],
+      "padding": 8,
+      "height_reference": 392.91999999999996,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "hands": [
+        [
+          515.944,
+          208.836
+        ]
+      ],
+      "hand_status": "unused_nonrelease_anchor",
+      "mirror_h": true,
+      "direction_source": "runtime reflection of matching right diagonal; wrong-facing generated sheet rejected"
+    },
+    {
+      "sheet": "attack.png",
+      "state": "attack",
+      "step": 2,
+      "frame": 1,
+      "direction": 3,
+      "region": [
+        576,
+        576,
+        576,
+        576
+      ],
+      "top": 8,
+      "foot": 382,
+      "visible_sole_y": 382,
+      "source_sole_y": 392.0,
+      "root_x": 378.0,
+      "source_origin": [
+        479,
+        436
+      ],
+      "source_grid_origin": [
+        418.0,
+        418.0
+      ],
+      "padding": 8,
+      "height_reference": 392.91999999999996,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "hands": [
+        [
+          506.94399999999996,
+          199.836
+        ]
+      ],
+      "hand_status": "GPU_reviewed_release_anchor",
+      "mirror_h": true,
+      "direction_source": "runtime reflection of matching right diagonal; wrong-facing generated sheet rejected"
+    },
+    {
+      "sheet": "attack.png",
+      "state": "attack",
+      "step": 2,
+      "frame": 2,
+      "direction": 3,
+      "region": [
+        1152,
+        576,
+        576,
+        576
+      ],
+      "top": 8,
+      "foot": 376,
+      "visible_sole_y": 376,
+      "source_sole_y": 393.0,
+      "root_x": 390.0,
+      "source_origin": [
+        882,
+        443
+      ],
+      "source_grid_origin": [
+        836.0,
+        418.0
+      ],
+      "padding": 8,
+      "height_reference": 392.91999999999996,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "hands": [
+        [
+          491.94399999999996,
+          192.836
+        ]
+      ],
+      "hand_status": "unused_nonrelease_anchor",
+      "mirror_h": true,
+      "direction_source": "runtime reflection of matching right diagonal; wrong-facing generated sheet rejected"
+    },
+    {
+      "sheet": "attack.png",
+      "state": "attack",
+      "step": 3,
+      "frame": 0,
+      "direction": 3,
+      "region": [
+        0,
+        1152,
+        576,
+        576
+      ],
+      "top": 8,
+      "foot": 388,
+      "visible_sole_y": 388,
+      "source_sole_y": 372.0,
+      "root_x": 388.0,
+      "source_origin": [
+        83,
+        828
+      ],
+      "source_grid_origin": [
+        0.0,
+        836.0
+      ],
+      "padding": 8,
+      "height_reference": 392.91999999999996,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "hands": [
+        [
+          327.05,
+          268.0540000000001
+        ]
+      ],
+      "hand_status": "unused_nonrelease_anchor",
+      "mirror_h": true,
+      "direction_source": "runtime reflection of matching right diagonal; wrong-facing generated sheet rejected"
+    },
+    {
+      "sheet": "attack.png",
+      "state": "attack",
+      "step": 3,
+      "frame": 1,
+      "direction": 3,
+      "region": [
+        576,
+        1152,
+        576,
+        576
+      ],
+      "top": 8,
+      "foot": 373,
+      "visible_sole_y": 373,
+      "source_sole_y": 372.0,
+      "root_x": 365.0,
+      "source_origin": [
+        477,
+        843
+      ],
+      "source_grid_origin": [
+        418.0,
+        836.0
+      ],
+      "padding": 8,
+      "height_reference": 392.91999999999996,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "hands": [
+        [
+          303.04999999999995,
+          253.0540000000001
+        ]
+      ],
+      "hand_status": "GPU_reviewed_release_anchor",
+      "mirror_h": true,
+      "direction_source": "runtime reflection of matching right diagonal; wrong-facing generated sheet rejected"
+    },
+    {
+      "sheet": "attack.png",
+      "state": "attack",
+      "step": 3,
+      "frame": 2,
+      "direction": 3,
+      "region": [
+        1152,
+        1152,
+        576,
+        576
+      ],
+      "top": 8,
+      "foot": 361,
+      "visible_sole_y": 361,
+      "source_sole_y": 370.0,
+      "root_x": 342.0,
+      "source_origin": [
+        880,
+        853
+      ],
+      "source_grid_origin": [
+        836.0,
+        836.0
+      ],
+      "padding": 8,
+      "height_reference": 392.91999999999996,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "hands": [
+        [
+          288.04999999999995,
+          243.0540000000001
+        ]
+      ],
+      "hand_status": "unused_nonrelease_anchor",
+      "mirror_h": true,
+      "direction_source": "runtime reflection of matching right diagonal; wrong-facing generated sheet rejected"
+    },
+    {
+      "sheet": "attack_back_right.png",
+      "state": "attack",
+      "step": 1,
+      "frame": 0,
+      "direction": 5,
+      "region": [
+        0,
+        0,
+        576,
+        576
+      ],
+      "top": 8,
+      "foot": 404,
+      "visible_sole_y": 404,
+      "source_sole_y": 416.0,
+      "root_x": 400.0,
+      "source_origin": [
+        70,
+        20
+      ],
+      "source_grid_origin": [
+        0.0,
+        0.0
+      ],
+      "padding": 8,
+      "height_reference": 392.91999999999996,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "hands": [
+        [
+          303.59999999999997,
+          226.26
+        ]
+      ],
+      "hand_status": "unused_nonrelease_anchor",
+      "mirror_h": true,
+      "direction_source": "runtime reflection of matching right diagonal; wrong-facing generated sheet rejected"
+    },
+    {
+      "sheet": "attack_back_right.png",
+      "state": "attack",
+      "step": 1,
+      "frame": 1,
+      "direction": 5,
+      "region": [
+        576,
+        0,
+        576,
+        576
+      ],
+      "top": 8,
+      "foot": 406,
+      "visible_sole_y": 406,
+      "source_sole_y": 416.0,
+      "root_x": 410.0,
+      "source_origin": [
+        477,
+        18
+      ],
+      "source_grid_origin": [
+        418.0,
+        0.0
+      ],
+      "padding": 8,
+      "height_reference": 392.91999999999996,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "hands": [
+        [
+          292.5999999999999,
+          228.26
+        ]
+      ],
+      "hand_status": "GPU_reviewed_release_anchor",
+      "mirror_h": true,
+      "direction_source": "runtime reflection of matching right diagonal; wrong-facing generated sheet rejected"
+    },
+    {
+      "sheet": "attack_back_right.png",
+      "state": "attack",
+      "step": 1,
+      "frame": 2,
+      "direction": 5,
+      "region": [
+        1152,
+        0,
+        576,
+        576
+      ],
+      "top": 8,
+      "foot": 405,
+      "visible_sole_y": 405,
+      "source_sole_y": 417.0,
+      "root_x": 409.0,
+      "source_origin": [
+        890,
+        20
+      ],
+      "source_grid_origin": [
+        836.0,
+        0.0
+      ],
+      "padding": 8,
+      "height_reference": 392.91999999999996,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "hands": [
+        [
+          287.5999999999999,
+          226.26
+        ]
+      ],
+      "hand_status": "unused_nonrelease_anchor",
+      "mirror_h": true,
+      "direction_source": "runtime reflection of matching right diagonal; wrong-facing generated sheet rejected"
+    },
+    {
+      "sheet": "attack_back_right.png",
+      "state": "attack",
+      "step": 2,
+      "frame": 0,
+      "direction": 5,
+      "region": [
+        0,
+        576,
+        576,
+        576
+      ],
+      "top": 8,
+      "foot": 404,
+      "visible_sole_y": 404,
+      "source_sole_y": 414.0,
+      "root_x": 385.0,
+      "source_origin": [
+        64,
+        436
+      ],
+      "source_grid_origin": [
+        0.0,
+        418.0
+      ],
+      "padding": 8,
+      "height_reference": 392.91999999999996,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "hands": [
+        [
+          347.76,
+          194.82000000000005
+        ]
+      ],
+      "hand_status": "unused_nonrelease_anchor",
+      "mirror_h": true,
+      "direction_source": "runtime reflection of matching right diagonal; wrong-facing generated sheet rejected"
+    },
+    {
+      "sheet": "attack_back_right.png",
+      "state": "attack",
+      "step": 2,
+      "frame": 1,
+      "direction": 5,
+      "region": [
+        576,
+        576,
+        576,
+        576
+      ],
+      "top": 8,
+      "foot": 399,
+      "visible_sole_y": 399,
+      "source_sole_y": 414.0,
+      "root_x": 419.0,
+      "source_origin": [
+        480,
+        441
+      ],
+      "source_grid_origin": [
+        418.0,
+        418.0
+      ],
+      "padding": 8,
+      "height_reference": 392.91999999999996,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "hands": [
+        [
+          345.76,
+          189.82000000000005
+        ]
+      ],
+      "hand_status": "GPU_reviewed_release_anchor",
+      "mirror_h": true,
+      "direction_source": "runtime reflection of matching right diagonal; wrong-facing generated sheet rejected"
+    },
+    {
+      "sheet": "attack_back_right.png",
+      "state": "attack",
+      "step": 2,
+      "frame": 2,
+      "direction": 5,
+      "region": [
+        1152,
+        576,
+        576,
+        576
+      ],
+      "top": 8,
+      "foot": 396,
+      "visible_sole_y": 396,
+      "source_sole_y": 414.0,
+      "root_x": 412.0,
+      "source_origin": [
+        914,
+        444
+      ],
+      "source_grid_origin": [
+        836.0,
+        418.0
+      ],
+      "padding": 8,
+      "height_reference": 392.91999999999996,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "hands": [
+        [
+          361.76,
+          186.82000000000005
+        ]
+      ],
+      "hand_status": "unused_nonrelease_anchor",
+      "mirror_h": true,
+      "direction_source": "runtime reflection of matching right diagonal; wrong-facing generated sheet rejected"
+    },
+    {
+      "sheet": "attack_back_right.png",
+      "state": "attack",
+      "step": 3,
+      "frame": 0,
+      "direction": 5,
+      "region": [
+        0,
+        1152,
+        576,
+        576
+      ],
+      "top": 8,
+      "foot": 390,
+      "visible_sole_y": 390,
+      "source_sole_y": 392.0,
+      "root_x": 393.0,
+      "source_origin": [
+        76,
+        846
+      ],
+      "source_grid_origin": [
+        0.0,
+        836.0
+      ],
+      "padding": 8,
+      "height_reference": 392.91999999999996,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "hands": [
+        [
+          330.5,
+          273.8800000000001
+        ]
+      ],
+      "hand_status": "unused_nonrelease_anchor",
+      "mirror_h": true,
+      "direction_source": "runtime reflection of matching right diagonal; wrong-facing generated sheet rejected"
+    },
+    {
+      "sheet": "attack_back_right.png",
+      "state": "attack",
+      "step": 3,
+      "frame": 1,
+      "direction": 5,
+      "region": [
+        576,
+        1152,
+        576,
+        576
+      ],
+      "top": 8,
+      "foot": 375,
+      "visible_sole_y": 375,
+      "source_sole_y": 391.0,
+      "root_x": 369.0,
+      "source_origin": [
+        468,
+        860
+      ],
+      "source_grid_origin": [
+        418.0,
+        836.0
+      ],
+      "padding": 8,
+      "height_reference": 392.91999999999996,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "hands": [
+        [
+          304.5,
+          259.8800000000001
+        ]
+      ],
+      "hand_status": "GPU_reviewed_release_anchor",
+      "mirror_h": true,
+      "direction_source": "runtime reflection of matching right diagonal; wrong-facing generated sheet rejected"
+    },
+    {
+      "sheet": "attack_back_right.png",
+      "state": "attack",
+      "step": 3,
+      "frame": 2,
+      "direction": 5,
+      "region": [
+        1152,
+        1152,
+        576,
+        576
+      ],
+      "top": 8,
+      "foot": 379,
+      "visible_sole_y": 379,
+      "source_sole_y": 391.0,
+      "root_x": 373.0,
+      "source_origin": [
+        888,
+        856
+      ],
+      "source_grid_origin": [
+        836.0,
+        836.0
+      ],
+      "padding": 8,
+      "height_reference": 392.91999999999996,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "hands": [
+        [
+          306.5,
+          263.8800000000001
+        ]
+      ],
+      "hand_status": "unused_nonrelease_anchor",
+      "mirror_h": true,
+      "direction_source": "runtime reflection of matching right diagonal; wrong-facing generated sheet rejected"
+    },
+    {
+      "sheet": "front_right_run_first.png",
+      "state": "run",
+      "step": 0,
+      "frame": 0,
+      "direction": 3,
+      "region": [
+        0,
+        0,
+        1024,
+        1024
+      ],
+      "top": 8,
+      "foot": 859.3515932203389,
+      "visible_sole_y": 810,
+      "source_sole_y": 816,
+      "root_x": 578.21,
+      "source_origin": [
+        82,
+        14
+      ],
+      "source_grid_origin": [
+        0.0,
+        0
+      ],
+      "padding": 8,
+      "height_reference": 897.3016949152541,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "gait_role": "flight",
+      "direction_source": "runtime reflection of matching right-side locomotion",
+      "mirror_h": true
+    },
+    {
+      "sheet": "front_right_run_first.png",
+      "state": "run",
+      "step": 0,
+      "frame": 1,
+      "direction": 3,
+      "region": [
+        1024,
+        0,
+        1024,
+        1024
+      ],
+      "top": 8,
+      "foot": 856,
+      "visible_sole_y": 856,
+      "source_sole_y": 859,
+      "root_x": 617.4300000000001,
+      "source_origin": [
+        978,
+        11
+      ],
+      "source_grid_origin": [
+        887.0,
+        0
+      ],
+      "padding": 8,
+      "height_reference": 897.3016949152541,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "gait_role": "support",
+      "direction_source": "runtime reflection of matching right-side locomotion",
+      "mirror_h": true
+    },
+    {
+      "sheet": "front_right_run_opposite.png",
+      "state": "run",
+      "step": 0,
+      "frame": 2,
+      "direction": 3,
+      "region": [
+        0,
+        0,
+        1024,
+        1024
+      ],
+      "top": 8,
+      "foot": 862.1848648648648,
+      "visible_sole_y": 813,
+      "source_sole_y": 818,
+      "root_x": 541.4200000000001,
+      "source_origin": [
+        68,
+        13
+      ],
+      "source_grid_origin": [
+        0.0,
+        0
+      ],
+      "padding": 8,
+      "height_reference": 894.2702702702703,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "gait_role": "flight",
+      "direction_source": "runtime reflection of matching right-side locomotion",
+      "mirror_h": true
+    },
+    {
+      "sheet": "front_right_run_opposite.png",
+      "state": "run",
+      "step": 0,
+      "frame": 3,
+      "direction": 3,
+      "region": [
+        1024,
+        0,
+        1024,
+        1024
+      ],
+      "top": 8,
+      "foot": 853,
+      "visible_sole_y": 853,
+      "source_sole_y": 857,
+      "root_x": 580.22,
+      "source_origin": [
+        988,
+        12
+      ],
+      "source_grid_origin": [
+        887.0,
+        0
+      ],
+      "padding": 8,
+      "height_reference": 894.2702702702703,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "gait_role": "support",
+      "direction_source": "runtime reflection of matching right-side locomotion",
+      "mirror_h": true
+    },
+    {
+      "sheet": "back_right_run_first.png",
+      "state": "run",
+      "step": 0,
+      "frame": 0,
+      "direction": 5,
+      "region": [
+        0,
+        0,
+        1024,
+        1024
+      ],
+      "top": 8,
+      "foot": 861.9118188679245,
+      "visible_sole_y": 811,
+      "source_sole_y": 817,
+      "root_x": 777.28,
+      "source_origin": [
+        282,
+        14
+      ],
+      "source_grid_origin": [
+        0.0,
+        0
+      ],
+      "padding": 8,
+      "height_reference": 925.669433962264,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "gait_role": "flight",
+      "direction_source": "runtime reflection of matching right-side locomotion",
+      "mirror_h": true
+    },
+    {
+      "sheet": "back_right_run_first.png",
+      "state": "run",
+      "step": 0,
+      "frame": 1,
+      "direction": 5,
+      "region": [
+        1024,
+        0,
+        1024,
+        1024
+      ],
+      "top": 8,
+      "foot": 836,
+      "visible_sole_y": 836,
+      "source_sole_y": 843,
+      "root_x": 788.03,
+      "source_origin": [
+        1162,
+        15
+      ],
+      "source_grid_origin": [
+        887.0,
+        0
+      ],
+      "padding": 8,
+      "height_reference": 925.669433962264,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "gait_role": "support",
+      "direction_source": "runtime reflection of matching right-side locomotion",
+      "mirror_h": true
+    },
+    {
+      "sheet": "back_right_run_opposite.png",
+      "state": "run",
+      "step": 0,
+      "frame": 2,
+      "direction": 5,
+      "region": [
+        0,
+        0,
+        1024,
+        1024
+      ],
+      "top": 8,
+      "foot": 876.5624793465578,
+      "visible_sole_y": 826,
+      "source_sole_y": 832,
+      "root_x": 787.3299999999999,
+      "source_origin": [
+        297,
+        14
+      ],
+      "source_grid_origin": [
+        0.0,
+        0
+      ],
+      "padding": 8,
+      "height_reference": 919.3178063010502,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "gait_role": "flight",
+      "direction_source": "runtime reflection of matching right-side locomotion",
+      "mirror_h": true
+    },
+    {
+      "sheet": "back_right_run_opposite.png",
+      "state": "run",
+      "step": 0,
+      "frame": 3,
+      "direction": 5,
+      "region": [
+        1024,
+        0,
+        1024,
+        1024
+      ],
+      "top": 8,
+      "foot": 827,
+      "visible_sole_y": 827,
+      "source_sole_y": 832,
+      "root_x": 798.4,
+      "source_origin": [
+        1191,
+        13
+      ],
+      "source_grid_origin": [
+        887.0,
+        0
+      ],
+      "padding": 8,
+      "height_reference": 919.3178063010502,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "gait_role": "support",
+      "direction_source": "runtime reflection of matching right-side locomotion",
+      "mirror_h": true
+    },
+    {
+      "sheet": "front_right_walk_opposite.png",
+      "state": "walk",
+      "step": 0,
+      "frame": 2,
+      "direction": 3,
+      "region": [
+        0,
+        0,
+        1024,
+        1024
+      ],
+      "top": 8,
+      "foot": 957,
+      "visible_sole_y": 957,
+      "source_sole_y": 972,
+      "root_x": 595.0,
+      "source_origin": [
+        80,
+        23
+      ],
+      "source_grid_origin": [
+        0.0,
+        0
+      ],
+      "padding": 8,
+      "height_reference": 955.0243006263048,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "direction_source": "runtime reflection of matching right-side locomotion",
+      "mirror_h": true
+    },
+    {
+      "sheet": "front_right_walk_opposite.png",
+      "state": "walk",
+      "step": 0,
+      "frame": 3,
+      "direction": 3,
+      "region": [
+        1024,
+        0,
+        1024,
+        1024
+      ],
+      "top": 8,
+      "foot": 960,
+      "visible_sole_y": 960,
+      "source_sole_y": 979,
+      "root_x": 634.0,
+      "source_origin": [
+        839,
+        27
+      ],
+      "source_grid_origin": [
+        768.0,
+        0
+      ],
+      "padding": 8,
+      "height_reference": 955.0243006263048,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "direction_source": "runtime reflection of matching right-side locomotion",
+      "mirror_h": true
+    },
+    {
+      "sheet": "back_right_walk_opposite.png",
+      "state": "walk",
+      "step": 0,
+      "frame": 2,
+      "direction": 5,
+      "region": [
+        0,
+        0,
+        1024,
+        1024
+      ],
+      "top": 8,
+      "foot": 965,
+      "visible_sole_y": 965,
+      "source_sole_y": 971,
+      "root_x": 765.0,
+      "source_origin": [
+        197,
+        14
+      ],
+      "source_grid_origin": [
+        0.0,
+        0
+      ],
+      "padding": 8,
+      "height_reference": 983.6417094017094,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "direction_source": "runtime reflection of matching right-side locomotion",
+      "mirror_h": true
+    },
+    {
+      "sheet": "back_right_walk_opposite.png",
+      "state": "walk",
+      "step": 0,
+      "frame": 3,
+      "direction": 5,
+      "region": [
+        1024,
+        0,
+        1024,
+        1024
+      ],
+      "top": 8,
+      "foot": 964,
+      "visible_sole_y": 964,
+      "source_sole_y": 971,
+      "root_x": 765.0,
+      "source_origin": [
+        965,
+        15
+      ],
+      "source_grid_origin": [
+        768.0,
+        0
+      ],
+      "padding": 8,
+      "height_reference": 983.6417094017094,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "direction_source": "runtime reflection of matching right-side locomotion",
+      "mirror_h": true
+    },
+    {
+      "sheet": "back_right_walk_center_first.png",
+      "state": "walk",
+      "step": 0,
+      "frame": 0,
+      "direction": 5,
+      "region": [
+        0,
+        0,
+        1024,
+        1024
+      ],
+      "top": 8,
+      "foot": 944,
+      "visible_sole_y": 944,
+      "source_sole_y": 958,
+      "root_x": 759.0,
+      "source_origin": [
+        184,
+        22
+      ],
+      "source_grid_origin": [
+        0.0,
+        0
+      ],
+      "padding": 8,
+      "height_reference": 979.6929449838186,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "direction_source": "runtime reflection of matching right-side locomotion",
+      "mirror_h": true
+    },
+    {
+      "sheet": "back_right_walk_center_first.png",
+      "state": "walk",
+      "step": 0,
+      "frame": 1,
+      "direction": 5,
+      "region": [
+        1024,
+        0,
+        1024,
+        1024
+      ],
+      "top": 8,
+      "foot": 959,
+      "visible_sole_y": 959,
+      "source_sole_y": 973,
+      "root_x": 725.0,
+      "source_origin": [
+        843,
+        22
+      ],
+      "source_grid_origin": [
+        768.0,
+        0
+      ],
+      "padding": 8,
+      "height_reference": 979.6929449838186,
+      "anchor_status": "head_center_candidate_not_final_hip_registration",
+      "silhouette_isolated": true,
+      "direction_source": "runtime reflection of matching right-side locomotion",
+      "mirror_h": true
+    }
+  ],
+  "unique_pose_count": 94,
+  "mirrored_pose_count": 42,
+  "known_issues": [
+    "some opposite support-leg identities still ambiguous",
+    "head registration provisional; anatomical hip and planted foot need review",
+    "left-side locomotion and both left-diagonal attacks use runtime reflections",
+    "eight attack directions are candidates, not visual acceptance",
+    "release glove anchors GPU reviewed; continuous effect trajectory still needs review",
+    "alpha threshold may remove faint edges"
+  ]
+}

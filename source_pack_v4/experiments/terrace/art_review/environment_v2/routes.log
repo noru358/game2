@@ -1,0 +1,42 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+OpenGL API 3.3.0 NVIDIA 560.94 - Compatibility - Using Device: NVIDIA - NVIDIA GeForce RTX 4060 Ti
+
+PASS entry grounded
+PASS existing Player speed contract
+PASS capture 01_entry
+PASS capture 02_overview
+PASS physical route (-16.0, 6.0) at (-16.17987, 0.835283, 6.384858)
+PASS capture 03_water_bank
+PASS physical route (-20.0, -3.0) at (-19.85397, 0.969928, -2.64055)
+PASS optional discovery retained
+PASS physical route (-15.0, -5.0) at (-15.26721, 1.378625, -4.868381)
+PASS physical route (-10.0, -12.0) at (-10.26002, 3.004244, -11.64526)
+PASS capture 04_upper_bank
+PASS physical route (0.0, -15.0) at (-0.371359, 3.413625, -14.82503)
+PASS physical route (10.0, -13.0) at (9.708314, 3.078027, -13.15951)
+PASS physical route (21.0, -11.0) at (20.58537, 2.898464, -11.16579)
+PASS capture 05_forest_gate
+PASS exit reaches destination map
+PASS no automatic bounce
+PASS destination arrival grounded
+PASS capture 06_roots_arrival
+PASS physical route (-7.0, 7.0) at (-7.174089, 0.786304, 7.347862)
+PASS physical route (-3.0, 1.0) at (-3.225667, 1.575996, 1.345205)
+PASS physical route (3.0, -7.0) at (2.802899, 4.18751, -6.733051)
+PASS physical route (5.0, -11.0) at (4.834398, 4.8087, -10.67784)
+PASS second map discovery
+PASS capture 07_roots_shelf
+PASS physical route (3.0, -7.0) at (3.185758, 4.344748, -7.372187)
+PASS physical route (-3.0, 1.0) at (-2.809637, 1.752459, 0.74285)
+PASS physical route (-7.0, 7.0) at (-6.796505, 0.793852, 6.696089)
+PASS physical route (-12.0, 9.0) at (-11.6208, 0.729732, 8.832054)
+PASS physical round trip
+PASS discovery survives map return
+PASS isolated snapshot restores
+PASS both map states restored
+PASS existing dash active
+PASS release stops after dash
+PASS triangle grounding error 0.0231
+PASS water boundary blocks entry
+PASS own temporary profile removed
+RESULT 38 PASS / 0 FAIL

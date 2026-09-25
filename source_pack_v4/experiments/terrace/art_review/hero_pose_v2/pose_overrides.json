@@ -1,0 +1,119 @@
+{
+  "pairs": [
+    {
+      "name": "front_right_run_first",
+      "direction": 1,
+      "state": "run",
+      "start": 0
+    },
+    {
+      "name": "front_right_run_opposite",
+      "direction": 1,
+      "state": "run",
+      "start": 2
+    },
+    {
+      "name": "back_right_run_first",
+      "direction": 7,
+      "state": "run",
+      "start": 0
+    },
+    {
+      "name": "back_right_run_opposite",
+      "direction": 7,
+      "state": "run",
+      "start": 2
+    },
+    {
+      "name": "front_walk_contacts",
+      "direction": 2,
+      "state": "walk",
+      "indices": [
+        0,
+        2
+      ]
+    },
+    {
+      "name": "front_walk_passing",
+      "direction": 2,
+      "state": "walk",
+      "indices": [
+        1,
+        3
+      ]
+    },
+    {
+      "name": "front_run_flight",
+      "direction": 2,
+      "state": "run",
+      "indices": [
+        0,
+        2
+      ]
+    },
+    {
+      "name": "front_run_support",
+      "direction": 2,
+      "state": "run",
+      "indices": [
+        1,
+        3
+      ]
+    },
+    {
+      "name": "front_right_walk_opposite",
+      "direction": 1,
+      "state": "walk",
+      "start": 2
+    },
+    {
+      "name": "back_right_walk_opposite",
+      "direction": 7,
+      "state": "walk",
+      "start": 2
+    },
+    {
+      "name": "back_run_center_flight",
+      "direction": 6,
+      "state": "run",
+      "indices": [
+        0,
+        2
+      ]
+    },
+    {
+      "name": "back_run_center_support",
+      "direction": 6,
+      "state": "run",
+      "indices": [
+        1,
+        3
+      ]
+    },
+    {
+      "name": "back_walk_center_contacts",
+      "direction": 6,
+      "state": "walk",
+      "indices": [
+        0,
+        2
+      ]
+    },
+    {
+      "name": "back_walk_center_passing",
+      "direction": 6,
+      "state": "walk",
+      "indices": [
+        1,
+        3
+      ]
+    },
+    {
+      "name": "back_right_walk_center_first",
+      "direction": 7,
+      "state": "walk",
+      "start": 0
+    }
+  ],
+  "note": "Only existing source files are applied. Native RGB is preserved; left-side movement reflects matching right-side frames at runtime."
+}

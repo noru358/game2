@@ -1,0 +1,242 @@
+[
+  {
+    "direction": "FRONT",
+    "engine_index": 2,
+    "phase": 0,
+    "region": [
+      0,
+      0,
+      305,
+      326
+    ],
+    "root_x": 184,
+    "foot": 317,
+    "scale_height": 310,
+    "anchor_status": "provisional_manual"
+  },
+  {
+    "direction": "FRONT",
+    "engine_index": 2,
+    "phase": 1,
+    "region": [
+      305,
+      0,
+      305,
+      326
+    ],
+    "root_x": 163,
+    "foot": 321,
+    "scale_height": 310,
+    "anchor_status": "provisional_manual"
+  },
+  {
+    "direction": "FRONT",
+    "engine_index": 2,
+    "phase": 2,
+    "region": [
+      610,
+      0,
+      305,
+      326
+    ],
+    "root_x": 134,
+    "foot": 319,
+    "scale_height": 310,
+    "anchor_status": "provisional_manual"
+  },
+  {
+    "direction": "FRONT",
+    "engine_index": 2,
+    "phase": 3,
+    "region": [
+      915,
+      0,
+      304,
+      326
+    ],
+    "root_x": 129,
+    "foot": 319,
+    "scale_height": 310,
+    "anchor_status": "provisional_manual"
+  },
+  {
+    "direction": "RIGHT",
+    "engine_index": 0,
+    "phase": 0,
+    "region": [
+      0,
+      326,
+      305,
+      307
+    ],
+    "root_x": 225,
+    "foot": 301,
+    "scale_height": 310,
+    "anchor_status": "provisional_manual"
+  },
+  {
+    "direction": "RIGHT",
+    "engine_index": 0,
+    "phase": 1,
+    "region": [
+      305,
+      326,
+      305,
+      307
+    ],
+    "root_x": 203,
+    "foot": 301,
+    "scale_height": 310,
+    "anchor_status": "provisional_manual"
+  },
+  {
+    "direction": "RIGHT",
+    "engine_index": 0,
+    "phase": 2,
+    "region": [
+      610,
+      326,
+      305,
+      307
+    ],
+    "root_x": 188,
+    "foot": 301,
+    "scale_height": 310,
+    "anchor_status": "provisional_manual"
+  },
+  {
+    "direction": "RIGHT",
+    "engine_index": 0,
+    "phase": 3,
+    "region": [
+      915,
+      326,
+      304,
+      307
+    ],
+    "root_x": 177,
+    "foot": 301,
+    "scale_height": 310,
+    "anchor_status": "provisional_manual"
+  },
+  {
+    "direction": "BACK",
+    "engine_index": 6,
+    "phase": 0,
+    "region": [
+      0,
+      633,
+      305,
+      310
+    ],
+    "root_x": 166,
+    "foot": 304,
+    "scale_height": 310,
+    "anchor_status": "provisional_manual"
+  },
+  {
+    "direction": "BACK",
+    "engine_index": 6,
+    "phase": 1,
+    "region": [
+      305,
+      633,
+      305,
+      310
+    ],
+    "root_x": 158,
+    "foot": 304,
+    "scale_height": 310,
+    "anchor_status": "provisional_manual"
+  },
+  {
+    "direction": "BACK",
+    "engine_index": 6,
+    "phase": 2,
+    "region": [
+      610,
+      633,
+      305,
+      310
+    ],
+    "root_x": 135,
+    "foot": 304,
+    "scale_height": 310,
+    "anchor_status": "provisional_manual"
+  },
+  {
+    "direction": "BACK",
+    "engine_index": 6,
+    "phase": 3,
+    "region": [
+      915,
+      633,
+      304,
+      310
+    ],
+    "root_x": 150,
+    "foot": 304,
+    "scale_height": 310,
+    "anchor_status": "provisional_manual"
+  },
+  {
+    "direction": "LEFT",
+    "engine_index": 4,
+    "phase": 0,
+    "region": [
+      0,
+      943,
+      305,
+      337
+    ],
+    "root_x": 133,
+    "foot": 321,
+    "scale_height": 310,
+    "anchor_status": "provisional_manual"
+  },
+  {
+    "direction": "LEFT",
+    "engine_index": 4,
+    "phase": 1,
+    "region": [
+      305,
+      943,
+      305,
+      337
+    ],
+    "root_x": 136,
+    "foot": 321,
+    "scale_height": 310,
+    "anchor_status": "provisional_manual"
+  },
+  {
+    "direction": "LEFT",
+    "engine_index": 4,
+    "phase": 2,
+    "region": [
+      610,
+      943,
+      305,
+      337
+    ],
+    "root_x": 119,
+    "foot": 321,
+    "scale_height": 310,
+    "anchor_status": "provisional_manual"
+  },
+  {
+    "direction": "LEFT",
+    "engine_index": 4,
+    "phase": 3,
+    "region": [
+      915,
+      943,
+      304,
+      337
+    ],
+    "root_x": 126,
+    "foot": 321,
+    "scale_height": 310,
+    "anchor_status": "provisional_manual"
+  }
+]

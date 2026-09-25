@@ -1,0 +1,182 @@
+[
+  {
+    "region": [
+      31,
+      2,
+      271,
+      309
+    ],
+    "top": 2,
+    "foot": 307,
+    "root_x": 159,
+    "source_mirrored": false
+  },
+  {
+    "region": [
+      354,
+      10,
+      258,
+      301
+    ],
+    "top": 2,
+    "foot": 299,
+    "root_x": 161,
+    "source_mirrored": false
+  },
+  {
+    "region": [
+      690,
+      14,
+      220,
+      297
+    ],
+    "top": 2,
+    "foot": 295,
+    "root_x": 130,
+    "source_mirrored": false
+  },
+  {
+    "region": [
+      998,
+      14,
+      264,
+      305
+    ],
+    "top": 2,
+    "foot": 303,
+    "root_x": 152,
+    "source_mirrored": true
+  },
+  {
+    "region": [
+      1316,
+      10,
+      256,
+      302
+    ],
+    "top": 2,
+    "foot": 300,
+    "root_x": 139,
+    "source_mirrored": false
+  },
+  {
+    "region": [
+      33,
+      321,
+      271,
+      316
+    ],
+    "top": 2,
+    "foot": 314,
+    "root_x": 172,
+    "source_mirrored": false
+  },
+  {
+    "region": [
+      373,
+      324,
+      245,
+      314
+    ],
+    "top": 2,
+    "foot": 312,
+    "root_x": 157,
+    "source_mirrored": false
+  },
+  {
+    "region": [
+      691,
+      330,
+      226,
+      307
+    ],
+    "top": 2,
+    "foot": 305,
+    "root_x": 134,
+    "source_mirrored": false
+  },
+  {
+    "region": [
+      1039,
+      333,
+      236,
+      302
+    ],
+    "top": 2,
+    "foot": 300,
+    "root_x": 96,
+    "source_mirrored": true
+  },
+  {
+    "region": [
+      1322,
+      332,
+      254,
+      313
+    ],
+    "top": 2,
+    "foot": 311,
+    "root_x": 128,
+    "source_mirrored": false
+  },
+  {
+    "region": [
+      42,
+      643,
+      268,
+      302
+    ],
+    "top": 2,
+    "foot": 300,
+    "root_x": 153,
+    "source_mirrored": false
+  },
+  {
+    "region": [
+      370,
+      649,
+      254,
+      297
+    ],
+    "top": 2,
+    "foot": 295,
+    "root_x": 155,
+    "source_mirrored": false
+  },
+  {
+    "region": [
+      695,
+      650,
+      225,
+      294
+    ],
+    "top": 2,
+    "foot": 292,
+    "root_x": 125,
+    "source_mirrored": false
+  },
+  {
+    "region": [
+      1031,
+      654,
+      266,
+      291
+    ],
+    "top": 2,
+    "foot": 289,
+    "root_x": 109,
+    "source_mirrored": true
+  },
+  {
+    "region": [
+      1328,
+      650,
+      249,
+      305
+    ],
+    "top": 2,
+    "foot": 303,
+    "root_x": 122,
+    "source_mirrored": false
+  }
+]

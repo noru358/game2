@@ -1,0 +1,32 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+OpenGL API 3.3.0 NVIDIA 560.94 - Compatibility - Using Device: NVIDIA - NVIDIA GeForce RTX 4060 Ti
+
+PASS no player save queue
+PASS rejected rubber mesh hidden
+PASS sweep preparation pose
+PASS existing combo step 1
+PASS hit uses release pose on same tick
+PASS single swinging hand per strike
+PASS attack_1
+PASS recovery pose
+PASS sweep preparation pose
+PASS existing combo step 2
+PASS hit uses release pose on same tick
+PASS single swinging hand per strike
+PASS attack_2
+PASS recovery pose
+PASS sweep preparation pose
+PASS existing combo step 3
+PASS hit uses release pose on same tick
+PASS single swinging hand per strike
+PASS attack_3
+PASS recovery pose
+PASS actual movement selects walk frames
+PASS walk
+PASS actual acceleration selects run frames
+PASS run
+PASS stopped uses approved exact idle
+PASS dodge cancels swing preparation
+PASS cancelled preparation emits no strike
+PASS held J plays a full connected combo
+PASS held combo order 1 / 2 / 3

@@ -1,0 +1,14 @@
+{
+  "status": "RESKIN_CANDIDATE_NOT_USER_ACCEPTED",
+  "motion_source": "assets/hero/grove_scholar walk/run sheets and metadata",
+  "appearance_source": "docs/design_refs/hero_turnaround_approved.png",
+  "deprecated_motion_source": "art_review/hero_pose_v2 walk/run frames",
+  "frame_contract": {
+    "directions": 8,
+    "walk_frames_per_direction": 4,
+    "run_frames_per_direction": 4,
+    "old_motion_geometry_preserved": true,
+    "regions_trimmed_to_cleaned_alpha": true
+  }
+}
+

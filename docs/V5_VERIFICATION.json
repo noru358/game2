@@ -1,0 +1,14 @@
+{
+  "date": "2026-09-24",
+  "retained_runtime_related_files_verified": 235,
+  "changed_runtime_files": [],
+  "active_reference_pngs": 8,
+  "active_total_pngs": 26,
+  "physical_deletion": "BLOCKED; 0 of 42 removed",
+  "removed_from_new_package": 35,
+  "all_resource_links": "PASS",
+  "all_document_links": "PASS",
+  "supplied_reference_sha256": "0a01d4f99412b2a1eb3d51112e0d921033ef70f8a461dfc451752e03e57ffcf5",
+  "tests_rerun": false,
+  "reason_no_runtime_retest": "Retained game code/assets/tests/config are byte-identical; only zero-reference shaders excluded."
+}

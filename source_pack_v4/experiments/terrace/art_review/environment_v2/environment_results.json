@@ -1,0 +1,5 @@
+{
+  "checks": 15,
+  "failures": 0,
+  "scope": "asset loading, camera/hero pitch, view switching and GPU captures; visual quality reviewed separately"
+}

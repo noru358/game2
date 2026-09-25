@@ -1,0 +1,93 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+OpenGL API 3.3.0 NVIDIA 560.94 - Compatibility - Using Device: NVIDIA - NVIDIA GeForce RTX 4060 Ti
+
+PASS test-only integration no save queue
+PASS attack direction 0 step 1
+PASS spell stroke starts at visible glove direction 0 step 1
+PASS attack direction 0 step 2
+PASS spell stroke starts at visible glove direction 0 step 2
+PASS attack direction 0 step 3
+PASS spell stroke starts at visible glove direction 0 step 3
+PASS walk direction 0
+PASS run direction 0
+PASS attack direction 1 step 1
+PASS spell stroke starts at visible glove direction 1 step 1
+PASS attack direction 1 step 2
+PASS spell stroke starts at visible glove direction 1 step 2
+PASS attack direction 1 step 3
+PASS spell stroke starts at visible glove direction 1 step 3
+PASS walk direction 1
+PASS run direction 1
+PASS attack direction 2 step 1
+PASS spell stroke starts at visible glove direction 2 step 1
+PASS attack direction 2 step 2
+PASS spell stroke starts at visible glove direction 2 step 2
+PASS attack direction 2 step 3
+PASS spell stroke starts at visible glove direction 2 step 3
+PASS walk direction 2
+PASS run direction 2
+PASS attack direction 3 step 1
+PASS spell stroke starts at visible glove direction 3 step 1
+PASS attack direction 3 step 2
+PASS spell stroke starts at visible glove direction 3 step 2
+PASS attack direction 3 step 3
+PASS spell stroke starts at visible glove direction 3 step 3
+PASS walk direction 3
+PASS run direction 3
+PASS attack direction 4 step 1
+PASS spell stroke starts at visible glove direction 4 step 1
+PASS attack direction 4 step 2
+PASS spell stroke starts at visible glove direction 4 step 2
+PASS attack direction 4 step 3
+PASS spell stroke starts at visible glove direction 4 step 3
+PASS walk direction 4
+PASS run direction 4
+PASS attack direction 5 step 1
+PASS spell stroke starts at visible glove direction 5 step 1
+PASS attack direction 5 step 2
+PASS spell stroke starts at visible glove direction 5 step 2
+PASS attack direction 5 step 3
+PASS spell stroke starts at visible glove direction 5 step 3
+PASS walk direction 5
+PASS run direction 5
+PASS attack direction 6 step 1
+PASS spell stroke starts at visible glove direction 6 step 1
+PASS attack direction 6 step 2
+PASS spell stroke starts at visible glove direction 6 step 2
+PASS attack direction 6 step 3
+PASS spell stroke starts at visible glove direction 6 step 3
+PASS walk direction 6
+PASS run direction 6
+PASS attack direction 7 step 1
+PASS spell stroke starts at visible glove direction 7 step 1
+PASS attack direction 7 step 2
+PASS spell stroke starts at visible glove direction 7 step 2
+PASS attack direction 7 step 3
+PASS spell stroke starts at visible glove direction 7 step 3
+PASS walk direction 7
+PASS run direction 7
+PASS gait contract starts on actual collision floor
+PASS start walk with passing foot under hips
+PASS first footprint shares opposite contact pose
+PASS second footprint shares alternating contact pose
+PASS run footprint uses support pose while changing stride length
+PASS stop resets stride without an extra footprint
+PASS restart returns to passing pose
+PASS step 1 preparation does not deal damage
+PASS step 1 release pose and damage share tick
+PASS integrated_strike_1
+PASS combo tail keeps follow-through instead of idle flash
+PASS step 2 preparation does not deal damage
+PASS step 2 release pose and damage share tick
+PASS integrated_strike_2
+PASS combo tail keeps follow-through instead of idle flash
+PASS step 3 preparation does not deal damage
+PASS step 3 release pose and damage share tick
+PASS integrated_strike_3
+PASS combo tail keeps follow-through instead of idle flash
+PASS completed recovery returns to approved idle
+PASS dodge cancels queued damage
+PASS dodge uses flight pose instead of frozen walking pose
+PASS actual enemy AI / auto magic / manual sweeps run together
+PASS live integration still has no save queue
+PASS integrated_live_combat

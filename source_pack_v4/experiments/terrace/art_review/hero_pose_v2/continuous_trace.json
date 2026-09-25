@@ -1,0 +1,5783 @@
+{
+  "art_acceptance": false,
+  "combo_steps": [
+    1,
+    2,
+    3
+  ],
+  "frames": [
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 0,
+      "frame": 0,
+      "phase": 0.0,
+      "position": [
+        110.0,
+        0.100000001490116,
+        8.0
+      ],
+      "speed": 0.0,
+      "state": "idle",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 0,
+      "frame": 1,
+      "phase": 0.0,
+      "position": [
+        110.0,
+        0.0791666656732559,
+        8.0
+      ],
+      "speed": 0.0,
+      "state": "idle",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 0,
+      "frame": 2,
+      "phase": 0.0,
+      "position": [
+        110.0,
+        0.0305555518716574,
+        8.0
+      ],
+      "speed": 0.0,
+      "state": "idle",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 0,
+      "frame": 3,
+      "phase": 0.0,
+      "position": [
+        110.0,
+        -0.0248372461646795,
+        8.0
+      ],
+      "speed": 0.0,
+      "state": "idle",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 0,
+      "frame": 4,
+      "phase": 0.0,
+      "position": [
+        110.0,
+        -0.0248372461646795,
+        8.0
+      ],
+      "speed": 0.0,
+      "state": "idle",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 0,
+      "frame": 5,
+      "phase": 0.0,
+      "position": [
+        110.0,
+        -0.0248372461646795,
+        8.0
+      ],
+      "speed": 0.0,
+      "state": "idle",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 0,
+      "frame": 6,
+      "phase": 0.0,
+      "position": [
+        110.0,
+        -0.0248372461646795,
+        8.0
+      ],
+      "speed": 0.0,
+      "state": "idle",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 0,
+      "frame": 7,
+      "phase": 0.0,
+      "position": [
+        110.0,
+        -0.0248372461646795,
+        8.0
+      ],
+      "speed": 0.0,
+      "state": "idle",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 0,
+      "frame": 8,
+      "phase": 0.0,
+      "position": [
+        110.0,
+        -0.0248372461646795,
+        8.0
+      ],
+      "speed": 0.0,
+      "state": "idle",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 0,
+      "frame": 9,
+      "phase": 0.0,
+      "position": [
+        110.0,
+        -0.0248372461646795,
+        8.0
+      ],
+      "speed": 0.0,
+      "state": "idle",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 0,
+      "frame": 10,
+      "phase": 0.0,
+      "position": [
+        110.0,
+        -0.0248372461646795,
+        8.0
+      ],
+      "speed": 0.0,
+      "state": "idle",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 0,
+      "frame": 11,
+      "phase": 0.0,
+      "position": [
+        110.0,
+        -0.0248372461646795,
+        8.0
+      ],
+      "speed": 0.0,
+      "state": "idle",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 0,
+      "frame": 12,
+      "phase": 0.0,
+      "position": [
+        110.0,
+        -0.0248372461646795,
+        8.0
+      ],
+      "speed": 0.0,
+      "state": "idle",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 0,
+      "frame": 13,
+      "phase": 0.0,
+      "position": [
+        110.0,
+        -0.0248372461646795,
+        8.0
+      ],
+      "speed": 0.0,
+      "state": "idle",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 0,
+      "frame": 14,
+      "phase": 0.0,
+      "position": [
+        110.0,
+        -0.0248372461646795,
+        8.0
+      ],
+      "speed": 0.0,
+      "state": "idle",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 0,
+      "frame": 15,
+      "phase": 0.0,
+      "position": [
+        110.0,
+        -0.0248372461646795,
+        8.0
+      ],
+      "speed": 0.0,
+      "state": "idle",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 0,
+      "frame": 16,
+      "phase": 0.0,
+      "position": [
+        110.0,
+        -0.0248372461646795,
+        8.0
+      ],
+      "speed": 0.0,
+      "state": "idle",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 0,
+      "frame": 17,
+      "phase": 0.0,
+      "position": [
+        110.0,
+        -0.0248372461646795,
+        8.0
+      ],
+      "speed": 0.0,
+      "state": "idle",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 0,
+      "frame": 18,
+      "phase": 0.0,
+      "position": [
+        110.0,
+        -0.0248372461646795,
+        8.0
+      ],
+      "speed": 0.0,
+      "state": "idle",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 0,
+      "frame": 19,
+      "phase": 0.0,
+      "position": [
+        110.0,
+        -0.0248372461646795,
+        8.0
+      ],
+      "speed": 0.0,
+      "state": "idle",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 0,
+      "frame": 20,
+      "phase": 0.0,
+      "position": [
+        110.0,
+        -0.0248372461646795,
+        8.0
+      ],
+      "speed": 0.0,
+      "state": "idle",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 0,
+      "frame": 21,
+      "phase": 0.0,
+      "position": [
+        110.0,
+        -0.0248372461646795,
+        8.0
+      ],
+      "speed": 0.0,
+      "state": "idle",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 0,
+      "frame": 22,
+      "phase": 0.0,
+      "position": [
+        110.0,
+        -0.0248372461646795,
+        8.0
+      ],
+      "speed": 0.0,
+      "state": "idle",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 0,
+      "frame": 23,
+      "phase": 0.0,
+      "position": [
+        110.0,
+        -0.0248372461646795,
+        8.0
+      ],
+      "speed": 0.0,
+      "state": "idle",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 0,
+      "frame": 24,
+      "phase": 0.0,
+      "position": [
+        110.0,
+        -0.0248372461646795,
+        8.0
+      ],
+      "speed": 0.0,
+      "state": "idle",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 0,
+      "frame": 25,
+      "phase": 0.0,
+      "position": [
+        110.0,
+        -0.0248372461646795,
+        8.0
+      ],
+      "speed": 0.0,
+      "state": "idle",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 0,
+      "frame": 26,
+      "phase": 0.0,
+      "position": [
+        110.0,
+        -0.0248372461646795,
+        8.0
+      ],
+      "speed": 0.0,
+      "state": "idle",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 0,
+      "frame": 27,
+      "phase": 0.0,
+      "position": [
+        110.0,
+        -0.0248372461646795,
+        8.0
+      ],
+      "speed": 0.0,
+      "state": "idle",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 0,
+      "frame": 28,
+      "phase": 0.0,
+      "position": [
+        110.0,
+        -0.0248372461646795,
+        8.0
+      ],
+      "speed": 0.0,
+      "state": "idle",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 0,
+      "frame": 29,
+      "phase": 0.0,
+      "position": [
+        110.0,
+        -0.0248372461646795,
+        8.0
+      ],
+      "speed": 0.0,
+      "state": "idle",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 6,
+      "footfalls": 0,
+      "frame": 30,
+      "phase": 2.03792907690359,
+      "position": [
+        110.000007629395,
+        -0.0240638386458158,
+        7.74722194671631
+      ],
+      "speed": 7.61111116409302,
+      "state": "walk",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 6,
+      "footfalls": 0,
+      "frame": 31,
+      "phase": 2.51190693429646,
+      "position": [
+        110.000007629395,
+        -0.0240638200193644,
+        7.4907398223877
+      ],
+      "speed": 7.72222232818604,
+      "state": "walk",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 6,
+      "footfalls": 0,
+      "frame": 32,
+      "phase": 2.99272813658748,
+      "position": [
+        110.000007629395,
+        -0.0240638423711061,
+        7.23055458068848
+      ],
+      "speed": 7.83333349227905,
+      "state": "walk",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 6,
+      "footfalls": 1,
+      "frame": 33,
+      "phase": 3.48039444616269,
+      "position": [
+        110.000007629395,
+        -0.0240638256072998,
+        6.96666526794434
+      ],
+      "speed": 7.94444465637207,
+      "state": "walk",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 6,
+      "footfalls": 1,
+      "frame": 34,
+      "phase": 3.97490586302208,
+      "position": [
+        110.000007629395,
+        -0.0240638479590416,
+        6.69907188415527
+      ],
+      "speed": 8.05555534362793,
+      "state": "walk",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 6,
+      "footfalls": 1,
+      "frame": 35,
+      "phase": 4.47626062477962,
+      "position": [
+        110.000007629395,
+        -0.0240638311952353,
+        6.42777538299561
+      ],
+      "speed": 8.16666698455811,
+      "state": "walk",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 6,
+      "footfalls": 1,
+      "frame": 36,
+      "phase": 4.98445961262834,
+      "position": [
+        110.000007629395,
+        -0.0240638200193644,
+        6.15277528762817
+      ],
+      "speed": 8.27777767181396,
+      "state": "walk",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 6,
+      "footfalls": 1,
+      "frame": 37,
+      "phase": 5.49950987611228,
+      "position": [
+        110.000007629395,
+        -0.0240607149899006,
+        5.87406778335571
+      ],
+      "speed": 8.38888931274414,
+      "state": "walk",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 6,
+      "footfalls": 1,
+      "frame": 38,
+      "phase": 6.02139731614334,
+      "position": [
+        110.000007629395,
+        -0.0240638330578804,
+        5.59166049957275
+      ],
+      "speed": 8.5,
+      "state": "walk",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 6,
+      "footfalls": 2,
+      "frame": 39,
+      "phase": 6.55012810107255,
+      "position": [
+        110.000007629395,
+        -0.0240638200193644,
+        5.30555009841919
+      ],
+      "speed": 8.61111068725586,
+      "state": "walk",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 6,
+      "footfalls": 2,
+      "frame": 40,
+      "phase": 7.08570399328595,
+      "position": [
+        110.000007629395,
+        -0.0240638460963964,
+        5.0157356262207
+      ],
+      "speed": 8.72222232818604,
+      "state": "walk",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 6,
+      "footfalls": 2,
+      "frame": 41,
+      "phase": 7.62813380471359,
+      "position": [
+        110.000015258789,
+        -0.0240638311952353,
+        4.72221231460571
+      ],
+      "speed": 8.83333301544189,
+      "state": "walk",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 6,
+      "footfalls": 2,
+      "frame": 42,
+      "phase": 8.14839947858176,
+      "position": [
+        110.000015258789,
+        -0.0240638218820095,
+        4.4249906539917
+      ],
+      "speed": 8.94444465637207,
+      "state": "run",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 6,
+      "footfalls": 2,
+      "frame": 43,
+      "phase": 8.64597030480688,
+      "position": [
+        110.000015258789,
+        -0.0240638516843319,
+        4.12406539916992
+      ],
+      "speed": 9.05555534362793,
+      "state": "run",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 6,
+      "footfalls": 2,
+      "frame": 44,
+      "phase": 9.14966609492524,
+      "position": [
+        110.000015258789,
+        -0.0240638423711061,
+        3.81943583488464
+      ],
+      "speed": 9.16666698455811,
+      "state": "run",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 6,
+      "footfalls": 3,
+      "frame": 45,
+      "phase": 9.659486060501,
+      "position": [
+        110.000015258789,
+        -0.0240638349205256,
+        3.51110243797302
+      ],
+      "speed": 9.27777767181396,
+      "state": "run",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 6,
+      "footfalls": 3,
+      "frame": 46,
+      "phase": 10.1754298073162,
+      "position": [
+        110.000015258789,
+        -0.0240638256072998,
+        3.19906544685364
+      ],
+      "speed": 9.38888931274414,
+      "state": "run",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 6,
+      "footfalls": 3,
+      "frame": 47,
+      "phase": 10.6974977295888,
+      "position": [
+        110.000015258789,
+        -0.0240573100745678,
+        2.88332462310791
+      ],
+      "speed": 9.5,
+      "state": "run",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 6,
+      "footfalls": 3,
+      "frame": 48,
+      "phase": 11.2256894331009,
+      "position": [
+        110.000015258789,
+        -0.0240638367831707,
+        2.56388020515442
+      ],
+      "speed": 9.61111068725586,
+      "state": "run",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 6,
+      "footfalls": 3,
+      "frame": 49,
+      "phase": 11.7600049178525,
+      "position": [
+        110.000015258789,
+        -0.0240638311952353,
+        2.24073219299316
+      ],
+      "speed": 9.72222232818604,
+      "state": "run",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 6,
+      "footfalls": 3,
+      "frame": 50,
+      "phase": 12.3004449722793,
+      "position": [
+        110.000015258789,
+        -0.0240638256072998,
+        1.91388010978699
+      ],
+      "speed": 9.83333301544189,
+      "state": "run",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 6,
+      "footfalls": 4,
+      "frame": 51,
+      "phase": 12.8470088079457,
+      "position": [
+        110.000015258789,
+        -0.0240638200193644,
+        1.58332443237305
+      ],
+      "speed": 9.94444465637207,
+      "state": "run",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 6,
+      "footfalls": 4,
+      "frame": 52,
+      "phase": 13.3981652824326,
+      "position": [
+        110.000015258789,
+        -0.024063853546977,
+        1.24999117851257
+      ],
+      "speed": 10.0,
+      "state": "run",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 6,
+      "footfalls": 4,
+      "frame": 53,
+      "phase": 13.9493217569196,
+      "position": [
+        110.000015258789,
+        -0.0240638479590416,
+        0.9166579246521
+      ],
+      "speed": 10.0,
+      "state": "run",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 6,
+      "footfalls": 4,
+      "frame": 54,
+      "phase": 14.5004786256245,
+      "position": [
+        110.000015258789,
+        -0.0240638423711061,
+        0.583324432373047
+      ],
+      "speed": 10.0,
+      "state": "run",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 6,
+      "footfalls": 4,
+      "frame": 55,
+      "phase": 15.0516353464977,
+      "position": [
+        110.000015258789,
+        -0.0240638367831707,
+        0.249991029500961
+      ],
+      "speed": 10.0,
+      "state": "run",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 6,
+      "footfalls": 4,
+      "frame": 56,
+      "phase": 15.6027919688164,
+      "position": [
+        110.000015258789,
+        -0.0240638311952353,
+        -0.0833423137664795
+      ],
+      "speed": 10.0,
+      "state": "run",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 6,
+      "footfalls": 5,
+      "frame": 57,
+      "phase": 16.1539486404123,
+      "position": [
+        110.000015258789,
+        -0.0240638256072998,
+        -0.416675686836243
+      ],
+      "speed": 10.0,
+      "state": "run",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 6,
+      "footfalls": 5,
+      "frame": 58,
+      "phase": 16.7051053120082,
+      "position": [
+        110.000015258789,
+        -0.0240638200193644,
+        -0.750009059906006
+      ],
+      "speed": 10.0,
+      "state": "run",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 6,
+      "footfalls": 5,
+      "frame": 59,
+      "phase": 17.2562621807131,
+      "position": [
+        110.000015258789,
+        -0.024063853546977,
+        -1.08334255218506
+      ],
+      "speed": 10.0,
+      "state": "run",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 6,
+      "footfalls": 5,
+      "frame": 60,
+      "phase": 17.8074186552001,
+      "position": [
+        110.000015258789,
+        -0.0240638479590416,
+        -1.41667580604553
+      ],
+      "speed": 10.0,
+      "state": "run",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 6,
+      "footfalls": 5,
+      "frame": 61,
+      "phase": 18.3585751296871,
+      "position": [
+        110.000015258789,
+        -0.0240638423711061,
+        -1.75000905990601
+      ],
+      "speed": 10.0,
+      "state": "run",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 6,
+      "footfalls": 6,
+      "frame": 62,
+      "phase": 18.9097316041741,
+      "position": [
+        110.000015258789,
+        -0.0240638367831707,
+        -2.08334231376648
+      ],
+      "speed": 10.0,
+      "state": "run",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 6,
+      "footfalls": 6,
+      "frame": 63,
+      "phase": 19.4608884728789,
+      "position": [
+        110.000015258789,
+        -0.0240638311952353,
+        -2.41667580604553
+      ],
+      "speed": 10.0,
+      "state": "run",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 6,
+      "footfalls": 6,
+      "frame": 64,
+      "phase": 20.0120453415838,
+      "position": [
+        110.000015258789,
+        -0.0240638256072998,
+        -2.75000929832459
+      ],
+      "speed": 10.0,
+      "state": "run",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 6,
+      "footfalls": 6,
+      "frame": 65,
+      "phase": 20.5632022102887,
+      "position": [
+        110.000015258789,
+        -0.0240638200193644,
+        -3.08334279060364
+      ],
+      "speed": 10.0,
+      "state": "run",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 6,
+      "footfalls": 6,
+      "frame": 66,
+      "phase": 21.1143590789936,
+      "position": [
+        110.000015258789,
+        -0.024063853546977,
+        -3.41667628288269
+      ],
+      "speed": 10.0,
+      "state": "run",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 6,
+      "footfalls": 6,
+      "frame": 67,
+      "phase": 21.6655159476985,
+      "position": [
+        110.000015258789,
+        -0.0240638479590416,
+        -3.75000977516174
+      ],
+      "speed": 10.0,
+      "state": "run",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 6,
+      "footfalls": 7,
+      "frame": 68,
+      "phase": 22.2166724221855,
+      "position": [
+        110.000015258789,
+        -0.0240638423711061,
+        -4.08334302902222
+      ],
+      "speed": 10.0,
+      "state": "run",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 6,
+      "footfalls": 7,
+      "frame": 69,
+      "phase": 22.7678285024545,
+      "position": [
+        110.000015258789,
+        -0.0240638367831707,
+        -4.41667604446411
+      ],
+      "speed": 10.0,
+      "state": "run",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 7,
+      "frame": 70,
+      "phase": 23.3189893133387,
+      "position": [
+        110.333351135254,
+        -0.0241617225110531,
+        -4.41667604446411
+      ],
+      "speed": 10.0,
+      "state": "run",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 7,
+      "frame": 71,
+      "phase": 23.8701375092492,
+      "position": [
+        110.666679382324,
+        -0.0241572055965662,
+        -4.41667604446411
+      ],
+      "speed": 10.0,
+      "state": "run",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 7,
+      "frame": 72,
+      "phase": 24.421310935107,
+      "position": [
+        111.000022888184,
+        -0.0241570509970188,
+        -4.41667604446411
+      ],
+      "speed": 10.0,
+      "state": "run",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 7,
+      "frame": 73,
+      "phase": 24.9724717459911,
+      "position": [
+        111.333358764648,
+        -0.0241617541760206,
+        -4.41667604446411
+      ],
+      "speed": 10.0,
+      "state": "run",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 8,
+      "frame": 74,
+      "phase": 25.5236199419017,
+      "position": [
+        111.666687011719,
+        -0.024157514795661,
+        -4.41667604446411
+      ],
+      "speed": 10.0,
+      "state": "run",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 8,
+      "frame": 75,
+      "phase": 26.0747933677594,
+      "position": [
+        112.000030517578,
+        -0.0241570491343737,
+        -4.41667604446411
+      ],
+      "speed": 10.0,
+      "state": "run",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 8,
+      "frame": 76,
+      "phase": 26.6259541786435,
+      "position": [
+        112.333366394043,
+        -0.0241616684943438,
+        -4.41667604446411
+      ],
+      "speed": 10.0,
+      "state": "run",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 8,
+      "frame": 77,
+      "phase": 27.1771149895277,
+      "position": [
+        112.666702270508,
+        -0.0241574384272099,
+        -4.41667604446411
+      ],
+      "speed": 10.0,
+      "state": "run",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 8,
+      "frame": 78,
+      "phase": 27.7282884153854,
+      "position": [
+        113.000045776367,
+        -0.0241570454090834,
+        -4.41667604446411
+      ],
+      "speed": 10.0,
+      "state": "run",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 9,
+      "frame": 79,
+      "phase": 28.279436611296,
+      "position": [
+        113.333374023438,
+        -0.0241617076098919,
+        -4.41667604446411
+      ],
+      "speed": 10.0,
+      "state": "run",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 9,
+      "frame": 80,
+      "phase": 28.8305974221801,
+      "position": [
+        113.666709899902,
+        -0.0241569709032774,
+        -4.41667604446411
+      ],
+      "speed": 10.0,
+      "state": "run",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 9,
+      "frame": 81,
+      "phase": 29.3817582330642,
+      "position": [
+        114.000045776367,
+        -0.0241571236401796,
+        -4.41667604446411
+      ],
+      "speed": 10.0,
+      "state": "run",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 9,
+      "frame": 82,
+      "phase": 29.9329064289748,
+      "position": [
+        114.333374023438,
+        -0.0241570733487606,
+        -4.41667604446411
+      ],
+      "speed": 10.0,
+      "state": "run",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 9,
+      "frame": 83,
+      "phase": 30.4840546248853,
+      "position": [
+        114.666702270508,
+        -0.0241575818508863,
+        -4.41667604446411
+      ],
+      "speed": 10.0,
+      "state": "run",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 9,
+      "frame": 84,
+      "phase": 31.0352280507431,
+      "position": [
+        115.000045776367,
+        -0.0241571199148893,
+        -4.41667604446411
+      ],
+      "speed": 10.0,
+      "state": "run",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 10,
+      "frame": 85,
+      "phase": 31.5863888616272,
+      "position": [
+        115.333381652832,
+        -0.024161659181118,
+        -4.41667604446411
+      ],
+      "speed": 10.0,
+      "state": "run",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 10,
+      "frame": 86,
+      "phase": 32.1375370575378,
+      "position": [
+        115.666709899902,
+        -0.0241569690406322,
+        -4.41667604446411
+      ],
+      "speed": 10.0,
+      "state": "run",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 10,
+      "frame": 87,
+      "phase": 32.6887104833955,
+      "position": [
+        116.000053405762,
+        -0.024157052859664,
+        -4.41667604446411
+      ],
+      "speed": 10.0,
+      "state": "run",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 10,
+      "frame": 88,
+      "phase": 33.2398839092532,
+      "position": [
+        116.333396911621,
+        -0.0241617541760206,
+        -4.41667604446411
+      ],
+      "speed": 10.0,
+      "state": "run",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 10,
+      "frame": 89,
+      "phase": 33.7910321051638,
+      "position": [
+        116.666725158691,
+        -0.024157514795661,
+        -4.41667604446411
+      ],
+      "speed": 10.0,
+      "state": "run",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 10,
+      "frame": 90,
+      "phase": 0.0,
+      "position": [
+        116.729354858398,
+        -0.0242123454809189,
+        -4.41667604446411
+      ],
+      "speed": 0.0,
+      "state": "idle",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 10,
+      "frame": 91,
+      "phase": 0.0,
+      "position": [
+        116.729354858398,
+        -0.0242123454809189,
+        -4.41667604446411
+      ],
+      "speed": 0.0,
+      "state": "idle",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 10,
+      "frame": 92,
+      "phase": 0.0,
+      "position": [
+        116.729354858398,
+        -0.0242123454809189,
+        -4.41667604446411
+      ],
+      "speed": 0.0,
+      "state": "idle",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 10,
+      "frame": 93,
+      "phase": 0.0,
+      "position": [
+        116.729354858398,
+        -0.0242123454809189,
+        -4.41667604446411
+      ],
+      "speed": 0.0,
+      "state": "idle",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 10,
+      "frame": 94,
+      "phase": 0.0,
+      "position": [
+        116.729354858398,
+        -0.0242123454809189,
+        -4.41667604446411
+      ],
+      "speed": 0.0,
+      "state": "idle",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 10,
+      "frame": 95,
+      "phase": 0.0,
+      "position": [
+        116.729354858398,
+        -0.0242123454809189,
+        -4.41667604446411
+      ],
+      "speed": 0.0,
+      "state": "idle",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 10,
+      "frame": 96,
+      "phase": 0.0,
+      "position": [
+        116.729354858398,
+        -0.0242123454809189,
+        -4.41667604446411
+      ],
+      "speed": 0.0,
+      "state": "idle",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 10,
+      "frame": 97,
+      "phase": 0.0,
+      "position": [
+        116.729354858398,
+        -0.0242123454809189,
+        -4.41667604446411
+      ],
+      "speed": 0.0,
+      "state": "idle",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 10,
+      "frame": 98,
+      "phase": 0.0,
+      "position": [
+        116.729354858398,
+        -0.0242123454809189,
+        -4.41667604446411
+      ],
+      "speed": 0.0,
+      "state": "idle",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 10,
+      "frame": 99,
+      "phase": 0.0,
+      "position": [
+        116.729354858398,
+        -0.0242123454809189,
+        -4.41667604446411
+      ],
+      "speed": 0.0,
+      "state": "idle",
+      "step": 0
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 10,
+      "frame": 100,
+      "phase": 0.0,
+      "position": [
+        116.729354858398,
+        -0.0242123454809189,
+        -4.41667604446411
+      ],
+      "speed": 0.0,
+      "state": "prepare",
+      "step": 1
+    },
+    {
+      "cooldown": 0.321428571428571,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 10,
+      "frame": 101,
+      "phase": 0.0,
+      "position": [
+        116.729354858398,
+        -0.0242123454809189,
+        -4.41667604446411
+      ],
+      "speed": 0.0,
+      "state": "strike",
+      "step": 1
+    },
+    {
+      "cooldown": 0.288095238095238,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 10,
+      "frame": 102,
+      "phase": 0.0,
+      "position": [
+        116.729354858398,
+        -0.0242123454809189,
+        -4.41667604446411
+      ],
+      "speed": 0.0,
+      "state": "strike",
+      "step": 1
+    },
+    {
+      "cooldown": 0.254761904761905,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 10,
+      "frame": 103,
+      "phase": 0.0,
+      "position": [
+        116.729354858398,
+        -0.0242123454809189,
+        -4.41667604446411
+      ],
+      "speed": 0.0,
+      "state": "strike",
+      "step": 1
+    },
+    {
+      "cooldown": 0.221428571428571,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 10,
+      "frame": 104,
+      "phase": 0.0,
+      "position": [
+        116.729354858398,
+        -0.0242123454809189,
+        -4.41667604446411
+      ],
+      "speed": 0.0,
+      "state": "strike",
+      "step": 1
+    },
+    {
+      "cooldown": 0.188095238095238,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 10,
+      "frame": 105,
+      "phase": 0.0,
+      "position": [
+        116.729354858398,
+        -0.0242123454809189,
+        -4.41667604446411
+      ],
+      "speed": 0.0,
+      "state": "recovery",
+      "step": 1
+    },
+    {
+      "cooldown": 0.154761904761905,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 10,
+      "frame": 106,
+      "phase": 0.0,
+      "position": [
+        116.729354858398,
+        -0.0242123454809189,
+        -4.41667604446411
+      ],
+      "speed": 0.0,
+      "state": "recovery",
+      "step": 1
+    },
+    {
+      "cooldown": 0.121428571428571,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 10,
+      "frame": 107,
+      "phase": 0.0,
+      "position": [
+        116.729354858398,
+        -0.0242123454809189,
+        -4.41667604446411
+      ],
+      "speed": 0.0,
+      "state": "recovery",
+      "step": 1
+    },
+    {
+      "cooldown": 0.0880952380952381,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 10,
+      "frame": 108,
+      "phase": 0.0,
+      "position": [
+        116.729354858398,
+        -0.0242123454809189,
+        -4.41667604446411
+      ],
+      "speed": 0.0,
+      "state": "recovery",
+      "step": 1
+    },
+    {
+      "cooldown": 0.0547619047619048,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 10,
+      "frame": 109,
+      "phase": 0.0,
+      "position": [
+        116.729354858398,
+        -0.0242123454809189,
+        -4.41667604446411
+      ],
+      "speed": 0.0,
+      "state": "recovery",
+      "step": 1
+    },
+    {
+      "cooldown": 0.0214285714285715,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 10,
+      "frame": 110,
+      "phase": 0.0,
+      "position": [
+        116.729354858398,
+        -0.0242123454809189,
+        -4.41667604446411
+      ],
+      "speed": 0.0,
+      "state": "recovery",
+      "step": 1
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 10,
+      "frame": 111,
+      "phase": 0.0,
+      "position": [
+        116.729354858398,
+        -0.0242123454809189,
+        -4.41667604446411
+      ],
+      "speed": 0.0,
+      "state": "prepare",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 10,
+      "frame": 112,
+      "phase": 0.0,
+      "position": [
+        116.729354858398,
+        -0.0242123454809189,
+        -4.41667604446411
+      ],
+      "speed": 0.0,
+      "state": "prepare",
+      "step": 2
+    },
+    {
+      "cooldown": 0.304761904761905,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 10,
+      "frame": 113,
+      "phase": 0.0,
+      "position": [
+        116.729354858398,
+        -0.0242123454809189,
+        -4.41667604446411
+      ],
+      "speed": 0.0,
+      "state": "strike",
+      "step": 2
+    },
+    {
+      "cooldown": 0.271428571428571,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 10,
+      "frame": 114,
+      "phase": 0.0,
+      "position": [
+        116.729354858398,
+        -0.0242123454809189,
+        -4.41667604446411
+      ],
+      "speed": 0.0,
+      "state": "strike",
+      "step": 2
+    },
+    {
+      "cooldown": 0.238095238095238,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 10,
+      "frame": 115,
+      "phase": 0.0,
+      "position": [
+        116.729354858398,
+        -0.0242123454809189,
+        -4.41667604446411
+      ],
+      "speed": 0.0,
+      "state": "strike",
+      "step": 2
+    },
+    {
+      "cooldown": 0.204761904761905,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 10,
+      "frame": 116,
+      "phase": 0.0,
+      "position": [
+        116.729354858398,
+        -0.0242123454809189,
+        -4.41667604446411
+      ],
+      "speed": 0.0,
+      "state": "strike",
+      "step": 2
+    },
+    {
+      "cooldown": 0.171428571428571,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 10,
+      "frame": 117,
+      "phase": 0.0,
+      "position": [
+        116.729354858398,
+        -0.0242123454809189,
+        -4.41667604446411
+      ],
+      "speed": 0.0,
+      "state": "recovery",
+      "step": 2
+    },
+    {
+      "cooldown": 0.138095238095238,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 10,
+      "frame": 118,
+      "phase": 0.0,
+      "position": [
+        116.729354858398,
+        -0.0242123454809189,
+        -4.41667604446411
+      ],
+      "speed": 0.0,
+      "state": "recovery",
+      "step": 2
+    },
+    {
+      "cooldown": 0.104761904761905,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 10,
+      "frame": 119,
+      "phase": 0.0,
+      "position": [
+        116.729354858398,
+        -0.0242123454809189,
+        -4.41667604446411
+      ],
+      "speed": 0.0,
+      "state": "recovery",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0714285714285715,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 10,
+      "frame": 120,
+      "phase": 0.0,
+      "position": [
+        116.729354858398,
+        -0.0242123454809189,
+        -4.41667604446411
+      ],
+      "speed": 0.0,
+      "state": "recovery",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0380952380952381,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 10,
+      "frame": 121,
+      "phase": 0.0,
+      "position": [
+        116.729354858398,
+        -0.0242123454809189,
+        -4.41667604446411
+      ],
+      "speed": 0.0,
+      "state": "recovery",
+      "step": 2
+    },
+    {
+      "cooldown": 0.00476190476190479,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 10,
+      "frame": 122,
+      "phase": 0.0,
+      "position": [
+        116.729354858398,
+        -0.0242123454809189,
+        -4.41667604446411
+      ],
+      "speed": 0.0,
+      "state": "recovery",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 10,
+      "frame": 123,
+      "phase": 0.0,
+      "position": [
+        116.729354858398,
+        -0.0242123454809189,
+        -4.41667604446411
+      ],
+      "speed": 0.0,
+      "state": "prepare",
+      "step": 3
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 10,
+      "frame": 124,
+      "phase": 0.0,
+      "position": [
+        116.729354858398,
+        -0.0242123454809189,
+        -4.41667604446411
+      ],
+      "speed": 0.0,
+      "state": "prepare",
+      "step": 3
+    },
+    {
+      "cooldown": 0.464285714285714,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 10,
+      "frame": 125,
+      "phase": 0.0,
+      "position": [
+        116.729354858398,
+        -0.0242123454809189,
+        -4.41667604446411
+      ],
+      "speed": 0.0,
+      "state": "strike",
+      "step": 3
+    },
+    {
+      "cooldown": 0.430952380952381,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 10,
+      "frame": 126,
+      "phase": 0.0,
+      "position": [
+        116.729354858398,
+        -0.0242123454809189,
+        -4.41667604446411
+      ],
+      "speed": 0.0,
+      "state": "strike",
+      "step": 3
+    },
+    {
+      "cooldown": 0.397619047619048,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 10,
+      "frame": 127,
+      "phase": 0.0,
+      "position": [
+        116.729354858398,
+        -0.0242123454809189,
+        -4.41667604446411
+      ],
+      "speed": 0.0,
+      "state": "strike",
+      "step": 3
+    },
+    {
+      "cooldown": 0.364285714285714,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 10,
+      "frame": 128,
+      "phase": 0.0,
+      "position": [
+        116.729354858398,
+        -0.0242123454809189,
+        -4.41667604446411
+      ],
+      "speed": 0.0,
+      "state": "strike",
+      "step": 3
+    },
+    {
+      "cooldown": 0.330952380952381,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 10,
+      "frame": 129,
+      "phase": 0.0,
+      "position": [
+        116.729354858398,
+        -0.0242123454809189,
+        -4.41667604446411
+      ],
+      "speed": 0.0,
+      "state": "strike",
+      "step": 3
+    },
+    {
+      "cooldown": 0.297619047619048,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 10,
+      "frame": 130,
+      "phase": 0.0,
+      "position": [
+        116.729354858398,
+        -0.0242123454809189,
+        -4.41667604446411
+      ],
+      "speed": 0.0,
+      "state": "strike",
+      "step": 3
+    },
+    {
+      "cooldown": 0.264285714285714,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 10,
+      "frame": 131,
+      "phase": 0.0,
+      "position": [
+        116.729354858398,
+        -0.0242123454809189,
+        -4.41667604446411
+      ],
+      "speed": 0.0,
+      "state": "recovery",
+      "step": 3
+    },
+    {
+      "cooldown": 0.230952380952381,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 10,
+      "frame": 132,
+      "phase": 0.0,
+      "position": [
+        116.729354858398,
+        -0.0242123454809189,
+        -4.41667604446411
+      ],
+      "speed": 0.0,
+      "state": "recovery",
+      "step": 3
+    },
+    {
+      "cooldown": 0.197619047619048,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 10,
+      "frame": 133,
+      "phase": 0.0,
+      "position": [
+        116.729354858398,
+        -0.0242123454809189,
+        -4.41667604446411
+      ],
+      "speed": 0.0,
+      "state": "recovery",
+      "step": 3
+    },
+    {
+      "cooldown": 0.164285714285714,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 10,
+      "frame": 134,
+      "phase": 0.0,
+      "position": [
+        116.729354858398,
+        -0.0242123454809189,
+        -4.41667604446411
+      ],
+      "speed": 0.0,
+      "state": "recovery",
+      "step": 3
+    },
+    {
+      "cooldown": 0.130952380952381,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 10,
+      "frame": 135,
+      "phase": 0.0,
+      "position": [
+        116.729354858398,
+        -0.0242123454809189,
+        -4.41667604446411
+      ],
+      "speed": 0.0,
+      "state": "recovery",
+      "step": 3
+    },
+    {
+      "cooldown": 0.0976190476190477,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 10,
+      "frame": 136,
+      "phase": 0.0,
+      "position": [
+        116.729354858398,
+        -0.0242123454809189,
+        -4.41667604446411
+      ],
+      "speed": 0.0,
+      "state": "recovery",
+      "step": 3
+    },
+    {
+      "cooldown": 0.0642857142857143,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 10,
+      "frame": 137,
+      "phase": 0.0,
+      "position": [
+        116.729354858398,
+        -0.0242123454809189,
+        -4.41667604446411
+      ],
+      "speed": 0.0,
+      "state": "recovery",
+      "step": 3
+    },
+    {
+      "cooldown": 0.030952380952381,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 10,
+      "frame": 138,
+      "phase": 0.0,
+      "position": [
+        116.729354858398,
+        -0.0242123454809189,
+        -4.41667604446411
+      ],
+      "speed": 0.0,
+      "state": "recovery",
+      "step": 3
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 10,
+      "frame": 139,
+      "phase": 0.0,
+      "position": [
+        116.729354858398,
+        -0.0242123454809189,
+        -4.41667604446411
+      ],
+      "speed": 0.0,
+      "state": "prepare",
+      "step": 1
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 10,
+      "frame": 140,
+      "phase": 0.0,
+      "position": [
+        116.729354858398,
+        -0.0242123454809189,
+        -4.41667604446411
+      ],
+      "speed": 0.0,
+      "state": "prepare",
+      "step": 1
+    },
+    {
+      "cooldown": 0.304761904761905,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 10,
+      "frame": 141,
+      "phase": 0.0,
+      "position": [
+        116.729354858398,
+        -0.0242123454809189,
+        -4.41667604446411
+      ],
+      "speed": 0.0,
+      "state": "strike",
+      "step": 1
+    },
+    {
+      "cooldown": 0.271428571428571,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 10,
+      "frame": 142,
+      "phase": 0.0,
+      "position": [
+        116.729354858398,
+        -0.0242123454809189,
+        -4.41667604446411
+      ],
+      "speed": 0.0,
+      "state": "strike",
+      "step": 1
+    },
+    {
+      "cooldown": 0.238095238095238,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 10,
+      "frame": 143,
+      "phase": 0.0,
+      "position": [
+        116.729354858398,
+        -0.0242123454809189,
+        -4.41667604446411
+      ],
+      "speed": 0.0,
+      "state": "strike",
+      "step": 1
+    },
+    {
+      "cooldown": 0.204761904761905,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 10,
+      "frame": 144,
+      "phase": 0.0,
+      "position": [
+        116.729354858398,
+        -0.0242123454809189,
+        -4.41667604446411
+      ],
+      "speed": 0.0,
+      "state": "strike",
+      "step": 1
+    },
+    {
+      "cooldown": 0.171428571428571,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 10,
+      "frame": 145,
+      "phase": 0.0,
+      "position": [
+        116.729354858398,
+        -0.0242123454809189,
+        -4.41667604446411
+      ],
+      "speed": 0.0,
+      "state": "recovery",
+      "step": 1
+    },
+    {
+      "cooldown": 0.138095238095238,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 10,
+      "frame": 146,
+      "phase": 0.0,
+      "position": [
+        116.729354858398,
+        -0.0242123454809189,
+        -4.41667604446411
+      ],
+      "speed": 0.0,
+      "state": "recovery",
+      "step": 1
+    },
+    {
+      "cooldown": 0.104761904761905,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 10,
+      "frame": 147,
+      "phase": 0.0,
+      "position": [
+        116.729354858398,
+        -0.0242123454809189,
+        -4.41667604446411
+      ],
+      "speed": 0.0,
+      "state": "recovery",
+      "step": 1
+    },
+    {
+      "cooldown": 0.0714285714285715,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 10,
+      "frame": 148,
+      "phase": 0.0,
+      "position": [
+        116.729354858398,
+        -0.0242123454809189,
+        -4.41667604446411
+      ],
+      "speed": 0.0,
+      "state": "recovery",
+      "step": 1
+    },
+    {
+      "cooldown": 0.0380952380952381,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 10,
+      "frame": 149,
+      "phase": 0.0,
+      "position": [
+        116.729354858398,
+        -0.0242123454809189,
+        -4.41667604446411
+      ],
+      "speed": 0.0,
+      "state": "recovery",
+      "step": 1
+    },
+    {
+      "cooldown": 0.00476190476190479,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 10,
+      "frame": 150,
+      "phase": 0.0,
+      "position": [
+        116.729354858398,
+        -0.0242123454809189,
+        -4.41667604446411
+      ],
+      "speed": 0.0,
+      "state": "recovery",
+      "step": 1
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 10,
+      "frame": 151,
+      "phase": 0.0,
+      "position": [
+        116.729354858398,
+        -0.0242123454809189,
+        -4.41667604446411
+      ],
+      "speed": 0.0,
+      "state": "prepare",
+      "step": 2
+    },
+    {
+      "cooldown": 0.321428571428571,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 10,
+      "frame": 152,
+      "phase": 0.0,
+      "position": [
+        116.729354858398,
+        -0.0242123454809189,
+        -4.41667604446411
+      ],
+      "speed": 0.0,
+      "state": "strike",
+      "step": 2
+    },
+    {
+      "cooldown": 0.288095238095238,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 10,
+      "frame": 153,
+      "phase": 0.0,
+      "position": [
+        116.729354858398,
+        -0.0242123454809189,
+        -4.41667604446411
+      ],
+      "speed": 0.0,
+      "state": "strike",
+      "step": 2
+    },
+    {
+      "cooldown": 0.254761904761905,
+      "dash": 0.0,
+      "direction": 0,
+      "footfalls": 10,
+      "frame": 154,
+      "phase": 0.0,
+      "position": [
+        116.729354858398,
+        -0.0242123454809189,
+        -4.41667604446411
+      ],
+      "speed": 0.0,
+      "state": "strike",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.146666666666667,
+      "direction": 4,
+      "footfalls": 10,
+      "frame": 155,
+      "phase": 0.0,
+      "position": [
+        115.91268157959,
+        -0.0241572223603725,
+        -4.41667604446411
+      ],
+      "speed": 24.5,
+      "state": "dash",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.113333333333333,
+      "direction": 4,
+      "footfalls": 10,
+      "frame": 156,
+      "phase": 0.0,
+      "position": [
+        115.096015930176,
+        -0.0241570398211479,
+        -4.41667604446411
+      ],
+      "speed": 24.5,
+      "state": "dash",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.08,
+      "direction": 4,
+      "footfalls": 10,
+      "frame": 157,
+      "phase": 0.0,
+      "position": [
+        114.279342651367,
+        -0.0240707416087389,
+        -4.41667604446411
+      ],
+      "speed": 24.5,
+      "state": "dash",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0466666666666667,
+      "direction": 4,
+      "footfalls": 10,
+      "frame": 158,
+      "phase": 0.0,
+      "position": [
+        113.462669372559,
+        -0.0241570323705673,
+        -4.41667604446411
+      ],
+      "speed": 24.5,
+      "state": "dash",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": 0.0133333333333334,
+      "direction": 4,
+      "footfalls": 10,
+      "frame": 159,
+      "phase": 0.0,
+      "position": [
+        112.646003723145,
+        -0.0241561569273472,
+        -4.41667604446411
+      ],
+      "speed": 24.5,
+      "state": "dash",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 4,
+      "footfalls": 10,
+      "frame": 160,
+      "phase": 2.57520126565689,
+      "position": [
+        112.102493286133,
+        -0.0241614915430546,
+        -4.41667604446411
+      ],
+      "speed": 8.11111068725586,
+      "state": "walk",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 4,
+      "footfalls": 10,
+      "frame": 161,
+      "phase": 3.07997681867051,
+      "position": [
+        111.829345703125,
+        -0.0241571236401796,
+        -4.41667604446411
+      ],
+      "speed": 8.22222232818604,
+      "state": "walk",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 4,
+      "footfalls": 11,
+      "frame": 162,
+      "phase": 3.59160452851237,
+      "position": [
+        111.552490234375,
+        -0.0241802111268044,
+        -4.41667604446411
+      ],
+      "speed": 8.33333301544189,
+      "state": "walk",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 4,
+      "footfalls": 11,
+      "frame": 163,
+      "phase": 4.11007029609434,
+      "position": [
+        111.271934509277,
+        -0.024157676845789,
+        -4.41667604446411
+      ],
+      "speed": 8.44444465637207,
+      "state": "walk",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 4,
+      "footfalls": 11,
+      "frame": 164,
+      "phase": 4.63538822050455,
+      "position": [
+        110.987670898438,
+        -0.0241572130471468,
+        -4.41667604446411
+      ],
+      "speed": 8.55555534362793,
+      "state": "walk",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 4,
+      "footfalls": 11,
+      "frame": 165,
+      "phase": 5.16754420265488,
+      "position": [
+        110.69970703125,
+        -0.0241570342332125,
+        -4.41667604446411
+      ],
+      "speed": 8.66666698455811,
+      "state": "walk",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 4,
+      "footfalls": 11,
+      "frame": 166,
+      "phase": 5.70655234163345,
+      "position": [
+        110.40803527832,
+        -0.0241619627922773,
+        -4.41667604446411
+      ],
+      "speed": 8.77777767181396,
+      "state": "walk",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 4,
+      "footfalls": 11,
+      "frame": 167,
+      "phase": 6.25238443926401,
+      "position": [
+        110.112670898438,
+        -0.0241569764912128,
+        -4.41667604446411
+      ],
+      "speed": 8.88888931274414,
+      "state": "walk",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 4,
+      "footfalls": 12,
+      "frame": 168,
+      "phase": 6.74690401875336,
+      "position": [
+        109.813591003418,
+        -0.0241616368293762,
+        -4.41667604446411
+      ],
+      "speed": 9.0,
+      "state": "run",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 4,
+      "footfalls": 12,
+      "frame": 169,
+      "phase": 7.24752924545765,
+      "position": [
+        109.510818481445,
+        -0.024161770939827,
+        -4.41667604446411
+      ],
+      "speed": 9.11111068725586,
+      "state": "run",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 4,
+      "footfalls": 12,
+      "frame": 170,
+      "phase": 7.75429796429763,
+      "position": [
+        109.204330444336,
+        -0.0241616293787956,
+        -4.41667604446411
+      ],
+      "speed": 9.22222232818604,
+      "state": "run",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 4,
+      "footfalls": 12,
+      "frame": 171,
+      "phase": 8.26718494532614,
+      "position": [
+        108.894142150879,
+        -0.0241402145475149,
+        -4.41667604446411
+      ],
+      "speed": 9.33333301544189,
+      "state": "run",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 4,
+      "footfalls": 12,
+      "frame": 172,
+      "phase": 8.78619018854317,
+      "position": [
+        108.580253601074,
+        -0.0241569802165031,
+        -4.41667604446411
+      ],
+      "speed": 9.44444465637207,
+      "state": "run",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 4,
+      "footfalls": 12,
+      "frame": 173,
+      "phase": 9.31131369394873,
+      "position": [
+        108.262664794922,
+        -0.0241715610027313,
+        -4.41667318344116
+      ],
+      "speed": 9.55555534362793,
+      "state": "run",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 4,
+      "footfalls": 13,
+      "frame": 174,
+      "phase": 9.84258069148997,
+      "position": [
+        107.941360473633,
+        -0.024161683395505,
+        -4.41667318344116
+      ],
+      "speed": 9.66666698455811,
+      "state": "run",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 4,
+      "footfalls": 13,
+      "frame": 175,
+      "phase": 10.3799533362462,
+      "position": [
+        107.616363525391,
+        -0.0241663008928299,
+        -4.41667318344116
+      ],
+      "speed": 9.77777767181396,
+      "state": "run",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 4,
+      "footfalls": 13,
+      "frame": 176,
+      "phase": 10.923469473138,
+      "position": [
+        107.287651062012,
+        -0.0241557694971561,
+        -4.41668128967285
+      ],
+      "speed": 9.88888931274414,
+      "state": "run",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 4,
+      "footfalls": 13,
+      "frame": 177,
+      "phase": 11.4730912572449,
+      "position": [
+        106.95524597168,
+        -0.024161696434021,
+        -4.41668128967285
+      ],
+      "speed": 10.0,
+      "state": "run",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 4,
+      "footfalls": 13,
+      "frame": 178,
+      "phase": 12.0242394531554,
+      "position": [
+        106.621917724609,
+        -0.0241569839417934,
+        -4.41668128967285
+      ],
+      "speed": 10.0,
+      "state": "run",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 4,
+      "footfalls": 14,
+      "frame": 179,
+      "phase": 12.5754002640396,
+      "position": [
+        106.288581848145,
+        -0.0241557192057371,
+        -4.41669034957886
+      ],
+      "speed": 10.0,
+      "state": "run",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 4,
+      "footfalls": 14,
+      "frame": 180,
+      "phase": 0.0,
+      "position": [
+        106.288581848145,
+        -0.0241557192057371,
+        -4.41669034957886
+      ],
+      "speed": 0.0,
+      "state": "idle",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 4,
+      "footfalls": 14,
+      "frame": 181,
+      "phase": 0.0,
+      "position": [
+        106.288581848145,
+        -0.0241557192057371,
+        -4.41669034957886
+      ],
+      "speed": 0.0,
+      "state": "idle",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 4,
+      "footfalls": 14,
+      "frame": 182,
+      "phase": 0.0,
+      "position": [
+        106.288581848145,
+        -0.0241557192057371,
+        -4.41669034957886
+      ],
+      "speed": 0.0,
+      "state": "idle",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 4,
+      "footfalls": 14,
+      "frame": 183,
+      "phase": 0.0,
+      "position": [
+        106.288581848145,
+        -0.0241557192057371,
+        -4.41669034957886
+      ],
+      "speed": 0.0,
+      "state": "idle",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 4,
+      "footfalls": 14,
+      "frame": 184,
+      "phase": 0.0,
+      "position": [
+        106.288581848145,
+        -0.0241557192057371,
+        -4.41669034957886
+      ],
+      "speed": 0.0,
+      "state": "idle",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 4,
+      "footfalls": 14,
+      "frame": 185,
+      "phase": 0.0,
+      "position": [
+        106.288581848145,
+        -0.0241557192057371,
+        -4.41669034957886
+      ],
+      "speed": 0.0,
+      "state": "idle",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 4,
+      "footfalls": 14,
+      "frame": 186,
+      "phase": 0.0,
+      "position": [
+        106.288581848145,
+        -0.0241557192057371,
+        -4.41669034957886
+      ],
+      "speed": 0.0,
+      "state": "idle",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 4,
+      "footfalls": 14,
+      "frame": 187,
+      "phase": 0.0,
+      "position": [
+        106.288581848145,
+        -0.0241557192057371,
+        -4.41669034957886
+      ],
+      "speed": 0.0,
+      "state": "idle",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 4,
+      "footfalls": 14,
+      "frame": 188,
+      "phase": 0.0,
+      "position": [
+        106.288581848145,
+        -0.0241557192057371,
+        -4.41669034957886
+      ],
+      "speed": 0.0,
+      "state": "idle",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 4,
+      "footfalls": 14,
+      "frame": 189,
+      "phase": 0.0,
+      "position": [
+        106.288581848145,
+        -0.0241557192057371,
+        -4.41669034957886
+      ],
+      "speed": 0.0,
+      "state": "idle",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 4,
+      "footfalls": 14,
+      "frame": 190,
+      "phase": 0.0,
+      "position": [
+        106.288581848145,
+        -0.0241557192057371,
+        -4.41669034957886
+      ],
+      "speed": 0.0,
+      "state": "idle",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 4,
+      "footfalls": 14,
+      "frame": 191,
+      "phase": 0.0,
+      "position": [
+        106.288581848145,
+        -0.0241557192057371,
+        -4.41669034957886
+      ],
+      "speed": 0.0,
+      "state": "idle",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 4,
+      "footfalls": 14,
+      "frame": 192,
+      "phase": 0.0,
+      "position": [
+        106.288581848145,
+        -0.0241557192057371,
+        -4.41669034957886
+      ],
+      "speed": 0.0,
+      "state": "idle",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 4,
+      "footfalls": 14,
+      "frame": 193,
+      "phase": 0.0,
+      "position": [
+        106.288581848145,
+        -0.0241557192057371,
+        -4.41669034957886
+      ],
+      "speed": 0.0,
+      "state": "idle",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 4,
+      "footfalls": 14,
+      "frame": 194,
+      "phase": 0.0,
+      "position": [
+        106.288581848145,
+        -0.0241557192057371,
+        -4.41669034957886
+      ],
+      "speed": 0.0,
+      "state": "idle",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 4,
+      "footfalls": 14,
+      "frame": 195,
+      "phase": 0.0,
+      "position": [
+        106.288581848145,
+        -0.0241557192057371,
+        -4.41669034957886
+      ],
+      "speed": 0.0,
+      "state": "idle",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 4,
+      "footfalls": 14,
+      "frame": 196,
+      "phase": 0.0,
+      "position": [
+        106.288581848145,
+        -0.0241557192057371,
+        -4.41669034957886
+      ],
+      "speed": 0.0,
+      "state": "idle",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 4,
+      "footfalls": 14,
+      "frame": 197,
+      "phase": 0.0,
+      "position": [
+        106.288581848145,
+        -0.0241557192057371,
+        -4.41669034957886
+      ],
+      "speed": 0.0,
+      "state": "idle",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 4,
+      "footfalls": 14,
+      "frame": 198,
+      "phase": 0.0,
+      "position": [
+        106.288581848145,
+        -0.0241557192057371,
+        -4.41669034957886
+      ],
+      "speed": 0.0,
+      "state": "idle",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 4,
+      "footfalls": 14,
+      "frame": 199,
+      "phase": 0.0,
+      "position": [
+        106.288581848145,
+        -0.0241557192057371,
+        -4.41669034957886
+      ],
+      "speed": 0.0,
+      "state": "idle",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 4,
+      "footfalls": 14,
+      "frame": 200,
+      "phase": 0.0,
+      "position": [
+        106.288581848145,
+        -0.0241557192057371,
+        -4.41669034957886
+      ],
+      "speed": 0.0,
+      "state": "idle",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 4,
+      "footfalls": 14,
+      "frame": 201,
+      "phase": 0.0,
+      "position": [
+        106.288581848145,
+        -0.0241557192057371,
+        -4.41669034957886
+      ],
+      "speed": 0.0,
+      "state": "idle",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 4,
+      "footfalls": 14,
+      "frame": 202,
+      "phase": 0.0,
+      "position": [
+        106.288581848145,
+        -0.0241557192057371,
+        -4.41669034957886
+      ],
+      "speed": 0.0,
+      "state": "idle",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 4,
+      "footfalls": 14,
+      "frame": 203,
+      "phase": 0.0,
+      "position": [
+        106.288581848145,
+        -0.0241557192057371,
+        -4.41669034957886
+      ],
+      "speed": 0.0,
+      "state": "idle",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 4,
+      "footfalls": 14,
+      "frame": 204,
+      "phase": 0.0,
+      "position": [
+        106.288581848145,
+        -0.0241557192057371,
+        -4.41669034957886
+      ],
+      "speed": 0.0,
+      "state": "idle",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 4,
+      "footfalls": 14,
+      "frame": 205,
+      "phase": 0.0,
+      "position": [
+        106.288581848145,
+        -0.0241557192057371,
+        -4.41669034957886
+      ],
+      "speed": 0.0,
+      "state": "idle",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 4,
+      "footfalls": 14,
+      "frame": 206,
+      "phase": 0.0,
+      "position": [
+        106.288581848145,
+        -0.0241557192057371,
+        -4.41669034957886
+      ],
+      "speed": 0.0,
+      "state": "idle",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 4,
+      "footfalls": 14,
+      "frame": 207,
+      "phase": 0.0,
+      "position": [
+        106.288581848145,
+        -0.0241557192057371,
+        -4.41669034957886
+      ],
+      "speed": 0.0,
+      "state": "idle",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 4,
+      "footfalls": 14,
+      "frame": 208,
+      "phase": 0.0,
+      "position": [
+        106.288581848145,
+        -0.0241557192057371,
+        -4.41669034957886
+      ],
+      "speed": 0.0,
+      "state": "idle",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 4,
+      "footfalls": 14,
+      "frame": 209,
+      "phase": 0.0,
+      "position": [
+        106.288581848145,
+        -0.0241557192057371,
+        -4.41669034957886
+      ],
+      "speed": 0.0,
+      "state": "idle",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 7,
+      "footfalls": 14,
+      "frame": 210,
+      "phase": 2.03792882906805,
+      "position": [
+        106.467323303223,
+        -0.0241569820791483,
+        -4.59543085098267
+      ],
+      "speed": 7.61111116409302,
+      "state": "walk",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 7,
+      "footfalls": 14,
+      "frame": 211,
+      "phase": 2.51189423960969,
+      "position": [
+        106.64867401123,
+        -0.0241569634526968,
+        -4.77679109573364
+      ],
+      "speed": 7.72222185134888,
+      "state": "walk",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 7,
+      "footfalls": 14,
+      "frame": 212,
+      "phase": 2.99272053629779,
+      "position": [
+        106.832656860352,
+        -0.0241571962833405,
+        -4.96076965332031
+      ],
+      "speed": 7.83333301544189,
+      "state": "walk",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 7,
+      "footfalls": 15,
+      "frame": 213,
+      "phase": 3.48039841153123,
+      "position": [
+        107.019264221191,
+        -0.0241333227604628,
+        -5.14736700057983
+      ],
+      "speed": 7.94444417953491,
+      "state": "walk",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 7,
+      "footfalls": 15,
+      "frame": 214,
+      "phase": 3.97490856167566,
+      "position": [
+        107.208480834961,
+        -0.0241623260080814,
+        -5.33658361434937
+      ],
+      "speed": 8.05555534362793,
+      "state": "walk",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 7,
+      "footfalls": 15,
+      "frame": 215,
+      "phase": 4.47626032186953,
+      "position": [
+        107.400314331055,
+        -0.0241569634526968,
+        -5.52841901779175
+      ],
+      "speed": 8.16666698455811,
+      "state": "walk",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 7,
+      "footfalls": 15,
+      "frame": 216,
+      "phase": 4.9844474686872,
+      "position": [
+        107.594764709473,
+        -0.0241706408560276,
+        -5.7228684425354
+      ],
+      "speed": 8.27777767181396,
+      "state": "walk",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 7,
+      "footfalls": 15,
+      "frame": 217,
+      "phase": 5.49948181562244,
+      "position": [
+        107.791831970215,
+        -0.0241569876670837,
+        -5.91994094848633
+      ],
+      "speed": 8.38888835906982,
+      "state": "walk",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 7,
+      "footfalls": 15,
+      "frame": 218,
+      "phase": 6.02137837049367,
+      "position": [
+        107.99153137207,
+        -0.0241569839417934,
+        -6.11963272094727
+      ],
+      "speed": 8.5,
+      "state": "walk",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 7,
+      "footfalls": 16,
+      "frame": 219,
+      "phase": 6.5501072002759,
+      "position": [
+        108.193840026855,
+        -0.0241610687226057,
+        -6.32194375991821
+      ],
+      "speed": 8.61111068725586,
+      "state": "walk",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 7,
+      "footfalls": 16,
+      "frame": 220,
+      "phase": 7.08567821839047,
+      "position": [
+        108.398765563965,
+        -0.0241571888327599,
+        -6.52687406539917
+      ],
+      "speed": 8.72222232818604,
+      "state": "walk",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 7,
+      "footfalls": 16,
+      "frame": 221,
+      "phase": 7.62808401730866,
+      "position": [
+        108.606307983398,
+        -0.024156853556633,
+        -6.73441791534424
+      ],
+      "speed": 8.83333301544189,
+      "state": "walk",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 7,
+      "footfalls": 16,
+      "frame": 222,
+      "phase": 8.14834833025538,
+      "position": [
+        108.816474914551,
+        -0.0241569839417934,
+        -6.94458532333374
+      ],
+      "speed": 8.94444370269775,
+      "state": "run",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 7,
+      "footfalls": 16,
+      "frame": 223,
+      "phase": 8.64591895937154,
+      "position": [
+        109.029258728027,
+        -0.0241470001637936,
+        -7.15737390518188
+      ],
+      "speed": 9.05555534362793,
+      "state": "run",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 7,
+      "footfalls": 16,
+      "frame": 224,
+      "phase": 9.1496087869438,
+      "position": [
+        109.244659423828,
+        -0.0241572745144367,
+        -7.37277936935425
+      ],
+      "speed": 9.16666603088379,
+      "state": "run",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 7,
+      "footfalls": 17,
+      "frame": 225,
+      "phase": 9.65942005508659,
+      "position": [
+        109.462677001953,
+        -0.024156978353858,
+        -7.59080362319946
+      ],
+      "speed": 9.27777767181396,
+      "state": "run",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 7,
+      "footfalls": 17,
+      "frame": 226,
+      "phase": 10.1753622496687,
+      "position": [
+        109.683319091797,
+        -0.0241570454090834,
+        -7.81144714355469
+      ],
+      "speed": 9.38888931274414,
+      "state": "run",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 7,
+      "footfalls": 17,
+      "frame": 227,
+      "phase": 10.6974342619523,
+      "position": [
+        109.906585693359,
+        -0.0241569802165031,
+        -8.03470897674561
+      ],
+      "speed": 9.5,
+      "state": "run",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 7,
+      "footfalls": 17,
+      "frame": 228,
+      "phase": 11.2256377427249,
+      "position": [
+        110.132476806641,
+        -0.0241698957979679,
+        -8.26059055328369
+      ],
+      "speed": 9.61111068725586,
+      "state": "run",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 7,
+      "footfalls": 17,
+      "frame": 229,
+      "phase": 11.7599537202489,
+      "position": [
+        110.360977172852,
+        -0.0241570416837931,
+        -8.48909091949463
+      ],
+      "speed": 9.72222232818604,
+      "state": "run",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 7,
+      "footfalls": 17,
+      "frame": 230,
+      "phase": 12.3004011909004,
+      "position": [
+        110.592102050781,
+        -0.0241709686815739,
+        -8.72021102905273
+      ],
+      "speed": 9.83333301544189,
+      "state": "run",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 7,
+      "footfalls": 18,
+      "frame": 231,
+      "phase": 12.846961182942,
+      "position": [
+        110.825836181641,
+        -0.0241569671779871,
+        -8.95394992828369
+      ],
+      "speed": 9.94444465637207,
+      "state": "run",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 7,
+      "footfalls": 18,
+      "frame": 232,
+      "phase": 13.3981161544731,
+      "position": [
+        111.061538696289,
+        -0.0241616517305374,
+        -9.1896505355835
+      ],
+      "speed": 10.0,
+      "state": "run",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 7,
+      "footfalls": 18,
+      "frame": 233,
+      "phase": 13.9492722347422,
+      "position": [
+        111.297241210938,
+        -0.0241572931408882,
+        -9.42535209655762
+      ],
+      "speed": 10.0,
+      "state": "run",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 7,
+      "footfalls": 18,
+      "frame": 234,
+      "phase": 14.5004316658636,
+      "position": [
+        111.532943725586,
+        -0.0241084452718496,
+        -9.66105651855469
+      ],
+      "speed": 10.0,
+      "state": "run",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 7,
+      "footfalls": 18,
+      "frame": 235,
+      "phase": 15.0515799603286,
+      "position": [
+        111.76863861084,
+        -0.0241571143269539,
+        -9.89675903320313
+      ],
+      "speed": 10.0,
+      "state": "run",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 7,
+      "footfalls": 18,
+      "frame": 236,
+      "phase": 15.6027371739742,
+      "position": [
+        112.004341125488,
+        -0.0241569858044386,
+        -10.1324615478516
+      ],
+      "speed": 10.0,
+      "state": "run",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 7,
+      "footfalls": 19,
+      "frame": 237,
+      "phase": 16.15389884721,
+      "position": [
+        112.240051269531,
+        -0.0241575241088867,
+        -10.3681602478027
+      ],
+      "speed": 10.0,
+      "state": "run",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 7,
+      "footfalls": 19,
+      "frame": 238,
+      "phase": 16.7050560608556,
+      "position": [
+        112.47575378418,
+        -0.0241569671779871,
+        -10.6038627624512
+      ],
+      "speed": 10.0,
+      "state": "run",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 7,
+      "footfalls": 19,
+      "frame": 239,
+      "phase": 17.2562121411247,
+      "position": [
+        112.711456298828,
+        -0.0241570509970188,
+        -10.8395643234253
+      ],
+      "speed": 10.0,
+      "state": "run",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 7,
+      "footfalls": 19,
+      "frame": 240,
+      "phase": 17.8073660039179,
+      "position": [
+        112.947158813477,
+        -0.0241425652056932,
+        -11.0752639770508
+      ],
+      "speed": 10.0,
+      "state": "run",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 7,
+      "footfalls": 19,
+      "frame": 241,
+      "phase": 18.3585220841869,
+      "position": [
+        113.182861328125,
+        -0.0241664107888937,
+        -11.3109655380249
+      ],
+      "speed": 10.0,
+      "state": "run",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 7,
+      "footfalls": 20,
+      "frame": 242,
+      "phase": 18.9096792978325,
+      "position": [
+        113.418563842773,
+        -0.0241569709032774,
+        -11.5466680526733
+      ],
+      "speed": 10.0,
+      "state": "run",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 7,
+      "footfalls": 20,
+      "frame": 243,
+      "phase": 19.4608287010355,
+      "position": [
+        113.654258728027,
+        -0.0241570547223091,
+        -11.7823715209961
+      ],
+      "speed": 10.0,
+      "state": "run",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 7,
+      "footfalls": 20,
+      "frame": 244,
+      "phase": 20.0119859146811,
+      "position": [
+        113.889961242676,
+        -0.0241569709032774,
+        -12.0180740356445
+      ],
+      "speed": 10.0,
+      "state": "run",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 7,
+      "footfalls": 20,
+      "frame": 245,
+      "phase": 20.5631431283266,
+      "position": [
+        114.125663757324,
+        -0.0241886544972658,
+        -12.253776550293
+      ],
+      "speed": 10.0,
+      "state": "run",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 7,
+      "footfalls": 20,
+      "frame": 246,
+      "phase": 21.1143003419722,
+      "position": [
+        114.361366271973,
+        -0.0241569858044386,
+        -12.4894790649414
+      ],
+      "speed": 10.0,
+      "state": "run",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 7,
+      "footfalls": 20,
+      "frame": 247,
+      "phase": 21.6654564222413,
+      "position": [
+        114.597068786621,
+        -0.0241616480052471,
+        -12.7251806259155
+      ],
+      "speed": 10.0,
+      "state": "run",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 7,
+      "footfalls": 21,
+      "frame": 248,
+      "phase": 22.2166125025103,
+      "position": [
+        114.83277130127,
+        -0.0241569858044386,
+        -12.9608821868896
+      ],
+      "speed": 10.0,
+      "state": "run",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 7,
+      "footfalls": 21,
+      "frame": 249,
+      "phase": 22.7677552040086,
+      "position": [
+        115.068473815918,
+        -0.0241609010845423,
+        -13.196572303772
+      ],
+      "speed": 10.0,
+      "state": "run",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 5,
+      "footfalls": 21,
+      "frame": 250,
+      "phase": 23.3189124176541,
+      "position": [
+        114.83277130127,
+        -0.0241619162261486,
+        -13.4322748184204
+      ],
+      "speed": 10.0,
+      "state": "run",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 5,
+      "footfalls": 21,
+      "frame": 251,
+      "phase": 23.8700684979232,
+      "position": [
+        114.597068786621,
+        -0.0241571255028248,
+        -13.6679763793945
+      ],
+      "speed": 10.0,
+      "state": "run",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 5,
+      "footfalls": 21,
+      "frame": 252,
+      "phase": 24.4212245781922,
+      "position": [
+        114.361366271973,
+        -0.0241569709032774,
+        -13.9036779403687
+      ],
+      "speed": 10.0,
+      "state": "run",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 5,
+      "footfalls": 21,
+      "frame": 253,
+      "phase": 24.9723817918378,
+      "position": [
+        114.125663757324,
+        -0.0241569839417934,
+        -14.1393804550171
+      ],
+      "speed": 10.0,
+      "state": "run",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 5,
+      "footfalls": 22,
+      "frame": 254,
+      "phase": 25.5235367387303,
+      "position": [
+        113.889961242676,
+        -0.0241613183170557,
+        -14.3750810623169
+      ],
+      "speed": 10.0,
+      "state": "run",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 5,
+      "footfalls": 22,
+      "frame": 255,
+      "phase": 26.0746939523759,
+      "position": [
+        113.654258728027,
+        -0.024161770939827,
+        -14.6107835769653
+      ],
+      "speed": 10.0,
+      "state": "run",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 5,
+      "footfalls": 22,
+      "frame": 256,
+      "phase": 26.625850032645,
+      "position": [
+        113.418556213379,
+        -0.0241569634526968,
+        -14.8464851379395
+      ],
+      "speed": 10.0,
+      "state": "run",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 5,
+      "footfalls": 22,
+      "frame": 257,
+      "phase": 27.1770016779624,
+      "position": [
+        113.182846069336,
+        -0.0240964964032173,
+        -15.0821752548218
+      ],
+      "speed": 10.0,
+      "state": "run",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 5,
+      "footfalls": 22,
+      "frame": 258,
+      "phase": 27.7281499724274,
+      "position": [
+        112.947151184082,
+        -0.0241709053516388,
+        -15.3178777694702
+      ],
+      "speed": 10.0,
+      "state": "run",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 5,
+      "footfalls": 23,
+      "frame": 259,
+      "phase": 28.279307186073,
+      "position": [
+        112.711448669434,
+        -0.0241617616266012,
+        -15.5535802841187
+      ],
+      "speed": 10.0,
+      "state": "run",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 5,
+      "footfalls": 23,
+      "frame": 260,
+      "phase": 28.8304621329655,
+      "position": [
+        112.475746154785,
+        -0.0241570472717285,
+        -15.7892808914185
+      ],
+      "speed": 10.0,
+      "state": "run",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 5,
+      "footfalls": 23,
+      "frame": 261,
+      "phase": 29.3816182132345,
+      "position": [
+        112.240043640137,
+        -0.0241569671779871,
+        -16.0249824523926
+      ],
+      "speed": 10.0,
+      "state": "run",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 5,
+      "footfalls": 23,
+      "frame": 262,
+      "phase": 29.9327731847657,
+      "position": [
+        112.004341125488,
+        -0.0241578761488199,
+        -16.2606830596924
+      ],
+      "speed": 10.0,
+      "state": "run",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 5,
+      "footfalls": 23,
+      "frame": 263,
+      "phase": 30.4839281562968,
+      "position": [
+        111.76863861084,
+        -0.0241618007421494,
+        -16.4963836669922
+      ],
+      "speed": 10.0,
+      "state": "run",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 5,
+      "footfalls": 23,
+      "frame": 264,
+      "phase": 31.0350853699424,
+      "position": [
+        111.532936096191,
+        -0.0241571329534054,
+        -16.7320861816406
+      ],
+      "speed": 10.0,
+      "state": "run",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 5,
+      "footfalls": 24,
+      "frame": 265,
+      "phase": 31.586242583588,
+      "position": [
+        111.297233581543,
+        -0.0241569820791483,
+        -16.9677886962891
+      ],
+      "speed": 10.0,
+      "state": "run",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 5,
+      "footfalls": 24,
+      "frame": 266,
+      "phase": 32.1374020147094,
+      "position": [
+        111.0615234375,
+        -0.0241557471454144,
+        -17.2034854888916
+      ],
+      "speed": 10.0,
+      "state": "run",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 5,
+      "footfalls": 24,
+      "frame": 267,
+      "phase": 32.6885614458308,
+      "position": [
+        110.825820922852,
+        -0.0241616982966661,
+        -17.4391899108887
+      ],
+      "speed": 10.0,
+      "state": "run",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 5,
+      "footfalls": 24,
+      "frame": 268,
+      "phase": 33.2397186594764,
+      "position": [
+        110.590118408203,
+        -0.0241571236401796,
+        -17.6748924255371
+      ],
+      "speed": 10.0,
+      "state": "run",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 5,
+      "footfalls": 24,
+      "frame": 269,
+      "phase": 33.7908758731219,
+      "position": [
+        110.354415893555,
+        -0.0241569690406322,
+        -17.9105949401855
+      ],
+      "speed": 10.0,
+      "state": "run",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 5,
+      "footfalls": 24,
+      "frame": 270,
+      "phase": 34.3420330867675,
+      "position": [
+        110.118713378906,
+        -0.0241569820791483,
+        -18.146297454834
+      ],
+      "speed": 10.0,
+      "state": "run",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 5,
+      "footfalls": 25,
+      "frame": 271,
+      "phase": 34.8931947600034,
+      "position": [
+        109.883003234863,
+        -0.0241616666316986,
+        -18.3819961547852
+      ],
+      "speed": 10.0,
+      "state": "run",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 5,
+      "footfalls": 25,
+      "frame": 272,
+      "phase": 35.444351973649,
+      "position": [
+        109.647300720215,
+        -0.0241571422666311,
+        -18.6176986694336
+      ],
+      "speed": 10.0,
+      "state": "run",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 5,
+      "footfalls": 25,
+      "frame": 273,
+      "phase": 35.9955091872945,
+      "position": [
+        109.411598205566,
+        -0.0241569634526968,
+        -18.853401184082
+      ],
+      "speed": 10.0,
+      "state": "run",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 5,
+      "footfalls": 25,
+      "frame": 274,
+      "phase": 36.5466641588257,
+      "position": [
+        109.175895690918,
+        -0.0240674130618572,
+        -19.0891017913818
+      ],
+      "speed": 10.0,
+      "state": "run",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 5,
+      "footfalls": 25,
+      "frame": 275,
+      "phase": 37.0978235899471,
+      "position": [
+        108.94019317627,
+        -0.0241708848625422,
+        -19.3248062133789
+      ],
+      "speed": 10.0,
+      "state": "run",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 5,
+      "footfalls": 25,
+      "frame": 276,
+      "phase": 37.6489808035927,
+      "position": [
+        108.704490661621,
+        -0.0241617653518915,
+        -19.5605087280273
+      ],
+      "speed": 10.0,
+      "state": "run",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 5,
+      "footfalls": 26,
+      "frame": 277,
+      "phase": 38.2001380172382,
+      "position": [
+        108.468788146973,
+        -0.0241569839417934,
+        -19.7962112426758
+      ],
+      "speed": 10.0,
+      "state": "run",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 5,
+      "footfalls": 26,
+      "frame": 278,
+      "phase": 38.7512952308838,
+      "position": [
+        108.233085632324,
+        -0.0241569727659225,
+        -20.0319137573242
+      ],
+      "speed": 10.0,
+      "state": "run",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 5,
+      "footfalls": 26,
+      "frame": 279,
+      "phase": 39.3024546620052,
+      "position": [
+        107.997383117676,
+        -0.0241709128022194,
+        -20.2676181793213
+      ],
+      "speed": 10.0,
+      "state": "run",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 0,
+      "footfalls": 26,
+      "frame": 280,
+      "phase": 0.0,
+      "position": [
+        107.997383117676,
+        -0.0241709128022194,
+        -20.2676181793213
+      ],
+      "speed": 0.0,
+      "state": "prepare",
+      "step": 1
+    },
+    {
+      "cooldown": 0.321428571428571,
+      "dash": -0.00333333333333331,
+      "direction": 0,
+      "footfalls": 26,
+      "frame": 281,
+      "phase": 0.0,
+      "position": [
+        107.997383117676,
+        -0.0241709128022194,
+        -20.2676181793213
+      ],
+      "speed": 0.0,
+      "state": "strike",
+      "step": 1
+    },
+    {
+      "cooldown": 0.288095238095238,
+      "dash": -0.00333333333333331,
+      "direction": 0,
+      "footfalls": 26,
+      "frame": 282,
+      "phase": 0.0,
+      "position": [
+        107.997383117676,
+        -0.0241709128022194,
+        -20.2676181793213
+      ],
+      "speed": 0.0,
+      "state": "strike",
+      "step": 1
+    },
+    {
+      "cooldown": 0.254761904761905,
+      "dash": -0.00333333333333331,
+      "direction": 0,
+      "footfalls": 26,
+      "frame": 283,
+      "phase": 0.0,
+      "position": [
+        107.997383117676,
+        -0.0241709128022194,
+        -20.2676181793213
+      ],
+      "speed": 0.0,
+      "state": "strike",
+      "step": 1
+    },
+    {
+      "cooldown": 0.221428571428571,
+      "dash": -0.00333333333333331,
+      "direction": 0,
+      "footfalls": 26,
+      "frame": 284,
+      "phase": 0.0,
+      "position": [
+        107.997383117676,
+        -0.0241709128022194,
+        -20.2676181793213
+      ],
+      "speed": 0.0,
+      "state": "strike",
+      "step": 1
+    },
+    {
+      "cooldown": 0.188095238095238,
+      "dash": -0.00333333333333331,
+      "direction": 0,
+      "footfalls": 26,
+      "frame": 285,
+      "phase": 0.0,
+      "position": [
+        107.997383117676,
+        -0.0241709128022194,
+        -20.2676181793213
+      ],
+      "speed": 0.0,
+      "state": "recovery",
+      "step": 1
+    },
+    {
+      "cooldown": 0.154761904761905,
+      "dash": -0.00333333333333331,
+      "direction": 0,
+      "footfalls": 26,
+      "frame": 286,
+      "phase": 0.0,
+      "position": [
+        107.997383117676,
+        -0.0241709128022194,
+        -20.2676181793213
+      ],
+      "speed": 0.0,
+      "state": "recovery",
+      "step": 1
+    },
+    {
+      "cooldown": 0.121428571428571,
+      "dash": -0.00333333333333331,
+      "direction": 0,
+      "footfalls": 26,
+      "frame": 287,
+      "phase": 0.0,
+      "position": [
+        107.997383117676,
+        -0.0241709128022194,
+        -20.2676181793213
+      ],
+      "speed": 0.0,
+      "state": "recovery",
+      "step": 1
+    },
+    {
+      "cooldown": 0.0880952380952381,
+      "dash": -0.00333333333333331,
+      "direction": 0,
+      "footfalls": 26,
+      "frame": 288,
+      "phase": 0.0,
+      "position": [
+        107.997383117676,
+        -0.0241709128022194,
+        -20.2676181793213
+      ],
+      "speed": 0.0,
+      "state": "recovery",
+      "step": 1
+    },
+    {
+      "cooldown": 0.0547619047619048,
+      "dash": -0.00333333333333331,
+      "direction": 0,
+      "footfalls": 26,
+      "frame": 289,
+      "phase": 0.0,
+      "position": [
+        107.997383117676,
+        -0.0241709128022194,
+        -20.2676181793213
+      ],
+      "speed": 0.0,
+      "state": "recovery",
+      "step": 1
+    },
+    {
+      "cooldown": 0.0214285714285715,
+      "dash": -0.00333333333333331,
+      "direction": 0,
+      "footfalls": 26,
+      "frame": 290,
+      "phase": 0.0,
+      "position": [
+        107.997383117676,
+        -0.0241709128022194,
+        -20.2676181793213
+      ],
+      "speed": 0.0,
+      "state": "recovery",
+      "step": 1
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 0,
+      "footfalls": 26,
+      "frame": 291,
+      "phase": 0.0,
+      "position": [
+        107.997383117676,
+        -0.0241709128022194,
+        -20.2676181793213
+      ],
+      "speed": 0.0,
+      "state": "prepare",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 0,
+      "footfalls": 26,
+      "frame": 292,
+      "phase": 0.0,
+      "position": [
+        107.997383117676,
+        -0.0241709128022194,
+        -20.2676181793213
+      ],
+      "speed": 0.0,
+      "state": "prepare",
+      "step": 2
+    },
+    {
+      "cooldown": 0.304761904761905,
+      "dash": -0.00333333333333331,
+      "direction": 0,
+      "footfalls": 26,
+      "frame": 293,
+      "phase": 0.0,
+      "position": [
+        107.997383117676,
+        -0.0241709128022194,
+        -20.2676181793213
+      ],
+      "speed": 0.0,
+      "state": "strike",
+      "step": 2
+    },
+    {
+      "cooldown": 0.271428571428571,
+      "dash": -0.00333333333333331,
+      "direction": 0,
+      "footfalls": 26,
+      "frame": 294,
+      "phase": 0.0,
+      "position": [
+        107.997383117676,
+        -0.0241709128022194,
+        -20.2676181793213
+      ],
+      "speed": 0.0,
+      "state": "strike",
+      "step": 2
+    },
+    {
+      "cooldown": 0.238095238095238,
+      "dash": -0.00333333333333331,
+      "direction": 0,
+      "footfalls": 26,
+      "frame": 295,
+      "phase": 0.0,
+      "position": [
+        107.997383117676,
+        -0.0241709128022194,
+        -20.2676181793213
+      ],
+      "speed": 0.0,
+      "state": "strike",
+      "step": 2
+    },
+    {
+      "cooldown": 0.204761904761905,
+      "dash": -0.00333333333333331,
+      "direction": 0,
+      "footfalls": 26,
+      "frame": 296,
+      "phase": 0.0,
+      "position": [
+        107.997383117676,
+        -0.0241709128022194,
+        -20.2676181793213
+      ],
+      "speed": 0.0,
+      "state": "strike",
+      "step": 2
+    },
+    {
+      "cooldown": 0.171428571428571,
+      "dash": -0.00333333333333331,
+      "direction": 0,
+      "footfalls": 26,
+      "frame": 297,
+      "phase": 0.0,
+      "position": [
+        107.997383117676,
+        -0.0241709128022194,
+        -20.2676181793213
+      ],
+      "speed": 0.0,
+      "state": "recovery",
+      "step": 2
+    },
+    {
+      "cooldown": 0.138095238095238,
+      "dash": -0.00333333333333331,
+      "direction": 0,
+      "footfalls": 26,
+      "frame": 298,
+      "phase": 0.0,
+      "position": [
+        107.997383117676,
+        -0.0241709128022194,
+        -20.2676181793213
+      ],
+      "speed": 0.0,
+      "state": "recovery",
+      "step": 2
+    },
+    {
+      "cooldown": 0.104761904761905,
+      "dash": -0.00333333333333331,
+      "direction": 0,
+      "footfalls": 26,
+      "frame": 299,
+      "phase": 0.0,
+      "position": [
+        107.997383117676,
+        -0.0241709128022194,
+        -20.2676181793213
+      ],
+      "speed": 0.0,
+      "state": "recovery",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0714285714285715,
+      "dash": -0.00333333333333331,
+      "direction": 0,
+      "footfalls": 26,
+      "frame": 300,
+      "phase": 0.0,
+      "position": [
+        107.997383117676,
+        -0.0241709128022194,
+        -20.2676181793213
+      ],
+      "speed": 0.0,
+      "state": "recovery",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0380952380952381,
+      "dash": -0.00333333333333331,
+      "direction": 0,
+      "footfalls": 26,
+      "frame": 301,
+      "phase": 0.0,
+      "position": [
+        107.997383117676,
+        -0.0241709128022194,
+        -20.2676181793213
+      ],
+      "speed": 0.0,
+      "state": "recovery",
+      "step": 2
+    },
+    {
+      "cooldown": 0.00476190476190479,
+      "dash": -0.00333333333333331,
+      "direction": 0,
+      "footfalls": 26,
+      "frame": 302,
+      "phase": 0.0,
+      "position": [
+        107.997383117676,
+        -0.0241709128022194,
+        -20.2676181793213
+      ],
+      "speed": 0.0,
+      "state": "recovery",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 0,
+      "footfalls": 26,
+      "frame": 303,
+      "phase": 0.0,
+      "position": [
+        107.997383117676,
+        -0.0241709128022194,
+        -20.2676181793213
+      ],
+      "speed": 0.0,
+      "state": "prepare",
+      "step": 3
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 0,
+      "footfalls": 26,
+      "frame": 304,
+      "phase": 0.0,
+      "position": [
+        107.997383117676,
+        -0.0241709128022194,
+        -20.2676181793213
+      ],
+      "speed": 0.0,
+      "state": "prepare",
+      "step": 3
+    },
+    {
+      "cooldown": 0.464285714285714,
+      "dash": -0.00333333333333331,
+      "direction": 0,
+      "footfalls": 26,
+      "frame": 305,
+      "phase": 0.0,
+      "position": [
+        107.997383117676,
+        -0.0241709128022194,
+        -20.2676181793213
+      ],
+      "speed": 0.0,
+      "state": "strike",
+      "step": 3
+    },
+    {
+      "cooldown": 0.430952380952381,
+      "dash": -0.00333333333333331,
+      "direction": 0,
+      "footfalls": 26,
+      "frame": 306,
+      "phase": 0.0,
+      "position": [
+        107.997383117676,
+        -0.0241709128022194,
+        -20.2676181793213
+      ],
+      "speed": 0.0,
+      "state": "strike",
+      "step": 3
+    },
+    {
+      "cooldown": 0.397619047619048,
+      "dash": -0.00333333333333331,
+      "direction": 0,
+      "footfalls": 26,
+      "frame": 307,
+      "phase": 0.0,
+      "position": [
+        107.997383117676,
+        -0.0241709128022194,
+        -20.2676181793213
+      ],
+      "speed": 0.0,
+      "state": "strike",
+      "step": 3
+    },
+    {
+      "cooldown": 0.364285714285714,
+      "dash": -0.00333333333333331,
+      "direction": 0,
+      "footfalls": 26,
+      "frame": 308,
+      "phase": 0.0,
+      "position": [
+        107.997383117676,
+        -0.0241709128022194,
+        -20.2676181793213
+      ],
+      "speed": 0.0,
+      "state": "strike",
+      "step": 3
+    },
+    {
+      "cooldown": 0.330952380952381,
+      "dash": -0.00333333333333331,
+      "direction": 0,
+      "footfalls": 26,
+      "frame": 309,
+      "phase": 0.0,
+      "position": [
+        107.997383117676,
+        -0.0241709128022194,
+        -20.2676181793213
+      ],
+      "speed": 0.0,
+      "state": "strike",
+      "step": 3
+    },
+    {
+      "cooldown": 0.297619047619048,
+      "dash": -0.00333333333333331,
+      "direction": 0,
+      "footfalls": 26,
+      "frame": 310,
+      "phase": 0.0,
+      "position": [
+        107.997383117676,
+        -0.0241709128022194,
+        -20.2676181793213
+      ],
+      "speed": 0.0,
+      "state": "strike",
+      "step": 3
+    },
+    {
+      "cooldown": 0.264285714285714,
+      "dash": -0.00333333333333331,
+      "direction": 0,
+      "footfalls": 26,
+      "frame": 311,
+      "phase": 0.0,
+      "position": [
+        107.997383117676,
+        -0.0241709128022194,
+        -20.2676181793213
+      ],
+      "speed": 0.0,
+      "state": "recovery",
+      "step": 3
+    },
+    {
+      "cooldown": 0.230952380952381,
+      "dash": -0.00333333333333331,
+      "direction": 0,
+      "footfalls": 26,
+      "frame": 312,
+      "phase": 0.0,
+      "position": [
+        107.997383117676,
+        -0.0241709128022194,
+        -20.2676181793213
+      ],
+      "speed": 0.0,
+      "state": "recovery",
+      "step": 3
+    },
+    {
+      "cooldown": 0.197619047619048,
+      "dash": -0.00333333333333331,
+      "direction": 0,
+      "footfalls": 26,
+      "frame": 313,
+      "phase": 0.0,
+      "position": [
+        107.997383117676,
+        -0.0241709128022194,
+        -20.2676181793213
+      ],
+      "speed": 0.0,
+      "state": "recovery",
+      "step": 3
+    },
+    {
+      "cooldown": 0.164285714285714,
+      "dash": -0.00333333333333331,
+      "direction": 0,
+      "footfalls": 26,
+      "frame": 314,
+      "phase": 0.0,
+      "position": [
+        107.997383117676,
+        -0.0241709128022194,
+        -20.2676181793213
+      ],
+      "speed": 0.0,
+      "state": "recovery",
+      "step": 3
+    },
+    {
+      "cooldown": 0.130952380952381,
+      "dash": -0.00333333333333331,
+      "direction": 0,
+      "footfalls": 26,
+      "frame": 315,
+      "phase": 0.0,
+      "position": [
+        107.997383117676,
+        -0.0241709128022194,
+        -20.2676181793213
+      ],
+      "speed": 0.0,
+      "state": "recovery",
+      "step": 3
+    },
+    {
+      "cooldown": 0.0976190476190477,
+      "dash": -0.00333333333333331,
+      "direction": 0,
+      "footfalls": 26,
+      "frame": 316,
+      "phase": 0.0,
+      "position": [
+        107.997383117676,
+        -0.0241709128022194,
+        -20.2676181793213
+      ],
+      "speed": 0.0,
+      "state": "recovery",
+      "step": 3
+    },
+    {
+      "cooldown": 0.0642857142857143,
+      "dash": -0.00333333333333331,
+      "direction": 0,
+      "footfalls": 26,
+      "frame": 317,
+      "phase": 0.0,
+      "position": [
+        107.997383117676,
+        -0.0241709128022194,
+        -20.2676181793213
+      ],
+      "speed": 0.0,
+      "state": "recovery",
+      "step": 3
+    },
+    {
+      "cooldown": 0.030952380952381,
+      "dash": -0.00333333333333331,
+      "direction": 0,
+      "footfalls": 26,
+      "frame": 318,
+      "phase": 0.0,
+      "position": [
+        107.997383117676,
+        -0.0241709128022194,
+        -20.2676181793213
+      ],
+      "speed": 0.0,
+      "state": "recovery",
+      "step": 3
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 0,
+      "footfalls": 26,
+      "frame": 319,
+      "phase": 0.0,
+      "position": [
+        107.997383117676,
+        -0.0241709128022194,
+        -20.2676181793213
+      ],
+      "speed": 0.0,
+      "state": "prepare",
+      "step": 1
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 0,
+      "footfalls": 26,
+      "frame": 320,
+      "phase": 0.0,
+      "position": [
+        107.997383117676,
+        -0.0241709128022194,
+        -20.2676181793213
+      ],
+      "speed": 0.0,
+      "state": "prepare",
+      "step": 1
+    },
+    {
+      "cooldown": 0.304761904761905,
+      "dash": -0.00333333333333331,
+      "direction": 0,
+      "footfalls": 26,
+      "frame": 321,
+      "phase": 0.0,
+      "position": [
+        107.997383117676,
+        -0.0241709128022194,
+        -20.2676181793213
+      ],
+      "speed": 0.0,
+      "state": "strike",
+      "step": 1
+    },
+    {
+      "cooldown": 0.271428571428571,
+      "dash": -0.00333333333333331,
+      "direction": 0,
+      "footfalls": 26,
+      "frame": 322,
+      "phase": 0.0,
+      "position": [
+        107.997383117676,
+        -0.0241709128022194,
+        -20.2676181793213
+      ],
+      "speed": 0.0,
+      "state": "strike",
+      "step": 1
+    },
+    {
+      "cooldown": 0.238095238095238,
+      "dash": -0.00333333333333331,
+      "direction": 0,
+      "footfalls": 26,
+      "frame": 323,
+      "phase": 0.0,
+      "position": [
+        107.997383117676,
+        -0.0241709128022194,
+        -20.2676181793213
+      ],
+      "speed": 0.0,
+      "state": "strike",
+      "step": 1
+    },
+    {
+      "cooldown": 0.204761904761905,
+      "dash": -0.00333333333333331,
+      "direction": 0,
+      "footfalls": 26,
+      "frame": 324,
+      "phase": 0.0,
+      "position": [
+        107.997383117676,
+        -0.0241709128022194,
+        -20.2676181793213
+      ],
+      "speed": 0.0,
+      "state": "strike",
+      "step": 1
+    },
+    {
+      "cooldown": 0.171428571428571,
+      "dash": -0.00333333333333331,
+      "direction": 0,
+      "footfalls": 26,
+      "frame": 325,
+      "phase": 0.0,
+      "position": [
+        107.997383117676,
+        -0.0241709128022194,
+        -20.2676181793213
+      ],
+      "speed": 0.0,
+      "state": "recovery",
+      "step": 1
+    },
+    {
+      "cooldown": 0.138095238095238,
+      "dash": -0.00333333333333331,
+      "direction": 0,
+      "footfalls": 26,
+      "frame": 326,
+      "phase": 0.0,
+      "position": [
+        107.997383117676,
+        -0.0241709128022194,
+        -20.2676181793213
+      ],
+      "speed": 0.0,
+      "state": "recovery",
+      "step": 1
+    },
+    {
+      "cooldown": 0.104761904761905,
+      "dash": -0.00333333333333331,
+      "direction": 0,
+      "footfalls": 26,
+      "frame": 327,
+      "phase": 0.0,
+      "position": [
+        107.997383117676,
+        -0.0241709128022194,
+        -20.2676181793213
+      ],
+      "speed": 0.0,
+      "state": "recovery",
+      "step": 1
+    },
+    {
+      "cooldown": 0.0714285714285715,
+      "dash": -0.00333333333333331,
+      "direction": 0,
+      "footfalls": 26,
+      "frame": 328,
+      "phase": 0.0,
+      "position": [
+        107.997383117676,
+        -0.0241709128022194,
+        -20.2676181793213
+      ],
+      "speed": 0.0,
+      "state": "recovery",
+      "step": 1
+    },
+    {
+      "cooldown": 0.0380952380952381,
+      "dash": -0.00333333333333331,
+      "direction": 0,
+      "footfalls": 26,
+      "frame": 329,
+      "phase": 0.0,
+      "position": [
+        107.997383117676,
+        -0.0241709128022194,
+        -20.2676181793213
+      ],
+      "speed": 0.0,
+      "state": "recovery",
+      "step": 1
+    },
+    {
+      "cooldown": 0.00476190476190479,
+      "dash": -0.00333333333333331,
+      "direction": 0,
+      "footfalls": 26,
+      "frame": 330,
+      "phase": 0.0,
+      "position": [
+        107.997383117676,
+        -0.0241709128022194,
+        -20.2676181793213
+      ],
+      "speed": 0.0,
+      "state": "recovery",
+      "step": 1
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 0,
+      "footfalls": 26,
+      "frame": 331,
+      "phase": 0.0,
+      "position": [
+        107.997383117676,
+        -0.0241709128022194,
+        -20.2676181793213
+      ],
+      "speed": 0.0,
+      "state": "prepare",
+      "step": 2
+    },
+    {
+      "cooldown": 0.321428571428571,
+      "dash": -0.00333333333333331,
+      "direction": 0,
+      "footfalls": 26,
+      "frame": 332,
+      "phase": 0.0,
+      "position": [
+        107.997383117676,
+        -0.0241709128022194,
+        -20.2676181793213
+      ],
+      "speed": 0.0,
+      "state": "strike",
+      "step": 2
+    },
+    {
+      "cooldown": 0.304761904761905,
+      "dash": -0.00333333333333331,
+      "direction": 0,
+      "footfalls": 26,
+      "frame": 333,
+      "phase": 0.0,
+      "position": [
+        107.997383117676,
+        -0.0241709128022194,
+        -20.2676181793213
+      ],
+      "speed": 0.0,
+      "state": "strike",
+      "step": 2
+    },
+    {
+      "cooldown": 0.271428571428571,
+      "dash": -0.00333333333333331,
+      "direction": 0,
+      "footfalls": 26,
+      "frame": 334,
+      "phase": 0.0,
+      "position": [
+        107.997383117676,
+        -0.0241709128022194,
+        -20.2676181793213
+      ],
+      "speed": 0.0,
+      "state": "strike",
+      "step": 2
+    },
+    {
+      "cooldown": 0.238095238095238,
+      "dash": -0.00333333333333331,
+      "direction": 0,
+      "footfalls": 26,
+      "frame": 335,
+      "phase": 0.0,
+      "position": [
+        107.997383117676,
+        -0.0241709128022194,
+        -20.2676181793213
+      ],
+      "speed": 0.0,
+      "state": "strike",
+      "step": 2
+    },
+    {
+      "cooldown": 0.204761904761905,
+      "dash": -0.00333333333333331,
+      "direction": 0,
+      "footfalls": 26,
+      "frame": 336,
+      "phase": 0.0,
+      "position": [
+        107.997383117676,
+        -0.0241709128022194,
+        -20.2676181793213
+      ],
+      "speed": 0.0,
+      "state": "strike",
+      "step": 2
+    },
+    {
+      "cooldown": 0.171428571428571,
+      "dash": -0.00333333333333331,
+      "direction": 0,
+      "footfalls": 26,
+      "frame": 337,
+      "phase": 0.0,
+      "position": [
+        107.997383117676,
+        -0.0241709128022194,
+        -20.2676181793213
+      ],
+      "speed": 0.0,
+      "state": "recovery",
+      "step": 2
+    },
+    {
+      "cooldown": 0.138095238095238,
+      "dash": -0.00333333333333331,
+      "direction": 0,
+      "footfalls": 26,
+      "frame": 338,
+      "phase": 0.0,
+      "position": [
+        107.997383117676,
+        -0.0241709128022194,
+        -20.2676181793213
+      ],
+      "speed": 0.0,
+      "state": "recovery",
+      "step": 2
+    },
+    {
+      "cooldown": 0.104761904761905,
+      "dash": -0.00333333333333331,
+      "direction": 0,
+      "footfalls": 26,
+      "frame": 339,
+      "phase": 0.0,
+      "position": [
+        107.997383117676,
+        -0.0241709128022194,
+        -20.2676181793213
+      ],
+      "speed": 0.0,
+      "state": "recovery",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0714285714285715,
+      "dash": -0.00333333333333331,
+      "direction": 0,
+      "footfalls": 26,
+      "frame": 340,
+      "phase": 0.0,
+      "position": [
+        107.997383117676,
+        -0.0241709128022194,
+        -20.2676181793213
+      ],
+      "speed": 0.0,
+      "state": "recovery",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0380952380952381,
+      "dash": -0.00333333333333331,
+      "direction": 0,
+      "footfalls": 26,
+      "frame": 341,
+      "phase": 0.0,
+      "position": [
+        107.997383117676,
+        -0.0241709128022194,
+        -20.2676181793213
+      ],
+      "speed": 0.0,
+      "state": "recovery",
+      "step": 2
+    },
+    {
+      "cooldown": 0.00476190476190479,
+      "dash": -0.00333333333333331,
+      "direction": 0,
+      "footfalls": 26,
+      "frame": 342,
+      "phase": 0.0,
+      "position": [
+        107.997383117676,
+        -0.0241709128022194,
+        -20.2676181793213
+      ],
+      "speed": 0.0,
+      "state": "recovery",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 0,
+      "footfalls": 26,
+      "frame": 343,
+      "phase": 0.0,
+      "position": [
+        107.997383117676,
+        -0.0241709128022194,
+        -20.2676181793213
+      ],
+      "speed": 0.0,
+      "state": "idle",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 0,
+      "footfalls": 26,
+      "frame": 344,
+      "phase": 0.0,
+      "position": [
+        107.997383117676,
+        -0.0241709128022194,
+        -20.2676181793213
+      ],
+      "speed": 0.0,
+      "state": "idle",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 0,
+      "footfalls": 26,
+      "frame": 345,
+      "phase": 0.0,
+      "position": [
+        107.997383117676,
+        -0.0241709128022194,
+        -20.2676181793213
+      ],
+      "speed": 0.0,
+      "state": "idle",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 0,
+      "footfalls": 26,
+      "frame": 346,
+      "phase": 0.0,
+      "position": [
+        107.997383117676,
+        -0.0241709128022194,
+        -20.2676181793213
+      ],
+      "speed": 0.0,
+      "state": "idle",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 0,
+      "footfalls": 26,
+      "frame": 347,
+      "phase": 0.0,
+      "position": [
+        107.997383117676,
+        -0.0241709128022194,
+        -20.2676181793213
+      ],
+      "speed": 0.0,
+      "state": "idle",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 0,
+      "footfalls": 26,
+      "frame": 348,
+      "phase": 0.0,
+      "position": [
+        107.997383117676,
+        -0.0241709128022194,
+        -20.2676181793213
+      ],
+      "speed": 0.0,
+      "state": "idle",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 0,
+      "footfalls": 26,
+      "frame": 349,
+      "phase": 0.0,
+      "position": [
+        107.997383117676,
+        -0.0241709128022194,
+        -20.2676181793213
+      ],
+      "speed": 0.0,
+      "state": "idle",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 0,
+      "footfalls": 26,
+      "frame": 350,
+      "phase": 0.0,
+      "position": [
+        107.997383117676,
+        -0.0241709128022194,
+        -20.2676181793213
+      ],
+      "speed": 0.0,
+      "state": "idle",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 0,
+      "footfalls": 26,
+      "frame": 351,
+      "phase": 0.0,
+      "position": [
+        107.997383117676,
+        -0.0241709128022194,
+        -20.2676181793213
+      ],
+      "speed": 0.0,
+      "state": "idle",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 0,
+      "footfalls": 26,
+      "frame": 352,
+      "phase": 0.0,
+      "position": [
+        107.997383117676,
+        -0.0241709128022194,
+        -20.2676181793213
+      ],
+      "speed": 0.0,
+      "state": "idle",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 0,
+      "footfalls": 26,
+      "frame": 353,
+      "phase": 0.0,
+      "position": [
+        107.997383117676,
+        -0.0241709128022194,
+        -20.2676181793213
+      ],
+      "speed": 0.0,
+      "state": "idle",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 0,
+      "footfalls": 26,
+      "frame": 354,
+      "phase": 0.0,
+      "position": [
+        107.997383117676,
+        -0.0241709128022194,
+        -20.2676181793213
+      ],
+      "speed": 0.0,
+      "state": "idle",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 0,
+      "footfalls": 26,
+      "frame": 355,
+      "phase": 0.0,
+      "position": [
+        107.997383117676,
+        -0.0241709128022194,
+        -20.2676181793213
+      ],
+      "speed": 0.0,
+      "state": "idle",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 0,
+      "footfalls": 26,
+      "frame": 356,
+      "phase": 0.0,
+      "position": [
+        107.997383117676,
+        -0.0241709128022194,
+        -20.2676181793213
+      ],
+      "speed": 0.0,
+      "state": "idle",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 0,
+      "footfalls": 26,
+      "frame": 357,
+      "phase": 0.0,
+      "position": [
+        107.997383117676,
+        -0.0241709128022194,
+        -20.2676181793213
+      ],
+      "speed": 0.0,
+      "state": "idle",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 0,
+      "footfalls": 26,
+      "frame": 358,
+      "phase": 0.0,
+      "position": [
+        107.997383117676,
+        -0.0241709128022194,
+        -20.2676181793213
+      ],
+      "speed": 0.0,
+      "state": "idle",
+      "step": 2
+    },
+    {
+      "cooldown": 0.0,
+      "dash": -0.00333333333333331,
+      "direction": 0,
+      "footfalls": 26,
+      "frame": 359,
+      "phase": 0.0,
+      "position": [
+        107.997383117676,
+        -0.0241709128022194,
+        -20.2676181793213
+      ],
+      "speed": 0.0,
+      "state": "idle",
+      "step": 2
+    }
+  ],
+  "idle_gaps": 0,
+  "kills": 0,
+  "save_queue_absent": true,
+  "states": [
+    "idle",
+    "walk",
+    "run",
+    "prepare",
+    "strike",
+    "recovery",
+    "dash"
+  ],
+  "swings": 10
+}

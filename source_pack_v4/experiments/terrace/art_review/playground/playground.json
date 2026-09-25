@@ -1,0 +1,177 @@
+{
+  "actual_physics": true,
+  "combat": false,
+  "failures": 0,
+  "new_art_is_static": false,
+  "procedural_motion": true,
+  "samples": [
+    {
+      "direction": 0,
+      "grounded": true,
+      "phase": 4.97943134908753,
+      "region": 0,
+      "speed": 8.61111068725586
+    },
+    {
+      "direction": 1,
+      "grounded": true,
+      "phase": 4.82383536840804,
+      "region": 0,
+      "speed": 4.05661153793335
+    },
+    {
+      "direction": 2,
+      "grounded": true,
+      "phase": 4.97934322978676,
+      "region": 0,
+      "speed": 8.61111068725586
+    },
+    {
+      "direction": 3,
+      "grounded": true,
+      "phase": 4.72745732023514,
+      "region": 0,
+      "speed": 4.36608791351318
+    },
+    {
+      "direction": 4,
+      "grounded": true,
+      "phase": 4.97938905182316,
+      "region": 0,
+      "speed": 8.61111068725586
+    },
+    {
+      "direction": 5,
+      "grounded": true,
+      "phase": 4.97931332429906,
+      "region": 0,
+      "speed": 8.61111068725586
+    },
+    {
+      "direction": 6,
+      "grounded": true,
+      "phase": 4.97933177427766,
+      "region": 0,
+      "speed": 8.61111068725586
+    },
+    {
+      "direction": 7,
+      "grounded": true,
+      "phase": 4.97933452800581,
+      "region": 0,
+      "speed": 8.61111068725586
+    },
+    {
+      "direction": 0,
+      "grounded": true,
+      "phase": 4.97940315091128,
+      "region": 1,
+      "speed": 8.61111068725586
+    },
+    {
+      "direction": 1,
+      "grounded": true,
+      "phase": 4.82383536840804,
+      "region": 1,
+      "speed": 4.05661153793335
+    },
+    {
+      "direction": 2,
+      "grounded": true,
+      "phase": 4.97933441785668,
+      "region": 1,
+      "speed": 8.61111068725586
+    },
+    {
+      "direction": 3,
+      "grounded": true,
+      "phase": 4.72747475133433,
+      "region": 1,
+      "speed": 4.36608791351318
+    },
+    {
+      "direction": 4,
+      "grounded": true,
+      "phase": 4.97938905182316,
+      "region": 1,
+      "speed": 8.61111068725586
+    },
+    {
+      "direction": 5,
+      "grounded": true,
+      "phase": 4.97931332429906,
+      "region": 1,
+      "speed": 8.61111068725586
+    },
+    {
+      "direction": 6,
+      "grounded": true,
+      "phase": 4.97933177427766,
+      "region": 1,
+      "speed": 8.61111068725586
+    },
+    {
+      "direction": 7,
+      "grounded": true,
+      "phase": 4.97932458704719,
+      "region": 1,
+      "speed": 8.61111068725586
+    },
+    {
+      "direction": 0,
+      "grounded": true,
+      "phase": 4.97941724999941,
+      "region": 2,
+      "speed": 8.61111068725586
+    },
+    {
+      "direction": 1,
+      "grounded": true,
+      "phase": 4.82383536840804,
+      "region": 2,
+      "speed": 4.05661153793335
+    },
+    {
+      "direction": 2,
+      "grounded": true,
+      "phase": 4.97934322978676,
+      "region": 2,
+      "speed": 8.61111068725586
+    },
+    {
+      "direction": 3,
+      "grounded": true,
+      "phase": 4.72745732023514,
+      "region": 2,
+      "speed": 4.36608791351318
+    },
+    {
+      "direction": 4,
+      "grounded": true,
+      "phase": 4.97938905182316,
+      "region": 2,
+      "speed": 8.61111068725586
+    },
+    {
+      "direction": 5,
+      "grounded": true,
+      "phase": 4.97931332429906,
+      "region": 2,
+      "speed": 8.61111068725586
+    },
+    {
+      "direction": 6,
+      "grounded": true,
+      "phase": 4.97933882382172,
+      "region": 2,
+      "speed": 8.61111068725586
+    },
+    {
+      "direction": 7,
+      "grounded": true,
+      "phase": 4.97932271451205,
+      "region": 2,
+      "speed": 8.61111068725586
+    }
+  ]
+}

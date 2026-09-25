@@ -1,0 +1,3192 @@
+{
+  "version": "V9",
+  "date": "20260925",
+  "files": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 1465,
+      "sha256": "31f9dd69ccd7529f0a83186bba922b1e727fd24ed042693f6881ea9c05df7e3c"
+    },
+    {
+      "path": "docs/ART_PRODUCTION_CONSTRAINTS.md",
+      "bytes": 8803,
+      "sha256": "737af029ed2b79508367d5f3333d104be18e175e8d5f451e64630a19f837328e"
+    },
+    {
+      "path": "docs/CHARACTER_GOAL_STATUS.md",
+      "bytes": 2680,
+      "sha256": "97e6802e465f7bc8cf73c5da996c2ad90dfde1c892f25bd246a277fbb9c820fa"
+    },
+    {
+      "path": "docs/CHATGPT_PROJECT_HANDOFF.md",
+      "bytes": 5251,
+      "sha256": "b6f3cd42edf43c02b9f7788459b45f07370807cdf69a775c42f9f6cd4620f0d3"
+    },
+    {
+      "path": "docs/DECISION_HISTORY.md",
+      "bytes": 2859,
+      "sha256": "986f45ec80007522df492ab33ba62b7e8dfe96f81f09fc7105fc780b371082fe"
+    },
+    {
+      "path": "docs/design_refs/ASSET_MANIFEST.json",
+      "bytes": 3758,
+      "sha256": "6a48207511e1bf5c424d371f8112179035d8e0a6166ddbb7984c8a341e57045f"
+    },
+    {
+      "path": "docs/design_refs/character_rejected_20260925/README.md",
+      "bytes": 931,
+      "sha256": "d19fb6eff7f3d346ccde924da62a681c79d24ecbd1883d693559afd9ca394ef0"
+    },
+    {
+      "path": "docs/design_refs/character_rejected_20260925/REJECTED_colored_leg_identity.png",
+      "bytes": 1973013,
+      "sha256": "7bef673068fc8c76f3871708c92e5bc3b3bb6c7180abc3efde90b218467eebe3"
+    },
+    {
+      "path": "docs/design_refs/character_rejected_20260925/REJECTED_costume_and_gait.png",
+      "bytes": 1952475,
+      "sha256": "3303f2544f57ae3e1930da4abc588df336092346b38929aa04e3275f1761932e"
+    },
+    {
+      "path": "docs/design_refs/character_rejected_20260925/REJECTED_twisted_body_and_boot.png",
+      "bytes": 1013150,
+      "sha256": "abb21a46a6549e5eb000cb36ff0f073f8160e826d2533d3bed29e8480cba9350"
+    },
+    {
+      "path": "docs/design_refs/enemy_charger_reference.png",
+      "bytes": 1240920,
+      "sha256": "eae67b9debd01900611ae10d3a3dca8c562fa2e377cc63cbd298544fcdeea1ba"
+    },
+    {
+      "path": "docs/design_refs/enemy_ranged_reference.png",
+      "bytes": 1442864,
+      "sha256": "528941a46d56ed697cebe59757b2a1c7aad52b7208a384fed6bc2c840f67b67e"
+    },
+    {
+      "path": "docs/design_refs/enemy_wanderer_reference.png",
+      "bytes": 1336316,
+      "sha256": "d23a5ae41573c9e83f6e12151c159aa52f5e180bb85793dba5e2b9181f8770cd"
+    },
+    {
+      "path": "docs/design_refs/environment_composition_concept.png",
+      "bytes": 2881331,
+      "sha256": "0e9c223f0b3efa9a398307b3e3b856d37f5590e66b1750fd1fdf2f1fc27ec06b"
+    },
+    {
+      "path": "docs/design_refs/environment_composition_reference.png",
+      "bytes": 961663,
+      "sha256": "dd790368ed84372c24be742a930df7d5a2ff91c05e25c3501d7a06f7175094a7"
+    },
+    {
+      "path": "docs/design_refs/hero_turnaround_approved.png",
+      "bytes": 1972767,
+      "sha256": "0a01d4f99412b2a1eb3d51112e0d921033ef70f8a461dfc451752e03e57ffcf5"
+    },
+    {
+      "path": "docs/design_refs/map_concept_v1/CAMERA_DENSITY_CHARACTER_REVIEW.md",
+      "bytes": 7257,
+      "sha256": "b12332c0bb3df4ef2e4fcf1d898f7e4692202013d5e23d9f2a429019a4c1093b"
+    },
+    {
+      "path": "docs/design_refs/map_concept_v1/forest_waterway_north_star_v1.png",
+      "bytes": 3211094,
+      "sha256": "23b7540889e6114439cbf4a90e35f8466386f0837964f57f1bc9ad8b92cd016d"
+    },
+    {
+      "path": "docs/design_refs/map_concept_v1/MAP_GRAMMAR_v1_INPUT.md",
+      "bytes": 10934,
+      "sha256": "3621b643aadffb133ad73ec264ffbffd8f0f7056144cef7385ac05558e80a970"
+    },
+    {
+      "path": "docs/design_refs/map_concept_v1/README.md",
+      "bytes": 7911,
+      "sha256": "0260da2155a4a29f740b3e33783142e5588255ec78077a95db3b92e7d0cd589f"
+    },
+    {
+      "path": "docs/design_refs/map_concept_v1/reference_canal_town.png",
+      "bytes": 3027663,
+      "sha256": "630fd7e59f2ccf782c420564a096d8a90a876b7a63a9837b38cb9458a3b1734c"
+    },
+    {
+      "path": "docs/design_refs/map_concept_v2/forest_waterway_north_star_v2.png",
+      "bytes": 3033021,
+      "sha256": "d8c662b846f61424e417969a0383fe81fa8df651efcbbc0b70045ff0f708dba9"
+    },
+    {
+      "path": "docs/design_refs/map_concept_v2/README.md",
+      "bytes": 7573,
+      "sha256": "f261ca504656647757b28616302cc5bd30a7584ad93c2fc7f5f5dd176a4d8d6f"
+    },
+    {
+      "path": "docs/design_refs/README.md",
+      "bytes": 3491,
+      "sha256": "b107641be54ec1cd09fd19da0be1c6b57a524c8992ba0eb5c02ac057dc40eca0"
+    },
+    {
+      "path": "docs/design_refs/surface_dirt_reference.png",
+      "bytes": 1654804,
+      "sha256": "8c95b81b94281c96427a4ffdad5e8949ac94dcfb97baf44958e3d1622b3227dc"
+    },
+    {
+      "path": "docs/design_refs/surface_path_reference.png",
+      "bytes": 1744837,
+      "sha256": "5a8d9d02c8d71ad40c5f1528819685417bd04fbf789d161e20f17784228a17c6"
+    },
+    {
+      "path": "docs/design_refs/surface_paving_reference.png",
+      "bytes": 1854759,
+      "sha256": "ec8ca57795e829369ec2af19046ac1bcdb40b9adebcf4fd1563347825c1de8f5"
+    },
+    {
+      "path": "docs/design_refs/surface_water_reference.png",
+      "bytes": 1706438,
+      "sha256": "6ee0be3511bd587b64049dbcb8ecd04e80123fb1ca8bb5bfa131a0e68986858f"
+    },
+    {
+      "path": "docs/DISCUSSION_LOG.md",
+      "bytes": 2958,
+      "sha256": "ddd040bbc7585468f3f34fb268dbda56325c985d7c146060571e8352d6b5cc5c"
+    },
+    {
+      "path": "docs/DOCUMENTATION_PROTOCOL.md",
+      "bytes": 858,
+      "sha256": "eb5457fa9176e3b6f3d407ae68fecff55bebeb3caa1c5dd60cca485c39470b26"
+    },
+    {
+      "path": "docs/FONT_DISTRIBUTION.md",
+      "bytes": 1859,
+      "sha256": "60f833a14c687c971652faf2aa74fcf594fe7b29010d3e977098a8276c6f7426"
+    },
+    {
+      "path": "docs/GAME_MASTER_ROADMAP.md",
+      "bytes": 5440,
+      "sha256": "b590a57eb1ad29d17797ee111739b5be145c60ba684652a840f4ad226d20f542"
+    },
+    {
+      "path": "docs/GAME_PROJECT_SOURCE.md",
+      "bytes": 15875,
+      "sha256": "cf6f047e4a8b302c33465ea64c158c11beaeb550c4c63f1d12094234030ed203"
+    },
+    {
+      "path": "docs/MAP_DESIGN_AND_PRODUCTION.md",
+      "bytes": 22116,
+      "sha256": "f287d69ce5d3992872122df145914ad77c8376752e36e86b562293a43933461e"
+    },
+    {
+      "path": "docs/MAP_DESIGN_PHILOSOPHY.md",
+      "bytes": 4181,
+      "sha256": "76d04e57caad5033fcd9cce5dac349dc2e0139a96acc5d1b5f3ed3c50d1467c3"
+    },
+    {
+      "path": "docs/maps/FIRST_FOREST_WATERWAY_MAP_SPEC.md",
+      "bytes": 4131,
+      "sha256": "da1c44fb29e91c6cc83d0d59c8344789a98f086f4002afe8d62c276841ace113"
+    },
+    {
+      "path": "docs/MIGRATION_VERIFICATION.md",
+      "bytes": 1314,
+      "sha256": "afdb63ef3b4ae6ae9e6592ae2fe528d50e7b7b588685e3ee74ee53c838cf8b27"
+    },
+    {
+      "path": "docs/NEXT_IMPLEMENTATION_PACKETS.md",
+      "bytes": 12071,
+      "sha256": "d100e3ef695189cefb199e80f783101e94d84c6a75dca9df9e333385896f55e0"
+    },
+    {
+      "path": "docs/RENDER_QA.md",
+      "bytes": 1158,
+      "sha256": "5208307585e077e7647ac138402a67806386d95b8d33902f480ad0d27504e394"
+    },
+    {
+      "path": "docs/STORY_CANON.md",
+      "bytes": 4503,
+      "sha256": "d11309117bbac53e37dbc638f4c80c0e6ff6b49075361e12524f9b75ab764fe0"
+    },
+    {
+      "path": "docs/VIEW_COMPARISON_AND_COST.md",
+      "bytes": 6831,
+      "sha256": "3f3154b10e65fc1b4e10b228123221f8dfc4d1ac249239042cec4e9d7c8cb6af"
+    },
+    {
+      "path": "docs/VIEW_DIRECTION_REVIEW_20260924.md",
+      "bytes": 2956,
+      "sha256": "196e1dbd1b1a865fda4218bd0d7249a69acfa12fce2f27ce2065982346727021"
+    },
+    {
+      "path": "docs/WORK_LOG.md",
+      "bytes": 74639,
+      "sha256": "5b2aa392b924eaa063430ec332b528de25bfed1044534791bd0df0dbf3275965"
+    },
+    {
+      "path": "experiments/terrace/AGENTS.md",
+      "bytes": 1168,
+      "sha256": "d19940a6ba4d5e4b81ce96964888dd8f4dbe220cac0d6c1175165e9da8038675"
+    },
+    {
+      "path": "experiments/terrace/art_review/.gdignore",
+      "bytes": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "path": "experiments/terrace/art_review/altar_v3/01_entry.png",
+      "bytes": 982757,
+      "sha256": "7b6b301449c0f0993a0b656f6b2154cb0218261f1b9b13b13332cad70ef18874"
+    },
+    {
+      "path": "experiments/terrace/art_review/altar_v3/02_overview.png",
+      "bytes": 852893,
+      "sha256": "0eee1f45ab39f396940871a65868ef550257267899dbaae490443eaf0b797dc1"
+    },
+    {
+      "path": "experiments/terrace/art_review/altar_v3/03_water_bank.png",
+      "bytes": 1438853,
+      "sha256": "2aa04ff65e4f4d996c0cc507d4e4340e76ac4dcfc466bd03010ee13b8a61191b"
+    },
+    {
+      "path": "experiments/terrace/art_review/altar_v3/04_upper_bank.png",
+      "bytes": 1639686,
+      "sha256": "ad8aa4930e3eaf404b1ebf7e00b5ae931b5aaf0b1a7cb12a09e495db8f5e0234"
+    },
+    {
+      "path": "experiments/terrace/art_review/altar_v3/05_forest_gate.png",
+      "bytes": 1196887,
+      "sha256": "4b94a0654835ce7dd4573827507d2b1f13e505adee163aa0e449a903282328a0"
+    },
+    {
+      "path": "experiments/terrace/art_review/altar_v3/06_roots_arrival.png",
+      "bytes": 1385459,
+      "sha256": "06d74643b0cdfaadb951d1da55f9ea30c2f8b09d8197c770220f5bbe8e73620c"
+    },
+    {
+      "path": "experiments/terrace/art_review/altar_v3/06b_altar_lower.png",
+      "bytes": 1586772,
+      "sha256": "fbfc36c53f3e548098fe6897f8992fe8cee4b708281f02d509aff5c34e9c707b"
+    },
+    {
+      "path": "experiments/terrace/art_review/altar_v3/06c_altar_overview.png",
+      "bytes": 1107026,
+      "sha256": "bab07346031cd3948e807b7c92e0c0c62bc04503468a74825ffc057ed1433cf0"
+    },
+    {
+      "path": "experiments/terrace/art_review/altar_v3/07_roots_shelf.png",
+      "bytes": 1579619,
+      "sha256": "c16b0df1feaefdf5ab0c2a28a63ec0fd41fc4be32a73aa252b3a08726759b4c1"
+    },
+    {
+      "path": "experiments/terrace/art_review/altar_v3/README.md",
+      "bytes": 608,
+      "sha256": "b14e2666920744b4aa3a547b3d11005a702d63762017f240f21271a69359a648"
+    },
+    {
+      "path": "experiments/terrace/art_review/altar_v3/results.json",
+      "bytes": 191,
+      "sha256": "62d996f77a7a49e70565245428e4668a740b0ee384a1934adb41b98ee4bd14c1"
+    },
+    {
+      "path": "experiments/terrace/art_review/altar_v3/routes.err",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "experiments/terrace/art_review/composition_proof_v1/01_framed_20.png",
+      "bytes": 1520857,
+      "sha256": "c839104beba99300387427b54c48bee6ad0100698445f0af2f93f843a7c95701"
+    },
+    {
+      "path": "experiments/terrace/art_review/composition_proof_v1/02_gameplay_20.png",
+      "bytes": 1549035,
+      "sha256": "3222845b92cd89e6c6b21ed1ae4fe0e67053d34a8f728b791b01a5769517602a"
+    },
+    {
+      "path": "experiments/terrace/art_review/composition_proof_v1/03_yaw_15.png",
+      "bytes": 1546797,
+      "sha256": "092456a2639c93fc948d3b9ae4f7d5636de68543eea523c9543acc701d604ce3"
+    },
+    {
+      "path": "experiments/terrace/art_review/composition_proof_v1/03_yaw_25.png",
+      "bytes": 1552073,
+      "sha256": "877aa330828e98136e31a30ca799dc3e55545bdb44cde85c3ba2af7527331972"
+    },
+    {
+      "path": "experiments/terrace/art_review/composition_proof_v1/04_upper_arrival.png",
+      "bytes": 1516915,
+      "sha256": "a2ad40ab95f908cb1ea6070ead8682b398ec0191e1aaeaf0f1fd651765afabdf"
+    },
+    {
+      "path": "experiments/terrace/art_review/composition_proof_v1/05_live_combat.png",
+      "bytes": 1545099,
+      "sha256": "99671dadbeefbf7e2cfb3edf7036822fd303c92ef3e3d3595f75372c2a2df292"
+    },
+    {
+      "path": "experiments/terrace/art_review/composition_proof_v1/README.md",
+      "bytes": 3210,
+      "sha256": "4b9c4626f86a16a89fb299fcabfd17ef8d4ff37e900723555d4b9c61d33a3a54"
+    },
+    {
+      "path": "experiments/terrace/art_review/composition_proof_v1/regression_slope/slope-0-0.png",
+      "bytes": 1256680,
+      "sha256": "6fbb9d47b4ab967087f903e0c92793eb4c4f20232fbc786da854393a79449be7"
+    },
+    {
+      "path": "experiments/terrace/art_review/composition_proof_v1/regression_slope/slope-0-23.png",
+      "bytes": 1256478,
+      "sha256": "18aa9fa3400ccbd7088031ec0195e60938ad0e327ad2beac6c360c881082bd98"
+    },
+    {
+      "path": "experiments/terrace/art_review/composition_proof_v1/regression_slope/slope-1-0.png",
+      "bytes": 1306262,
+      "sha256": "39407af6878d827569a179c0b98b6cb7b355195473c4d277c7ee6a4ffcd456f4"
+    },
+    {
+      "path": "experiments/terrace/art_review/composition_proof_v1/regression_slope/slope-1-23.png",
+      "bytes": 1306191,
+      "sha256": "d7a6f72a096dc33116512898a2581779348995bd6dede8ee5aeeca28719d61d7"
+    },
+    {
+      "path": "experiments/terrace/art_review/composition_proof_v1/regression_slope/slope-2-0.png",
+      "bytes": 1233983,
+      "sha256": "daf792860b18b2cce05e608ef2104588ae2b67f11ef1912894656554fb6600f1"
+    },
+    {
+      "path": "experiments/terrace/art_review/composition_proof_v1/regression_slope/slope-2-23.png",
+      "bytes": 1234155,
+      "sha256": "475128e65b24c2d7c750848298256fb7481d5ae943e631a3113742a6f66b1efb"
+    },
+    {
+      "path": "experiments/terrace/art_review/composition_proof_v1/regression_slope/slope-3-0.png",
+      "bytes": 1345777,
+      "sha256": "bde1f6a8625f67cf77c5edf38ead1db3916b7e01cff4a5542a5bcb3d883e901c"
+    },
+    {
+      "path": "experiments/terrace/art_review/composition_proof_v1/regression_slope/slope-3-23.png",
+      "bytes": 1345798,
+      "sha256": "f29494e2ff45129887368bb41982b1970441d9341a952496a8e091321323047e"
+    },
+    {
+      "path": "experiments/terrace/art_review/environment_v2/01_art_45.png",
+      "bytes": 1644711,
+      "sha256": "24331e203f3ffcc81b6125814a22a6518d17756c8eff9b6f9864691ca7721217"
+    },
+    {
+      "path": "experiments/terrace/art_review/environment_v2/01_entry.png",
+      "bytes": 984395,
+      "sha256": "277e730e10bca384ba83e29abedd661c2f62fb89c9d726f74dd285e51d7cd389"
+    },
+    {
+      "path": "experiments/terrace/art_review/environment_v2/02_art_52.png",
+      "bytes": 1646228,
+      "sha256": "6dc651c4b50375b74cb94d0e57e0a0da632c47ac2854560dbc698aadc9870378"
+    },
+    {
+      "path": "experiments/terrace/art_review/environment_v2/02_overview.png",
+      "bytes": 855619,
+      "sha256": "90cdf4903d86afcda51f08e1737e900409b7817d375cbaed43c54223a28f2910"
+    },
+    {
+      "path": "experiments/terrace/art_review/environment_v2/03_blockout_52.png",
+      "bytes": 358528,
+      "sha256": "eacfdd337e41d035776f1a8fb89285b414c96391f1bb6a71a43bbaaa352473c1"
+    },
+    {
+      "path": "experiments/terrace/art_review/environment_v2/03_water_bank.png",
+      "bytes": 1440286,
+      "sha256": "7d96beba353bebad93bb30bf15218c4d25db5c28053309de8d1a9f09a3127956"
+    },
+    {
+      "path": "experiments/terrace/art_review/environment_v2/04_upper_bank.png",
+      "bytes": 1640050,
+      "sha256": "074b89e898641075b01a5f43ff6453f9996b740de0f539fc21dc8fd1c4af8b3e"
+    },
+    {
+      "path": "experiments/terrace/art_review/environment_v2/04_water_edge.png",
+      "bytes": 1521851,
+      "sha256": "a58b88e3645ce4aa1362af9e8e16d6fb675229ee92bd5662726a456ef854f34a"
+    },
+    {
+      "path": "experiments/terrace/art_review/environment_v2/05_forest_gate.png",
+      "bytes": 1195413,
+      "sha256": "b91122af5d2620151139c7c23993b62c48552e3e022309a5516b09165cf36d76"
+    },
+    {
+      "path": "experiments/terrace/art_review/environment_v2/05_pillars.png",
+      "bytes": 1689546,
+      "sha256": "26e8a63d05f4bdb5db7b98544141cbb59fb490fc24c0235283df790ff1bfc232"
+    },
+    {
+      "path": "experiments/terrace/art_review/environment_v2/06_roots_arrival.png",
+      "bytes": 997860,
+      "sha256": "0bc2abb6f64176464d4e65606b13973d63e805900d7b985c495c7e24949a56b1"
+    },
+    {
+      "path": "experiments/terrace/art_review/environment_v2/07_roots_shelf.png",
+      "bytes": 1316605,
+      "sha256": "f24f5e62e4fecd0d0f90179e11d6be578e355c5c3d3575bec78871b705df246d"
+    },
+    {
+      "path": "experiments/terrace/art_review/environment_v2/environment_results.json",
+      "bytes": 151,
+      "sha256": "73dbea725e462ba70d941376e92f5b3da2775beee04066c408de97b79c71931c"
+    },
+    {
+      "path": "experiments/terrace/art_review/environment_v2/interactive.err",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "experiments/terrace/art_review/environment_v2/README.md",
+      "bytes": 2547,
+      "sha256": "10e1fc9559db96eae963a6d3f1cb83c4833c95c23eed06d407b3b3881e0ec36a"
+    },
+    {
+      "path": "experiments/terrace/art_review/environment_v2/results.json",
+      "bytes": 192,
+      "sha256": "9df8f008503acd948f1e738952e77502b72793aa3da7cf008defdcdbc246f74a"
+    },
+    {
+      "path": "experiments/terrace/art_review/environment_v2/routes.err",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "experiments/terrace/art_review/environment_v2/visual.err",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "experiments/terrace/art_review/forest_pilgrimage_graybox/01_act1_entry_gameplay.png",
+      "bytes": 166241,
+      "sha256": "39b82124d3a43bf2563a72b5c0d24a21a780ce44734024504a8c1b1c522fa6c4"
+    },
+    {
+      "path": "experiments/terrace/art_review/forest_pilgrimage_graybox/02_act2_river_gameplay.png",
+      "bytes": 237875,
+      "sha256": "c3f65bcc5dd32166cdb9c7185582c9fa3da23cf0867998f49584aae803609c91"
+    },
+    {
+      "path": "experiments/terrace/art_review/forest_pilgrimage_graybox/02b_act2_late_reveal.png",
+      "bytes": 291594,
+      "sha256": "dcaeb98b7f2f865e9f47b8d02d28948363454fdc3fcc8f4c19f6019677ff5579"
+    },
+    {
+      "path": "experiments/terrace/art_review/forest_pilgrimage_graybox/03_act3_sanctuary_gameplay.png",
+      "bytes": 310760,
+      "sha256": "10b1d55b9dabd9449753019bac27effe8450dd1771e9a82f1d6f48defbdbe5ff"
+    },
+    {
+      "path": "experiments/terrace/art_review/forest_pilgrimage_graybox/04_three_act_overview.png",
+      "bytes": 197419,
+      "sha256": "b215a5b5833a880feb99647596ebefc18703ff829d477b14658afa67f617ddbc"
+    },
+    {
+      "path": "experiments/terrace/art_review/forest_pilgrimage_graybox/05_act2_live_combat.png",
+      "bytes": 237074,
+      "sha256": "782642629a8ae05e37a2bc166120cc97a12228f341e707a9bb91cd6ea4caa19b"
+    },
+    {
+      "path": "experiments/terrace/art_review/forest_pilgrimage_graybox/README.md",
+      "bytes": 3155,
+      "sha256": "818e459fbd14249dadddec21e6b5417796486e1188a42083b9a10a3682629f9c"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_idle_exact_v1/back.png",
+      "bytes": 257203,
+      "sha256": "12c269693056f034047604a6e77b59a7661efbb5812459bcfc99285afaad510c"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_idle_exact_v1/back_left.png",
+      "bytes": 261666,
+      "sha256": "d407636a92b14865a57b0c2edd5c6c04f1b677ea27ca99355a3c26f34c90594b"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_idle_exact_v1/back_right.png",
+      "bytes": 261038,
+      "sha256": "0c1912ba7a78402ca62ecf43adefb1e1a1723f848b3aec2f038ca01d694d29ed"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_idle_exact_v1/candidate.png",
+      "bytes": 2065442,
+      "sha256": "130d15673c2d0ce47f3c75ea868c922b41a86402c87edb59ca21f538f3fbb135"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_idle_exact_v1/frames.json",
+      "bytes": 2170,
+      "sha256": "14d926a0d851afc1b80f751e35653931f745d7bee31bee51a346de7c96ebc132"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_idle_exact_v1/front.png",
+      "bytes": 286289,
+      "sha256": "c32da523a4cc5bc0f0214632c58e3f9fe133e63cce5d2357c6bea2acd32d5cbb"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_idle_exact_v1/front_left.png",
+      "bytes": 281209,
+      "sha256": "ef5995923f8bec3dfc99f0e2719236f1c2c598161dc6c3e57fd7bc08ef30e7d3"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_idle_exact_v1/front_right.png",
+      "bytes": 265616,
+      "sha256": "edeaf61a8c7a251e85848237424418f9cb84dc85155674ff6726abbefd05094e"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_idle_exact_v1/left.png",
+      "bytes": 223477,
+      "sha256": "0ea17c3d3e605c79856a633fa951419ead50e361274470e471fee633796cfca1"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_idle_exact_v1/README.md",
+      "bytes": 3393,
+      "sha256": "fd9519f208727201426f8ee118b6814abe426b0207774b44df47bd9d52b79826"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_idle_exact_v1/review.png",
+      "bytes": 528501,
+      "sha256": "6d02bca36e1130c0f9c24ceef4b210ff621a3d188a6e048b13b405d453eb6359"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_idle_exact_v1/review_3d.json",
+      "bytes": 183,
+      "sha256": "0d3258e35d0519abe3c9f9e0c699ae942bc59b552521d5f66555e1cb2df5f418"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_idle_exact_v1/review_3d.png",
+      "bytes": 160781,
+      "sha256": "e8683bfbbbd69f8e9d144e55ce4f8a30403504beaacd518f4208e7ff94e01d51"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_idle_exact_v1/right.png",
+      "bytes": 228548,
+      "sha256": "8608f268c40ffcadc9d354fb93a649f26f8b5020af4e3120cf6db2e8665de6b4"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_idle_exact_v1/validation.json",
+      "bytes": 2546,
+      "sha256": "e166b90200e775862f0567cef3b1a641ec79db30a8a61a1af61e86fec3bbfafe"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_idle_v1/alpha_review.json",
+      "bytes": 261,
+      "sha256": "635008aa0bc576d3b78e23b34ff2d70c681b31d85af14a7a0f2169609cd7cd28"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_idle_v1/candidate.png",
+      "bytes": 1625080,
+      "sha256": "e01db221eca8ca4c3bc1ee4a1f6633504f177e1e1fb14944f7a21f400c8485f9"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_idle_v1/frames.json",
+      "bytes": 1510,
+      "sha256": "f2e2b697ea17af9f661ceb90b332b66ae626cabbe1d151f19221216c5e783f71"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_idle_v1/README.md",
+      "bytes": 4186,
+      "sha256": "91737e340e2c66d6a437aa2d8d5875f2ea6677035336049fe8523f4440dcc9b5"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_idle_v1/review.png",
+      "bytes": 542139,
+      "sha256": "dfbbb411a47a071deb5fc06b1881e4cb7b93d653795222ff2b106fee750bf59b"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/attack.png",
+      "bytes": 1555734,
+      "sha256": "78ddb0ec10f42612564c6f6b4a47b06e32510454db415b945b0a6010a5778d87"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/attack_1.png",
+      "bytes": 1500606,
+      "sha256": "76da74366280b13bc7a48ebd9f66671780274d9e5e33cb8c38fce23ee309a5ff"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/attack_2.png",
+      "bytes": 1500773,
+      "sha256": "7301487de18add4f68b5e6cb1d23c4bc21dcbbb7225c8cb40aec949b9af0e9aa"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/attack_3.png",
+      "bytes": 1500407,
+      "sha256": "be48185c5d8740612950afefe8ecdc96c048d0fab374c5094b70fbaf7a00cbe7"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/attack_back.png",
+      "bytes": 1524797,
+      "sha256": "542bcf9fa1482d0f2bad85bad2c8aa80d58015cda275e513d7e4eb69bc3f4bda"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/attack_back_left.png",
+      "bytes": 1515840,
+      "sha256": "3b604aeec54c1d88e8e980247d5311781c9e00af324dff6739242b3ef9c9e4b8"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/attack_back_left_source.png",
+      "bytes": 1575088,
+      "sha256": "fbebd96fced56bb0eb994c53114bafc56807c61bbf925761e10882176dc6fc8a"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/attack_back_right.png",
+      "bytes": 1479302,
+      "sha256": "2d9474adafadb044a065771e78321dbc18e4490fc494c9f21f1993e314f62036"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/attack_back_right_source.png",
+      "bytes": 1556342,
+      "sha256": "bf451be6eebfb24c0eb38d05832b921465d45d1172294be8e03df83f2d3e2af1"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/attack_back_source.png",
+      "bytes": 1596549,
+      "sha256": "4606ff3e68c7a9fa1a690caf306c7ca30d56bda295ba884bc069e66c02cea74b"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/attack_front.png",
+      "bytes": 1713742,
+      "sha256": "990b2cfd9e7c82d34b04c4fd2c1de0979f9c0f2d631d8659eaedd24a24ba84ac"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/attack_front_left.png",
+      "bytes": 1666506,
+      "sha256": "11001661d48e36cadd66426adfa2333f984a5af3342b52c58b3dab6a1ae0f114"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/attack_front_left_source.png",
+      "bytes": 1737007,
+      "sha256": "b4c3a3db7734e68c89485e08f0ab4cd64af4f52ae27e132639ececdd8c13d718"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/attack_front_source.png",
+      "bytes": 1781106,
+      "sha256": "ecc9e565419d7095adcb5623006d142f0ddb8833a5b0e99b835e526ad22f8472"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/attack_gpu_sheet.png",
+      "bytes": 792331,
+      "sha256": "0b0615e5464e3404ea4d4bc2c0f1438c06f89043672929044827e1de4999eb73"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/attack_left.png",
+      "bytes": 1568942,
+      "sha256": "148ea14a20aea6c5c733af54cc3dfe10198ca798a03de71e167604e0920145dc"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/attack_left_source.png",
+      "bytes": 1642336,
+      "sha256": "51914a12f33387d9a6977dc9bf5efad5a20d9f4d4f36d466aafd76f7226669b1"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/attack_right.png",
+      "bytes": 1563350,
+      "sha256": "4057cb1487c681c1b8dc9f84288d5d3c35055378e5acca349c034dcbe0a7308e"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/attack_right_source.png",
+      "bytes": 1627309,
+      "sha256": "a3d426f3501f350c392f412da2ce2009446855113ea34a581287bc242b55eefb"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/attack_source.png",
+      "bytes": 1631286,
+      "sha256": "9eeafddbeda2e60491784eca6fb4cd074f6c7fae40dfbb6874ac70b605ec3a2e"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/back.png",
+      "bytes": 1823539,
+      "sha256": "6369c6f8ff788a593e4b6bd87103d6adb175dc3aa1fec1ca854629c5bc976770"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/back_right.png",
+      "bytes": 1781486,
+      "sha256": "56f998b54de37482cc76411656ae7906aef19ef6931c23c85430c8cc4bb78fa4"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/back_right_run_first.png",
+      "bytes": 1013260,
+      "sha256": "d498c4c7daf6b386b5be8422334a4f292fe5548ef54615cb9356afb206f0fc39"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/back_right_run_first_source.png",
+      "bytes": 1047592,
+      "sha256": "15d155a28c00b83de8a1b17099a95c25c351f66e748086e1d145cebe019412e9"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/back_right_run_opposite.png",
+      "bytes": 1001804,
+      "sha256": "6479ddaea25db8e97de7e41fd2051af8d9d6165599c2225ed44dd6166190f3ef"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/back_right_run_opposite_source.png",
+      "bytes": 1028676,
+      "sha256": "b416cd86f55274300bf5bdcec6508a7bb234c58631516ecac0ae96894cc5c0ae"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/back_right_source.png",
+      "bytes": 2168076,
+      "sha256": "72415ef29550a06e5d3fa3b0610d81e83f71be947903137947d66091eb62c700"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/back_right_walk_center_first.png",
+      "bytes": 1412128,
+      "sha256": "2011105ccbd7524dcee10bc33efe09d02c75d5a1cb8d2d84dbd5e7525f56a661"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/back_right_walk_center_first_source.png",
+      "bytes": 1842109,
+      "sha256": "3f727e843bc20a7d177ca0811f80191052bf11a70cd31dd42299ea778d2b21c7"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/back_right_walk_opposite.png",
+      "bytes": 1421974,
+      "sha256": "f0f99efe37bb4188c304bdaa2ca39b28536609798f32927aadbacd822370aa82"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/back_right_walk_opposite_source.png",
+      "bytes": 1853566,
+      "sha256": "8f5e0ac52bb0c1da95521ed884018ed7482165c5d5a2e2c33cbd1adbc8668c54"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/back_run_center_flight.png",
+      "bytes": 1354878,
+      "sha256": "735092d91469f4aafeb3a4df24df33c5ad848d2eda2abaad7deaacdc87a6456e"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/back_run_center_flight_source.png",
+      "bytes": 1759630,
+      "sha256": "d77c35ea3eb500e0a4150d7fa9a32a0af6ffbbf1e62b6da50cc61a29e808d45e"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/back_run_center_support.png",
+      "bytes": 1342205,
+      "sha256": "986a40a17ea12981ba5ac7e7faed3c34c0aa0c70edb167346b13f5db47d449a3"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/back_run_center_support_source.png",
+      "bytes": 1749943,
+      "sha256": "3613cf4305908246df35c8aed2a1d4b1e628e49ed74b8e26b6ba19bc4621ab00"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/back_run_first.png",
+      "bytes": 1134452,
+      "sha256": "b49a4f99e9461950a28d58d608aa9c26e67485e17f2d9880b2cd71600b9e41bc"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/back_run_first_source.png",
+      "bytes": 1175777,
+      "sha256": "e1f73be2e4aba38d344acaeb6e954510d2a3f2ac6340f52e177a2f8d29c172a7"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/back_run_opposite.png",
+      "bytes": 1152943,
+      "sha256": "b78b73ce80705c8d15829a437b24614ffb809dc62436d8e8a8d6a5c3a4c77497"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/back_run_opposite_source.png",
+      "bytes": 1194612,
+      "sha256": "1a9f3c4b3704ac622de4bb23cd29f8c7075ad4482685d6a5d7f3c0507808c698"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/back_source.png",
+      "bytes": 2239083,
+      "sha256": "2c3c8eaf434198c21284f04d449df659f7ea0249f9285ec5a0f6e83fa64e0d5e"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/back_walk_center_contacts.png",
+      "bytes": 1313593,
+      "sha256": "9546172a59b77ef09f5701a519a0bbddcc0bc8638775747566e451bfdeb6c4de"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/back_walk_center_contacts_source.png",
+      "bytes": 1729938,
+      "sha256": "58354df42f21fd1677abfef839aa9692819e89f34576c2338f20e8d03e7cb8af"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/back_walk_center_passing.png",
+      "bytes": 1270949,
+      "sha256": "800ea25d2c43f4e3827a22063960a2bd9f9f08939539997aa139cae01a8154da"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/back_walk_center_passing_source.png",
+      "bytes": 1708545,
+      "sha256": "ed73670ef539a8b45b3641ea5cf1a9d5e5e91af401cab46a1d034f47367a934d"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/continuous_gpu_sheet.png",
+      "bytes": 825959,
+      "sha256": "028254a9c48b89eae455fc1f87a865c3bea4dec944dc9ef106bef6469606dd5a"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/continuous_review.avi",
+      "bytes": 46394184,
+      "sha256": "d877edc2f1183968a99ca717805f1ee143e101a55650e67b636988bae98701db"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/continuous_trace.json",
+      "bytes": 118435,
+      "sha256": "483735d2bee345a39606d6edaba9e9330a6bacce2cbb891c0f8ad4a937e65b66"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/direction_loop_00.png",
+      "bytes": 234137,
+      "sha256": "f71402ffe6b47ed9f49e258e19f46dc2dddf739135e73d286f972bdf7ac220a0"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/direction_loop_01.png",
+      "bytes": 229474,
+      "sha256": "a48a1585519bda879655ac14b8271438bf83116cf72f3347afd87bf4d49c16c8"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/direction_loop_02.png",
+      "bytes": 219717,
+      "sha256": "65268db75bebce0f640a91dff03cc925cb17a7882599c23e48fc939d8b3e95b7"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/direction_loop_03.png",
+      "bytes": 226561,
+      "sha256": "4b77c3d34871b5d7ddb330d936ebb83cf219628f858f4a7ba3d29ae36f861bc8"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/direction_loop_04.png",
+      "bytes": 220581,
+      "sha256": "dc78ff5c784535ad29fa9857739fdf0018fc065e59a262a199b280f36ad8aa4c"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/direction_loop_05.png",
+      "bytes": 223102,
+      "sha256": "63f5e7ad91230fec6a3d1edde03b8a28a67458476c3516ac06d5c23650fe5748"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/direction_loop_06.png",
+      "bytes": 215592,
+      "sha256": "e3b5e09e52865a8a91767b18bfc70af76e796e310a49eefb8ca237f136caf255"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/direction_loop_07.png",
+      "bytes": 220309,
+      "sha256": "361030b14c0e6ae23eb1e38476979d989f938c81cab9d399793269b5d5e857fd"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/direction_loop_08.png",
+      "bytes": 213519,
+      "sha256": "797ad39f6e763bced1c595e0b33762bfd4c1f76b84bc5503ba9c88fcc7ee8811"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/direction_loop_09.png",
+      "bytes": 265436,
+      "sha256": "1cdaf6a4fcc03abc80f5f6b252d0991b18ace56566bd4a5c4b88e46a94977e91"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/direction_loop_10.png",
+      "bytes": 262489,
+      "sha256": "88c7079531e693e7ed8cf93a2d140e26ca78b304a632be211b23dc0e6a59412d"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/direction_loop_11.png",
+      "bytes": 265047,
+      "sha256": "f0cb82fd04471e81d7f5f3dd9a9a26f799efff42a1faf3ed005a9424e6175e7a"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/fox_fire_arrival.png",
+      "bytes": 1272782,
+      "sha256": "0bcd478b38dabbed9f2f6bc709390f0c78342b8e34bf6467ed1e57d4612376da"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/fox_fire_midflight.png",
+      "bytes": 1274416,
+      "sha256": "51cf99ad565f148b77c1717153ab87f1baf13165f4880e7faa76d2d60e8a7683"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/frames.json",
+      "bytes": 108412,
+      "sha256": "280313cff137e124333c01ff77fd662fa4bc73126ab01cce8014eb12f604bf8e"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/front.png",
+      "bytes": 2102966,
+      "sha256": "e75c09d9a274952d17443720e8b152efab0459886a1cb03390ccba57b96a003d"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/front_right.png",
+      "bytes": 1955932,
+      "sha256": "d25b9eada1abb52b67bcbba6c475a0fd2f94a3cd417a5e7e7c00a5bb82b3dad1"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/front_right_run_first.png",
+      "bytes": 1222641,
+      "sha256": "8e2d91601cc587daaa65e59974dcf533bcd676065250cefd862f9acdd2ba8bbb"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/front_right_run_first_source.png",
+      "bytes": 1258952,
+      "sha256": "c9393a790e208675ca060c7444d14d6db1ae99d4ce529e98b00da07e80819f3b"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/front_right_run_opposite.png",
+      "bytes": 1197481,
+      "sha256": "f21c64d60eb3c415392d74da1275a9ea1b86f476966a517603f00978dcc76f4e"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/front_right_run_opposite_source.png",
+      "bytes": 1229709,
+      "sha256": "dae11ec71a90d319c1e97a161ba9c9f1f3474a85e73daa00570196c56ca0760f"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/front_right_source.png",
+      "bytes": 2323991,
+      "sha256": "92d7ad5586f27662b85cdeb44b60c90f4522936ea3fd95144e3c88ef642f5093"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/front_right_walk_opposite.png",
+      "bytes": 1699489,
+      "sha256": "4220b5da5671a6f21c7bf5be8b5ba29fdb5817d70b853a20c4b74990e9374fde"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/front_right_walk_opposite_source.png",
+      "bytes": 1983887,
+      "sha256": "a4e6c439ca95c3c2d308694594fd6c1c1cac4da9915cc06d0c5c838cdf218cdf"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/front_run_flight.png",
+      "bytes": 1809133,
+      "sha256": "63b55b6a53d86b3389a9434b5d7ce1ea828b553b1bbbcef5c1ff5da863480683"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/front_run_flight_source.png",
+      "bytes": 2054361,
+      "sha256": "1f1f3146dcf52a46e644dea09641c8933ea6b595c5f293c35f87d0c102f2ff13"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/front_run_support.png",
+      "bytes": 1628080,
+      "sha256": "05ffd2853925d505a1b68875b294e78befd8f986e16ef92f04c42456e0d92939"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/front_run_support_source.png",
+      "bytes": 1950945,
+      "sha256": "d4fe6902356250b4a4ff131570848a739053f439c87ad37db77d8b104c69b1e3"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/front_source.png",
+      "bytes": 2517633,
+      "sha256": "183344ba91694ace60ca11e577cfe5adf534eba14baa214ed25f99c2d23a573c"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/front_walk_contacts.png",
+      "bytes": 1655643,
+      "sha256": "e8a6d84e80087515a77a581e0b1728cf833bef9d811be70feea660bcdf9d981c"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/front_walk_contacts_source.png",
+      "bytes": 2004227,
+      "sha256": "0cc0545d48526d97cf729685d70d393287276ae6713877c366549e7271c9a487"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/front_walk_passing.png",
+      "bytes": 1600387,
+      "sha256": "80b3b02cc485c49c9fbd78d08293cfd54fb767f7e73badbc4cba8760a17e2d63"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/front_walk_passing_source.png",
+      "bytes": 1951529,
+      "sha256": "7e81e3d68a732549b527342979ad1407e306a9120debae0f9c924e32fcee43c5"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/hand_alignment_0.png",
+      "bytes": 1016397,
+      "sha256": "4859e42da146edccd84148c0ae30732fa2158fa7e9916a1846c06cb6bffda5af"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/hand_alignment_1.png",
+      "bytes": 983575,
+      "sha256": "beaa20b629915924cf36e9677b9f3141ecaf8ee3ebbc41686cc71f084155ea29"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/hand_anchor_pixels.json",
+      "bytes": 4189,
+      "sha256": "e423d1de55aedc4aa8b2d37bd4d28885eaead0088ac9a6a896a17ceb4393baf7"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/integrated_live_combat.png",
+      "bytes": 1326899,
+      "sha256": "a050ea1e9f98c7906f28e30de3c6150111580ff1d7dfc21e25ffe73d8327f8c8"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/integrated_strike_1.png",
+      "bytes": 1354734,
+      "sha256": "1172b2e690c08d58ce2f632766eeba9f0e6d98f137080b9877655ef151b4a794"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/integrated_strike_2.png",
+      "bytes": 1354991,
+      "sha256": "4186e4ebb4add4fb43e1992ff22ead755ba48ef45ee877d6a9a76f8cfb2f7952"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/integrated_strike_3.png",
+      "bytes": 1355565,
+      "sha256": "1226e61d5a3822c0ff86e6a5e41f6f71298b31e9bfc1ace5ececdf752d22acb5"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/integration_qa.json",
+      "bytes": 111,
+      "sha256": "25dc83f547a1965f56e2fca2998aeaab0bb2d3a81944baa5f7af8bd75f73d782"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/locomotion.png",
+      "bytes": 1918190,
+      "sha256": "cdca9125d19d2fe20fa4e02ede51a7956189bca5b5cc855b36e2c564055d2cd3"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/locomotion_source.png",
+      "bytes": 2199004,
+      "sha256": "00679587c93efa9b4a9e0b60ccf42766d6c5e09cab108b019ebc2fbdce3a93a0"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/motion_gpu_sheet.png",
+      "bytes": 641342,
+      "sha256": "73a80ad7211ac6a56fafc6929c37fa710118c000555c58ab8ccbd5b06d1998c0"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/palm_rejected_source.png",
+      "bytes": 1561485,
+      "sha256": "6bc07c92740a259de7f45dbed15cbca846f63ae310c1407168bc0c9334724053"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/pose_overrides.json",
+      "bytes": 2248,
+      "sha256": "078ccbfe3a2bf367741b0721a0d54a8000ff4ef0f0e298143e9d9e83316f67ed"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/README.md",
+      "bytes": 4218,
+      "sha256": "32e7219164314888d561a6dc878bda95e1d518f7c0de6058a31cb943d3f53a26"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/rear_gait_anatomy_0.png",
+      "bytes": 10040,
+      "sha256": "7073892656e97a7acfb4b57f012f1476d08317cbd8fa45666f5aad1144f8051d"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/rear_gait_anatomy_1.png",
+      "bytes": 10198,
+      "sha256": "77dfabac754faaa8b0bd205bcefb1317fabb2a1cb98be129b078f181b7a8d91b"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/rear_gait_anatomy_2.png",
+      "bytes": 10073,
+      "sha256": "4da1ccb4ac22054206763cf9d91defa41d0762504a81cad241cb96c75701fb5b"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/rear_gait_anatomy_3.png",
+      "bytes": 10389,
+      "sha256": "fc323d16817bf1955c841bb40e20396f41553dde27b3a4c307e6a2a77defc253"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/rear_gait_anatomy_guide.png",
+      "bytes": 16985,
+      "sha256": "652de7ec2a6e875cd01619c35e08d93ed9f242a1e588eab1ed116407512909bd"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/run.png",
+      "bytes": 1224658,
+      "sha256": "2110d6dd60442a05210445ef53a9af6a4099e3086a71ada677369b2fbede4701"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/runtime_qa.json",
+      "bytes": 955,
+      "sha256": "34d3970a5341dd2caf728d58e676f6957fcc58cbdbac915120bd398947025883"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_pose_v2/walk.png",
+      "bytes": 1458614,
+      "sha256": "fc4ebba31977018db30b088bc0811b7d60951803a7d2a7cc018226958e5c6419"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_walk_v1/candidate.png",
+      "bytes": 1709826,
+      "sha256": "3bade3422cab26ade1cd0841d920487cbd148987458db0432f11804fb2088cb5"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_walk_v1/coverage.json",
+      "bytes": 1031,
+      "sha256": "f0757b4bdc620d768c2ec103eacdf7d45eb1e61b4d642e7bd073dc7da3800e87"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_walk_v1/frames.json",
+      "bytes": 4107,
+      "sha256": "9c9202268f7cd6b0221e39c40762f8c900f7637167d091326462354b4892f1f5"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_walk_v1/gait_probe.json",
+      "bytes": 662,
+      "sha256": "15173c71fd65de022cb2c0437944778ff49364e52890e1749a40865076cf7289"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_walk_v1/GAIT_PROBE.md",
+      "bytes": 2938,
+      "sha256": "1f9970266856d733cbfe547cfddd513487c22aa0dc7caa761693a36fe91f1e22"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_walk_v1/gait_probe_0.png",
+      "bytes": 191889,
+      "sha256": "c38376aa92c2eb9f1247985690de0965a93e7de0dfc515241dbb7d49830af482"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_walk_v1/gait_probe_1.png",
+      "bytes": 195707,
+      "sha256": "f029d3916ab790004ef3bc431acc3de4e073b34522d3282d9894ae50261cbf8d"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_walk_v1/gait_probe_2.png",
+      "bytes": 196201,
+      "sha256": "3693e3fd0a1ca4a3b830af65ccf058be7af73d45beda77b53710932645f7563f"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_walk_v1/gait_probe_3.png",
+      "bytes": 195253,
+      "sha256": "74e7ce9cc683dc66a5721f2328dc9c153bf164bf318890cafd86996b195ea536"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_walk_v1/motion.png",
+      "bytes": 155426,
+      "sha256": "07b616869d0249f0f5068fd1d9c5e223f4522b8bb7e48a52e3c8a25509a954f5"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_walk_v1/preview.html",
+      "bytes": 6082,
+      "sha256": "b155c8e3b1a820de8004f7da07d444a87577d3c2bedfbe3bd8a79dc75b2df3ff"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_walk_v1/prompts.json",
+      "bytes": 3215,
+      "sha256": "373d2e53124a5b0d5a78816d00b5334741f11a7f31d6cbc1faa48e59ba366129"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_walk_v1/README.md",
+      "bytes": 3245,
+      "sha256": "f12bb0d14dbd27409d331542c1a882e8e64d26f66f10cf7f661ad559de06ff09"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_walk_v1/review.png",
+      "bytes": 508704,
+      "sha256": "5fc584c9826893cad8ccc44a3c2ad5d62d4c46ee8c117bc5f92f0cc41556b181"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_walk_v1/right_trial.json",
+      "bytes": 1918,
+      "sha256": "7f26e288825298041e59a1cfac3f2191b079b4ba475e56fbd0c27f4ffaac6261"
+    },
+    {
+      "path": "experiments/terrace/art_review/hero_walk_v1/validation.json",
+      "bytes": 270,
+      "sha256": "b08c96e2c4086686e42301065215a3ae95abbb4e9938ccabd0ab0a1f9653c745"
+    },
+    {
+      "path": "experiments/terrace/art_review/map_preview_v1/01_entry.png",
+      "bytes": 310840,
+      "sha256": "69155c4f776555683d67d4278e7e5b700243a579e42062080ff546c53fa3945c"
+    },
+    {
+      "path": "experiments/terrace/art_review/map_preview_v1/02_overview.png",
+      "bytes": 291634,
+      "sha256": "eb7db78cb508ad13cae30ebc97efdf4ae72f8eb1271c740e1123d24e93cea707"
+    },
+    {
+      "path": "experiments/terrace/art_review/map_preview_v1/03_water_bank.png",
+      "bytes": 351198,
+      "sha256": "506619d1d5a682bf05907506651700102fedbcf1fe87f8ac9df6de4914fe7ec1"
+    },
+    {
+      "path": "experiments/terrace/art_review/map_preview_v1/04_upper_bank.png",
+      "bytes": 368658,
+      "sha256": "3535985b337381162fddb610493a5f6cdb927254c1c1d2779de1e6d83e662b7a"
+    },
+    {
+      "path": "experiments/terrace/art_review/map_preview_v1/05_forest_gate.png",
+      "bytes": 272583,
+      "sha256": "c2e861900a753201e9d4db9af98183d1e1628fb1c669905a69b1e801a77ccedd"
+    },
+    {
+      "path": "experiments/terrace/art_review/map_preview_v1/06_roots_arrival.png",
+      "bytes": 282152,
+      "sha256": "c11fc0bc00e3be461b5f591067d38868bb93f03338a16f3ed8de8807667f3a59"
+    },
+    {
+      "path": "experiments/terrace/art_review/map_preview_v1/07_roots_shelf.png",
+      "bytes": 360107,
+      "sha256": "7a141d0f9db30d9b58b937684fdefc51a2f87020ccc81ee67bffa3406f14d70c"
+    },
+    {
+      "path": "experiments/terrace/art_review/map_preview_v1/gpu.err",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "experiments/terrace/art_review/map_preview_v1/interactive.err",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "experiments/terrace/art_review/map_preview_v1/results.json",
+      "bytes": 192,
+      "sha256": "9df8f008503acd948f1e738952e77502b72793aa3da7cf008defdcdbc246f74a"
+    },
+    {
+      "path": "experiments/terrace/art_review/playground/idle_walk_run.png",
+      "bytes": 49709,
+      "sha256": "a7c8e04ce095acbb1571cff357a7bc5b941e0737a1f7909548c4bbb4a46d27d1"
+    },
+    {
+      "path": "experiments/terrace/art_review/playground/motion_contact_sheet.png",
+      "bytes": 396363,
+      "sha256": "d49ab27598482ad7fbce910c57e93a673f617f7cdcec9f63a62a89cf6b087a10"
+    },
+    {
+      "path": "experiments/terrace/art_review/playground/motion_qa.json",
+      "bytes": 1023,
+      "sha256": "275042528b8b42b9e67f31e2f4347f4181bebc27254652bea9fb2be645a134b2"
+    },
+    {
+      "path": "experiments/terrace/art_review/playground/playground.json",
+      "bytes": 3574,
+      "sha256": "1669c57395ca193827af4e5afe2d4f9b88fd08c51364794051149b1a363992fb"
+    },
+    {
+      "path": "experiments/terrace/art_review/playground/playground_direction_0.png",
+      "bytes": 1284207,
+      "sha256": "55f2c80ca6fbfd6a36d4ff374a550a1e321e5ff0d5e4031670dba297675a0ad6"
+    },
+    {
+      "path": "experiments/terrace/art_review/playground/playground_direction_2.png",
+      "bytes": 1322029,
+      "sha256": "fa8f712ed9387a56b4e9299f8dcfd5a3d5de41caf7596a4a564b71e06dc42267"
+    },
+    {
+      "path": "experiments/terrace/art_review/playground/playground_direction_4.png",
+      "bytes": 1353468,
+      "sha256": "8c05fbf0b38e26ef245e42bc23e20bd481839ea94da605c5d7ecba63dbae47f8"
+    },
+    {
+      "path": "experiments/terrace/art_review/playground/playground_direction_6.png",
+      "bytes": 1334667,
+      "sha256": "acdb26d9c230e4b00e30002f5ac0789f0e10b51a3d2d24ea080b51b6729e54ff"
+    },
+    {
+      "path": "experiments/terrace/art_review/playground/playground_foliage_after.png",
+      "bytes": 1277963,
+      "sha256": "1d0dae2714a07f92459aa28194dfd1d41faa369b7d2e6dc9c78871f14b1419fc"
+    },
+    {
+      "path": "experiments/terrace/art_review/playground/playground_foliage_before.png",
+      "bytes": 1300808,
+      "sha256": "e988c83560336e0bf52ec2f9ebc43bd16d1ea26e30e545a45ca71b7a7600ae7b"
+    },
+    {
+      "path": "experiments/terrace/art_review/playground/playground_old_comparison.png",
+      "bytes": 1215856,
+      "sha256": "50cc92635794817fab603cdbff4eead34fb4bfe1a2913fe93c91a030479ce358"
+    },
+    {
+      "path": "experiments/terrace/art_review/playground/playground_region_0.png",
+      "bytes": 1310501,
+      "sha256": "4e73df1fdd482cf7ce6548e9afb25c9ea83035a9a4e8cc3694243eda91fd12de"
+    },
+    {
+      "path": "experiments/terrace/art_review/playground/playground_region_1.png",
+      "bytes": 1430309,
+      "sha256": "b071e3202bea2bbea916a5fb385aee708835e0bfb5256af5814fe8aca44b1db9"
+    },
+    {
+      "path": "experiments/terrace/art_review/playground/playground_region_2.png",
+      "bytes": 1457486,
+      "sha256": "b53d0a718f46ef5dbf52f6c33b030902aff02477d89abe0c989cd1b6db046df8"
+    },
+    {
+      "path": "experiments/terrace/art_review/playground/playground_start.png",
+      "bytes": 1328859,
+      "sha256": "2f782e09f6e9e6de8672a6a5571e0d0c97f6b80600689d18352b5b46057ef153"
+    },
+    {
+      "path": "experiments/terrace/art_review/playground/quality_old_mipmap_linear.png",
+      "bytes": 44509,
+      "sha256": "75b9d5e7df99ce2338d658f3c04c1f1f58da999aad3dd2fb6291046d27d10df7"
+    },
+    {
+      "path": "experiments/terrace/art_review/playground/README.md",
+      "bytes": 4181,
+      "sha256": "91a9506007189e9c3801e2a9468c21bcec0647ade5cdcce200885912ffa6df39"
+    },
+    {
+      "path": "experiments/terrace/art_review/view_compare/gpu.err",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "experiments/terrace/art_review/view_compare/headless.err",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "experiments/terrace/art_review/view_compare/README.md",
+      "bytes": 866,
+      "sha256": "0b4d6889755b88334b894f71d9a88088d61c46e98e20ddea8f83131578e8209e"
+    },
+    {
+      "path": "experiments/terrace/art_review/view_compare/upper_shelf_20.png",
+      "bytes": 1733367,
+      "sha256": "8ff22b614bd3f934c8df226481642d6b7fb21511e85ea1fd38b26e7ed753d863"
+    },
+    {
+      "path": "experiments/terrace/art_review/view_compare/view_00_crowd24_frozen.png",
+      "bytes": 1715503,
+      "sha256": "c11f980c970858e092ff222c3aeae8d7a8715b58c63e0cced297fc0298874546"
+    },
+    {
+      "path": "experiments/terrace/art_review/view_compare/view_00_live.png",
+      "bytes": 1705469,
+      "sha256": "42bdfdfc7231a39175e565e0548872bb4c7f3a91247a89ab99e4cb6074325b3a"
+    },
+    {
+      "path": "experiments/terrace/art_review/view_compare/view_00_same_encounter.png",
+      "bytes": 1707361,
+      "sha256": "44334aa8aa02f438ab6d1675ba4905b4e4c8e017932c54938c62b5bfb0e476d6"
+    },
+    {
+      "path": "experiments/terrace/art_review/view_compare/view_20_crowd24.png",
+      "bytes": 1719452,
+      "sha256": "577df6ca47783f54858b9aef5bca897ab4fe582bcec3c92e3cbedb7ab76028dc"
+    },
+    {
+      "path": "experiments/terrace/art_review/view_compare/view_20_live.png",
+      "bytes": 1711555,
+      "sha256": "ff5c1d37f8a6dda4d6758200eb28f582ee80e325da10d9fdac87addb1433155c"
+    },
+    {
+      "path": "experiments/terrace/art_review/view_compare/view_20_same_encounter.png",
+      "bytes": 1713710,
+      "sha256": "67dddf6a458f11d757093ada48469d298a2619c0571630832ca2e710d9e8fdd6"
+    },
+    {
+      "path": "experiments/terrace/art_review/view_compare/view_45_crowd24_frozen.png",
+      "bytes": 1747944,
+      "sha256": "fe13804d180f2dc44386c7a3c7f0e7ede5890fd57e314ee33cadeacc92ed1cf3"
+    },
+    {
+      "path": "experiments/terrace/art_review/view_compare/view_45_live.png",
+      "bytes": 1736663,
+      "sha256": "a9b7b898b95f985336988ec0de2ade2b8debba2cd652b54123e22dd29e3c12e6"
+    },
+    {
+      "path": "experiments/terrace/art_review/view_compare/view_45_same_encounter.png",
+      "bytes": 1740041,
+      "sha256": "c236a4852fe2aff3336172efe5930a02085d2ed831302580458b73c49b64e8c4"
+    },
+    {
+      "path": "experiments/terrace/assets/audio/ambience_forest.wav",
+      "bytes": 1764044,
+      "sha256": "80f3b619ab1d6319eae3b7b3fcf5cc01d65ecd119b6392e8e75809332c6f0bc8"
+    },
+    {
+      "path": "experiments/terrace/assets/audio/ambience_forest.wav.import",
+      "bytes": 515,
+      "sha256": "df647c3e1b0e35f203306b55424ce134e7ed257edb566419ddb3369a2a043b1c"
+    },
+    {
+      "path": "experiments/terrace/assets/audio/ambience_reservoir.wav",
+      "bytes": 1764044,
+      "sha256": "af6ca4be7b5c6b3caa1efa778543435088445ef3fca31ee18669fd5b19aa317e"
+    },
+    {
+      "path": "experiments/terrace/assets/audio/ambience_reservoir.wav.import",
+      "bytes": 525,
+      "sha256": "0951aef7031c42c5a9e99e3eb1af5b6d0efc593d84e9989fcd152f5478e6f50e"
+    },
+    {
+      "path": "experiments/terrace/assets/audio/ambience_water.wav",
+      "bytes": 1764044,
+      "sha256": "82a5766e0792bebe4a8c18f30b6a2f656c12ecf55326b172783a2e9f2e95c225"
+    },
+    {
+      "path": "experiments/terrace/assets/audio/ambience_water.wav.import",
+      "bytes": 512,
+      "sha256": "bb843af04da7eb869a06fab9fb33c5188b502aae7f3be05e3464ea5b16c6602f"
+    },
+    {
+      "path": "experiments/terrace/assets/audio/auto.wav",
+      "bytes": 9746,
+      "sha256": "6fd9dd4a72375c60685033c3437662b4240baff69475ec61738e7cec382619b3"
+    },
+    {
+      "path": "experiments/terrace/assets/audio/auto.wav.import",
+      "bytes": 483,
+      "sha256": "030c1d5ef670657c5d88e72c1a69bf6dd0561136374e34e89026b5253855cf51"
+    },
+    {
+      "path": "experiments/terrace/assets/audio/cast.wav",
+      "bytes": 8864,
+      "sha256": "990829c36c7f04a2ad4f24eb7c1fefedcd852cb026c823e4165c240f606e6ed3"
+    },
+    {
+      "path": "experiments/terrace/assets/audio/cast.wav.import",
+      "bytes": 482,
+      "sha256": "7ec812003b364f674d5917765dfefaffcb1ee0f0dd1e6854f86514685f963661"
+    },
+    {
+      "path": "experiments/terrace/assets/audio/dash.wav",
+      "bytes": 8864,
+      "sha256": "e728e8d68d7f3f2a8daf8e21e2a3be816beba00c55f86e6148fb6e4f93cbc801"
+    },
+    {
+      "path": "experiments/terrace/assets/audio/dash.wav.import",
+      "bytes": 482,
+      "sha256": "223a187b8b1008352ce904ea2dbb871df2852e7fe14df39442e436a61713f20e"
+    },
+    {
+      "path": "experiments/terrace/assets/audio/fox_fire_launch.wav",
+      "bytes": 18566,
+      "sha256": "0ca3cb99182629319d6b7d81df87490820abf0c4668bb72b8e68f2bcdb924029"
+    },
+    {
+      "path": "experiments/terrace/assets/audio/fox_fire_launch.wav.import",
+      "bytes": 516,
+      "sha256": "7d707fcea05d2fed5f142fd6eadd22ca7a7284b11fc28bb6242d104e2ae93028"
+    },
+    {
+      "path": "experiments/terrace/assets/audio/heavy.wav",
+      "bytes": 12392,
+      "sha256": "490f57d14d1cf4954cb0ed4b1afcb0e7e1a468b3b8e7befa9e152f3e38b01cda"
+    },
+    {
+      "path": "experiments/terrace/assets/audio/heavy.wav.import",
+      "bytes": 486,
+      "sha256": "4e843be753c1e6a949999b74a2ae1523e88fce23c4c48f9eb8dc52e0956bde3b"
+    },
+    {
+      "path": "experiments/terrace/assets/audio/hit.wav",
+      "bytes": 7100,
+      "sha256": "b7cd542140e68f111d04decb8a73079a2789ef5a40b388b1c6fc4c914ee69e35"
+    },
+    {
+      "path": "experiments/terrace/assets/audio/hit.wav.import",
+      "bytes": 479,
+      "sha256": "162e3284099e0726e1f773e995b6650fa1eed9925a62ca9c9908050285a874dd"
+    },
+    {
+      "path": "experiments/terrace/assets/audio/hurt.wav",
+      "bytes": 14156,
+      "sha256": "c6c800a564d57ceec33f8390a5cab1f7d6decb41edd29df5b15681782a1d4857"
+    },
+    {
+      "path": "experiments/terrace/assets/audio/hurt.wav.import",
+      "bytes": 482,
+      "sha256": "1fba72d86aeea1d4f1d7e07b76df2b1099355c12ae396b44434b947ab0f73765"
+    },
+    {
+      "path": "experiments/terrace/assets/audio/reward.wav",
+      "bytes": 28708,
+      "sha256": "6909966d3426addc5a7e09bae94d0db5ca2cc6d3edc2dd18d19beaac5ad1f398"
+    },
+    {
+      "path": "experiments/terrace/assets/audio/reward.wav.import",
+      "bytes": 488,
+      "sha256": "685e62d315ae96ee34a3092a2dd09e6b3a12818dc0a5ae402e9d3ea00e4eb384"
+    },
+    {
+      "path": "experiments/terrace/assets/audio/warning.wav",
+      "bytes": 19888,
+      "sha256": "0f9b43ff9a299e186668aa1186c058b3de6ce35050e2f51a1176da285143e969"
+    },
+    {
+      "path": "experiments/terrace/assets/audio/warning.wav.import",
+      "bytes": 491,
+      "sha256": "ebb182b3b8f541c3d6ec208b2b56d86fd7aa14073d88185cc1d6d62e1b2f8530"
+    },
+    {
+      "path": "experiments/terrace/assets/enemies/forest_creatures_v1.json",
+      "bytes": 2195,
+      "sha256": "6e0df360cda23cd4ef5fdc83c17375158c0c8460c22a7fc526e33d9e5d4322f6"
+    },
+    {
+      "path": "experiments/terrace/assets/enemies/forest_creatures_v1.png",
+      "bytes": 1676982,
+      "sha256": "a0ef4081defae33a93d4b1e82bf053e809b3edf9c7e40a5588fdd5b99e12ffbb"
+    },
+    {
+      "path": "experiments/terrace/assets/enemies/forest_creatures_v1.png.import",
+      "bytes": 975,
+      "sha256": "a863b744eaea34b9c3496092d56b63024a9083a1c0940409335d8df43ed6354d"
+    },
+    {
+      "path": "experiments/terrace/assets/enemies/ruin_guardian_v1.json",
+      "bytes": 1097,
+      "sha256": "82fdbcdf8e2970b4098004f1582dc4f837fedd7fafc4ad4914e23ddc87885b23"
+    },
+    {
+      "path": "experiments/terrace/assets/enemies/ruin_guardian_v1.png",
+      "bytes": 2186309,
+      "sha256": "8b2dd53d1b164e9ba5d44d7a4474c9cb6d26cdcd24b8a6b101727731405e704e"
+    },
+    {
+      "path": "experiments/terrace/assets/enemies/ruin_guardian_v1.png.import",
+      "bytes": 966,
+      "sha256": "2a63d95a21bfab244bd5d4d90f53322b74e17498c0c42f631c2e79f9ca96e4b3"
+    },
+    {
+      "path": "experiments/terrace/assets/environment/canal_shelter_v1.png",
+      "bytes": 2608220,
+      "sha256": "497cc573b735c13e385720cbdbb945d0931411c637a2b11948ad900a7f242bd9"
+    },
+    {
+      "path": "experiments/terrace/assets/environment/canal_shelter_v1.png.import",
+      "bytes": 970,
+      "sha256": "ad170b9596ad3d3728236bb9dcea64738f32336f5d8bd1daf8ee37bdd1ded274"
+    },
+    {
+      "path": "experiments/terrace/assets/environment/forest_floor_v1.png",
+      "bytes": 2471210,
+      "sha256": "575e97fdbdcbfb906dfc17d68b0d906ca5ff27e36a9260c6f972dc561fed2936"
+    },
+    {
+      "path": "experiments/terrace/assets/environment/forest_floor_v1.png.import",
+      "bytes": 967,
+      "sha256": "0509aff9416e0828c28c13b6f11603998e199f024a0085e7cf5cde0b1a9d0e0f"
+    },
+    {
+      "path": "experiments/terrace/assets/environment/garden_waystone_v1.png",
+      "bytes": 1985602,
+      "sha256": "ed31de3c5b71cafd78a9130348ac7e25cef693598f86747f6dab856b2f68499b"
+    },
+    {
+      "path": "experiments/terrace/assets/environment/garden_waystone_v1.png.import",
+      "bytes": 976,
+      "sha256": "5afab45e967310d18fcac9dc635739739e07bb1d9d9efeb6be6ba8f50952703a"
+    },
+    {
+      "path": "experiments/terrace/assets/environment/jungle_distance_v1.png",
+      "bytes": 1945995,
+      "sha256": "fa86639f59f040f642efe4c25aee7fe7d73232f9a9a8c8553eeaa1892118e8ff"
+    },
+    {
+      "path": "experiments/terrace/assets/environment/jungle_distance_v1.png.import",
+      "bytes": 977,
+      "sha256": "78a78bdcd8628b13dc055f632eccb4f8730be9e0114471393f4892c8c4ff2aef"
+    },
+    {
+      "path": "experiments/terrace/assets/environment/monsoon_props_v1.json",
+      "bytes": 460,
+      "sha256": "90367e33bd76a212ec1f294c1f7e8a60edc680347601094019a27c0a46d1adf3"
+    },
+    {
+      "path": "experiments/terrace/assets/environment/monsoon_props_v1.png",
+      "bytes": 1928602,
+      "sha256": "419dc11f5598d31d10b7e4c133361f480d451acc0422e880e1d1f043b7d76c42"
+    },
+    {
+      "path": "experiments/terrace/assets/environment/monsoon_props_v1.png.import",
+      "bytes": 970,
+      "sha256": "0f0147ab71c4184c9e3dcdf52dbe58f1b2a8440a8f54f44df450a3daa27c4d4b"
+    },
+    {
+      "path": "experiments/terrace/assets/environment/reservoir_floor_v1.png",
+      "bytes": 2565371,
+      "sha256": "caf394c2db1783a251746c2950abccf0cfc233aec9a0865548141fc70682aeb2"
+    },
+    {
+      "path": "experiments/terrace/assets/environment/reservoir_floor_v1.png.import",
+      "bytes": 977,
+      "sha256": "257a0056d07e261750343dcc23bb03d251f2ac768d02c545a74f5433526703ea"
+    },
+    {
+      "path": "experiments/terrace/assets/environment/reservoir_masonry_v1.png",
+      "bytes": 3023465,
+      "sha256": "979214cd4f09ded6fa9890092add6b12e1a7004000572d19405fbf797303dcdb"
+    },
+    {
+      "path": "experiments/terrace/assets/environment/reservoir_masonry_v1.png.import",
+      "bytes": 983,
+      "sha256": "0394adc6204e406f29ae8556b8d6b5e16ad8fbb5d99a9a15c94a97399aa8fb09"
+    },
+    {
+      "path": "experiments/terrace/assets/environment/temple_face_v1.png",
+      "bytes": 2776514,
+      "sha256": "40f528c9ceacb7701387925d06e49ca272aa68325430ac177b65242d45dd6b6f"
+    },
+    {
+      "path": "experiments/terrace/assets/environment/temple_face_v1.png.import",
+      "bytes": 965,
+      "sha256": "766992e90091f175209e25ac28b38f80e81f78bfd480bab49ecc40d14cc9b67e"
+    },
+    {
+      "path": "experiments/terrace/assets/fonts/NanumGothic-Bold.ttf",
+      "bytes": 2073868,
+      "sha256": "f96298f9fb18e364d2370f4c3ce948ac67a2b61af992d7234bc15c42b033c674"
+    },
+    {
+      "path": "experiments/terrace/assets/fonts/NanumGothic-Bold.ttf.import",
+      "bytes": 787,
+      "sha256": "fd0d908afb365b77810e5cdafb2f5db144f999199bf08f489470be36aac829ab"
+    },
+    {
+      "path": "experiments/terrace/assets/fonts/NanumGothic-Regular.ttf",
+      "bytes": 2054744,
+      "sha256": "76f45ef4a6bcff344c837c95a7dcc26e017e38b5846d5ae0cdcb5b86be2e2d31"
+    },
+    {
+      "path": "experiments/terrace/assets/fonts/NanumGothic-Regular.ttf.import",
+      "bytes": 796,
+      "sha256": "1957dca23ad2f6b16c944ae624696c14172e536acf438e1f1730d0d9e845b3f7"
+    },
+    {
+      "path": "experiments/terrace/assets/fonts/OFL.txt",
+      "bytes": 4534,
+      "sha256": "eeacf16032901d0ed0456876ec77b8f0fda6b3fecec7d972f8543eb602e6c30f"
+    },
+    {
+      "path": "experiments/terrace/assets/hero/grove_scholar_combo_v1.json",
+      "bytes": 3625,
+      "sha256": "8992ba887b6da09f687f6752ff37b21b8aa1a30045f02e65865d9e932f63631d"
+    },
+    {
+      "path": "experiments/terrace/assets/hero/grove_scholar_combo_v1.png",
+      "bytes": 1996980,
+      "sha256": "809106e519cd558079937292cf58a4f73f65f76f543d8928cad2260fe321e742"
+    },
+    {
+      "path": "experiments/terrace/assets/hero/grove_scholar_combo_v1.png.import",
+      "bytes": 981,
+      "sha256": "08639791655939e2b5b113317bbf6e53d8ab96d7208047947514db6aafe34232"
+    },
+    {
+      "path": "experiments/terrace/assets/hero/grove_scholar_eight_v1.json",
+      "bytes": 2189,
+      "sha256": "89ff148a90969635295d3ac3a9fbe2384e8305b548e623a914f67ae3fbc2f491"
+    },
+    {
+      "path": "experiments/terrace/assets/hero/grove_scholar_eight_v1.png",
+      "bytes": 1809881,
+      "sha256": "fc8e48461c35b84a450b58f2690ca01cb1e6e79783d1bb50690abc413828fb76"
+    },
+    {
+      "path": "experiments/terrace/assets/hero/grove_scholar_eight_v1.png.import",
+      "bytes": 981,
+      "sha256": "60165aa211ea4d643393949f051b4a0615a2ef4f6df81bc47842fdecd1902298"
+    },
+    {
+      "path": "experiments/terrace/assets/hero/grove_scholar_idle_v2.json",
+      "bytes": 1083,
+      "sha256": "2f4aa9e383f552aa0d712bbe4b2e64a9c9483f4b00314e6f19226cf4bdbb7e98"
+    },
+    {
+      "path": "experiments/terrace/assets/hero/grove_scholar_idle_v2.png",
+      "bytes": 2231173,
+      "sha256": "f44a4d5929b88049b1b1e9c32bff041c883b55313c9fe73575912340467b82e6"
+    },
+    {
+      "path": "experiments/terrace/assets/hero/grove_scholar_idle_v2.png.import",
+      "bytes": 979,
+      "sha256": "89b02fce99f1de33ba5f7efea0d30209302c3fa0d17351051ccb60c260ddc113"
+    },
+    {
+      "path": "experiments/terrace/assets/hero/grove_scholar_recovery_v1.json",
+      "bytes": 2487,
+      "sha256": "9f962ecbc8fce1215b135f604b63d1a4385a17a8252aa46aef587acc9fb44154"
+    },
+    {
+      "path": "experiments/terrace/assets/hero/grove_scholar_recovery_v1.png",
+      "bytes": 1814272,
+      "sha256": "6499209e68b4774007410b8583f4cc4dea4af05be49e7a3ab4c4f91451d9b48b"
+    },
+    {
+      "path": "experiments/terrace/assets/hero/grove_scholar_recovery_v1.png.import",
+      "bytes": 991,
+      "sha256": "bfa5962bde7ff38f335e3c1c8b18dac025063e0d7360e7a97bdcedb6d7958729"
+    },
+    {
+      "path": "experiments/terrace/assets/hero/grove_scholar_run_eight_v1.json",
+      "bytes": 2190,
+      "sha256": "fc0454bc19a0075c45af3007266c669389b25f4ca8319680122ac0b369b407ff"
+    },
+    {
+      "path": "experiments/terrace/assets/hero/grove_scholar_run_eight_v1.png",
+      "bytes": 1728762,
+      "sha256": "aee4e4592597346b3f982aea92f25a05a6cbb76d406349af89fea985cb50ba97"
+    },
+    {
+      "path": "experiments/terrace/assets/hero/grove_scholar_run_eight_v1.png.import",
+      "bytes": 993,
+      "sha256": "1df72ce855f1c342b210ec00ec05a39e0af4513a41362c0c4fe20fde9c322627"
+    },
+    {
+      "path": "experiments/terrace/assets/hero/grove_scholar_run_pass_v1.json",
+      "bytes": 2193,
+      "sha256": "db128477db8d3bca55837df1d99be2ad61f4f03e21057cdbe73ad19675ce806a"
+    },
+    {
+      "path": "experiments/terrace/assets/hero/grove_scholar_run_pass_v1.png",
+      "bytes": 1582368,
+      "sha256": "76450d0af3e76c18af492449371da5a86b1d41b973ff8f3a5be886376e7bbbef"
+    },
+    {
+      "path": "experiments/terrace/assets/hero/grove_scholar_run_pass_v1.png.import",
+      "bytes": 990,
+      "sha256": "1a2ee1c64dbe181eacb695aa3847d618850b58a5d8eb4b3ce2be3ab154ded52a"
+    },
+    {
+      "path": "experiments/terrace/assets/hero/grove_scholar_walk_eight_v2.json",
+      "bytes": 2183,
+      "sha256": "bab7bcb048abc0095043ab8e745b6c526e3ec0bd4bb27f2b48e106f8a14199a4"
+    },
+    {
+      "path": "experiments/terrace/assets/hero/grove_scholar_walk_eight_v2.png",
+      "bytes": 1707713,
+      "sha256": "06e7c4daf0f4304752700f1fb3c3ed779e1408ce28a1effef059e3e16e705897"
+    },
+    {
+      "path": "experiments/terrace/assets/hero/grove_scholar_walk_eight_v2.png.import",
+      "bytes": 996,
+      "sha256": "14cd82877e5fda8eeb02545ee25820d433cf528eb981f36cddbc87b8bcb57038"
+    },
+    {
+      "path": "experiments/terrace/assets/hero/grove_scholar_walk_pass_v2.json",
+      "bytes": 2185,
+      "sha256": "60eca659f20686f7567e45abe5ab7a188ff4c7029a58bb8f1d2939730a033ee9"
+    },
+    {
+      "path": "experiments/terrace/assets/hero/grove_scholar_walk_pass_v2.png",
+      "bytes": 1688559,
+      "sha256": "d8cc2fef33f1c4faf8929df6d9971aaf6ddb363c110d73df851fa670f2c0ad15"
+    },
+    {
+      "path": "experiments/terrace/assets/hero/grove_scholar_walk_pass_v2.png.import",
+      "bytes": 994,
+      "sha256": "c6a2f15b9b13bf1283dd3196b52353ea16f3ccd04ec953f65213dbb5bbefa69e"
+    },
+    {
+      "path": "experiments/terrace/docs/.gdignore",
+      "bytes": 56,
+      "sha256": "b5df967d3423763f461447c11dd5ab892c1b1ede3eb654c8751f9068b54aa0f3"
+    },
+    {
+      "path": "experiments/terrace/docs/D107_PERFORMANCE_REVIEW.md",
+      "bytes": 7289,
+      "sha256": "5cdb231cf0973cb5b222694216142336e50baa422133d3134c392a97c03e6925"
+    },
+    {
+      "path": "experiments/terrace/docs/D112_CORE_RESPONSE_REVIEW.md",
+      "bytes": 6697,
+      "sha256": "ad3bd6a206ecaf81eb906022b49bbbdc57eb09d4c366b359a3e95817b1699a3d"
+    },
+    {
+      "path": "experiments/terrace/docs/D113_MACOS_BUILD.md",
+      "bytes": 3161,
+      "sha256": "c3088340111bb0457592b88a6157b54ee7d5c018dd523cd63aa832a4d45bc209"
+    },
+    {
+      "path": "experiments/terrace/docs/WORK_LOG.md",
+      "bytes": 122969,
+      "sha256": "6862b1c225a197a433720ae7c293777df591f63180545b4fc77c863014a718c0"
+    },
+    {
+      "path": "experiments/terrace/export_presets.cfg",
+      "bytes": 1976,
+      "sha256": "4f514ac3681c2336735ffd0749c0e43d549fb786637729261514186db048fe52"
+    },
+    {
+      "path": "experiments/terrace/game/ambience.gd",
+      "bytes": 1508,
+      "sha256": "9e8f416f67c37386ba89b40cfacc510c38c957d015a27bfa99a69b5f7e9d2213"
+    },
+    {
+      "path": "experiments/terrace/game/ambience.gd.uid",
+      "bytes": 20,
+      "sha256": "112490ca9b860eb1ed6b56a26ce07405bbdc051fe45bcb5561a48f2c4b5c3f59"
+    },
+    {
+      "path": "experiments/terrace/game/approved_hero_visual.gd",
+      "bytes": 2969,
+      "sha256": "4a8b159fa6f05157b07ea7005a1462f5c30983a16d1d322d0a670761facfeb02"
+    },
+    {
+      "path": "experiments/terrace/game/approved_hero_visual.gd.uid",
+      "bytes": 20,
+      "sha256": "40e90e89211551d4b427ca003a8b2bb0d5f3eb17c278309901de56a8cba6a873"
+    },
+    {
+      "path": "experiments/terrace/game/astral_energy.gdshader",
+      "bytes": 1642,
+      "sha256": "eba3652a2b4908443c7caee44775f3b6b42052d352f2717d2b016130d3e3004f"
+    },
+    {
+      "path": "experiments/terrace/game/astral_energy.gdshader.uid",
+      "bytes": 20,
+      "sha256": "f54720e6a41d31f7b5d07d001b931e33ed0b526344a42c1381885eade77269f3"
+    },
+    {
+      "path": "experiments/terrace/game/boot.gd",
+      "bytes": 639,
+      "sha256": "c6a8b76df00e245fb3e652cc8d2ee8d34b4701631057186e8b63ed4f59014938"
+    },
+    {
+      "path": "experiments/terrace/game/boot.gd.uid",
+      "bytes": 20,
+      "sha256": "3f718d287a772cff6563b0daea33e81aad803bc8a6be4c05d7b810e67f841147"
+    },
+    {
+      "path": "experiments/terrace/game/boot.tscn",
+      "bytes": 156,
+      "sha256": "a0b8faa13bda647421f870fa511424970af54caedbce4dc9947925f98276fbae"
+    },
+    {
+      "path": "experiments/terrace/game/combat.gd",
+      "bytes": 5507,
+      "sha256": "160399f58604e8cb50b15417a5d0a4b1f720367fbcb8cfa138389d5507ffa033"
+    },
+    {
+      "path": "experiments/terrace/game/combat.gd.uid",
+      "bytes": 20,
+      "sha256": "74cf8c4a290597bdf984e64725201ad79a28c3ba00963dc7eb7cb29847aeb3ae"
+    },
+    {
+      "path": "experiments/terrace/game/combat_effect.gd",
+      "bytes": 14073,
+      "sha256": "c0bd5fcbc08a5293a98cf54e129348c26baad158135d43ffca7bae7f91d05612"
+    },
+    {
+      "path": "experiments/terrace/game/combat_effect.gd.uid",
+      "bytes": 20,
+      "sha256": "6fdbe661215c9150ad72e17bbc2694818a0ff3e0ac0fabb1ec168fb8e36ad3f9"
+    },
+    {
+      "path": "experiments/terrace/game/contact.gdshader",
+      "bytes": 263,
+      "sha256": "ff7a1c7b7c24736e723d3eba05b2fcbd771465f25a42cc88ff27f2905f0be7d2"
+    },
+    {
+      "path": "experiments/terrace/game/contact.gdshader.uid",
+      "bytes": 20,
+      "sha256": "82da9dfa3bc63032494eea15d6449ae13b5de7639ce509c4bc8f04621215b8dc"
+    },
+    {
+      "path": "experiments/terrace/game/demo_menu.gd",
+      "bytes": 7994,
+      "sha256": "268af207830a8f9ed12d28befe554bedeb77922192a84eb9106da886456e134f"
+    },
+    {
+      "path": "experiments/terrace/game/demo_menu.gd.uid",
+      "bytes": 20,
+      "sha256": "72b5cdc79a78ebbf789590136f4b39ac953f452f5b8ac1f71f39c8da79cb4459"
+    },
+    {
+      "path": "experiments/terrace/game/demo_menu.tscn",
+      "bytes": 168,
+      "sha256": "df8a78339d5225622f9c6e9ebfff78194a80aba683e270dc38cd11e6985f3cf1"
+    },
+    {
+      "path": "experiments/terrace/game/effect_surface.gd",
+      "bytes": 1745,
+      "sha256": "cf1b4f93ea620fe909945554a1f230e3ab8a09511112915a21c95ff75623b001"
+    },
+    {
+      "path": "experiments/terrace/game/effect_surface.gd.uid",
+      "bytes": 20,
+      "sha256": "ad95dfef5c577dfa4a2e503bc9b341daed62477a3321e6f25e805e85c3300a52"
+    },
+    {
+      "path": "experiments/terrace/game/enemy.gd",
+      "bytes": 8647,
+      "sha256": "3273307ae222a6d9662f2ef01f51d37e8aa5dd68235bdce639c031720662f1cf"
+    },
+    {
+      "path": "experiments/terrace/game/enemy.gd.uid",
+      "bytes": 20,
+      "sha256": "1e8f11668621611de43676ea1ed0799af86797e112e4d35320f55e8f5ec72219"
+    },
+    {
+      "path": "experiments/terrace/game/enemy_visual.gd",
+      "bytes": 2188,
+      "sha256": "00b60d92d1cdd85d2baec00b346a4e38ef6460b6a66e5b9131b003016ec9ed9d"
+    },
+    {
+      "path": "experiments/terrace/game/enemy_visual.gd.uid",
+      "bytes": 20,
+      "sha256": "4ccba151827dc5a1dc8cd69f2bc3d7fd68d38929eb6384cfa9ada2417cffa7aa"
+    },
+    {
+      "path": "experiments/terrace/game/exploration.gd",
+      "bytes": 9120,
+      "sha256": "c403dffa23867567fb9fedb030df638177a791f13fc073c0a9f77c443602f251"
+    },
+    {
+      "path": "experiments/terrace/game/exploration.gd.uid",
+      "bytes": 20,
+      "sha256": "e393ea25dc25560805d8b72d806eb30af1c41c7e76e80643b0c89bdbe56799bc"
+    },
+    {
+      "path": "experiments/terrace/game/facility.gd",
+      "bytes": 8971,
+      "sha256": "ed5a1f16accdc24ffd4cf79342258c138784dcd018140599c4709aef306e67e4"
+    },
+    {
+      "path": "experiments/terrace/game/facility.gd.uid",
+      "bytes": 20,
+      "sha256": "bd81efbe441992e83b907b9b60e8b5816da9ae8c0ec36524fb91618e8649d3d1"
+    },
+    {
+      "path": "experiments/terrace/game/facility_stone.gdshader",
+      "bytes": 942,
+      "sha256": "2ddf51f6418d691cd5e43265bb4561f656edd814bc6d05e62b0cbfc42d094795"
+    },
+    {
+      "path": "experiments/terrace/game/facility_stone.gdshader.uid",
+      "bytes": 20,
+      "sha256": "26aa47525fc7454f7ba8d27ebc5e4e0ce193fe21a2a22489d77de42d22c6704c"
+    },
+    {
+      "path": "experiments/terrace/game/fox_fire.gd",
+      "bytes": 2731,
+      "sha256": "5f8b9a6c8ffdf5963bb9f1f4c702f10e961af2c31ae00b430c456d8e396c621e"
+    },
+    {
+      "path": "experiments/terrace/game/fox_fire.gd.uid",
+      "bytes": 20,
+      "sha256": "331d3bcfc35f989b5f6e9939a68d22aaf540a28d82d03a814fae784e221b9532"
+    },
+    {
+      "path": "experiments/terrace/game/ground.gdshader",
+      "bytes": 5138,
+      "sha256": "6d7cb6ef0156a76cb3188ead02d6555df834f169f198e05e60afb827c9c49d62"
+    },
+    {
+      "path": "experiments/terrace/game/ground.gdshader.uid",
+      "bytes": 20,
+      "sha256": "96fb340e1631f1d457da287dd37f753775a1feb3d79b4491d7fd0e43267bf439"
+    },
+    {
+      "path": "experiments/terrace/game/ground_warning.gd",
+      "bytes": 4060,
+      "sha256": "1ce3ada76dfae8e925d523677c41c6fb9cf4c0d44f7b0df9b392ebad3de2acee"
+    },
+    {
+      "path": "experiments/terrace/game/ground_warning.gd.uid",
+      "bytes": 20,
+      "sha256": "c6cfd862cfb0f80628f5c7a5a49b52bb55f9c0b6063570fc4364d0aef8f204fa"
+    },
+    {
+      "path": "experiments/terrace/game/grove_gate.gd",
+      "bytes": 1956,
+      "sha256": "cef6e901a318910e2ff7ca6c81448a9cbcf1ca1f7aacabdeb653a4c7d56cecee"
+    },
+    {
+      "path": "experiments/terrace/game/grove_gate.gd.uid",
+      "bytes": 20,
+      "sha256": "0d79cf0e1f628ad54a5ac36acaa51833d9640c4859982871b4aed3a998d2cb36"
+    },
+    {
+      "path": "experiments/terrace/game/grove_masonry.gd",
+      "bytes": 1675,
+      "sha256": "2d8c850dde5e44c3a26f97fb37f0c08369968008b911789ab29f4eaeef4b53da"
+    },
+    {
+      "path": "experiments/terrace/game/grove_masonry.gd.uid",
+      "bytes": 20,
+      "sha256": "c9502c52eeadb0021c89a538c2b92768518f6e21d0344da430a06671aea0932e"
+    },
+    {
+      "path": "experiments/terrace/game/hero_visual.gd",
+      "bytes": 6081,
+      "sha256": "1b06f3dc3ddf6f002e20234e2756062f2caeaf54dca83edeecfbb44c43104195"
+    },
+    {
+      "path": "experiments/terrace/game/hero_visual.gd.uid",
+      "bytes": 19,
+      "sha256": "02f88c11f10216cebc1ae90b8e6af953c35898c0aca3592598381129f4cf92fd"
+    },
+    {
+      "path": "experiments/terrace/game/hud.gd",
+      "bytes": 21696,
+      "sha256": "1a798ca2a43246c316bb63bfe8d228695271e1e734608df17a495892b5c0eb73"
+    },
+    {
+      "path": "experiments/terrace/game/hud.gd.uid",
+      "bytes": 20,
+      "sha256": "193a661d18e5a56a9ce130b6afb110db5e1388d4529712c52f94c56bb61f8b92"
+    },
+    {
+      "path": "experiments/terrace/game/journey.gd",
+      "bytes": 3226,
+      "sha256": "854f1e432776784a9a63e0a221bb96cedb132415904b3222d485b73afafb38c0"
+    },
+    {
+      "path": "experiments/terrace/game/journey.gd.uid",
+      "bytes": 20,
+      "sha256": "4abe7668eaaebbf283e98245ced52aa04b76c27ee8e4c08e1de4c7fca1080309"
+    },
+    {
+      "path": "experiments/terrace/game/landscape.gd",
+      "bytes": 11795,
+      "sha256": "3b05aeced5b25bca00a5b911194b0c365ec32797aaf807568207636de84a6244"
+    },
+    {
+      "path": "experiments/terrace/game/landscape.gd.uid",
+      "bytes": 19,
+      "sha256": "902b698802f90526d64bc1f802c39e67bf75c779ad04c13d6c5fb7f58ca9ee5c"
+    },
+    {
+      "path": "experiments/terrace/game/player.gd",
+      "bytes": 12634,
+      "sha256": "44f2aef0679e83bcc9231c1809bfa173056972168a76752fc11e911fcf47843a"
+    },
+    {
+      "path": "experiments/terrace/game/player.gd.uid",
+      "bytes": 20,
+      "sha256": "7767424ca5dfcd5e7b89eb4c27273610468254003f2c7f7f73d062f85206a5a6"
+    },
+    {
+      "path": "experiments/terrace/game/reservoir_keeper.gd",
+      "bytes": 3481,
+      "sha256": "b4506fac95c6770621e12d0ebc4c61f06ba4ab4b49a4fe9d5dfadaba1ce34585"
+    },
+    {
+      "path": "experiments/terrace/game/reservoir_keeper.gd.uid",
+      "bytes": 20,
+      "sha256": "3c4bc228e61620cf2a86ccacd5fab8185d68d1eec1557771f6bca2aeed295851"
+    },
+    {
+      "path": "experiments/terrace/game/ridge_caster.gd",
+      "bytes": 2223,
+      "sha256": "ac209fb2242dec19c47d7fa36d99e5142e9c756aea0f8e19a3f9c9d0747948ad"
+    },
+    {
+      "path": "experiments/terrace/game/ridge_caster.gd.uid",
+      "bytes": 19,
+      "sha256": "797a45193607b6da69bb30f843c43f4bca05a61c138aa8c5d1bea9de676cd8cd"
+    },
+    {
+      "path": "experiments/terrace/game/save_queue.gd",
+      "bytes": 1131,
+      "sha256": "2261c94545c2c161734617e423acc09a6ca674bbea95f0d5cd7ba46c41793156"
+    },
+    {
+      "path": "experiments/terrace/game/save_queue.gd.uid",
+      "bytes": 20,
+      "sha256": "f5913cdecdf1a6348a9d0bf3c67acbf54a913c61b1aceef3b2ca5c657465e017"
+    },
+    {
+      "path": "experiments/terrace/game/save_store.gd",
+      "bytes": 1823,
+      "sha256": "a1b3af52ba53cb425ac4545df5c2f129211d1d9ccf3b0a44ff658ba61d9b60e3"
+    },
+    {
+      "path": "experiments/terrace/game/save_store.gd.uid",
+      "bytes": 20,
+      "sha256": "7503e7710ec8fb7fbcc01ec50f6a9f69db93ca5638b183d739726db9fe8ab49a"
+    },
+    {
+      "path": "experiments/terrace/game/sluice_hoist.gd",
+      "bytes": 2528,
+      "sha256": "382e6514faabeb23cb58aba8981deb5008224b80e757630d050663c1c0edea7a"
+    },
+    {
+      "path": "experiments/terrace/game/sluice_hoist.gd.uid",
+      "bytes": 19,
+      "sha256": "57c483050ab521a874d44eba97e25b0e9342e8f4e34d16130d34a043de65fec4"
+    },
+    {
+      "path": "experiments/terrace/game/sluice_masonry.gd",
+      "bytes": 1749,
+      "sha256": "e35bd65aafb61b0215bd91de53b4a1ea59e5eb7ed518482310ac401e39f7c767"
+    },
+    {
+      "path": "experiments/terrace/game/sluice_masonry.gd.uid",
+      "bytes": 20,
+      "sha256": "0d97a7ad6b1fb85477b5e38c6fbc57f595ba7a72c25d410adbb9b27646878e99"
+    },
+    {
+      "path": "experiments/terrace/game/sound_bank.gd",
+      "bytes": 1773,
+      "sha256": "c591c7efebe1593472dd3dcc4b261a0f3a8c5735075fb70e13a05dd9a9849a49"
+    },
+    {
+      "path": "experiments/terrace/game/sound_bank.gd.uid",
+      "bytes": 20,
+      "sha256": "0f3c158d642074dddd4915c1068f7ce00f04ef7b139d18841a8ba3ae692df9d9"
+    },
+    {
+      "path": "experiments/terrace/game/story.gd",
+      "bytes": 6901,
+      "sha256": "c906f62c5e280fe5f017d4ccb312305626b1e7488e13cb83d215ad77b87f0633"
+    },
+    {
+      "path": "experiments/terrace/game/story.gd.uid",
+      "bytes": 20,
+      "sha256": "3440ff41af908ac030d02a1371d544a6eefda81ad702a9796fd7ab7d171068c8"
+    },
+    {
+      "path": "experiments/terrace/game/visuals.gd",
+      "bytes": 4580,
+      "sha256": "55ee11faf8851cc00ba481f74c50f60fdfdeb3fccd7c4b6db0403efa9f1df29e"
+    },
+    {
+      "path": "experiments/terrace/game/visuals.gd.uid",
+      "bytes": 20,
+      "sha256": "eebae6cfc85681b52b6fdad576c883b7f1763c0c0f590777ec0e149e05d36163"
+    },
+    {
+      "path": "experiments/terrace/game/waterworks.gd",
+      "bytes": 17062,
+      "sha256": "0c0bb0167b2cd3ea5c0c40f4f9580ebbefb6336c1fbeaebe30a823b0b172d9bb"
+    },
+    {
+      "path": "experiments/terrace/game/waterworks.gd.uid",
+      "bytes": 20,
+      "sha256": "4b59b46a689a863676df3b5148cf83e43fb71ecdcbaf6eb24472f901bad41b32"
+    },
+    {
+      "path": "experiments/terrace/game/world.gd",
+      "bytes": 23071,
+      "sha256": "b0a206d51bcaafc59d33b64e8ce75711c46bce70b1d0538e7e3dee8d483f78f3"
+    },
+    {
+      "path": "experiments/terrace/game/world.gd.uid",
+      "bytes": 20,
+      "sha256": "c39e45dc52901d5f7a90eb2275f9c4a4611364fd78ae9543179849ecc0e681cc"
+    },
+    {
+      "path": "experiments/terrace/game/world.tscn",
+      "bytes": 163,
+      "sha256": "e84ad3036e7f557cad178642aab1f0b6f9e9b5fcc898b71f4b75099730606afc"
+    },
+    {
+      "path": "experiments/terrace/lab/character_integration.gd",
+      "bytes": 1304,
+      "sha256": "a51d38b6a198a3bd40fde647c51e990377ed231f78f350c067e32f7b59c914a9"
+    },
+    {
+      "path": "experiments/terrace/lab/character_integration.gd.uid",
+      "bytes": 20,
+      "sha256": "93b67f6a95af699a32c19153a304cfc2a0f3300a3af8afc7e95b7bcb019b8cb1"
+    },
+    {
+      "path": "experiments/terrace/lab/character_integration.tscn",
+      "bytes": 186,
+      "sha256": "5a4b59592298b17e55a8419f8c544dbb09dd97c779aeaf31bf6573b4ec54487c"
+    },
+    {
+      "path": "experiments/terrace/lab/compact_hud.gd",
+      "bytes": 2730,
+      "sha256": "0bf523f0609a8fbfa39c0aa713b4deb48cce0b22ba0341c25c77a87e37fd921c"
+    },
+    {
+      "path": "experiments/terrace/lab/compact_hud.gd.uid",
+      "bytes": 20,
+      "sha256": "f8cac5b2fe0ae506d1d2f3d06bb8c0efd6e9920425fbc64ff7ff9baa10d31099"
+    },
+    {
+      "path": "experiments/terrace/lab/exploration.gd",
+      "bytes": 262,
+      "sha256": "d84c7ee574f9eb10c3d8951bf558ebe0b7318bc99cb3c85cae4f99e5e23bd765"
+    },
+    {
+      "path": "experiments/terrace/lab/exploration.gd.uid",
+      "bytes": 20,
+      "sha256": "ccd0e2874afd4e49a2c389dfba4af12c4c2b560729935f94625831cc87befed3"
+    },
+    {
+      "path": "experiments/terrace/lab/ground.gdshader",
+      "bytes": 1968,
+      "sha256": "ea9181eecf64f1c8f935821887a0b9ee2912092a0a88c554325a0efec64b02a4"
+    },
+    {
+      "path": "experiments/terrace/lab/ground.gdshader.uid",
+      "bytes": 19,
+      "sha256": "b1b6fccbcd3a35ef75e8537f50200f6acb2a2d0d5e9c4541a09db067b9bc58fa"
+    },
+    {
+      "path": "experiments/terrace/lab/hero_art_playground.gd",
+      "bytes": 5376,
+      "sha256": "38beea6acb030bd1535e1f4e06ca08b68859405c01d348fe2d3a144c6bedf630"
+    },
+    {
+      "path": "experiments/terrace/lab/hero_art_playground.gd.uid",
+      "bytes": 20,
+      "sha256": "8a82599a4709af9a7455b959000d2d792965626bb64a9bcc855ac90dbe497932"
+    },
+    {
+      "path": "experiments/terrace/lab/hero_art_playground.tscn",
+      "bytes": 183,
+      "sha256": "0759ff3360439cd3b611668586f2be306970d097a6453adfc2b75d03825d819a"
+    },
+    {
+      "path": "experiments/terrace/lab/hero_direction_review.gd",
+      "bytes": 3472,
+      "sha256": "99d346935aea8ec4a62df8f10e19f453f161fec3c9ddbeb8bd6ac7b96d2f9e01"
+    },
+    {
+      "path": "experiments/terrace/lab/hero_direction_review.gd.uid",
+      "bytes": 20,
+      "sha256": "34c57579ed1e631119b3eba49228899b142f7e4bc7af4aadec2dcaf89a48cc28"
+    },
+    {
+      "path": "experiments/terrace/lab/hero_direction_review.tscn",
+      "bytes": 187,
+      "sha256": "5d8d2246c5e06d38098dc78bffa7b8485f36d6a7ef2d94a36dd25dc75e0fc7cc"
+    },
+    {
+      "path": "experiments/terrace/lab/hero_foliage_fade.gd",
+      "bytes": 2044,
+      "sha256": "5b6d3e1659574ba77946d1227f09901a109c73f52d6c1a447116f7b43587bdb8"
+    },
+    {
+      "path": "experiments/terrace/lab/hero_foliage_fade.gd.uid",
+      "bytes": 20,
+      "sha256": "0f4811d4236bb36188160e47bacbcddc7a8526e738b1880175d10a250c82b7b1"
+    },
+    {
+      "path": "experiments/terrace/lab/hero_gait_probe.gd",
+      "bytes": 4411,
+      "sha256": "b3c156f623bd2992542d46515d4a7edbc5f38c4f150b2fec7871e36216be56e2"
+    },
+    {
+      "path": "experiments/terrace/lab/hero_gait_probe.gd.uid",
+      "bytes": 20,
+      "sha256": "ff552757a32e2c1a26674187b9622eedc448e6f9c97f4a9931df5b5787afb490"
+    },
+    {
+      "path": "experiments/terrace/lab/hero_locomotion.gd",
+      "bytes": 3480,
+      "sha256": "dd151bbba5afb9b26e224ffe08253acea1cf253c9b865b9dc31655c7a059047c"
+    },
+    {
+      "path": "experiments/terrace/lab/hero_locomotion.gd.uid",
+      "bytes": 20,
+      "sha256": "f7cb2be04690cad11deff37fea26d377c804c3c1bb36fd8b1ab3b9eb53fd5c82"
+    },
+    {
+      "path": "experiments/terrace/lab/hero_locomotion.gdshader",
+      "bytes": 1337,
+      "sha256": "d88031bb88dd0b6842c34859f79e62787ec6db3dab4b924aa1b1d3195df475a0"
+    },
+    {
+      "path": "experiments/terrace/lab/hero_locomotion.gdshader.uid",
+      "bytes": 20,
+      "sha256": "6df2f0cdc1e48c64c5b9ea91a71b8151f60d999bbd352f8bcc87209b9562fe48"
+    },
+    {
+      "path": "experiments/terrace/lab/hero_pose_combat_review.gd",
+      "bytes": 4980,
+      "sha256": "870a0f89d69da23add67ddb88b9d2fa7684f1d5a06a69a9af80ca613f43331c5"
+    },
+    {
+      "path": "experiments/terrace/lab/hero_pose_combat_review.gd.uid",
+      "bytes": 20,
+      "sha256": "572c653d2d6b5c879a132b75628c0b7b93c537dbd0427a2923a31109d231de1d"
+    },
+    {
+      "path": "experiments/terrace/lab/hero_pose_combat_review.tscn",
+      "bytes": 188,
+      "sha256": "2edead5287f6252d75f3e8e09a52f3e6e34938e7759ab31d79090f88f0c4cc60"
+    },
+    {
+      "path": "experiments/terrace/lab/hero_pose_player.gd",
+      "bytes": 2506,
+      "sha256": "3fcd120df08f2b84387bf0abf23e636d20559d950b5fee5fffd73ce7c56dd192"
+    },
+    {
+      "path": "experiments/terrace/lab/hero_pose_player.gd.uid",
+      "bytes": 20,
+      "sha256": "ee998e6bd748a0a5da1d9e2a0a4961469f2c60660bf1ab3fd3f1d04515747fc8"
+    },
+    {
+      "path": "experiments/terrace/lab/hud.gd",
+      "bytes": 199,
+      "sha256": "3ccbd8c3a5912adcf66f081ffa7125c10c326c987e2284a5f5858cf474c80932"
+    },
+    {
+      "path": "experiments/terrace/lab/hud.gd.uid",
+      "bytes": 20,
+      "sha256": "d5199d3481e9a313004b255faad953cb8e2eba802d0bf710209b2912091c78b1"
+    },
+    {
+      "path": "experiments/terrace/lab/journey.gd",
+      "bytes": 12582,
+      "sha256": "b472da839052d2998119141ce01bd0432c0792e950fb8dc661bb2ddb8f81dc54"
+    },
+    {
+      "path": "experiments/terrace/lab/journey.gd.uid",
+      "bytes": 20,
+      "sha256": "901f46c47ab8390ac6795fbae7bda6412f192bdd43cbb4bd669957e2d51b51d3"
+    },
+    {
+      "path": "experiments/terrace/lab/journey.tscn",
+      "bytes": 160,
+      "sha256": "1d6654132b2162fa59df48df41673d206e70d78530e5c30d9146d35be27e2fb0"
+    },
+    {
+      "path": "experiments/terrace/lab/jungle_shelves.gd",
+      "bytes": 2064,
+      "sha256": "f1d13a38f32b1b48276ad8cbc637061bac2b536ee302dd06196ed8bf794f0b77"
+    },
+    {
+      "path": "experiments/terrace/lab/jungle_shelves.gd.uid",
+      "bytes": 20,
+      "sha256": "3a0a2e268bbaa8cae24c0b079e40322acd5ae36096d8ddd45c30789e93845ccd"
+    },
+    {
+      "path": "experiments/terrace/lab/routes.gd",
+      "bytes": 1386,
+      "sha256": "997165946787467cd846662e19d62c3c9462eee752f3a9f73561dffbc7aafafe"
+    },
+    {
+      "path": "experiments/terrace/lab/routes.gd.uid",
+      "bytes": 20,
+      "sha256": "67b4265b6889e042b03c567963a70a5c281e50102cd471c8ab2d22a59e8ba431"
+    },
+    {
+      "path": "experiments/terrace/lab/spell_growth.gd",
+      "bytes": 551,
+      "sha256": "6b6d05cc4284d39b29cfa53a21260e63c2a51d5e8dcfdd0191db19f4183dedd6"
+    },
+    {
+      "path": "experiments/terrace/lab/spell_growth.gd.uid",
+      "bytes": 19,
+      "sha256": "4655eb9c08c552a38c92af1bf5613a17b4f82539af1c49f42df4e4d5f2fc78fc"
+    },
+    {
+      "path": "experiments/terrace/lab/surroundings.gd",
+      "bytes": 1358,
+      "sha256": "669bc103742ff96b29cbf239a64999cf73baeec335256571c3c719f5e71923c3"
+    },
+    {
+      "path": "experiments/terrace/lab/surroundings.gd.uid",
+      "bytes": 19,
+      "sha256": "aaa2a6f62c33e743f68ffd6b0bda73e69f2cd838ddb586cedf9331be5c079abe"
+    },
+    {
+      "path": "experiments/terrace/lab/thresholds.gd",
+      "bytes": 3343,
+      "sha256": "769a381c873dd738c2ff360afc341d0061d172e4d1e3bfd09930c06a5a072063"
+    },
+    {
+      "path": "experiments/terrace/lab/thresholds.gd.uid",
+      "bytes": 20,
+      "sha256": "5d51bc6105af6aea7fa1326373ff3f7b2937515735c83bea17f3b6ee89e5307f"
+    },
+    {
+      "path": "experiments/terrace/lab/world.gd",
+      "bytes": 14251,
+      "sha256": "bed36800dcfd48234ddf51fe39faf1633d4f25da48ca86faf7ae3994738bb7f0"
+    },
+    {
+      "path": "experiments/terrace/lab/world.gd.uid",
+      "bytes": 20,
+      "sha256": "d180d5f6dc02314d9598c15a2e6414fe64ca21e2e3299d948dae9372cc6c82a6"
+    },
+    {
+      "path": "experiments/terrace/lab/world.tscn",
+      "bytes": 167,
+      "sha256": "56a6d0702d44bb9950eee23a10d876db460e6e47950b5cc1680b778835c03497"
+    },
+    {
+      "path": "experiments/terrace/maps/altar_layout.gd",
+      "bytes": 1188,
+      "sha256": "14cc8d5f5ef2b6cd10ddc778bcd7b86c16c4631d46ba6ac45711d555410abdba"
+    },
+    {
+      "path": "experiments/terrace/maps/altar_layout.gd.uid",
+      "bytes": 20,
+      "sha256": "257b673b9b7914a7852c8e0d1a1a27e61184cace47c01ee0076762d4c1f7dd7d"
+    },
+    {
+      "path": "experiments/terrace/maps/assets/forest_props_v1.png",
+      "bytes": 2380565,
+      "sha256": "057e41fb5d835d9d76adef385a75f438149ce2c503e22ffbe609c9a3d084aefc"
+    },
+    {
+      "path": "experiments/terrace/maps/assets/forest_props_v1.png.import",
+      "bytes": 961,
+      "sha256": "ee48d210b3df2fee5a7e59fee95429f61d23fafc46151c5166951453ef3d13d6"
+    },
+    {
+      "path": "experiments/terrace/maps/assets/manifest.json",
+      "bytes": 731,
+      "sha256": "d718727eece8a98518b0bd7df48ec73061e52e841df5d27cd0742e4e4e0fc753"
+    },
+    {
+      "path": "experiments/terrace/maps/assets/props.json",
+      "bytes": 1102,
+      "sha256": "fbeb51b2e9af937c43b626cdfb632c027873b35e8db16919d28bfd7ec9b7ebf3"
+    },
+    {
+      "path": "experiments/terrace/maps/assets/README.md",
+      "bytes": 5982,
+      "sha256": "ddab1b8962d5a344254182bf648187e992b3de3571432354b9c742c75c8ec0c3"
+    },
+    {
+      "path": "experiments/terrace/maps/assets/surface_materials_v1.png",
+      "bytes": 2566217,
+      "sha256": "579cfefa3ba95d646214a89e9ce93d00e91c4d3b278352ad6cc6a7125a0975f0"
+    },
+    {
+      "path": "experiments/terrace/maps/assets/surface_materials_v1.png.import",
+      "bytes": 976,
+      "sha256": "1da67b80de895b25932936eb270ffa94563ca6b6f1c17a2be6a4e91893b0ff08"
+    },
+    {
+      "path": "experiments/terrace/maps/assets/water_surface_v1.png",
+      "bytes": 1871484,
+      "sha256": "e473c9ea9e8ab6a8a3a0451d6f60f06f079bb64b5e293dd2b63801f440b80690"
+    },
+    {
+      "path": "experiments/terrace/maps/assets/water_surface_v1.png.import",
+      "bytes": 963,
+      "sha256": "4a7b5ebae9770715f775085b6c7b71254997a26f7ff15ba0e74de0446ec2c0f5"
+    },
+    {
+      "path": "experiments/terrace/maps/composition_proof.gd",
+      "bytes": 10948,
+      "sha256": "02635d51c7f925f3cac1570e7854f3d293f528e7ef355dfb88cd32d1d4b073c9"
+    },
+    {
+      "path": "experiments/terrace/maps/composition_proof.gd.uid",
+      "bytes": 19,
+      "sha256": "09975fb05aefd549a5db2b9412fff9f6eff6d2c62a309feebc38b411f9904cb9"
+    },
+    {
+      "path": "experiments/terrace/maps/composition_proof.tscn",
+      "bytes": 182,
+      "sha256": "579c57e55daa579dc48d5141f9fb51b82f23d6a627ef3d1e7e8129c407ca98be"
+    },
+    {
+      "path": "experiments/terrace/maps/composition_proof_ground.gdshader",
+      "bytes": 2105,
+      "sha256": "e5cea2b94080c44d69ceab87736788dc090fdc0af578589958002c16e1ee527d"
+    },
+    {
+      "path": "experiments/terrace/maps/composition_proof_ground.gdshader.uid",
+      "bytes": 20,
+      "sha256": "ca20ca96dfd86a5eb12cd5cd5dbbdbcb5f464705815448012ffb198d495dfa9c"
+    },
+    {
+      "path": "experiments/terrace/maps/composition_proof_surface.gd",
+      "bytes": 6526,
+      "sha256": "105c7a42f2a5300c1c120e2c0586508a506e79d8b56d30f6d07b7cd2f3154f9c"
+    },
+    {
+      "path": "experiments/terrace/maps/composition_proof_surface.gd.uid",
+      "bytes": 19,
+      "sha256": "0cd2647fdebf58516b50e013abae79bbc70008e54d236a8ea9dcf185a592ceff"
+    },
+    {
+      "path": "experiments/terrace/maps/environment_art.gd",
+      "bytes": 7217,
+      "sha256": "e6ba8bb45c3907785b24d5ec25018293b222608a1ac9acbaa071fcbfb31b1532"
+    },
+    {
+      "path": "experiments/terrace/maps/environment_art.gd.uid",
+      "bytes": 20,
+      "sha256": "0a17bdfd5d14311ec7500a47791b409ac7bf357cbf7e471f91d00749a024e910"
+    },
+    {
+      "path": "experiments/terrace/maps/environment_kit.gd",
+      "bytes": 4641,
+      "sha256": "1c1a8d07fc434d5c7087122292af23a5ae41567a565fd8d3920b6a86ad714568"
+    },
+    {
+      "path": "experiments/terrace/maps/environment_kit.gd.uid",
+      "bytes": 20,
+      "sha256": "9df3067b681b85fc7a435c8f88a5fe36b7cd0d7b9028ce3dfc02f682bb239a15"
+    },
+    {
+      "path": "experiments/terrace/maps/forest_pilgrimage_graybox.gd",
+      "bytes": 10404,
+      "sha256": "7392b5280c8ec47ca947c31d41f39fdf42813202cf339f5310a56000e271218c"
+    },
+    {
+      "path": "experiments/terrace/maps/forest_pilgrimage_graybox.tscn",
+      "bytes": 196,
+      "sha256": "2cd4b1e1868af5d0151848f0c2bdbc0a2cb2ae2819f47fd6239fbcb41087be8e"
+    },
+    {
+      "path": "experiments/terrace/maps/forest_pilgrimage_graybox_surface.gd",
+      "bytes": 3948,
+      "sha256": "25f2b10231ca2edec7dc42fa1df897a7c10f0da094a098108cc07bd0f8e16d9d"
+    },
+    {
+      "path": "experiments/terrace/maps/forest_pilgrimage_player.gd",
+      "bytes": 1551,
+      "sha256": "2cfa4beb2e80d8b8bc35a8894309cf3fbc282dc01f7ef166eacf1455099fe6bc"
+    },
+    {
+      "path": "experiments/terrace/maps/ground.gdshader",
+      "bytes": 3256,
+      "sha256": "b19e54bbf8c7e5a61f9445f825972420923e5067d7d452df9dff4fb903032143"
+    },
+    {
+      "path": "experiments/terrace/maps/ground.gdshader.uid",
+      "bytes": 20,
+      "sha256": "db208542f41fa9f086ef04dca0888431ddd378ba1561205bf1c660b33f014048"
+    },
+    {
+      "path": "experiments/terrace/maps/map_preview.gd",
+      "bytes": 9995,
+      "sha256": "08f39d4e00f2a67beb1251e1d6018e338817f94f79b63fe8ba6ce5e6b5fe839e"
+    },
+    {
+      "path": "experiments/terrace/maps/map_preview.gd.uid",
+      "bytes": 20,
+      "sha256": "12108a5d411f531771bcefb923459400c10d7c4e2076f69f5504c5f3a189a78f"
+    },
+    {
+      "path": "experiments/terrace/maps/map_preview.tscn",
+      "bytes": 169,
+      "sha256": "42a474b429a8ca4918205624fdf2bad78db9c5edc2910b99e8aa47642981c634"
+    },
+    {
+      "path": "experiments/terrace/maps/map_surface.gd",
+      "bytes": 4360,
+      "sha256": "17b890131d41eb1a91e03da4b2921465ca68ec1bbb4d1d80cbf211327bf7ae53"
+    },
+    {
+      "path": "experiments/terrace/maps/map_surface.gd.uid",
+      "bytes": 19,
+      "sha256": "931a20b74e6463f33bcc92e398dd44750b5254fbe6ff91534094dcc6f7bf2e49"
+    },
+    {
+      "path": "experiments/terrace/maps/preview_player.gd",
+      "bytes": 1915,
+      "sha256": "83ac44fbd051c55d6203c21568bcfb98ddf8c64797ec1b67d2db0b49457ac4d7"
+    },
+    {
+      "path": "experiments/terrace/maps/preview_player.gd.uid",
+      "bytes": 20,
+      "sha256": "01fc91f77b548a86fe8bfffd8c33ad4bcd637d6b054eeaab488bc4f10aa1ba0d"
+    },
+    {
+      "path": "experiments/terrace/maps/README.md",
+      "bytes": 7759,
+      "sha256": "9d26f7f6f82c1a397c1ab91a64f61e74331937215266fa1f64d27f020a8cee69"
+    },
+    {
+      "path": "experiments/terrace/maps/view_compare.gd",
+      "bytes": 9864,
+      "sha256": "9a83834b37ef075822b510681937cd158f7ebf3c46754af0aa13ec02fe86dd93"
+    },
+    {
+      "path": "experiments/terrace/maps/view_compare.gd.uid",
+      "bytes": 20,
+      "sha256": "6c6c250e154d2aa5851e3520de073ed730b41c09b5d73e447bb21029c6130d52"
+    },
+    {
+      "path": "experiments/terrace/maps/view_compare.tscn",
+      "bytes": 175,
+      "sha256": "52b23c844e59f29c3a186b3bbbc2ef8e72edac3e79c7cd88bba740730fd25bf5"
+    },
+    {
+      "path": "experiments/terrace/maps/view_compare_enemy.gd",
+      "bytes": 905,
+      "sha256": "6d4df22af2045524cba098b40b3b32813f313fe6949791dd1949ff94ffcb3a4f"
+    },
+    {
+      "path": "experiments/terrace/maps/view_compare_enemy.gd.uid",
+      "bytes": 20,
+      "sha256": "d69a7d1b275338c57fbfbc9d01aede8c67bbc7ca142cbfa528c73a327cfa1c35"
+    },
+    {
+      "path": "experiments/terrace/maps/view_compare_ground.gdshader",
+      "bytes": 1108,
+      "sha256": "11ce53da08f4a90de93b46587ca28c38765bab93f1330256a1ca3c20f00eccd0"
+    },
+    {
+      "path": "experiments/terrace/maps/view_compare_ground.gdshader.uid",
+      "bytes": 20,
+      "sha256": "56e35d48674074f7bc4b33545a70aeb832fd12ee7745fc755490d33fda702f9c"
+    },
+    {
+      "path": "experiments/terrace/maps/view_compare_player.gd",
+      "bytes": 466,
+      "sha256": "c1ec69a707c279c71b7210b14f408ad9be89a4dac05525d6f5b022f92b58e683"
+    },
+    {
+      "path": "experiments/terrace/maps/view_compare_player.gd.uid",
+      "bytes": 20,
+      "sha256": "c0ca743b45f18ec25f13e2c08e0a89e8ec595a8afb4e521738583fa401ccb5d8"
+    },
+    {
+      "path": "experiments/terrace/maps/view_compare_surface.gd",
+      "bytes": 306,
+      "sha256": "109fe7b3d5594fdd2a6dd02b9908aea6a2d87b3e1e8fc8b45ca6be2efe78bb41"
+    },
+    {
+      "path": "experiments/terrace/maps/view_compare_surface.gd.uid",
+      "bytes": 20,
+      "sha256": "74cf17d86fef7ae19ad43635073c55a2bb48a2e25ebcd6cac9791dcb03f04461"
+    },
+    {
+      "path": "experiments/terrace/project.godot",
+      "bytes": 775,
+      "sha256": "ceee0616ad7c2c34ac4c43f6474b669a1ceeb2ae8ec10b7315ecb3dfbb2031fe"
+    },
+    {
+      "path": "experiments/terrace/README.md",
+      "bytes": 844,
+      "sha256": "4aeecd728c6437dfd9802770dcd275610f169f0d1154476f537b774e301e9938"
+    },
+    {
+      "path": "experiments/terrace/scripts/build_macos.ps1",
+      "bytes": 1057,
+      "sha256": "2b01476fe824571418934e749d60ca021a0eaa5048dfc127b4c3a9b7dd4912cc"
+    },
+    {
+      "path": "experiments/terrace/scripts/package_macos.py",
+      "bytes": 5639,
+      "sha256": "aa20363121489b5910e25e59215468e5354182b80157ac61fd9e57507d5ed5ea"
+    },
+    {
+      "path": "experiments/terrace/tests/character_integration.gd",
+      "bytes": 7122,
+      "sha256": "36e55cb68292262c38af92eaa47b3c396468370417382e0729b24f989233ba91"
+    },
+    {
+      "path": "experiments/terrace/tests/character_integration.gd.uid",
+      "bytes": 19,
+      "sha256": "ce63ad23d6678d994dc50dac5145ccc19d54545ebc60aa4b42ff8188f2dbcc03"
+    },
+    {
+      "path": "experiments/terrace/tests/combat_performance.gd",
+      "bytes": 3014,
+      "sha256": "a636b5c0743f2070af42aefe1bef0a75b91838bff8d8d8eed7a484bac9e8fac1"
+    },
+    {
+      "path": "experiments/terrace/tests/combat_performance.gd.uid",
+      "bytes": 19,
+      "sha256": "ecb62847babffb80a6c30f0f9210e6f51affcf4e4b1f9015979b905180bf5668"
+    },
+    {
+      "path": "experiments/terrace/tests/composition_proof_review.gd",
+      "bytes": 4106,
+      "sha256": "081cbeed19305ce05be7b3c72786ab761c963e4232682b54d020b825ede5c730"
+    },
+    {
+      "path": "experiments/terrace/tests/composition_proof_review.gd.uid",
+      "bytes": 20,
+      "sha256": "b5ebdf50673ef834742d8d2b200d89895f63acfea0ce76a05eee4dbdcc0eed66"
+    },
+    {
+      "path": "experiments/terrace/tests/core_response.gd",
+      "bytes": 2881,
+      "sha256": "1e5194e87e2b894628a587d57d123dc20705571416704b7b2b4bd38d7b1d72f5"
+    },
+    {
+      "path": "experiments/terrace/tests/core_response.gd.uid",
+      "bytes": 20,
+      "sha256": "c4e4d08b85392269ef57fa7519337ac15335c3872307bd65543c818057c60e1c"
+    },
+    {
+      "path": "experiments/terrace/tests/diagonal_strike.gd",
+      "bytes": 1698,
+      "sha256": "875c549f1bbc2ff21569a59d885448f8a0a818f08a6a6711457cbfa2aa61a348"
+    },
+    {
+      "path": "experiments/terrace/tests/diagonal_strike.gd.uid",
+      "bytes": 19,
+      "sha256": "7e4972e1ea70426bf9aef87371321ba42074ae925ccb744b28794b5327245eba"
+    },
+    {
+      "path": "experiments/terrace/tests/environment_art_review.gd",
+      "bytes": 3504,
+      "sha256": "8afa52b903f0645d7e832b951025dc2ef56fbf00a7e0090f9ccc47a4d94af3da"
+    },
+    {
+      "path": "experiments/terrace/tests/environment_art_review.gd.uid",
+      "bytes": 20,
+      "sha256": "db4e5e77d683b70b7f9b5bc5c5f15bdb1a04bdba85d5504c4f97caae8f9e378c"
+    },
+    {
+      "path": "experiments/terrace/tests/exploration.gd",
+      "bytes": 3997,
+      "sha256": "7bb19fb68b4a1c5baf363177b6e1885db433bfedeed157b389c1182b65ab9e36"
+    },
+    {
+      "path": "experiments/terrace/tests/exploration.gd.uid",
+      "bytes": 19,
+      "sha256": "f9113ecfebd06728343fd43a8ee68deffe2daf53dcd7066ea2bebadcda48fd32"
+    },
+    {
+      "path": "experiments/terrace/tests/forest_pilgrimage_graybox_review.gd",
+      "bytes": 4094,
+      "sha256": "052b115149f71d8f70e1a961cf5988e5cf4ca03453c3e05073da7d0aff368712"
+    },
+    {
+      "path": "experiments/terrace/tests/fox_fire_contract.gd",
+      "bytes": 2415,
+      "sha256": "ab71a05701af0ad004d4add578f20d1d6083a80512bf99a3b735639a2032e8ea"
+    },
+    {
+      "path": "experiments/terrace/tests/fox_fire_contract.gd.uid",
+      "bytes": 19,
+      "sha256": "40854089847eb2f7539c9d3883e1781b5b380582e7f887d3dc802cf4e6926587"
+    },
+    {
+      "path": "experiments/terrace/tests/gait_cycle.gd",
+      "bytes": 2457,
+      "sha256": "e251fccce6db56c0cd5da75840f2a32e868dca2aa84923050094dc6fe6c4e309"
+    },
+    {
+      "path": "experiments/terrace/tests/gait_cycle.gd.uid",
+      "bytes": 20,
+      "sha256": "033225b1bc642685a1819b768155aedccf0be765912d89d1233864834d0ac918"
+    },
+    {
+      "path": "experiments/terrace/tests/ground_surfaces.gd",
+      "bytes": 3162,
+      "sha256": "259ae6a2b55e280b67ff4a4146128847d2f6daff1796b1f2607568941bfd54a1"
+    },
+    {
+      "path": "experiments/terrace/tests/ground_surfaces.gd.uid",
+      "bytes": 20,
+      "sha256": "84dc21d296bddc6d063f8bcc0b40b883302a6b1e746fe4f504b93a785c850772"
+    },
+    {
+      "path": "experiments/terrace/tests/grounded_run.gd",
+      "bytes": 2402,
+      "sha256": "5e96e968275f9cc544a12217683034451535d3503d3c73a971fac11e5efa7c15"
+    },
+    {
+      "path": "experiments/terrace/tests/grounded_run.gd.uid",
+      "bytes": 19,
+      "sha256": "a50a02ee32003ae0582d90ebd8be8378411a3d314f93a1acf16328a4c16e9f6c"
+    },
+    {
+      "path": "experiments/terrace/tests/hand_origin.gd",
+      "bytes": 1596,
+      "sha256": "1b3db84e9c5da9f78832acb85e55a4782c9bc76faa9da9ad66e553acb40e8338"
+    },
+    {
+      "path": "experiments/terrace/tests/hand_origin.gd.uid",
+      "bytes": 19,
+      "sha256": "8f78ded9bfe97c1c177db4e2f6d79120c16ddbadaa2b25f9f84244d95696e3ad"
+    },
+    {
+      "path": "experiments/terrace/tests/hero_art_playground.gd",
+      "bytes": 4199,
+      "sha256": "66706f5404cd2ab6ee6b1e46e472043b9ef6d1569e94925dd656e443669d7bb9"
+    },
+    {
+      "path": "experiments/terrace/tests/hero_art_playground.gd.uid",
+      "bytes": 20,
+      "sha256": "6ed428965edc7fdd0445f1300ef31ad6b078103147732d5e2f217a29d628653e"
+    },
+    {
+      "path": "experiments/terrace/tests/hero_asset_review.gd",
+      "bytes": 3485,
+      "sha256": "5979a2f9508a364bc1d7efecfd774c55146e5198f16053afab6d32efaf68bfae"
+    },
+    {
+      "path": "experiments/terrace/tests/hero_asset_review.gd.uid",
+      "bytes": 19,
+      "sha256": "654363b5339749b4aa4ade70265ece9e9b2d8c47624d0fae67219fb6c5072435"
+    },
+    {
+      "path": "experiments/terrace/tests/hero_continuous_review.gd",
+      "bytes": 3004,
+      "sha256": "4901bf759afbc8ac419968809f8b4645a732f1d59331056c44adeae9d419a9d1"
+    },
+    {
+      "path": "experiments/terrace/tests/hero_continuous_review.gd.uid",
+      "bytes": 20,
+      "sha256": "04d38397f6db694e5a778611b011b5c5d7935f0e222a30bd5dade7fa7ebcc300"
+    },
+    {
+      "path": "experiments/terrace/tests/hero_gait_probe.gd",
+      "bytes": 2644,
+      "sha256": "5eff4059c2c90dd2320cd7453c67a4dd05fd61f35cd145fe5c256a0280208cda"
+    },
+    {
+      "path": "experiments/terrace/tests/hero_gait_probe.gd.uid",
+      "bytes": 19,
+      "sha256": "15b1ded47cfd36b27daef83f2dc5409989e5fcd41df7b060fb57383b38bbfdf0"
+    },
+    {
+      "path": "experiments/terrace/tests/hero_hand_alignment.gd",
+      "bytes": 2078,
+      "sha256": "5f3f62f1a18b7cb788bee017a2b61aef0c5440e2ba42547bb065db07868001b2"
+    },
+    {
+      "path": "experiments/terrace/tests/hero_hand_alignment.gd.uid",
+      "bytes": 20,
+      "sha256": "2aa41995e17eea0c956911d23ad3d757c795e7c0fa5c740050493d452f069859"
+    },
+    {
+      "path": "experiments/terrace/tests/hero_locomotion_review.gd",
+      "bytes": 5825,
+      "sha256": "4fd05c41b73c3e862a7fbd40de265387ad0d239586c7d2f0c4c834c126b14727"
+    },
+    {
+      "path": "experiments/terrace/tests/hero_locomotion_review.gd.uid",
+      "bytes": 20,
+      "sha256": "124337742e3c85b04b401a05a0de9083b916dd521854da634605342c33fa4406"
+    },
+    {
+      "path": "experiments/terrace/tests/hero_pose_combat_review.gd",
+      "bytes": 3202,
+      "sha256": "ae5ef15421cd9f238579bb445b67bcd1ef20fb87204d2049390b3771f2144508"
+    },
+    {
+      "path": "experiments/terrace/tests/hero_pose_combat_review.gd.uid",
+      "bytes": 20,
+      "sha256": "a18e3e50dbffc7a3d85244228e503bab75607350570f2a81559cff1521db5827"
+    },
+    {
+      "path": "experiments/terrace/tests/hero_pose_sheet_review.gd",
+      "bytes": 2074,
+      "sha256": "d107aafaa9939bddf886e5c03555748557f24ada2b00d9c30a63e562b5e5563f"
+    },
+    {
+      "path": "experiments/terrace/tests/hero_pose_sheet_review.gd.uid",
+      "bytes": 19,
+      "sha256": "f4e13aba0be49f8604d4958c77e6d44fe0bfd1eaf67fcb925687f8369041ff1a"
+    },
+    {
+      "path": "experiments/terrace/tests/hero_static_3d_review.gd",
+      "bytes": 3737,
+      "sha256": "ea6f0890f8a53d148c115182ce08e5b2af8d4a92020818fcbb2159f85cdb765b"
+    },
+    {
+      "path": "experiments/terrace/tests/hero_static_3d_review.gd.uid",
+      "bytes": 20,
+      "sha256": "f2703a90eca7ea836475fbbb4b6642035432b63d090eb2f034c6ccc02b12c17c"
+    },
+    {
+      "path": "experiments/terrace/tests/hero_walk_review.gd",
+      "bytes": 3076,
+      "sha256": "2516f78aeb2d69b4cc8f6eab033e2f13dcf92325320a89ff7e8373043fa80be4"
+    },
+    {
+      "path": "experiments/terrace/tests/hero_walk_review.gd.uid",
+      "bytes": 20,
+      "sha256": "90ceb12e5f7613604d881ffb30b7e31d47000934274dd177c814ddb7dc4e5b60"
+    },
+    {
+      "path": "experiments/terrace/tests/hud_concepts.gd",
+      "bytes": 2895,
+      "sha256": "421ff441ae66c1d424de0caf1ff16844da58898677be7d71863b6a769d0725c1"
+    },
+    {
+      "path": "experiments/terrace/tests/hud_concepts.gd.uid",
+      "bytes": 20,
+      "sha256": "fc1a179e8cc12c9530d4ef68c8c364d7d6403a38cab5ddfce8d903163665d540"
+    },
+    {
+      "path": "experiments/terrace/tests/journey_flow.gd",
+      "bytes": 3958,
+      "sha256": "49efe1694f5edc30269d0411773f5f4e6a8c7032be3e0272e6b53cac4a52649a"
+    },
+    {
+      "path": "experiments/terrace/tests/journey_flow.gd.uid",
+      "bytes": 20,
+      "sha256": "701bc1027fcaa2a1ca080d5715ff2412fb5be9197382cd429eb87e0d2e85060b"
+    },
+    {
+      "path": "experiments/terrace/tests/journey_playthrough.gd",
+      "bytes": 2813,
+      "sha256": "b53b4af9bd6ffd386efb6961c55aef6e3556a5479417bbf01bf52ccf721bb04e"
+    },
+    {
+      "path": "experiments/terrace/tests/journey_playthrough.gd.uid",
+      "bytes": 20,
+      "sha256": "083595e0ea088b992c72c71091e93c66807cbfc2f606a1ef54a83913a7b02f3f"
+    },
+    {
+      "path": "experiments/terrace/tests/journey_routes.gd",
+      "bytes": 3755,
+      "sha256": "11dbf43832d4261f7c871832bb9e86a6d849dbd46cbbc6094b5828585f626aa9"
+    },
+    {
+      "path": "experiments/terrace/tests/journey_routes.gd.uid",
+      "bytes": 20,
+      "sha256": "4c1aa95e3e87a919df942ba8fb90748ccc3a445988c62a5383e13849865396dd"
+    },
+    {
+      "path": "experiments/terrace/tests/keyboard_choices.gd",
+      "bytes": 3191,
+      "sha256": "e2ab0496a24d0fa2a28bed318f8aaf46dc306bbe25b802a3d44e92c5d2aaea05"
+    },
+    {
+      "path": "experiments/terrace/tests/keyboard_choices.gd.uid",
+      "bytes": 20,
+      "sha256": "04732dc470e8af1838cf4ad3c3a744323c304ad24e8968de1af20b03bdb6c742"
+    },
+    {
+      "path": "experiments/terrace/tests/lab_combat.gd",
+      "bytes": 1052,
+      "sha256": "0cadbbb3f824bde3ebc37d49075d25fb8b76971e974c9456d2836077d2950d54"
+    },
+    {
+      "path": "experiments/terrace/tests/lab_combat.gd.uid",
+      "bytes": 20,
+      "sha256": "e8d79c4adbe7d895f21635f7ba7a16b513cb1b6a771ea213be41b3806ec16676"
+    },
+    {
+      "path": "experiments/terrace/tests/lab_contract.gd",
+      "bytes": 2288,
+      "sha256": "92a1ec318e9e7ebddcd4ff0cc3ff365b73a0fcecba63a32b4c1117571114a926"
+    },
+    {
+      "path": "experiments/terrace/tests/lab_contract.gd.uid",
+      "bytes": 20,
+      "sha256": "bf5d542af0f359660c7387b6e97966135aa8b241eef9a42ed445cfff9c590f18"
+    },
+    {
+      "path": "experiments/terrace/tests/lab_flow.gd",
+      "bytes": 5902,
+      "sha256": "d8ce76af36570ba562d3f07b0b0434ce67ac6c0ce69909a4c35ea38909c7e7a7"
+    },
+    {
+      "path": "experiments/terrace/tests/lab_flow.gd.uid",
+      "bytes": 20,
+      "sha256": "a4b8eea4debdae0b34241e53218f134f60394d72fef27fe57f90308d8b831260"
+    },
+    {
+      "path": "experiments/terrace/tests/lab_footing.gd",
+      "bytes": 2050,
+      "sha256": "a4e1b94ef9604e4dd7c284a032ac0f5d24cfabb5b2fec99be524687bb2a90627"
+    },
+    {
+      "path": "experiments/terrace/tests/lab_footing.gd.uid",
+      "bytes": 20,
+      "sha256": "231193c14c0e50d4fa47df52c10087b16058af16fd1fdf0fbd88c1e50d4c797b"
+    },
+    {
+      "path": "experiments/terrace/tests/lab_growth.gd",
+      "bytes": 3843,
+      "sha256": "c466123feeb702473e478a6c61a97d4b3dcf48d3d72040f5b00261e9b3dc27c8"
+    },
+    {
+      "path": "experiments/terrace/tests/lab_growth.gd.uid",
+      "bytes": 20,
+      "sha256": "05e1fe97994704928180db25d4b4384cab49b77a31bd5e218821eea6b6bf66e7"
+    },
+    {
+      "path": "experiments/terrace/tests/lab_render.gd",
+      "bytes": 1247,
+      "sha256": "1c642592ae600b4b7e44e7b99fc483ed5e881280f954262ca26f178634107480"
+    },
+    {
+      "path": "experiments/terrace/tests/lab_render.gd.uid",
+      "bytes": 20,
+      "sha256": "099989b38e467ebac76ab7349d0a7331c37b07b5e70bdf41b34a037eb8bca14c"
+    },
+    {
+      "path": "experiments/terrace/tests/live_combat_performance.gd",
+      "bytes": 4604,
+      "sha256": "e5b78511d4003a4af9c9b3b4afd5c02cd06de4310ad5cc4d6ea3b6445b8ebfa2"
+    },
+    {
+      "path": "experiments/terrace/tests/live_combat_performance.gd.uid",
+      "bytes": 20,
+      "sha256": "a551e85050e82c5b9d7f1909754f8d9b54fad7786c2920023f854da6a3279a4a"
+    },
+    {
+      "path": "experiments/terrace/tests/lookout_contract.gd",
+      "bytes": 1629,
+      "sha256": "d4733d1128cb6ff1a39405845085d11dc3ae41acec36d8ba0569ef0b65eb1233"
+    },
+    {
+      "path": "experiments/terrace/tests/lookout_contract.gd.uid",
+      "bytes": 19,
+      "sha256": "a57f69d21cc255aefbef6b321987cd6c4c53c2bcf9aa20321c76b77b6a079ab1"
+    },
+    {
+      "path": "experiments/terrace/tests/map_preview_review.gd",
+      "bytes": 5915,
+      "sha256": "c46c0320c68b3f9e4b26502e57778f52fce9d76cb473446e5607b1c6a588cc4e"
+    },
+    {
+      "path": "experiments/terrace/tests/map_preview_review.gd.uid",
+      "bytes": 20,
+      "sha256": "116641de6beb95a7227e7ed15946e50c7be0c8f32e3a4ee37a8e6687cabe5dab"
+    },
+    {
+      "path": "experiments/terrace/tests/moving_strike.gd",
+      "bytes": 2907,
+      "sha256": "06cd030ec15b31d2981e6b952478fef6ca554d6f7e6cc757df889eabe4afc944"
+    },
+    {
+      "path": "experiments/terrace/tests/moving_strike.gd.uid",
+      "bytes": 20,
+      "sha256": "f912f550a5f9a98b17961898764e050bb2bd720cd6b0f232549696ebe303873f"
+    },
+    {
+      "path": "experiments/terrace/tests/presentation_review.gd",
+      "bytes": 1268,
+      "sha256": "48dacbe7885a061a0d47c6d2c9b5e1880de89b65aa92b7299c473a4320623547"
+    },
+    {
+      "path": "experiments/terrace/tests/presentation_review.gd.uid",
+      "bytes": 20,
+      "sha256": "4ea9df192fbbbbc829a9e5c33adf54b21a12be4e6d7f0280401bdbe89c01f2cb"
+    },
+    {
+      "path": "experiments/terrace/tests/rear_gait_pose_guide.gd",
+      "bytes": 4760,
+      "sha256": "898336c8713d93e3ba3d1008b5db06acc178c02f97da33cd7b78ac52a00ace74"
+    },
+    {
+      "path": "experiments/terrace/tests/render_surface_motion.gd",
+      "bytes": 3624,
+      "sha256": "6572317f10f2a1bb093545b3797f7719acc0807ef2f1bf75d1378ae05c085ad6"
+    },
+    {
+      "path": "experiments/terrace/tests/render_surface_motion.gd.uid",
+      "bytes": 20,
+      "sha256": "0ebf495da066400e44ffdd7dcf8ad5beb323b35b218b32e1d94fbf609d5a29a5"
+    },
+    {
+      "path": "experiments/terrace/tests/save_queue_contract.gd",
+      "bytes": 1546,
+      "sha256": "89e7ed4b1a76ee765f21cfdfe0a39b39b1c3433b2d6f4efe452473b564d0057d"
+    },
+    {
+      "path": "experiments/terrace/tests/save_queue_contract.gd.uid",
+      "bytes": 20,
+      "sha256": "07f9205ba2b112884a6afc83986564b796253d30385403f87db77c8c237e48ac"
+    },
+    {
+      "path": "experiments/terrace/tests/slope_cues.gd",
+      "bytes": 2699,
+      "sha256": "041d12846ef9cd6ca44e034509622022d363a91a3cc4a2f71022d248449465d3"
+    },
+    {
+      "path": "experiments/terrace/tests/slope_cues.gd.uid",
+      "bytes": 20,
+      "sha256": "ceb0046d9f5d6d2eea4067ffd5f6dfbf204d5738583e45b8eeee617091c2705b"
+    },
+    {
+      "path": "experiments/terrace/tests/strike_range.gd",
+      "bytes": 1550,
+      "sha256": "e92e3e1b8a37ae1c3bf10e302948e1f2d6b72a56ef903c40225da85a6a2f37a4"
+    },
+    {
+      "path": "experiments/terrace/tests/strike_range.gd.uid",
+      "bytes": 19,
+      "sha256": "d4253be2598d3d0ce5e499c02d0a08138cbfc1bebbc66fe795ecbcc4e983a2dc"
+    },
+    {
+      "path": "experiments/terrace/tests/terrace_review.gd",
+      "bytes": 2288,
+      "sha256": "3fff8a3e8a5142612d13d2df06e637729e76468779ed433511158ee18f3eabeb"
+    },
+    {
+      "path": "experiments/terrace/tests/terrace_review.gd.uid",
+      "bytes": 20,
+      "sha256": "e878cfbec90eaec6707307d5a651f8edde452c83e97f5fad4ffd15dda2963899"
+    },
+    {
+      "path": "experiments/terrace/tests/terrain_probe.gd",
+      "bytes": 990,
+      "sha256": "9fb205a4fd9f0777b5542799bb2e5f6e6bbc03b7475de2016b6da11a1200d851"
+    },
+    {
+      "path": "experiments/terrace/tests/terrain_probe.gd.uid",
+      "bytes": 19,
+      "sha256": "8976995fd3b4ad696291480bb24f6b4f7c01ad4a3fbcdae6eac7edde20b0d96b"
+    },
+    {
+      "path": "experiments/terrace/tests/threshold_contract.gd",
+      "bytes": 1518,
+      "sha256": "d8e83ef30893a9bf800214bd5e7074a9c99298955f1ab3e676ad7fe0ff7c53d1"
+    },
+    {
+      "path": "experiments/terrace/tests/threshold_contract.gd.uid",
+      "bytes": 20,
+      "sha256": "f87d3e44a0bee1924b0b4049c9c11cd1a5449d21de19b6f791df46cacb98ad5b"
+    },
+    {
+      "path": "experiments/terrace/tests/view_compare_review.gd",
+      "bytes": 6446,
+      "sha256": "0585b1ea566de309b32447e2774b2ac1ab88c424f1a091db68a435aece6c2189"
+    },
+    {
+      "path": "experiments/terrace/tests/view_compare_review.gd.uid",
+      "bytes": 19,
+      "sha256": "8b343be0a8eba55973c3bc43f7a371506ac1fb02e3d9c3c6b06af68570ee3a6d"
+    },
+    {
+      "path": "experiments/terrace/tests/warning_cache_contract.gd",
+      "bytes": 4792,
+      "sha256": "4e40eae2d4005238342e0da9075db424ae5cc75884062e8cf912e85a5349209e"
+    },
+    {
+      "path": "experiments/terrace/tests/warning_cache_contract.gd.uid",
+      "bytes": 20,
+      "sha256": "82ea5f860bc920430d23975654dafe0ce47b05572f959936f88851d4731732cc"
+    },
+    {
+      "path": "experiments/terrace/tests/warning_damage.gd",
+      "bytes": 1758,
+      "sha256": "29adb66e7040a85f32203fabb6f247ce2b90ef259b1f539c7e823e4d9d1f64fd"
+    },
+    {
+      "path": "experiments/terrace/tests/warning_damage.gd.uid",
+      "bytes": 20,
+      "sha256": "69ed23aba50eca73e67e08d55b1567432a08e3a87ffbfaf1509fa312b4e191bc"
+    },
+    {
+      "path": "HANDOFF_START_HERE.md",
+      "bytes": 11341,
+      "sha256": "a1c7e97576a8c847f8365cc775d255129a4cd8a205dde84faec351fb371e5cda"
+    },
+    {
+      "path": "PACKAGE_EXCLUSIONS.json",
+      "bytes": 2105,
+      "sha256": "e91e76306b15130239e65d54bffd3e4f5a21b84a0b44141190d1dc6e919b1928"
+    },
+    {
+      "path": "PLAY_HERO_DIRECTIONS.cmd",
+      "bytes": 462,
+      "sha256": "1acc21844387c38f9837d5c13279af0b2edea3bc6dc519a4270ab650ed086380"
+    },
+    {
+      "path": "PLAY_HERO_PREVIEW.cmd",
+      "bytes": 456,
+      "sha256": "74332be589af9e6c16eac7e4d77728f91a14026beaa59b7312bdb80b442e166c"
+    },
+    {
+      "path": "README.md",
+      "bytes": 1511,
+      "sha256": "a0d2d4bdee544566b05e7784f22e247fa90451bf9d19fd1b333fe1bf0b87b9f8"
+    },
+    {
+      "path": "scripts/build_fox_fire_audio.py",
+      "bytes": 878,
+      "sha256": "f618ad19446625bb145333678bdee64387ac70eef079d2768a9392ebd5af2641"
+    },
+    {
+      "path": "scripts/extract_approved_hero.py",
+      "bytes": 4615,
+      "sha256": "77cd5af3968f033fdf28858de669c561af9034b9b01f1373949cc05c7e763dd5"
+    },
+    {
+      "path": "scripts/hero_alpha_components.py",
+      "bytes": 2463,
+      "sha256": "9748b2abe0c7505f1a8ba10519ed4867d8932224b4b33ecdc4ed73be1d43eb4e"
+    },
+    {
+      "path": "scripts/package_project_source.py",
+      "bytes": 3864,
+      "sha256": "0a1cd377b60351ce42cc7d8f16e1065724c71dc95818d22952abcb5e8988a418"
+    },
+    {
+      "path": "scripts/register_hero_pose_candidates.py",
+      "bytes": 8257,
+      "sha256": "65362fde033c6b9ed7c0a1be61e17bc2ec5ab9b0765db5729d96dfbe60c103fa"
+    },
+    {
+      "path": "scripts/verify_hero_release_anchors.py",
+      "bytes": 1197,
+      "sha256": "e85c4a2fbb3bfda1fcf1e4fc9f47e95431e39edd0217b60d05ba938be8854fb2"
+    },
+    {
+      "path": "START_PARALLEL_WORK.md",
+      "bytes": 1898,
+      "sha256": "6c6f0031dcde169b4ae1f31463772f6c1d7da8ef0e5d59135a4adeb76f682217"
+    }
+  ],
+  "note": "Current files and cumulative logs preserved verbatim. No binaries/caches/retired references."
+}

@@ -1,0 +1,32 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+OpenGL API 3.3.0 NVIDIA 560.94 - Compatibility - Using Device: NVIDIA - NVIDIA GeForce RTX 4060 Ti
+
+PASS expected 0.10 runtime
+PASS first region 24 enemies and guardian
+PASS separate journey save
+PASS all region paving follows shared height
+PASS two quiet discoveries region 0
+PASS guardian blocks exit
+PASS guardian defeat recorded
+PASS no combat or exploration zoom
+PASS permanent growth selected
+PASS forward travel region 0
+PASS all region paving follows shared height
+PASS two quiet discoveries region 1
+PASS guardian blocks exit
+PASS guardian defeat recorded
+PASS no combat or exploration zoom
+PASS atomic isolated save
+PASS fresh scene restores region and discoveries
+PASS defeated enemies remain defeated
+PASS return trip preserves previous region
+PASS forward travel region 1
+PASS all region paving follows shared height
+PASS two quiet discoveries region 2
+PASS guardian blocks exit
+PASS guardian defeat recorded
+PASS no combat or exploration zoom
+PASS forward travel region 2
+PASS complete ending with no timed gate
+PASS ending keyboard focus
+RESULT failures=0

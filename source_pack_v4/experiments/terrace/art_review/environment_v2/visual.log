@@ -1,0 +1,19 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+OpenGL API 3.3.0 NVIDIA 560.94 - Compatibility - Using Device: NVIDIA - NVIDIA GeForce RTX 4060 Ti
+
+PASS representative scene grounded
+PASS assets loaded
+PASS projected hero height 81.82 expected 81.82 at 45
+PASS projected foot anchor 1.029px
+PASS 01_art_45
+PASS pitch comparison preserves player position
+PASS projected hero height 81.82 expected 81.82 at 52
+PASS projected foot anchor 0.896px
+PASS 02_art_52
+PASS baseline comparison preserves discovery
+PASS 03_blockout_52
+PASS return to art trial
+PASS no position drift after comparisons
+PASS 04_water_edge
+PASS 05_pillars
+RESULT 15 PASS / 0 FAIL

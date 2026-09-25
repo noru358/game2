@@ -1,0 +1,261 @@
+{
+  "date": "2026-09-24",
+  "authorization": "현재 사용자: 기준과 다르거나 혼동/불필요 자료는 삭제하여 정리",
+  "files": [
+    {
+      "path": "source_pack_v4/docs/design_refs/file_0000000007d482119782ee8cb193c0e1.png",
+      "sha256": "7451ce7bdb74ac5e110e2524343ab8b25d074dc2a329d83d5253df5cd5221c5b",
+      "bytes": 1099764,
+      "reason": "주인공 기준 충돌/중복: 사용자 제공 hero_turnaround_approved.png로 대체"
+    },
+    {
+      "path": "source_pack_v4/docs/design_refs/file_000000000cf88211bec5b54d1b75e86e.png",
+      "sha256": "236c9792f9a1dc3a5c1a382eaf4887d55a5d00ef3bb36382126839a468ab0823",
+      "bytes": 966763,
+      "reason": "주인공 기준 충돌/중복: 사용자 제공 hero_turnaround_approved.png로 대체"
+    },
+    {
+      "path": "source_pack_v4/docs/design_refs/file_00000000137c8230b75a674685952857.png",
+      "sha256": "32e7422b3fb1a54eba42b357e2e8258e131b848a28bf09275a2560cf1d3e495d",
+      "bytes": 2172186,
+      "reason": "주인공 기준 충돌/중복: 사용자 제공 hero_turnaround_approved.png로 대체"
+    },
+    {
+      "path": "source_pack_v4/docs/design_refs/file_0000000013c88211a31328d5a01b10ab.png",
+      "sha256": "6ee0be3511bd587b64049dbcb8ecd04e80123fb1ca8bb5bfa131a0e68986858f",
+      "bytes": 1706438,
+      "reason": "내용 보존, 용도를 알 수 있는 파일명으로 변경: surface_water_reference.png"
+    },
+    {
+      "path": "source_pack_v4/docs/design_refs/file_0000000017e881f4af688ffa4f4c9338.png",
+      "sha256": "42a21b27326035c91afad2453d0f185bfac09edfe96a9a7922e5f0809eddf448",
+      "bytes": 1021845,
+      "reason": "주인공 기준 충돌/중복: 사용자 제공 hero_turnaround_approved.png로 대체"
+    },
+    {
+      "path": "source_pack_v4/docs/design_refs/file_000000004bc882118250962bba6930fe.png",
+      "sha256": "aa6081a3c9c808b9ed2a99e2614739f6e2e0d9e89ed54da9fbe29a5eceef9102",
+      "bytes": 1850262,
+      "reason": "주인공 기준 충돌/중복: 사용자 제공 hero_turnaround_approved.png로 대체"
+    },
+    {
+      "path": "source_pack_v4/docs/design_refs/file_000000005264820ea2400c746aa4926b.png",
+      "sha256": "5a8d9d02c8d71ad40c5f1528819685417bd04fbf789d161e20f17784228a17c6",
+      "bytes": 1744837,
+      "reason": "내용 보존, 용도를 알 수 있는 파일명으로 변경: surface_path_reference.png"
+    },
+    {
+      "path": "source_pack_v4/docs/design_refs/file_00000000611c82118fe016615ba370c6.png",
+      "sha256": "3b93187123d8d42992cccfb159cb9cc70a972d6f2a8aeb5c6f91cba7d8750299",
+      "bytes": 2119795,
+      "reason": "주인공 기준 충돌/중복: 사용자 제공 hero_turnaround_approved.png로 대체"
+    },
+    {
+      "path": "source_pack_v4/docs/design_refs/file_00000000620881f78f62d84482cf7590.png",
+      "sha256": "3d5a7c47b2e8a5cd55a3d8d35eb3f8202d2391bd6633b2acc368fc6d440de478",
+      "bytes": 927886,
+      "reason": "주인공 기준 충돌/중복: 사용자 제공 hero_turnaround_approved.png로 대체"
+    },
+    {
+      "path": "source_pack_v4/docs/design_refs/file_000000006a148211864c646c7ca8d1ed.png",
+      "sha256": "8c95b81b94281c96427a4ffdad5e8949ac94dcfb97baf44958e3d1622b3227dc",
+      "bytes": 1654804,
+      "reason": "내용 보존, 용도를 알 수 있는 파일명으로 변경: surface_dirt_reference.png"
+    },
+    {
+      "path": "source_pack_v4/docs/design_refs/file_0000000070488211bfaf60d556d10dde.png",
+      "sha256": "ad3204151218156cd7e6f4d77b849f78d285bfbbbd790a7b4f2e6a0378ed0b95",
+      "bytes": 1596191,
+      "reason": "주인공 기준 충돌/중복: 사용자 제공 hero_turnaround_approved.png로 대체"
+    },
+    {
+      "path": "source_pack_v4/docs/design_refs/file_000000008fe88211851f3f98b4bd1c9b.png",
+      "sha256": "528941a46d56ed697cebe59757b2a1c7aad52b7208a384fed6bc2c840f67b67e",
+      "bytes": 1442864,
+      "reason": "내용 보존, 용도를 알 수 있는 파일명으로 변경: enemy_ranged_reference.png"
+    },
+    {
+      "path": "source_pack_v4/docs/design_refs/file_00000000b06c81f88e23d05e568e2620.png",
+      "sha256": "eae67b9debd01900611ae10d3a3dca8c562fa2e377cc63cbd298544fcdeea1ba",
+      "bytes": 1240920,
+      "reason": "내용 보존, 용도를 알 수 있는 파일명으로 변경: enemy_charger_reference.png"
+    },
+    {
+      "path": "source_pack_v4/docs/design_refs/file_00000000c25082119a4456203fc02b29.png",
+      "sha256": "ec8ca57795e829369ec2af19046ac1bcdb40b9adebcf4fd1563347825c1de8f5",
+      "bytes": 1854759,
+      "reason": "내용 보존, 용도를 알 수 있는 파일명으로 변경: surface_paving_reference.png"
+    },
+    {
+      "path": "source_pack_v4/docs/design_refs/file_00000000e370821197780fa54d4158b0.png",
+      "sha256": "e1e560e6686d367900ed830af37de5697782babd40589e90028545bd9dfdff76",
+      "bytes": 861604,
+      "reason": "주인공 기준 충돌/중복: 사용자 제공 hero_turnaround_approved.png로 대체"
+    },
+    {
+      "path": "source_pack_v4/docs/design_refs/file_00000000ea5481f48bdcfdab84f9ba3d.png",
+      "sha256": "4e43c6f10f02f74c13fc512048dc9cd6e19e8491181803a6650564b6a022beb0",
+      "bytes": 893135,
+      "reason": "주인공 기준 충돌/중복: 사용자 제공 hero_turnaround_approved.png로 대체"
+    },
+    {
+      "path": "source_pack_v4/docs/design_refs/file_00000000f530820d99318610d85d83e4.png",
+      "sha256": "2e1775f0c23e15cb488b56769ba74cd444eee3ddaa887cf355f916a16d8d06d7",
+      "bytes": 807900,
+      "reason": "주인공 기준 충돌/중복: 사용자 제공 hero_turnaround_approved.png로 대체"
+    },
+    {
+      "path": "source_pack_v4/docs/design_refs/file_00000000f6c48206a7f5472edbe641e1.png",
+      "sha256": "33dfde102bf214a9b2c89e634d343c2c172de8856c622353d64e5b7960e0c2f8",
+      "bytes": 1071588,
+      "reason": "주인공 기준 충돌/중복: 사용자 제공 hero_turnaround_approved.png로 대체"
+    },
+    {
+      "path": "source_pack_v4/docs/design_refs/file_00000000fe8482119f76e7ebf30f8900.png",
+      "sha256": "d23a5ae41573c9e83f6e12151c159aa52f5e180bb85793dba5e2b9181f8770cd",
+      "bytes": 1336316,
+      "reason": "내용 보존, 용도를 알 수 있는 파일명으로 변경: enemy_wanderer_reference.png"
+    },
+    {
+      "path": "source_pack_v4/READ_FIRST.txt",
+      "sha256": "eba4bc7241f02e56ef54396159fbf3d0dc2cc1f9c302f23067920515f0ba9954",
+      "bytes": 404,
+      "reason": "중복 진입/과거PC 정리 문서: README와 GAME_PROJECT_SOURCE로 필요한 내용 통합"
+    },
+    {
+      "path": "source_pack_v4/docs/START_HERE.md",
+      "sha256": "f1276bb63075efa3b4aab3c01c545c1f20aa86d29f037d1694ebd0ecffe5c4a7",
+      "bytes": 420,
+      "reason": "중복 진입/과거PC 정리 문서: README와 GAME_PROJECT_SOURCE로 필요한 내용 통합"
+    },
+    {
+      "path": "source_pack_v4/docs/CURRENT_STATE.md",
+      "sha256": "493a32fbdafa93cc7f0e05fd39d1b16b49f9ff91d46ab0e4fa7ce9e1d2c24433",
+      "bytes": 423,
+      "reason": "중복 진입/과거PC 정리 문서: README와 GAME_PROJECT_SOURCE로 필요한 내용 통합"
+    },
+    {
+      "path": "source_pack_v4/docs/EXPERIMENT_PLAN.md",
+      "sha256": "c2005402dd20907ef3483ee5c30cda408dfdf935b7998ab8227e2eec3842fd1b",
+      "bytes": 138,
+      "reason": "중복 진입/과거PC 정리 문서: README와 GAME_PROJECT_SOURCE로 필요한 내용 통합"
+    },
+    {
+      "path": "source_pack_v4/docs/NEW_PROJECT_START_PROMPT.md",
+      "sha256": "7e4b6e12de71368c66d4f06acd0c792ff29ff808138c479f118c1f6a3a438fa6",
+      "bytes": 2141,
+      "reason": "중복 진입/과거PC 정리 문서: README와 GAME_PROJECT_SOURCE로 필요한 내용 통합"
+    },
+    {
+      "path": "source_pack_v4/docs/SOURCE_PACK_GUIDE.md",
+      "sha256": "01baf889e1d707dff3f85941a189417328c9cdc576c09cfb22b2f0803bbfb6b7",
+      "bytes": 5432,
+      "reason": "중복 진입/과거PC 정리 문서: README와 GAME_PROJECT_SOURCE로 필요한 내용 통합"
+    },
+    {
+      "path": "source_pack_v4/docs/NEXT_SESSION_HANDOFF.md",
+      "sha256": "8833ffc75d6def77f0fff60a750d8c5c427a282ab59142ba48d49a1520d323d2",
+      "bytes": 5494,
+      "reason": "중복 진입/과거PC 정리 문서: README와 GAME_PROJECT_SOURCE로 필요한 내용 통합"
+    },
+    {
+      "path": "source_pack_v4/docs/CLEANUP_PLAN.md",
+      "sha256": "8254be6d2b11bddc689b69eff4307ab5461e1ce3afe7abfc8db2af08751df217",
+      "bytes": 1948,
+      "reason": "중복 진입/과거PC 정리 문서: README와 GAME_PROJECT_SOURCE로 필요한 내용 통합"
+    },
+    {
+      "path": "source_pack_v4/docs/D118_DISK_CLEANUP.md",
+      "sha256": "62136da2400a68eb539644a5787f673e74b72602a5528fe9ba882f19d2f66456",
+      "bytes": 2741,
+      "reason": "중복 진입/과거PC 정리 문서: README와 GAME_PROJECT_SOURCE로 필요한 내용 통합"
+    },
+    {
+      "path": "source_pack_v4/docs/D118_DISK_CLEANUP.json",
+      "sha256": "f3de955867a3bf177a9afb4a3994ca01cefde2275d3c05bf2665a6b1eb41a635",
+      "bytes": 1681,
+      "reason": "중복 진입/과거PC 정리 문서: README와 GAME_PROJECT_SOURCE로 필요한 내용 통합"
+    },
+    {
+      "path": "source_pack_v4/experiments/terrace/game/path.gdshader",
+      "sha256": "282f094da7c6bc0ce1c11cdc92bd379b7cc4cc5e653a6952de934b75c1ba5161",
+      "bytes": 516,
+      "reason": "전체 소스 리터럴 참조0인 미사용 shader/식별자"
+    },
+    {
+      "path": "source_pack_v4/experiments/terrace/game/path.gdshader.uid",
+      "sha256": "439fdb42cece645af704b9677348e72527e5b1932c3ef01e3a2302d3b1ffc854",
+      "bytes": 20,
+      "reason": "전체 소스 리터럴 참조0인 미사용 shader/식별자"
+    },
+    {
+      "path": "source_pack_v4/experiments/terrace/game/water.gdshader",
+      "sha256": "208114047800feafa7d08a3962ad63169c01e1c5c811038961b7d7e41eea37ea",
+      "bytes": 567,
+      "reason": "전체 소스 리터럴 참조0인 미사용 shader/식별자"
+    },
+    {
+      "path": "source_pack_v4/experiments/terrace/game/water.gdshader.uid",
+      "sha256": "1ba5bf030424e11788bacacbe6df31aa6b29a0115aec90a5a2fc5b198b317370",
+      "bytes": 20,
+      "reason": "전체 소스 리터럴 참조0인 미사용 shader/식별자"
+    },
+    {
+      "path": "source_pack_v4/experiments/terrace/lab/distant_forest.gdshader",
+      "sha256": "640a17b17c77c504e347f729028ff8ebd7d021194cbe11e3bd33424adae8e8d2",
+      "bytes": 328,
+      "reason": "전체 소스 리터럴 참조0인 미사용 shader/식별자"
+    },
+    {
+      "path": "source_pack_v4/experiments/terrace/lab/distant_forest.gdshader.uid",
+      "sha256": "e440455defcb5961f9c95fcb95fa9defb097790e33255c900e884fc21996fc7a",
+      "bytes": 20,
+      "reason": "전체 소스 리터럴 참조0인 미사용 shader/식별자"
+    },
+    {
+      "path": "docs/audit_v4/latest8.jpg",
+      "sha256": "8267abcf5f801599d741bbad75401d0e5add99219eb52d3557cb795aa8185cee",
+      "bytes": 213364,
+      "reason": "폐기 주인공을 다시 보여주는 이전 감사 비교이미지"
+    },
+    {
+      "path": "docs/audit_v4/refs_1.jpg",
+      "sha256": "c4a8ddbd6aec3e49e836c8e8c880a4b72238ce707c5f54a7a38b110c3b0d4c1a",
+      "bytes": 460932,
+      "reason": "폐기 주인공을 다시 보여주는 이전 감사 비교이미지"
+    },
+    {
+      "path": "docs/audit_v4/refs_2.jpg",
+      "sha256": "3dd09f627665c97e4e60818b6b4d14b567ee118f11a076c7045e85426684d07a",
+      "bytes": 443278,
+      "reason": "폐기 주인공을 다시 보여주는 이전 감사 비교이미지"
+    },
+    {
+      "path": "docs/audit_v4/refs_3.jpg",
+      "sha256": "ef6cddadb2a5be78cc6cd0d0e921fa77f5e71b29ff3bb4fc439ecf1a233ae191",
+      "bytes": 287854,
+      "reason": "폐기 주인공을 다시 보여주는 이전 감사 비교이미지"
+    },
+    {
+      "path": "docs/audit_v4/refs_4.jpg",
+      "sha256": "040000737374ef98756bba3b9db777087fde64db903c477b9c1d467413bccc61",
+      "bytes": 50803,
+      "reason": "폐기 주인공을 다시 보여주는 이전 감사 비교이미지"
+    },
+    {
+      "path": "audit_pack.py",
+      "sha256": "6c732db81564284314ed8ba9d0942b64c727161b4a099b30bdbaa864e84aa76f",
+      "bytes": 3043,
+      "reason": "삭제된 V4파일을 전제로 한 일회성 감사 생성도구"
+    },
+    {
+      "path": "build_review_index.py",
+      "sha256": "90a100e0bd35be0e6565206a02b40c7122d222e55c76c94260340019ccfe5d83",
+      "bytes": 13004,
+      "reason": "삭제된 V4파일을 전제로 한 일회성 감사 생성도구"
+    }
+  ],
+  "status": "BLOCKED_BY_AUTOMATIC_APPROVAL_REVIEW",
+  "reason": "Exact-file PowerShell Remove-Item command rejected: blocked by policy; no detailed reason supplied",
+  "physical_files_deleted": 0
+}

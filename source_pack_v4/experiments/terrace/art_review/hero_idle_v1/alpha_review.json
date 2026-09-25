@@ -1,0 +1,11 @@
+{
+  "size": [
+    1448,
+    1086
+  ],
+  "mode": "RGBA",
+  "transparent_pixels": 865387,
+  "opaque_pixels": 1932,
+  "partial_alpha_pixels": 705209,
+  "note": "Candidate only. Nonzero stray alpha and broad semiopacity remain; not production accepted."
+}

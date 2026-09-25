@@ -1,0 +1,981 @@
+{
+  "file_count": 294,
+  "manifest_verified": 293,
+  "bad_hashes": [],
+  "duplicates": [
+    [
+      "docs/WORK_LOG.md",
+      "docs/DISCUSSION_LOG.md",
+      "docs/DECISION_HISTORY.md"
+    ]
+  ],
+  "images": [
+    {
+      "id": 1,
+      "path": "docs/design_refs/file_0000000007d482119782ee8cb193c0e1.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        0,
+        10,
+        1230,
+        1228
+      ],
+      "opaque_bbox": [
+        199,
+        13,
+        956,
+        1199
+      ],
+      "alpha_zero": 1021932,
+      "alpha_full": 926,
+      "alpha_partial": 549658
+    },
+    {
+      "id": 2,
+      "path": "docs/design_refs/file_000000000cf88211bec5b54d1b75e86e.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        23,
+        15,
+        1226,
+        1254
+      ],
+      "opaque_bbox": [
+        374,
+        17,
+        1069,
+        1193
+      ],
+      "alpha_zero": 1081949,
+      "alpha_full": 717,
+      "alpha_partial": 489850
+    },
+    {
+      "id": 3,
+      "path": "docs/design_refs/file_00000000137c8230b75a674685952857.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "mode": "RGB",
+      "alpha_bbox": [
+        0,
+        0,
+        1536,
+        1024
+      ],
+      "opaque_bbox": [
+        0,
+        0,
+        1536,
+        1024
+      ],
+      "alpha_zero": 0,
+      "alpha_full": 1572864,
+      "alpha_partial": 0
+    },
+    {
+      "id": 4,
+      "path": "docs/design_refs/file_0000000013c88211a31328d5a01b10ab.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "alpha_bbox": [
+        0,
+        0,
+        1254,
+        1254
+      ],
+      "opaque_bbox": [
+        0,
+        0,
+        1254,
+        1254
+      ],
+      "alpha_zero": 0,
+      "alpha_full": 1572516,
+      "alpha_partial": 0
+    },
+    {
+      "id": 5,
+      "path": "docs/design_refs/file_0000000017e881f4af688ffa4f4c9338.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        91,
+        14,
+        1216,
+        1210
+      ],
+      "opaque_bbox": [
+        200,
+        16,
+        916,
+        1140
+      ],
+      "alpha_zero": 1068756,
+      "alpha_full": 782,
+      "alpha_partial": 502978
+    },
+    {
+      "id": 6,
+      "path": "docs/design_refs/file_000000004bc882118250962bba6930fe.png",
+      "size": [
+        1448,
+        1086
+      ],
+      "mode": "RGB",
+      "alpha_bbox": [
+        0,
+        0,
+        1448,
+        1086
+      ],
+      "opaque_bbox": [
+        0,
+        0,
+        1448,
+        1086
+      ],
+      "alpha_zero": 0,
+      "alpha_full": 1572528,
+      "alpha_partial": 0
+    },
+    {
+      "id": 7,
+      "path": "docs/design_refs/file_000000005264820ea2400c746aa4926b.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "alpha_bbox": [
+        0,
+        0,
+        1254,
+        1254
+      ],
+      "opaque_bbox": [
+        0,
+        0,
+        1254,
+        1254
+      ],
+      "alpha_zero": 0,
+      "alpha_full": 1572516,
+      "alpha_partial": 0
+    },
+    {
+      "id": 8,
+      "path": "docs/design_refs/file_00000000611c82118fe016615ba370c6.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "mode": "RGB",
+      "alpha_bbox": [
+        0,
+        0,
+        1536,
+        1024
+      ],
+      "opaque_bbox": [
+        0,
+        0,
+        1536,
+        1024
+      ],
+      "alpha_zero": 0,
+      "alpha_full": 1572864,
+      "alpha_partial": 0
+    },
+    {
+      "id": 9,
+      "path": "docs/design_refs/file_00000000620881f78f62d84482cf7590.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        0,
+        32,
+        1230,
+        1214
+      ],
+      "opaque_bbox": [
+        231,
+        42,
+        927,
+        1193
+      ],
+      "alpha_zero": 1076020,
+      "alpha_full": 833,
+      "alpha_partial": 495663
+    },
+    {
+      "id": 10,
+      "path": "docs/design_refs/file_000000006a148211864c646c7ca8d1ed.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "alpha_bbox": [
+        0,
+        0,
+        1254,
+        1254
+      ],
+      "opaque_bbox": [
+        0,
+        0,
+        1254,
+        1254
+      ],
+      "alpha_zero": 0,
+      "alpha_full": 1572516,
+      "alpha_partial": 0
+    },
+    {
+      "id": 11,
+      "path": "docs/design_refs/file_0000000070488211bfaf60d556d10dde.png",
+      "size": [
+        1448,
+        1086
+      ],
+      "mode": "RGB",
+      "alpha_bbox": [
+        0,
+        0,
+        1448,
+        1086
+      ],
+      "opaque_bbox": [
+        0,
+        0,
+        1448,
+        1086
+      ],
+      "alpha_zero": 0,
+      "alpha_full": 1572528,
+      "alpha_partial": 0
+    },
+    {
+      "id": 12,
+      "path": "docs/design_refs/file_000000008fe88211851f3f98b4bd1c9b.png",
+      "size": [
+        1122,
+        1402
+      ],
+      "mode": "RGB",
+      "alpha_bbox": [
+        0,
+        0,
+        1122,
+        1402
+      ],
+      "opaque_bbox": [
+        0,
+        0,
+        1122,
+        1402
+      ],
+      "alpha_zero": 0,
+      "alpha_full": 1573044,
+      "alpha_partial": 0
+    },
+    {
+      "id": 13,
+      "path": "docs/design_refs/file_00000000b06c81f88e23d05e568e2620.png",
+      "size": [
+        1122,
+        1402
+      ],
+      "mode": "RGB",
+      "alpha_bbox": [
+        0,
+        0,
+        1122,
+        1402
+      ],
+      "opaque_bbox": [
+        0,
+        0,
+        1122,
+        1402
+      ],
+      "alpha_zero": 0,
+      "alpha_full": 1573044,
+      "alpha_partial": 0
+    },
+    {
+      "id": 14,
+      "path": "docs/design_refs/file_00000000c25082119a4456203fc02b29.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "alpha_bbox": [
+        0,
+        0,
+        1254,
+        1254
+      ],
+      "opaque_bbox": [
+        0,
+        0,
+        1254,
+        1254
+      ],
+      "alpha_zero": 0,
+      "alpha_full": 1572516,
+      "alpha_partial": 0
+    },
+    {
+      "id": 15,
+      "path": "docs/design_refs/file_00000000e370821197780fa54d4158b0.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        96,
+        10,
+        1230,
+        1222
+      ],
+      "opaque_bbox": [
+        385,
+        13,
+        1033,
+        1193
+      ],
+      "alpha_zero": 1119942,
+      "alpha_full": 492,
+      "alpha_partial": 452082
+    },
+    {
+      "id": 16,
+      "path": "docs/design_refs/file_00000000ea5481f48bdcfdab84f9ba3d.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        31,
+        9,
+        1214,
+        1223
+      ],
+      "opaque_bbox": [
+        241,
+        12,
+        908,
+        1220
+      ],
+      "alpha_zero": 1120550,
+      "alpha_full": 853,
+      "alpha_partial": 451113
+    },
+    {
+      "id": 17,
+      "path": "docs/design_refs/file_00000000f530820d99318610d85d83e4.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        31,
+        0,
+        1210,
+        1207
+      ],
+      "opaque_bbox": [
+        263,
+        12,
+        889,
+        1194
+      ],
+      "alpha_zero": 1164752,
+      "alpha_full": 629,
+      "alpha_partial": 407135
+    },
+    {
+      "id": 18,
+      "path": "docs/design_refs/file_00000000f6c48206a7f5472edbe641e1.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        0,
+        10,
+        1218,
+        1230
+      ],
+      "opaque_bbox": [
+        220,
+        13,
+        975,
+        1216
+      ],
+      "alpha_zero": 1040013,
+      "alpha_full": 763,
+      "alpha_partial": 531740
+    },
+    {
+      "id": 19,
+      "path": "docs/design_refs/file_00000000fe8482119f76e7ebf30f8900.png",
+      "size": [
+        1122,
+        1402
+      ],
+      "mode": "RGB",
+      "alpha_bbox": [
+        0,
+        0,
+        1122,
+        1402
+      ],
+      "opaque_bbox": [
+        0,
+        0,
+        1122,
+        1402
+      ],
+      "alpha_zero": 0,
+      "alpha_full": 1573044,
+      "alpha_partial": 0
+    },
+    {
+      "id": 20,
+      "path": "experiments/terrace/assets/enemies/forest_creatures_v1.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        0,
+        21,
+        1236,
+        1254
+      ],
+      "opaque_bbox": [
+        19,
+        48,
+        1218,
+        1205
+      ],
+      "alpha_zero": 862873,
+      "alpha_full": 430,
+      "alpha_partial": 709213
+    },
+    {
+      "id": 21,
+      "path": "experiments/terrace/assets/enemies/ruin_guardian_v1.png",
+      "size": [
+        1774,
+        887
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        80,
+        0,
+        1754,
+        887
+      ],
+      "opaque_bbox": [
+        87,
+        15,
+        1717,
+        854
+      ],
+      "alpha_zero": 686506,
+      "alpha_full": 1080,
+      "alpha_partial": 885952
+    },
+    {
+      "id": 22,
+      "path": "experiments/terrace/assets/environment/canal_shelter_v1.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        0,
+        1,
+        1522,
+        1024
+      ],
+      "opaque_bbox": [
+        128,
+        12,
+        1432,
+        990
+      ],
+      "alpha_zero": 758963,
+      "alpha_full": 0,
+      "alpha_partial": 813901
+    },
+    {
+      "id": 23,
+      "path": "experiments/terrace/assets/environment/forest_floor_v1.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "alpha_bbox": [
+        0,
+        0,
+        1254,
+        1254
+      ],
+      "opaque_bbox": [
+        0,
+        0,
+        1254,
+        1254
+      ],
+      "alpha_zero": 0,
+      "alpha_full": 1572516,
+      "alpha_partial": 0
+    },
+    {
+      "id": 24,
+      "path": "experiments/terrace/assets/environment/garden_waystone_v1.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        65,
+        28,
+        938,
+        1464
+      ],
+      "opaque_bbox": [
+        261,
+        30,
+        781,
+        1426
+      ],
+      "alpha_zero": 1090097,
+      "alpha_full": 0,
+      "alpha_partial": 482767
+    },
+    {
+      "id": 25,
+      "path": "experiments/terrace/assets/environment/jungle_distance_v1.png",
+      "size": [
+        2172,
+        724
+      ],
+      "mode": "RGB",
+      "alpha_bbox": [
+        0,
+        0,
+        2172,
+        724
+      ],
+      "opaque_bbox": [
+        0,
+        0,
+        2172,
+        724
+      ],
+      "alpha_zero": 0,
+      "alpha_full": 1572528,
+      "alpha_partial": 0
+    },
+    {
+      "id": 26,
+      "path": "experiments/terrace/assets/environment/monsoon_props_v1.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        2,
+        8,
+        1228,
+        1190
+      ],
+      "opaque_bbox": [
+        60,
+        42,
+        1202,
+        1180
+      ],
+      "alpha_zero": 869381,
+      "alpha_full": 1257,
+      "alpha_partial": 701878
+    },
+    {
+      "id": 27,
+      "path": "experiments/terrace/assets/environment/reservoir_floor_v1.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "alpha_bbox": [
+        0,
+        0,
+        1254,
+        1254
+      ],
+      "opaque_bbox": [
+        0,
+        0,
+        1254,
+        1254
+      ],
+      "alpha_zero": 0,
+      "alpha_full": 1572516,
+      "alpha_partial": 0
+    },
+    {
+      "id": 28,
+      "path": "experiments/terrace/assets/environment/reservoir_masonry_v1.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "alpha_bbox": [
+        0,
+        0,
+        1254,
+        1254
+      ],
+      "opaque_bbox": [
+        0,
+        0,
+        1254,
+        1254
+      ],
+      "alpha_zero": 0,
+      "alpha_full": 1572516,
+      "alpha_partial": 0
+    },
+    {
+      "id": 29,
+      "path": "experiments/terrace/assets/environment/temple_face_v1.png",
+      "size": [
+        1122,
+        1402
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        0,
+        0,
+        1110,
+        1360
+      ],
+      "opaque_bbox": [
+        15,
+        10,
+        1107,
+        1318
+      ],
+      "alpha_zero": 464245,
+      "alpha_full": 404,
+      "alpha_partial": 1108395
+    },
+    {
+      "id": 30,
+      "path": "experiments/terrace/assets/hero/grove_scholar_combo_v1.png",
+      "size": [
+        1619,
+        971
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        0,
+        0,
+        1599,
+        971
+      ],
+      "opaque_bbox": [
+        38,
+        7,
+        1578,
+        953
+      ],
+      "alpha_zero": 767646,
+      "alpha_full": 994,
+      "alpha_partial": 803409
+    },
+    {
+      "id": 31,
+      "path": "experiments/terrace/assets/hero/grove_scholar_eight_v1.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        0,
+        17,
+        1248,
+        1254
+      ],
+      "opaque_bbox": [
+        33,
+        19,
+        1237,
+        1200
+      ],
+      "alpha_zero": 861985,
+      "alpha_full": 1394,
+      "alpha_partial": 709137
+    },
+    {
+      "id": 32,
+      "path": "experiments/terrace/assets/hero/grove_scholar_idle_v2.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        17,
+        21,
+        1521,
+        972
+      ],
+      "opaque_bbox": [
+        24,
+        48,
+        1518,
+        958
+      ],
+      "alpha_zero": 895951,
+      "alpha_full": 0,
+      "alpha_partial": 676913
+    },
+    {
+      "id": 33,
+      "path": "experiments/terrace/assets/hero/grove_scholar_recovery_v1.png",
+      "size": [
+        1619,
+        971
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        0,
+        0,
+        1585,
+        956
+      ],
+      "opaque_bbox": [
+        34,
+        5,
+        1574,
+        952
+      ],
+      "alpha_zero": 805254,
+      "alpha_full": 771,
+      "alpha_partial": 766024
+    },
+    {
+      "id": 34,
+      "path": "experiments/terrace/assets/hero/grove_scholar_run_eight_v1.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        0,
+        33,
+        1234,
+        1254
+      ],
+      "opaque_bbox": [
+        37,
+        37,
+        1226,
+        1214
+      ],
+      "alpha_zero": 880486,
+      "alpha_full": 923,
+      "alpha_partial": 691107
+    },
+    {
+      "id": 35,
+      "path": "experiments/terrace/assets/hero/grove_scholar_run_pass_v1.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        0,
+        32,
+        1248,
+        1220
+      ],
+      "opaque_bbox": [
+        45,
+        35,
+        1229,
+        1210
+      ],
+      "alpha_zero": 931687,
+      "alpha_full": 958,
+      "alpha_partial": 639871
+    },
+    {
+      "id": 36,
+      "path": "experiments/terrace/assets/hero/grove_scholar_walk_eight_v2.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        30,
+        17,
+        1240,
+        1235
+      ],
+      "opaque_bbox": [
+        36,
+        20,
+        1237,
+        1215
+      ],
+      "alpha_zero": 875623,
+      "alpha_full": 1180,
+      "alpha_partial": 695713
+    },
+    {
+      "id": 37,
+      "path": "experiments/terrace/assets/hero/grove_scholar_walk_pass_v2.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_bbox": [
+        29,
+        14,
+        1242,
+        1230
+      ],
+      "opaque_bbox": [
+        35,
+        17,
+        1239,
+        1219
+      ],
+      "alpha_zero": 874769,
+      "alpha_full": 1065,
+      "alpha_partial": 696682
+    }
+  ],
+  "audio": [
+    {
+      "path": "experiments/terrace/assets/audio/ambience_forest.wav",
+      "seconds": 20.0,
+      "channels": 2,
+      "rate": 22050,
+      "samplewidth": 2
+    },
+    {
+      "path": "experiments/terrace/assets/audio/ambience_reservoir.wav",
+      "seconds": 20.0,
+      "channels": 2,
+      "rate": 22050,
+      "samplewidth": 2
+    },
+    {
+      "path": "experiments/terrace/assets/audio/ambience_water.wav",
+      "seconds": 20.0,
+      "channels": 2,
+      "rate": 22050,
+      "samplewidth": 2
+    },
+    {
+      "path": "experiments/terrace/assets/audio/auto.wav",
+      "seconds": 0.22,
+      "channels": 1,
+      "rate": 22050,
+      "samplewidth": 2
+    },
+    {
+      "path": "experiments/terrace/assets/audio/cast.wav",
+      "seconds": 0.2,
+      "channels": 1,
+      "rate": 22050,
+      "samplewidth": 2
+    },
+    {
+      "path": "experiments/terrace/assets/audio/dash.wav",
+      "seconds": 0.2,
+      "channels": 1,
+      "rate": 22050,
+      "samplewidth": 2
+    },
+    {
+      "path": "experiments/terrace/assets/audio/heavy.wav",
+      "seconds": 0.28,
+      "channels": 1,
+      "rate": 22050,
+      "samplewidth": 2
+    },
+    {
+      "path": "experiments/terrace/assets/audio/hit.wav",
+      "seconds": 0.16,
+      "channels": 1,
+      "rate": 22050,
+      "samplewidth": 2
+    },
+    {
+      "path": "experiments/terrace/assets/audio/hurt.wav",
+      "seconds": 0.32,
+      "channels": 1,
+      "rate": 22050,
+      "samplewidth": 2
+    },
+    {
+      "path": "experiments/terrace/assets/audio/reward.wav",
+      "seconds": 0.6499773242630386,
+      "channels": 1,
+      "rate": 22050,
+      "samplewidth": 2
+    },
+    {
+      "path": "experiments/terrace/assets/audio/warning.wav",
+      "seconds": 0.44997732426303855,
+      "channels": 1,
+      "rate": 22050,
+      "samplewidth": 2
+    }
+  ]
+}

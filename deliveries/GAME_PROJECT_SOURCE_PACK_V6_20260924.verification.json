@@ -1,0 +1,12 @@
+{
+  "path": "C:\\Users\\User\\Documents\\ChatGPT\\게임 v2\\deliveries\\GAME_PROJECT_SOURCE_PACK_V6_20260924.zip",
+  "files": 305,
+  "bytes": 66383840,
+  "sha256": "3cf27ceb9780ce40a58c939e6806d9bd44b39aaf73553311876c6a4c776df68d",
+  "crc": "PASS",
+  "all_hashes": "PASS",
+  "resource_closure": "PASS",
+  "document_links": "PASS",
+  "logs_preserved_verbatim": true,
+  "note": "Literal file/directory paths validated. Dynamic loads require runtime fixture tests. Integration state is recorded in GAME_PROJECT_SOURCE."
+}
